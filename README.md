@@ -4,6 +4,15 @@
 
 ---
 
+## 📅 2026-02-06
+
+| 文章 | 主题 |
+|------|------|
+| [GPT-5.3-Codex](introducing-gpt-5-3-codex.md) | OpenAI / Codex / Agent / 编译器自举 |
+| [Building C Compiler with Parallel Claudes](building-c-compiler-with-parallel-claudes.md) | Anthropic / Agent Teams / 编译器 / $20K |
+
+---
+
 ## 📅 2026-02-05
 
 | 文章 | 主题 |
@@ -57,13 +66,10 @@ articles/
 
 ---
 
-## 🔥 今日热点 (Feb 5)
+## 🔥 今日热点 (Feb 6)
 
-- **Voxtral 2** - Mistral AI SOTA 语音转写，Apache 2 开源
-- **SWE-Universe** - 807K 可验证编程环境 (Qwen)
-- **CL-BENCH** - Context Learning 基准，模型平均 17.2%
-- **Google Game Arena** - 用游戏测试 AI 软技能
-- **Kling 3.0** - AI 视频生成新标杆
+- **GPT-5.3-Codex** - OpenAI 最强编程 Agent，自己训练自己，25% 更快
+- **Claude 并行编译器** - 16个Claude写出10万行C编译器，能编译Linux内核
 
 ---
 
@@ -77,4 +83,4 @@ articles/
 
 ---
 
-*Last updated: 2026-02-05*
+*Last updated: 2026-02-06*
