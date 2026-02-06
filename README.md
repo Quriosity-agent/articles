@@ -8,8 +8,8 @@
 
 | 文章 | 主题 |
 |------|------|
-| [GPT-5.3-Codex](introducing-gpt-5-3-codex.md) | OpenAI / Codex / Agent / 编译器自举 |
-| [Building C Compiler with Parallel Claudes](building-c-compiler-with-parallel-claudes.md) | Anthropic / Agent Teams / 编译器 / $20K |
+| [GPT-5.3-Codex](2026-02-06/GPT-5.3-Codex/) | OpenAI / Codex / Agent / 编译器自举 |
+| [Building C Compiler with Parallel Claudes](2026-02-06/Building-C-Compiler-Parallel-Claudes/) | Anthropic / Agent Teams / 编译器 / $20K |
 
 ---
 
