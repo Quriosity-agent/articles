@@ -8,6 +8,7 @@
 
 | 文章 | 主题 |
 |------|------|
+| [马斯克三小时访谈：太空AI](2026-02-06/Musk-Space-AI-Interview/) | SpaceX / xAI / 太空数据中心 / Optimus / 中美竞争 |
 | [GPT-5.3-Codex](2026-02-06/GPT-5.3-Codex/) | OpenAI / Codex / Agent / 编译器自举 |
 | [Building C Compiler with Parallel Claudes](2026-02-06/Building-C-Compiler-Parallel-Claudes/) | Anthropic / Agent Teams / 编译器 / $20K |
 
@@ -68,6 +69,7 @@ articles/
 
 ## 🔥 今日热点 (Feb 6)
 
+- **马斯克三小时访谈** - 36个月后太空是AI最经济部署位置，SpaceX-xAI合并后IPO路演
 - **GPT-5.3-Codex** - OpenAI 最强编程 Agent，自己训练自己，25% 更快
 - **Claude 并行编译器** - 16个Claude写出10万行C编译器，能编译Linux内核
 
