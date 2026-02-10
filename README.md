@@ -4,6 +4,22 @@
 
 ---
 
+## 📅 2026-02-11
+
+| 文章 | 主题 |
+|------|------|
+| [OpenClaw背后的秘密武器：大道至简的Pi-Mono](2026-02-11/OpenClaw背后的秘密武器-大道至简的Pi-Mono.md) | OpenClaw / Pi-Mono / 极简主义 / Agent工具设计 / MCP |
+
+---
+
+## 📅 2026-02-07
+
+| 文章 | 主题 |
+|------|------|
+| [AI满居行业颠覆](2026-02-07/AI-ManJu-Industry-Disruption/) | AI / 行业颠覆 |
+
+---
+
 ## 📅 2026-02-06
 
 | 文章 | 主题 |
@@ -67,11 +83,9 @@ articles/
 
 ---
 
-## 🔥 今日热点 (Feb 6)
+## 🔥 今日热点 (Feb 11)
 
-- **马斯克三小时访谈** - 36个月后太空是AI最经济部署位置，SpaceX-xAI合并后IPO路演
-- **GPT-5.3-Codex** - OpenAI 最强编程 Agent，自己训练自己，25% 更快
-- **Claude 并行编译器** - 16个Claude写出10万行C编译器，能编译Linux内核
+- **OpenClaw背后的秘密武器** - Pi-Mono 用225个token对抗18,000个token，4个工具对抗20个，极简主义设计哲学
 
 ---
 
@@ -85,4 +99,4 @@ articles/
 
 ---
 
-*Last updated: 2026-02-06*
+*Last updated: 2026-02-11*
