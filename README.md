@@ -12,6 +12,7 @@
 | [ElevenLabs Expressive Mode for ElevenAgents](2026-02-11/ElevenLabs-Expressive-Mode-ElevenAgents.md) | ElevenLabs / Voice AI / Expressive Agents |
 | [即梦 Seedance 2.0 使用手册](2026-02-11/Seedance-2.0-使用手册.md) | ByteDance / 即梦 / AI视频生成 / 多模态 |
 | [Seedance 2.0 Key Points (EN)](2026-02-11/Seedance-2.0-Key-Points.md) | ByteDance / JiMeng / Multimodal Video / Prompt Guide |
+| [Seedance 2.0 火了，但90%的人都在浪费它](2026-02-11/Seedance-2.0-90percent-Wasting-It.md) | Seedance 2.0 / 3x3法则 / 视觉化文本 / AI视频质量提升 |
 
 ---
 
