@@ -11,6 +11,7 @@
 | [OpenClaw背后的秘密武器：大道至简的Pi-Mono](2026-02-11/OpenClaw背后的秘密武器-大道至简的Pi-Mono.md) | OpenClaw / Pi-Mono / 极简主义 / Agent工具设计 / MCP |
 | [ElevenLabs Expressive Mode for ElevenAgents](2026-02-11/ElevenLabs-Expressive-Mode-ElevenAgents.md) | ElevenLabs / Voice AI / Expressive Agents |
 | [即梦 Seedance 2.0 使用手册](2026-02-11/Seedance-2.0-使用手册.md) | ByteDance / 即梦 / AI视频生成 / 多模态 |
+| [Seedance 2.0 Key Points (EN)](2026-02-11/Seedance-2.0-Key-Points.md) | ByteDance / JiMeng / Multimodal Video / Prompt Guide |
 
 ---
 
