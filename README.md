@@ -23,6 +23,7 @@
 |------|------|
 | [Google Gemini API Skills](2026-02-13/Google-Gemini-Skills.md) | Google / Gemini / Agent Skills / Open Standard / Agentic Primitives |
 | [Claude Code Agent Teams 逆向分析](2026-02-13/Claude-Code-Agent-Teams-Reverse-Engineering.md) | Claude Code / Multi-Agent / 文件系统消息队列 / JSON / 逆向工程 |
+| [Seedance 2.0 提示词集合站 (YouMind)](2026-02-13/Seedance-2.0-Prompt-Library-YouMind.md) | Seedance 2.0 / 提示词库 / 170+ Prompts / 参考图 / 免费 |
 
 ---
 
