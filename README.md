@@ -17,6 +17,14 @@
 
 ---
 
+## 📅 2026-02-13
+
+| 文章 | 主题 |
+|------|------|
+| [Google Gemini API Skills](2026-02-13/Google-Gemini-Skills.md) | Google / Gemini / Agent Skills / Open Standard / Agentic Primitives |
+
+---
+
 ## 📅 2026-02-07
 
 | 文章 | 主题 |
