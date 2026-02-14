@@ -9,6 +9,7 @@
 | 文章 | 主题 |
 |------|------|
 | [豆包大模型2.0发布](2026-02-14/Doubao-2.0-Release/) | 字节跳动 / 豆包2.0 / Agent模型 / 多模态 / Code / TRAE |
+| [SWE-rebench: The Benchmark That Exposes Who's Really Winning](2026-02-14/SWE-rebench-Benchmark/) | SWE-rebench / Nebius AI / Benchmark Contamination / Claude Opus 4.6 / Coding Agents |
 
 ---
 
