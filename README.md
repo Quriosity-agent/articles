@@ -2,13 +2,36 @@
 
 我的文章收藏 | My Article Collection
 
+**Repo:** [Quriosity-agent/articles](https://github.com/Quriosity-agent/articles)
+
+---
+
+## 📅 2026-02-22
+
+| 文章 | 主题 |
+|------|------|
+| [Claude Code /code-review 插件：AI 多智能体并行代码审查](2026-02-22/claude-code-review-plugin.md) | Claude Code / Multi-Agent / Confidence Scoring / Code Review |
+| [Claude Code /code-review Plugin (EN)](2026-02-22/claude-code-review-plugin-en.md) | Claude Code / 4 Parallel Agents / PR Review |
+| [PR Review Toolkit：6 个专业 AI Agent 的全方位代码审查](2026-02-22/pr-review-toolkit.md) | Claude Code / 6 Agents / Comment Analyzer / Silent Failure Hunter |
+| [PR Review Toolkit (EN)](2026-02-22/pr-review-toolkit-en.md) | Claude Code / Type Design / Test Coverage / Code Simplifier |
+| [QCut PR Comments 系统：自动化提取和批量修复 PR Review 评论](2026-02-22/qcut-pr-comments-system.md) | QCut / PR Comments / Bottom-Up Fix / Auto-Resolve |
+| [QCut PR Comments System (EN)](2026-02-22/qcut-pr-comments-system-en.md) | QCut / Export → Fix → Resolve → Commit Pipeline |
+
+---
+
+## 📅 2026-02-21
+
+| 文章 | 主题 |
+|------|------|
+| [Anthropic: Measuring AI Agent Autonomy](2026-02-21/anthropic-measuring-agent-autonomy.md) | Anthropic / Agent Autonomy / Safety / Measurement Framework |
+
 ---
 
 ## 📅 2026-02-15
 
 | 文章 | 主题 |
 |------|------|
-| [解剖五把 AI 手术刀：Claude Code / Codex / Gemini CLI 技术架构全拆解](2026-02-15/AI-Coding-CLI-Architecture-Comparison/) | Claude Code / Codex CLI / Gemini CLI / OpenCode / Cursor / Agent Loop / 安全沙箱 / MCP / 多代理架构 |
+| [解剖五把 AI 手术刀：Claude Code / Codex / Gemini CLI 技术架构全拆解](2026-02-15/AI-Coding-CLI-Architecture-Comparison/) | Claude Code / Codex CLI / Gemini CLI / OpenCode / Agent Loop |
 
 ---
 
@@ -16,21 +39,8 @@
 
 | 文章 | 主题 |
 |------|------|
-| [豆包大模型2.0发布](2026-02-14/Doubao-2.0-Release/) | 字节跳动 / 豆包2.0 / Agent模型 / 多模态 / Code / TRAE |
-| [SWE-rebench: The Benchmark That Exposes Who's Really Winning](2026-02-14/SWE-rebench-Benchmark/) | SWE-rebench / Nebius AI / Benchmark Contamination / Claude Opus 4.6 / Coding Agents |
-
----
-
-## 📅 2026-02-11
-
-| 文章 | 主题 |
-|------|------|
-| [OpenClaw背后的秘密武器：大道至简的Pi-Mono](2026-02-11/OpenClaw背后的秘密武器-大道至简的Pi-Mono.md) | OpenClaw / Pi-Mono / 极简主义 / Agent工具设计 / MCP |
-| [ElevenLabs Expressive Mode for ElevenAgents](2026-02-11/ElevenLabs-Expressive-Mode-ElevenAgents.md) | ElevenLabs / Voice AI / Expressive Agents |
-| [即梦 Seedance 2.0 使用手册](2026-02-11/Seedance-2.0-使用手册.md) | ByteDance / 即梦 / AI视频生成 / 多模态 |
-| [Seedance 2.0 Key Points (EN)](2026-02-11/Seedance-2.0-Key-Points.md) | ByteDance / JiMeng / Multimodal Video / Prompt Guide |
-| [Seedance 2.0 火了，但90%的人都在浪费它](2026-02-11/Seedance-2.0-90percent-Wasting-It.md) | Seedance 2.0 / 3x3法则 / 视觉化文本 / AI视频质量提升 |
-| [Shell + Skills + Compaction: Long-Running Agent Tips](2026-02-11/OpenAI-Skills-Shell-Compaction-Tips.md) | OpenAI / Agent Skills / Shell Tool / Compaction / Agentic Patterns |
+| [豆包大模型2.0发布](2026-02-14/Doubao-2.0-Release/) | 字节跳动 / 豆包2.0 / Agent模型 / 多模态 |
+| [SWE-rebench: The Benchmark That Exposes Who's Really Winning](2026-02-14/SWE-rebench-Benchmark/) | SWE-rebench / Benchmark Contamination / Claude Opus 4.6 |
 
 ---
 
@@ -38,11 +48,24 @@
 
 | 文章 | 主题 |
 |------|------|
-| [Google Gemini API Skills](2026-02-13/Google-Gemini-Skills.md) | Google / Gemini / Agent Skills / Open Standard / Agentic Primitives |
-| [Claude Code Agent Teams 逆向分析](2026-02-13/Claude-Code-Agent-Teams-Reverse-Engineering.md) | Claude Code / Multi-Agent / 文件系统消息队列 / JSON / 逆向工程 |
-| [Seedance 2.0 提示词集合站 (YouMind)](2026-02-13/Seedance-2.0-Prompt-Library-YouMind.md) | Seedance 2.0 / 提示词库 / 170+ Prompts / 参考图 / 免费 |
-| [WebMCP：让每个网站成为 AI Agent 的工具接口](2026-02-13/WebMCP-Browser-Native-Agent-API.md) | WebMCP / W3C / Chrome 146 / Google / Microsoft / Agent SEO |
-| [MCP Apps：在聊天中渲染交互式 HTML 界面](2026-02-13/MCP-Apps-Interactive-UI-in-Chat.md) | MCP / Interactive UI / HTML Apps / Sandboxed iframe / 双向通信 |
+| [Google Gemini API Skills](2026-02-13/Google-Gemini-Skills.md) | Google / Gemini / Agent Skills / Agentic Primitives |
+| [Claude Code Agent Teams 逆向分析](2026-02-13/Claude-Code-Agent-Teams-Reverse-Engineering.md) | Claude Code / Multi-Agent / 文件系统消息队列 / 逆向工程 |
+| [Seedance 2.0 提示词集合站](2026-02-13/Seedance-2.0-Prompt-Library-YouMind.md) | Seedance 2.0 / 提示词库 / 170+ Prompts |
+| [WebMCP：让每个网站成为 AI Agent 的工具接口](2026-02-13/WebMCP-Browser-Native-Agent-API.md) | WebMCP / W3C / Chrome 146 / Agent SEO |
+| [MCP Apps：在聊天中渲染交互式 HTML 界面](2026-02-13/MCP-Apps-Interactive-UI-in-Chat.md) | MCP / Interactive UI / HTML Apps / Sandboxed iframe |
+
+---
+
+## 📅 2026-02-11
+
+| 文章 | 主题 |
+|------|------|
+| [OpenClaw背后的秘密武器：大道至简的Pi-Mono](2026-02-11/OpenClaw背后的秘密武器-大道至简的Pi-Mono.md) | OpenClaw / Pi-Mono / 极简主义 / Agent工具设计 |
+| [ElevenLabs Expressive Mode for ElevenAgents](2026-02-11/ElevenLabs-Expressive-Mode-ElevenAgents.md) | ElevenLabs / Voice AI / Expressive Agents |
+| [即梦 Seedance 2.0 使用手册](2026-02-11/Seedance-2.0-使用手册.md) | ByteDance / 即梦 / AI视频生成 |
+| [Seedance 2.0 Key Points (EN)](2026-02-11/Seedance-2.0-Key-Points.md) | ByteDance / Multimodal Video / Prompt Guide |
+| [Seedance 2.0 火了，但90%的人都在浪费它](2026-02-11/Seedance-2.0-90percent-Wasting-It.md) | Seedance 2.0 / 3x3法则 / AI视频质量提升 |
+| [Shell + Skills + Compaction: Long-Running Agent Tips](2026-02-11/OpenAI-Skills-Shell-Compaction-Tips.md) | OpenAI / Agent Skills / Shell Tool / Compaction |
 
 ---
 
@@ -58,7 +81,7 @@
 
 | 文章 | 主题 |
 |------|------|
-| [马斯克三小时访谈：太空AI](2026-02-06/Musk-Space-AI-Interview/) | SpaceX / xAI / 太空数据中心 / Optimus / 中美竞争 |
+| [马斯克三小时访谈：太空AI](2026-02-06/Musk-Space-AI-Interview/) | SpaceX / xAI / 太空数据中心 / 中美竞争 |
 | [GPT-5.3-Codex](2026-02-06/GPT-5.3-Codex/) | OpenAI / Codex / Agent / 编译器自举 |
 | [Building C Compiler with Parallel Claudes](2026-02-06/Building-C-Compiler-Parallel-Claudes/) | Anthropic / Agent Teams / 编译器 / $20K |
 
@@ -87,45 +110,16 @@
 
 ---
 
-## 📂 文件结构
+## 🔥 今日热点 (Feb 22)
 
-```
-articles/
-├── README.md
-├── 2026-02-05/
-│   ├── Voxtral2/
-│   │   └── README.md
-│   ├── SWE-Universe/
-│   │   └── README.md
-│   ├── Google-Game-Arena/
-│   │   └── README.md
-│   ├── CL-BENCH/
-│   │   └── README.md
-│   ├── Kling3.0/
-│   │   └── README.md
-│   └── Daily-Roundup/
-│       └── README.md
-└── 2026-02-04/
-    ├── 面壁MiniCPM-o4.5/
-    │   ├── README.md
-    │   └── images/
-    ├── 蚂蚁世界模型/
-    │   └── README.md
-    └── 特工宇宙AI榜单/
-        └── README.md
-```
-
----
-
-## 🔥 今日热点 (Feb 11)
-
-- **OpenClaw背后的秘密武器** - Pi-Mono 用225个token对抗18,000个token，4个工具对抗20个，极简主义设计哲学
+- **Claude Code 代码审查三件套** — /code-review（4 Agent 并行）、PR Review Toolkit（6 专业 Agent）、QCut PR Comments（自动修复）
+- **QCut PR Comments vs Anthropic 官方插件** — Anthropic 的找问题，QCut 的修问题，形成完整闭环
 
 ---
 
 ## 关于
 
-这个仓库收集我感兴趣的技术文章和笔记。每篇文章一个文件夹，方便管理图片和附件。
+这个仓库收集技术文章和笔记，聚焦 AI Agent、代码工具、视频生成等领域。由 [Quriosity](https://github.com/Quriosity-agent) 维护。
 
 ## 订阅
 
@@ -133,4 +127,4 @@ articles/
 
 ---
 
-*Last updated: 2026-02-15*
+*Last updated: 2026-02-22*
