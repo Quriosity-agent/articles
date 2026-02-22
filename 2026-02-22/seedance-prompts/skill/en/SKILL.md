@@ -19,12 +19,18 @@ After receiving the story, ask the user:
 
 Calculate shot count from duration:
 
-| Target | Shots | Per Shot |
-|--------|-------|----------|
-| 15s | 1-3 | 5-15s |
-| 1 min | 4-5 | 12-15s |
-| 2 min | 8-9 | 13-15s |
-| 3 min | 12-13 | 13-15s |
+| Target | Shots | Per Shot | Recommendation |
+|--------|-------|----------|----------------|
+| 15s | 1-3 | 5-15s | ⭐⭐⭐⭐⭐ Most stable |
+| 1 min | 4-5 | 12-15s | ⭐⭐⭐⭐ **Recommended default** |
+| 2 min | 8-9 | 13-15s | ⭐⭐⭐ Upper limit, some shots may need redo |
+
+> **⚠️ Duration Guidance**
+> - **Default: 1 minute** (4-5 shots) — best character consistency, cost-effective
+> - **Maximum: 2 minutes** (8-9 shots) — expect to regenerate 2-3 shots for consistency
+> - **Over 2 minutes: not recommended** — character consistency degrades severely. Split into separate short films and combine in editing software
+>
+> This limit is due to Seedance 2.0's 15-second max per generation + current character lock technology. Each additional shot compounds the probability of character drift.
 
 ---
 
@@ -58,14 +64,12 @@ Shot 7: 🟡 Aftermath — dust settles
 Shot 8: 🟢 Closing — new normal, emotional resonance
 ```
 
-**3 minutes (12 shots):**
+**1 minute (4 shots):**
 ```
-Shots 1-2:  🟢 Act I — establish world and characters
-Shots 3-4:  🟡 Inciting incident — break equilibrium
-Shots 5-7:  🟡 Act II — escalating conflict, setbacks and attempts
-Shots 8-9:  🔴 Climax — peak confrontation
-Shots 10-11: 🟡 Act III — consequences and transformation
-Shot 12:    🟢 Epilogue — new balance
+Shot 1: 🟢 Opening — establish character and world
+Shot 2: 🟡 Turn — event breaks the routine
+Shot 3: 🔴 Climax — core conflict / emotional burst
+Shot 4: 🟢 Closing — dust settles, emotional resonance
 ```
 
 ---
