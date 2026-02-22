@@ -148,51 +148,83 @@ Shot 4 opening: Character's hand turns the handle and pushes open the wooden doo
 
 ## Step 5: Output Format
 
-Final output must be **ready to copy-paste into the Seedance/JiMeng platform**:
+Generate two outputs:
+1. **JSON** — for downstream agents or automation pipelines
+2. **Markdown** — for humans to read and manually paste into Seedance/JiMeng
 
+### JSON Schema
+
+```json
+{
+  "title": "Project title",
+  "duration": "2min",
+  "style": "Sci-fi cinematic",
+  "characters": [
+    {
+      "id": "CHAR_A",
+      "name": "Name",
+      "appearance": "Appearance description",
+      "clothing": "Clothing description",
+      "signature": "Signature visual trait",
+      "reference": "@Image1 or null"
+    }
+  ],
+  "shots": [
+    {
+      "id": 1,
+      "title": "Shot title",
+      "mood": "green|yellow|red",
+      "duration_sec": 15,
+      "prompt": "Full prompt text, ready to paste into Seedance",
+      "camera": "Shot type",
+      "continuity": {
+        "method": "none|video_extension|end_frame_anchor|text_bridge",
+        "note": "Continuity description"
+      },
+      "uploads": ["Files to upload"]
+    }
+  ],
+  "assembly": {
+    "order": "sequential",
+    "music_suggestion": "Music recommendation",
+    "color_arc": "Color arc description",
+    "total_duration": "Estimated total"
+  }
+}
 ```
-═══════════════════════════════════
-📋 Character Sheet
-═══════════════════════════════════
 
-[CHARACTER A] [Name]
-Appearance: [detailed description]
-Clothing: [detailed description]
-Reference: @Image 1 (if available)
+### Markdown Format
 
-[CHARACTER B] [Name]
-...
+```markdown
+# 🎬 [Title]
 
-═══════════════════════════════════
-🎬 Shot 1/8 — [Shot Title]
-⏱ Duration: 15s | 🎭 Mood: 🟢 Calm
-═══════════════════════════════════
+> Duration: [X]min | Style: [style] | Shots: [N]
 
-[Full prompt text, ready to paste into Seedance]
+## 📋 Character Sheet
 
-📎 Upload needed: @Image 1 (Character A front photo)
-🔗 Continuity: Opening shot, no previous connection needed
+**[Name]**
+- Appearance: [description]
+- Clothing: [description]
+- Signature: [trait]
+- Reference: [yes/no]
 
-═══════════════════════════════════
-🎬 Shot 2/8 — [Shot Title]
-⏱ Duration: 15s | 🎭 Mood: 🟢 Setup
-═══════════════════════════════════
+---
 
-[Full prompt text]
+## 🎬 Shot 1/N — [Title]
+⏱ 15s | 🟢 [Mood]
 
-📎 Upload needed: @Image 1 (Character A), @Image 2 (last frame from Shot 1)
-🔗 Continuity: Use @Image 2 as opening frame, continues from Shot 1
+> [Full prompt text]
 
-... and so on ...
+📎 Upload: [file list]
+🔗 Continuity: [description]
 
-═══════════════════════════════════
-📝 Assembly Guide
-═══════════════════════════════════
+---
 
-Generate in order: Shot 1→2→3... sequentially
-Use "video extension" feature to chain adjacent shots
-Final assembly in CapCut/editing software
-Add background music for rhythmic unity
+## 📝 Assembly Guide
+- Order: 1→2→3... sequential
+- Use "video extension" to chain shots
+- Final assembly in CapCut
+- Music: [suggestion]
 ```
 
 ---
