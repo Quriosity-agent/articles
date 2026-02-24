@@ -15,6 +15,7 @@
 | [Anthropic 金融服务插件套件：让 Claude 变身华尔街分析师](2026-02-24/claude-financial-services-plugins.md) | Anthropic / Claude Cowork / 投行 / 股票研究 / 私募 / MCP |
 | [Claude Financial Services Plugins (EN)](2026-02-24/claude-financial-services-plugins-en.md) | Anthropic / Claude Cowork / IB / Equity Research / PE / MCP |
 | [Draw.io 官方 MCP Server：让 AI 直接画架构图](2026-02-24/drawio-mcp-server.md) | Draw.io / MCP / 图表生成 / Claude Code / Mermaid |
+| [Polymarket CLI：终端里玩预测市场](2026-02-24/polymarket-cli.md) | Polymarket / Rust CLI / 预测市场 / DeFi / AI Agent |
 | [Lobster Molting](2026-02-24/lobster-molting.md) | 🦞 |
 
 ---
