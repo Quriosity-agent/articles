@@ -17,6 +17,7 @@
 | [Draw.io 官方 MCP Server：让 AI 直接画架构图](2026-02-24/drawio-mcp-server.md) | Draw.io / MCP / 图表生成 / Claude Code / Mermaid |
 | [Polymarket CLI：终端里玩预测市场](2026-02-24/polymarket-cli.md) | Polymarket / Rust CLI / 预测市场 / DeFi / AI Agent |
 | [OpenClaw Agent Swarm：一个人的开发团队](2026-02-24/openclaw-agent-swarm-one-person-dev-team.md) | OpenClaw / Codex / Claude Code / Agent Swarm / 一人公司 |
+| [Composio Agent Orchestrator：多 Agent 编排框架](2026-02-24/composio-agent-orchestrator.md) | Composio / Agent Orchestrator / Multi-Agent / 编排 |
 | [Lobster Molting](2026-02-24/lobster-molting.md) | 🦞 |
 
 ---
