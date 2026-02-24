@@ -11,6 +11,7 @@
 | 文章 | 主题 |
 |------|------|
 | [首个通用计算机操作模型：Standard Intelligence 发布 FDM-1](2026-02-24/fdm1-computer-action-model.md) | Standard Intelligence / FDM-1 / 视频编码器 / 逆向动力学 / Computer Use |
+| [FARS：全自动 AI 科研系统，一口气写 100 篇论文](2026-02-24/fars-fully-automated-research-system.md) | Analemma / FARS / 多Agent科研 / AI4AI / 自主实验 |
 | [Lobster Molting](2026-02-24/lobster-molting.md) | 🦞 |
 
 ---
