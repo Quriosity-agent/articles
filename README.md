@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-02-24
+
+| 文章 | 主题 |
+|------|------|
+| [首个通用计算机操作模型：Standard Intelligence 发布 FDM-1](2026-02-24/fdm1-computer-action-model.md) | Standard Intelligence / FDM-1 / 视频编码器 / 逆向动力学 / Computer Use |
+| [Lobster Molting](2026-02-24/lobster-molting.md) | 🦞 |
+
+---
+
 ## 📅 2026-02-23
 
 | 文章 | 主题 |
@@ -135,4 +144,4 @@
 
 ---
 
-*Last updated: 2026-02-23*
+*Last updated: 2026-02-24*
