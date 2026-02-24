@@ -13,6 +13,7 @@
 | [首个通用计算机操作模型：Standard Intelligence 发布 FDM-1](2026-02-24/fdm1-computer-action-model.md) | Standard Intelligence / FDM-1 / 视频编码器 / 逆向动力学 / Computer Use |
 | [FARS：全自动 AI 科研系统，一口气写 100 篇论文](2026-02-24/fars-fully-automated-research-system.md) | Analemma / FARS / 多Agent科研 / AI4AI / 自主实验 |
 | [Anthropic 金融服务插件套件：让 Claude 变身华尔街分析师](2026-02-24/claude-financial-services-plugins.md) | Anthropic / Claude Cowork / 投行 / 股票研究 / 私募 / MCP |
+| [Claude Financial Services Plugins (EN)](2026-02-24/claude-financial-services-plugins-en.md) | Anthropic / Claude Cowork / IB / Equity Research / PE / MCP |
 | [Lobster Molting](2026-02-24/lobster-molting.md) | 🦞 |
 
 ---
