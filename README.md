@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-02-26
+
+| 文章 | 主题 |
+|------|------|
+| [Moonlake：用 AI Agent 构建多模态交互世界](2026-02-26/moonlake-multimodal-world-modeling.md) | Moonlake / 世界模型 / 多模态 / 3D游戏生成 / Agent |
+| [Moonlake: Multimodal World Modeling Agent (EN)](2026-02-26/moonlake-multimodal-world-modeling-en.md) | Moonlake / World Model / Multimodal / 3D Game / Agent |
+
+---
+
 ## 📅 2026-02-24
 
 | 文章 | 主题 |
@@ -152,4 +161,4 @@
 
 ---
 
-*Last updated: 2026-02-24*
+*Last updated: 2026-02-26*
