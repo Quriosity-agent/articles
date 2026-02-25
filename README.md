@@ -12,6 +12,8 @@
 |------|------|
 | [Moonlake：用 AI Agent 构建多模态交互世界](2026-02-26/moonlake-multimodal-world-modeling.md) | Moonlake / 世界模型 / 多模态 / 3D游戏生成 / Agent |
 | [Moonlake: Multimodal World Modeling Agent (EN)](2026-02-26/moonlake-multimodal-world-modeling-en.md) | Moonlake / World Model / Multimodal / 3D Game / Agent |
+| [QuiverAI：a16z 领投 830 万，AI 生成 SVG 矢量图](2026-02-26/quiver-ai-arrow-svg-generation.md) | QuiverAI / Arrow-1.0 / SVG / a16z / 矢量设计 |
+| [QuiverAI: $8.3M from a16z for AI Vector Design (EN)](2026-02-26/quiver-ai-arrow-svg-generation-en.md) | QuiverAI / Arrow-1.0 / SVG / a16z / Vector Design |
 
 ---
 
