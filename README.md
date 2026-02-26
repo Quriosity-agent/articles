@@ -18,6 +18,8 @@
 | [Recraft V4: AI Image Generation with Design Taste (EN)](2026-02-26/recraft-v4-image-generation-en.md) | Recraft V4 / Image Gen / Design Taste / SVG / Chinese Prompts |
 | [Hermes Agent：Nous Research 开源个人 AI Agent](2026-02-26/hermes-agent-nous-research.md) | Nous Research / Hermes / 开源 / 个人Agent / RL训练 |
 | [Hermes Agent: Open-Source Personal AI Agent (EN)](2026-02-26/hermes-agent-nous-research-en.md) | Nous Research / Hermes / Open Source / Personal Agent / RL Training |
+| [Qwen3-VL：阿里最强视觉语言模型，开源 235B](2026-02-26/qwen3-vl-vision-language-model.md) | Qwen / 视觉语言模型 / 235B / 开源 / 1M上下文 |
+| [Qwen3-VL: Most Powerful Open-Source VLM (EN)](2026-02-26/qwen3-vl-vision-language-model-en.md) | Qwen / Vision-Language / 235B / Open Source / 1M Context |
 
 ---
 
