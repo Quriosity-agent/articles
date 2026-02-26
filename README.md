@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-02-27
+
+| 文章 | 主题 |
+|------|------|
+| [AI Agent 自动化社交媒体完全指南：CDP 浏览器方案](2026-02-27/cdp-social-media-automation.md) | CDP / 浏览器自动化 / X(Twitter) / Puppeteer / 零成本 |
+| [CDP Social Media Automation Guide (EN)](2026-02-27/cdp-social-media-automation-en.md) | CDP / Browser Automation / X(Twitter) / Puppeteer / Zero Cost |
+
+---
+
 ## 📅 2026-02-26
 
 | 文章 | 主题 |
@@ -173,4 +182,4 @@
 
 ---
 
-*Last updated: 2026-02-26*
+*Last updated: 2026-02-27*
