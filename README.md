@@ -12,6 +12,8 @@
 |------|------|
 | [AI Agent 自动化社交媒体完全指南：CDP 浏览器方案](2026-02-27/cdp-social-media-automation.md) | CDP / 浏览器自动化 / X(Twitter) / Puppeteer / 零成本 |
 | [CDP Social Media Automation Guide (EN)](2026-02-27/cdp-social-media-automation-en.md) | CDP / Browser Automation / X(Twitter) / Puppeteer / Zero Cost |
+| [Claude Code 记忆系统全解析：让 AI 记住你的一切偏好](2026-02-27/claude-code-memory-system.md) | Claude Code / Auto Memory / CLAUDE.md / 6层记忆层级 / 路径规则 |
+| [Claude Code Memory System (EN)](2026-02-27/claude-code-memory-system-en.md) | Claude Code / Auto Memory / CLAUDE.md / 6-Layer Hierarchy / Path Rules |
 
 ---
 
