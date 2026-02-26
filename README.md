@@ -14,6 +14,8 @@
 | [Moonlake: Multimodal World Modeling Agent (EN)](2026-02-26/moonlake-multimodal-world-modeling-en.md) | Moonlake / World Model / Multimodal / 3D Game / Agent |
 | [QuiverAI：a16z 领投 830 万，AI 生成 SVG 矢量图](2026-02-26/quiver-ai-arrow-svg-generation.md) | QuiverAI / Arrow-1.0 / SVG / a16z / 矢量设计 |
 | [QuiverAI: $8.3M from a16z for AI Vector Design (EN)](2026-02-26/quiver-ai-arrow-svg-generation-en.md) | QuiverAI / Arrow-1.0 / SVG / a16z / Vector Design |
+| [Recraft V4：极具美感的 AI 图片生成模型](2026-02-26/recraft-v4-image-generation.md) | Recraft V4 / 图片生成 / 设计品味 / SVG / 中文提示词 |
+| [Recraft V4: AI Image Generation with Design Taste (EN)](2026-02-26/recraft-v4-image-generation-en.md) | Recraft V4 / Image Gen / Design Taste / SVG / Chinese Prompts |
 
 ---
 
