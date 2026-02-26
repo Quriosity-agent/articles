@@ -22,6 +22,8 @@
 | [Qwen3-VL: Most Powerful Open-Source VLM (EN)](2026-02-26/qwen3-vl-vision-language-model-en.md) | Qwen / Vision-Language / 235B / Open Source / 1M Context |
 | [ByteDance Seed2：字节跳动发布新一代基础模型](2026-02-26/bytedance-seed2.md) | ByteDance / Seed2 / 基础模型 |
 | [ByteDance Seed2 (EN)](2026-02-26/bytedance-seed2-en.md) | ByteDance / Seed2 / Foundation Model |
+| [Anthropic "人格选择模型"：为什么 AI 总是像人](2026-02-26/anthropic-persona-selection-model.md) | Anthropic / AI安全 / 人格理论 / 对齐 |
+| [The Persona Selection Model (EN)](2026-02-26/anthropic-persona-selection-model-en.md) | Anthropic / AI Safety / Persona Theory / Alignment |
 
 ---
 
