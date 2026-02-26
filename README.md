@@ -20,6 +20,8 @@
 | [Hermes Agent: Open-Source Personal AI Agent (EN)](2026-02-26/hermes-agent-nous-research-en.md) | Nous Research / Hermes / Open Source / Personal Agent / RL Training |
 | [Qwen3-VL：阿里最强视觉语言模型，开源 235B](2026-02-26/qwen3-vl-vision-language-model.md) | Qwen / 视觉语言模型 / 235B / 开源 / 1M上下文 |
 | [Qwen3-VL: Most Powerful Open-Source VLM (EN)](2026-02-26/qwen3-vl-vision-language-model-en.md) | Qwen / Vision-Language / 235B / Open Source / 1M Context |
+| [ByteDance Seed2：字节跳动发布新一代基础模型](2026-02-26/bytedance-seed2.md) | ByteDance / Seed2 / 基础模型 |
+| [ByteDance Seed2 (EN)](2026-02-26/bytedance-seed2-en.md) | ByteDance / Seed2 / Foundation Model |
 
 ---
 
