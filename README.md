@@ -26,6 +26,8 @@
 | [OpenClaw ACP Agents (EN)](2026-02-27/openclaw-acp-agents-en.md) | OpenClaw / ACP / Codex / Claude Code / Gemini / Coding Orchestration |
 | [agent-browser：专为 AI Agent 设计的浏览器自动化 CLI](2026-02-27/agent-browser-cli.md) | agent-browser / Vercel / Rust / 浏览器自动化 / Token优化 |
 | [agent-browser CLI for AI Agents (EN)](2026-02-27/agent-browser-cli-en.md) | agent-browser / Vercel / Rust / Browser Automation / Token Optimization |
+| [AI Code Review 工具大比拼：Martian 基准测试](2026-02-27/martian-code-review-benchmark.md) | Code Review / Benchmark / CodeRabbit / Copilot / Cursor / Claude |
+| [AI Code Review Benchmark by Martian (EN)](2026-02-27/martian-code-review-benchmark-en.md) | Code Review / Benchmark / CodeRabbit / Copilot / Cursor / Claude |
 
 ---
 
