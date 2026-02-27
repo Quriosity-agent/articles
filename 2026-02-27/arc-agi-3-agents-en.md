@@ -18,7 +18,7 @@ ARC-AGI-3 upgraded from static puzzles to **interactive games**:
 
 ## Repository Architecture
 
-`
+```
 ARC-AGI-3-Agents/
 ├── agents/
 │   ├── agent.py          # Base Agent abstract class
@@ -33,7 +33,7 @@ ARC-AGI-3-Agents/
 │       ├── langgraph_*.py          # LangGraph variants
 │       └── agentica/               # Symbolica's Arcgentica
 ├── main.py               # Entry point
-`
+```
 
 ## Quick Start
 
@@ -46,7 +46,7 @@ cp .env.example .env
 uv run main.py --agent=random --game=ls20      # baseline
 uv run main.py --agent=reasoning --game=ls20    # reasoning agent
 uv run main.py --agent=arcgentica --game=ft09   # Symbolica's multi-agent
-`
+```
 
 ## Arcgentica: The Most Sophisticated Multi-Agent Approach
 
@@ -73,7 +73,7 @@ The orchestrator **never touches the game directly** — it only makes strategic
 
 ## Agent Base Class
 
-`python
+```python
 class Agent(ABC):
     MAX_ACTIONS = 80
     
@@ -88,7 +88,7 @@ class Agent(ABC):
     
     @abstractmethod
     def is_done(self, frames, latest_frame) -> bool: ...
-`
+```
 
 Clean abstraction — implement two methods and you have an agent.
 

@@ -20,7 +20,7 @@ ARC-AGI-3 是第三代，从静态 puzzle 升级成了**交互式游戏**：
 
 ## 🏗️ 仓库架构
 
-`
+```
 ARC-AGI-3-Agents/
 ├── agents/
 │   ├── agent.py          # 基础 Agent 抽象类
@@ -38,7 +38,7 @@ ARC-AGI-3-Agents/
 ├── scripts/              # 工具脚本
 ├── tests/                # 测试
 └── main.py               # 入口
-`
+```
 
 ## ⚡ 快速开始
 
@@ -54,7 +54,7 @@ uv run main.py --agent=random --game=ls20
 
 # 跑推理 Agent
 uv run main.py --agent=reasoning --game=ls20
-`
+```
 
 ## 🧠 Arcgentica：最精妙的多 Agent 方案
 
@@ -96,7 +96,7 @@ Symbolica 团队的 Arcgentica 是目前最完整的 ARC-AGI-3 Agent 架构：
 
 ## 📐 Agent 基类设计
 
-`python
+```python
 class Agent(ABC):
     MAX_ACTIONS = 80
     
@@ -108,18 +108,18 @@ class Agent(ABC):
     
     @abstractmethod
     def choose_action(self, frames, latest_frame) -> GameAction:
-        """"""选择下一步操作""""""
+        """选择下一步操作"""
     
     @abstractmethod
     def is_done(self, frames, latest_frame) -> bool:
-        """"""判断是否完成""""""
-`
+        """判断是否完成"""
+```
 
 简洁的抽象 — 所有 Agent 只需实现两个方法：`choose_action` 和 `is_done`。
 
 ## 🐝 Swarm 并行编排
 
-`python
+```python
 class Swarm:
     def main(self):
         # 为每个游戏创建 Agent
@@ -134,7 +134,7 @@ class Swarm:
         # 等待全部完成
         for thread in self.threads:
             thread.join()
-`
+```
 
 多个 Agent 同时挑战多个游戏，线程级并行。
 
