@@ -18,6 +18,8 @@
 | [Codex Multi-Agent Swarm Playbook (EN)](2026-02-27/codex-multi-agent-swarm-playbook-en.md) | Codex / Multi-Agent / Swarm / Context Engineering / Parallel Orchestration |
 | [Codex 0.106.0 更新：Agent 终于会问问题了](2026-02-27/codex-0106-update.md) | Codex / Ask Question / Agent Memory / JS REPL / WebSocket v2 |
 | [Codex 0.106.0 Update (EN)](2026-02-27/codex-0106-update-en.md) | Codex / Ask Question / Agent Memory / JS REPL / WebSocket v2 |
+| [Codex + Figma MCP：设计稿与代码的双向传送门](2026-02-27/codex-figma-mcp-bidirectional.md) | Codex / Figma / MCP / Design-to-Code / 双向同步 |
+| [Codex + Figma MCP Bidirectional Sync (EN)](2026-02-27/codex-figma-mcp-bidirectional-en.md) | Codex / Figma / MCP / Design-to-Code / Bidirectional Sync |
 
 ---
 
@@ -189,4 +191,5 @@
 ---
 
 *Last updated: 2026-02-27*
+
 
