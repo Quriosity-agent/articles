@@ -28,6 +28,8 @@
 | [agent-browser CLI for AI Agents (EN)](2026-02-27/agent-browser-cli-en.md) | agent-browser / Vercel / Rust / Browser Automation / Token Optimization |
 | [AI Code Review 工具大比拼：Martian 基准测试](2026-02-27/martian-code-review-benchmark.md) | Code Review / Benchmark / CodeRabbit / Copilot / Cursor / Claude |
 | [AI Code Review Benchmark by Martian (EN)](2026-02-27/martian-code-review-benchmark-en.md) | Code Review / Benchmark / CodeRabbit / Copilot / Cursor / Claude |
+| [ARC-AGI-3-Agents：用 AI Agent 挑战人类智力测试](2026-02-27/arc-agi-3-agents.md) | ARC-AGI / AGI / Multi-Agent / Symbolica / Arcgentica |
+| [ARC-AGI-3-Agents: AI vs Intelligence Test (EN)](2026-02-27/arc-agi-3-agents-en.md) | ARC-AGI / AGI / Multi-Agent / Symbolica / Arcgentica |
 
 ---
 
