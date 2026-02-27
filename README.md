@@ -20,6 +20,8 @@
 | [Codex 0.106.0 Update (EN)](2026-02-27/codex-0106-update-en.md) | Codex / Ask Question / Agent Memory / JS REPL / WebSocket v2 |
 | [Codex + Figma MCP：设计稿与代码的双向传送门](2026-02-27/codex-figma-mcp-bidirectional.md) | Codex / Figma / MCP / Design-to-Code / 双向同步 |
 | [Codex + Figma MCP Bidirectional Sync (EN)](2026-02-27/codex-figma-mcp-bidirectional-en.md) | Codex / Figma / MCP / Design-to-Code / Bidirectional Sync |
+| [Dario Amodei 深度访谈：海啸已在地平线上](2026-02-27/dario-amodei-tsunami-interview.md) | Anthropic / Dario Amodei / AI安全 / Scaling Laws / 创业建议 |
+| [Dario Amodei Tsunami Interview (EN)](2026-02-27/dario-amodei-tsunami-interview-en.md) | Anthropic / Dario Amodei / AI Safety / Scaling Laws / Startup Advice |
 
 ---
 
@@ -191,5 +193,6 @@
 ---
 
 *Last updated: 2026-02-27*
+
 
 
