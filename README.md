@@ -22,6 +22,8 @@
 | [Codex + Figma MCP Bidirectional Sync (EN)](2026-02-27/codex-figma-mcp-bidirectional-en.md) | Codex / Figma / MCP / Design-to-Code / Bidirectional Sync |
 | [Dario Amodei 深度访谈：海啸已在地平线上](2026-02-27/dario-amodei-tsunami-interview.md) | Anthropic / Dario Amodei / AI安全 / Scaling Laws / 创业建议 |
 | [Dario Amodei Tsunami Interview (EN)](2026-02-27/dario-amodei-tsunami-interview-en.md) | Anthropic / Dario Amodei / AI Safety / Scaling Laws / Startup Advice |
+| [OpenClaw ACP Agents：一个入口调度所有 AI 编码助手](2026-02-27/openclaw-acp-agents.md) | OpenClaw / ACP / Codex / Claude Code / Gemini / 编码工具编排 |
+| [OpenClaw ACP Agents (EN)](2026-02-27/openclaw-acp-agents-en.md) | OpenClaw / ACP / Codex / Claude Code / Gemini / Coding Orchestration |
 
 ---
 
