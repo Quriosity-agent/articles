@@ -24,6 +24,8 @@
 | [Dario Amodei Tsunami Interview (EN)](2026-02-27/dario-amodei-tsunami-interview-en.md) | Anthropic / Dario Amodei / AI Safety / Scaling Laws / Startup Advice |
 | [OpenClaw ACP Agents：一个入口调度所有 AI 编码助手](2026-02-27/openclaw-acp-agents.md) | OpenClaw / ACP / Codex / Claude Code / Gemini / 编码工具编排 |
 | [OpenClaw ACP Agents (EN)](2026-02-27/openclaw-acp-agents-en.md) | OpenClaw / ACP / Codex / Claude Code / Gemini / Coding Orchestration |
+| [agent-browser：专为 AI Agent 设计的浏览器自动化 CLI](2026-02-27/agent-browser-cli.md) | agent-browser / Vercel / Rust / 浏览器自动化 / Token优化 |
+| [agent-browser CLI for AI Agents (EN)](2026-02-27/agent-browser-cli-en.md) | agent-browser / Vercel / Rust / Browser Automation / Token Optimization |
 
 ---
 
