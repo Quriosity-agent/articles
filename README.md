@@ -217,3 +217,5 @@
 
 | [Claude Code 构建手记：像 Agent 一样思考](2026-03-01/claude-code-seeing-like-agent.md) | Claude Code / Agent 工具设计 / Anthropic / Progressive Disclosure |
 | [Claude Code: Seeing Like an Agent (EN)](2026-03-01/claude-code-seeing-like-agent-en.md) | Claude Code / Agent Tool Design / Anthropic / Progressive Disclosure |
+| [Claude Code v2.1.63 Friday Ships](2026-03-01/claude-code-v2163-friday-ships.md) | Claude Code / v2.1.63 / AskUserQuestion / HTTP Hooks / Friday Ships |
+| [Claude Code v2.1.63 Friday Ships (EN)](2026-03-01/claude-code-v2163-friday-ships-en.md) | Claude Code / v2.1.63 / AskUserQuestion / HTTP Hooks |
