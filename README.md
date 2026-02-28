@@ -221,3 +221,5 @@
 | [Claude Code v2.1.63 Friday Ships (EN)](2026-03-01/claude-code-v2163-friday-ships-en.md) | Claude Code / v2.1.63 / AskUserQuestion / HTTP Hooks |
 | [Scrapling：突破 Cloudflare 的开源爬虫框架](2026-03-01/scrapling-cloudflare-bypass.md) | Scrapling / Web Scraping / Cloudflare / AI Agent / MCP |
 | [Scrapling: Cloudflare Bypass for AI Agents (EN)](2026-03-01/scrapling-cloudflare-bypass-en.md) | Scrapling / Cloudflare / AI Agent / MCP / Anti-Detection |
+| [Claude Code 全面指南：10 个月日用完整配置](2026-03-01/claude-code-shorthand-guide.md) | Claude Code / Skills / Hooks / Subagents / MCP / Context Window |
+| [Shorthand Guide to Everything Claude Code (EN)](2026-03-01/claude-code-shorthand-guide-en.md) | Claude Code / Skills / Hooks / Subagents / MCP / Plugins |
