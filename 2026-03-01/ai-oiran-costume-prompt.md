@@ -1,8 +1,14 @@
-# AI 一键变装花魁：一份教科书级的角色变装 Prompt 模板
+﻿# AI 一键变装花魁：一份教科书级的角色变装 Prompt 模板
 
 > **TL;DR**: 古一（@MANISH1027512）分享了一份极其详细的 AI 图像生成 prompt — 将任意人像一键变装为**日式花魁（Oiran）风格**。这不只是一个 prompt，而是一份**角色变装 prompt 的结构化模板**，涵盖 11 个维度：身份一致性、构图、姿态、妆容、发型、服装材质、道具场景、灯光色彩、画质风格、负面约束。可直接用于 GPT-4o、Midjourney、Stable Diffusion 等任何支持 Character Reference 的模型。
 
 ---
+
+## 📸 效果展示
+
+| 示例 1 | 示例 2 |
+|--------|--------|
+| ![花魁效果1](oiran-example-1.jpg) | ![花魁效果2](oiran-example-2.jpg) |
 
 ## 🎯 为什么这个 Prompt 值得学习
 

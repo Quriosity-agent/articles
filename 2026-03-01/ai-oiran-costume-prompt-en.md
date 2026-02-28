@@ -1,8 +1,14 @@
-# One-Click Oiran Transformation: A Masterclass in Character Costume Prompt Engineering
+﻿# One-Click Oiran Transformation: A Masterclass in Character Costume Prompt Engineering
 
 > **TL;DR**: 古一 (@MANISH1027512) shared an incredibly detailed AI image generation prompt that transforms any portrait into a **Japanese Oiran (courtesan) style**. More than just a prompt — it's a **structured template for character costume transformation**, covering 11 dimensions: identity consistency, composition, pose, makeup, hairstyle, clothing materials, props/setting, lighting, quality, and negative constraints. Works with GPT-4o, Midjourney, Stable Diffusion, or any model supporting Character Reference.
 
 ---
+
+## 📸 Examples
+
+| Example 1 | Example 2 |
+|-----------|-----------|
+| ![Oiran 1](oiran-example-1.jpg) | ![Oiran 2](oiran-example-2.jpg) |
 
 ## Why This Prompt Matters
 
