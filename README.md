@@ -37,6 +37,8 @@
 |---------|------|
 | [Claude Code Agent Teams 逆向工程：文件系统就是消息队列](2026-02-28/claude-code-agent-teams-reverse-engineering.md) | Claude Code / Agent Teams / 多Agent通信 / 文件系统 / 消息队列 |
 | [Claude Code Agent Teams Reverse Engineering (EN)](2026-02-28/claude-code-agent-teams-reverse-engineering-en.md) | Claude Code / Agent Teams / File System / Message Queue |
+| [Claude 原生律所：两人团队如何用 AI 碾压百人大所](2026-02-28/claude-native-law-firm.md) | Claude / 法律AI / Skill系统 / Cowork / 文档自动化 |
+| [The Claude-Native Law Firm (EN)](2026-02-28/claude-native-law-firm-en.md) | Claude / Legal AI / Skill System / Cowork / Document Automation |
 
 ---
 
