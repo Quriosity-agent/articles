@@ -223,3 +223,5 @@
 | [Scrapling: Cloudflare Bypass for AI Agents (EN)](2026-03-01/scrapling-cloudflare-bypass-en.md) | Scrapling / Cloudflare / AI Agent / MCP / Anti-Detection |
 | [Claude Code 全面指南：10 个月日用完整配置](2026-03-01/claude-code-shorthand-guide.md) | Claude Code / Skills / Hooks / Subagents / MCP / Context Window |
 | [Shorthand Guide to Everything Claude Code (EN)](2026-03-01/claude-code-shorthand-guide-en.md) | Claude Code / Skills / Hooks / Subagents / MCP / Plugins |
+| [AI 一键变装花魁：角色变装 Prompt 模板](2026-03-01/ai-oiran-costume-prompt.md) | AI 图像生成 / Prompt Engineering / 角色变装 / 花魁 |
+| [Oiran Costume Prompt Engineering (EN)](2026-03-01/ai-oiran-costume-prompt-en.md) | AI Image Gen / Prompt Engineering / Character Costume |
