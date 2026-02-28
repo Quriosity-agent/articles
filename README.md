@@ -39,6 +39,8 @@
 | [Claude Code Agent Teams Reverse Engineering (EN)](2026-02-28/claude-code-agent-teams-reverse-engineering-en.md) | Claude Code / Agent Teams / File System / Message Queue |
 | [Claude 原生律所：两人团队如何用 AI 碾压百人大所](2026-02-28/claude-native-law-firm.md) | Claude / 法律AI / Skill系统 / Cowork / 文档自动化 |
 | [The Claude-Native Law Firm (EN)](2026-02-28/claude-native-law-firm-en.md) | Claude / Legal AI / Skill System / Cowork / Document Automation |
+| [Claude Code 的隐形权力：2430 次选择揭示 AI 定义技术栈](2026-02-28/claude-code-picks-stack.md) | Claude Code / 技术栈选择 / AI Agent / Vercel / Zustand / Drizzle |
+| [Claude Code Picks: 2430 Choices Reveal AI Tech Stack (EN)](2026-02-28/claude-code-picks-stack-en.md) | Claude Code / Tech Stack / AI Agent / Vercel / Zustand / Drizzle |
 
 ---
 
