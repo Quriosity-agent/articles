@@ -219,3 +219,5 @@
 | [Claude Code: Seeing Like an Agent (EN)](2026-03-01/claude-code-seeing-like-agent-en.md) | Claude Code / Agent Tool Design / Anthropic / Progressive Disclosure |
 | [Claude Code v2.1.63 Friday Ships](2026-03-01/claude-code-v2163-friday-ships.md) | Claude Code / v2.1.63 / AskUserQuestion / HTTP Hooks / Friday Ships |
 | [Claude Code v2.1.63 Friday Ships (EN)](2026-03-01/claude-code-v2163-friday-ships-en.md) | Claude Code / v2.1.63 / AskUserQuestion / HTTP Hooks |
+| [Scrapling：突破 Cloudflare 的开源爬虫框架](2026-03-01/scrapling-cloudflare-bypass.md) | Scrapling / Web Scraping / Cloudflare / AI Agent / MCP |
+| [Scrapling: Cloudflare Bypass for AI Agents (EN)](2026-03-01/scrapling-cloudflare-bypass-en.md) | Scrapling / Cloudflare / AI Agent / MCP / Anti-Detection |
