@@ -225,3 +225,5 @@
 | [Shorthand Guide to Everything Claude Code (EN)](2026-03-01/claude-code-shorthand-guide-en.md) | Claude Code / Skills / Hooks / Subagents / MCP / Plugins |
 | [AI 一键变装花魁：角色变装 Prompt 模板](2026-03-01/ai-oiran-costume-prompt.md) | AI 图像生成 / Prompt Engineering / 角色变装 / 花魁 |
 | [Oiran Costume Prompt Engineering (EN)](2026-03-01/ai-oiran-costume-prompt-en.md) | AI Image Gen / Prompt Engineering / Character Costume |
+| [Nano Banana 2：20 个实战 Prompt 全攻略](2026-03-01/nano-banana-2-prompts-guide.md) | Nano Banana 2 / Google / AI 图像生成 / 免费 4K |
+| [Nano Banana 2: 20 Prompts Guide (EN)](2026-03-01/nano-banana-2-prompts-guide-en.md) | Nano Banana 2 / Google / AI Image Gen / Free 4K |
