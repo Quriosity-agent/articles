@@ -214,3 +214,6 @@
 ---
 
 *Last updated: 2026-02-27*
+
+| [Claude Code 构建手记：像 Agent 一样思考](2026-03-01/claude-code-seeing-like-agent.md) | Claude Code / Agent 工具设计 / Anthropic / Progressive Disclosure |
+| [Claude Code: Seeing Like an Agent (EN)](2026-03-01/claude-code-seeing-like-agent-en.md) | Claude Code / Agent Tool Design / Anthropic / Progressive Disclosure |
