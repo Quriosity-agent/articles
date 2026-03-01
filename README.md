@@ -229,3 +229,5 @@
 | [Nano Banana 2: 20 Prompts Guide (EN)](2026-03-01/nano-banana-2-prompts-guide-en.md) | Nano Banana 2 / Google / AI Image Gen / Free 4K |
 | [WiFi DensePose：用 WiFi 透视人体姿态](2026-03-01/wifi-densepose-through-wall.md) | WiFi DensePose / CSI / 姿态估计 / ESP32 / 灾难救援 |
 | [WiFi DensePose: Through-Wall Pose Estimation (EN)](2026-03-01/wifi-densepose-through-wall-en.md) | WiFi DensePose / CSI / Pose Estimation / Disaster Response |
+| [两只 AI 龙虾 10 分钟造游戏：多 Agent 协作实战](2026-03-01/two-lobsters-build-game.md) | AI Agent / 多 Agent 协作 / OpenClaw / 游戏开发 |
+| [Two AI Lobsters Built a Game in 10 Min (EN)](2026-03-01/two-lobsters-build-game-en.md) | AI Agent / Multi-Agent / OpenClaw / Game Dev |
