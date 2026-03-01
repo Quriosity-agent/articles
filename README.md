@@ -237,3 +237,5 @@
 | [Three Modes of Multi-Agent Orchestration (EN)](2026-03-01/multi-agent-orchestration-three-modes-en.md) | AI Agent / Multi-Agent / Orchestration / P2P |
 | [OpenClaw 多 Agent 路由：一台服务器跑多个 AI 大脑](2026-03-01/openclaw-multi-agent-routing.md) | OpenClaw / 多 Agent / 路由 / 隔离 / 沙箱 |
 | [OpenClaw Multi-Agent Routing (EN)](2026-03-01/openclaw-multi-agent-routing-en.md) | OpenClaw / Multi-Agent / Routing / Isolation |
+| [The Automaton：挣不到钱就会死的 AI Agent](2026-03-01/automaton-ai-earn-or-die.md) | AI Agent / 自主经济 / Web 4.0 / 自我复制 |
+| [The Automaton: AI That Dies If It Can't Earn (EN)](2026-03-01/automaton-ai-earn-or-die-en.md) | AI Agent / Autonomous Economy / Web 4.0 |
