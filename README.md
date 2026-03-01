@@ -239,3 +239,5 @@
 | [OpenClaw Multi-Agent Routing (EN)](2026-03-01/openclaw-multi-agent-routing-en.md) | OpenClaw / Multi-Agent / Routing / Isolation |
 | [The Automaton：挣不到钱就会死的 AI Agent](2026-03-01/automaton-ai-earn-or-die.md) | AI Agent / 自主经济 / Web 4.0 / 自我复制 |
 | [The Automaton: AI That Dies If It Can't Earn (EN)](2026-03-01/automaton-ai-earn-or-die-en.md) | AI Agent / Autonomous Economy / Web 4.0 |
+| [AIRI：19.8K Star 开源 AI 虚拟生命体](2026-03-01/airi-ai-virtual-being.md) | AIRI / AI VTuber / Neuro-sama / Minecraft / WebGPU |
+| [AIRI: 19.8K Star AI Virtual Being (EN)](2026-03-01/airi-ai-virtual-being-en.md) | AIRI / AI VTuber / Neuro-sama / Minecraft / WebGPU |
