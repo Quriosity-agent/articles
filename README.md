@@ -227,3 +227,5 @@
 | [Oiran Costume Prompt Engineering (EN)](2026-03-01/ai-oiran-costume-prompt-en.md) | AI Image Gen / Prompt Engineering / Character Costume |
 | [Nano Banana 2：20 个实战 Prompt 全攻略](2026-03-01/nano-banana-2-prompts-guide.md) | Nano Banana 2 / Google / AI 图像生成 / 免费 4K |
 | [Nano Banana 2: 20 Prompts Guide (EN)](2026-03-01/nano-banana-2-prompts-guide-en.md) | Nano Banana 2 / Google / AI Image Gen / Free 4K |
+| [WiFi DensePose：用 WiFi 透视人体姿态](2026-03-01/wifi-densepose-through-wall.md) | WiFi DensePose / CSI / 姿态估计 / ESP32 / 灾难救援 |
+| [WiFi DensePose: Through-Wall Pose Estimation (EN)](2026-03-01/wifi-densepose-through-wall-en.md) | WiFi DensePose / CSI / Pose Estimation / Disaster Response |
