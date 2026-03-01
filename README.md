@@ -231,3 +231,5 @@
 | [WiFi DensePose: Through-Wall Pose Estimation (EN)](2026-03-01/wifi-densepose-through-wall-en.md) | WiFi DensePose / CSI / Pose Estimation / Disaster Response |
 | [两只 AI 龙虾 10 分钟造游戏：多 Agent 协作实战](2026-03-01/two-lobsters-build-game.md) | AI Agent / 多 Agent 协作 / OpenClaw / 游戏开发 |
 | [Two AI Lobsters Built a Game in 10 Min (EN)](2026-03-01/two-lobsters-build-game-en.md) | AI Agent / Multi-Agent / OpenClaw / Game Dev |
+| [Everything Claude Code：50K Star AI Agent 优化系统](2026-03-01/everything-claude-code.md) | Claude Code / AI Agent / 性能优化 / 持续学习 |
+| [Everything Claude Code: 50K-Star Agent System (EN)](2026-03-01/everything-claude-code-en.md) | Claude Code / AI Agent / Performance / Continuous Learning |
