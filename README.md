@@ -265,3 +265,5 @@
 | [Vidi2 Spatio-Temporal Grounding (EN)](2026-03-03/vidi2-spatiotemporal-grounding-en.md) | Vidi2 / ByteDance / STG / Video Understanding |
 | [Kimi K2.5 技术报告深度解读：零视觉SFT + PARL](2026-03-03/kimi-k25-technical-report.md) | Kimi K2.5 / 零视觉SFT / Agent Swarm / PARL / MoonViT-3D |
 | [Kimi K2.5 Technical Report Deep Dive (EN)](2026-03-03/kimi-k25-technical-report-en.md) | Kimi K2.5 / Zero-Vision SFT / PARL / MoonViT-3D |
+| [Seed 2.0：字节跳动生产级大模型全面升级](2026-03-03/seed20-production-llm.md) | Seed 2.0 / 字节跳动 / 豆包 / 生产级 / 多模态 / Agent |
+| [Seed 2.0 Production-Grade LLM (EN)](2026-03-03/seed20-production-llm-en.md) | Seed 2.0 / ByteDance / Doubao / Production LLM |
