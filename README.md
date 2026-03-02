@@ -249,3 +249,5 @@
 | [SWE-1.6 Preview (EN)](2026-03-02/swe-1-6-preview-en.md) | Cognition / SWE-1.6 / RL / NVFP4 / SWE-Bench Pro |
 | [QCut Electron 架构审计报告](2026-03-02/qcut-architecture-audit.md) | QCut / Electron / 架构 / AI Agent |
 | [QCut Architecture Audit (EN)](2026-03-02/qcut-architecture-audit-en.md) | QCut / Electron / Architecture / AI Agent |
+| [Peon-Ping：魔兽农民工给 AI Agent 当通知员](2026-03-02/peon-ping-warcraft-notifications.md) | Peon-Ping / Agent 通知 / 魔兽争霸 / CESP / MCP |
+| [Peon-Ping: Warcraft Notifications for AI Agents (EN)](2026-03-02/peon-ping-warcraft-notifications-en.md) | Peon-Ping / Claude Code / CESP / MCP |
