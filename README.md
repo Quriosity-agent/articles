@@ -251,3 +251,5 @@
 | [QCut Architecture Audit (EN)](2026-03-02/qcut-architecture-audit-en.md) | QCut / Electron / Architecture / AI Agent |
 | [Peon-Ping：魔兽农民工给 AI Agent 当通知员](2026-03-02/peon-ping-warcraft-notifications.md) | Peon-Ping / Agent 通知 / 魔兽争霸 / CESP / MCP |
 | [Peon-Ping: Warcraft Notifications for AI Agents (EN)](2026-03-02/peon-ping-warcraft-notifications-en.md) | Peon-Ping / Claude Code / CESP / MCP |
+| [ACP vs Sub-Agent：两种 Agent 协作模式](2026-03-02/acp-vs-subagent.md) | ACP / Sub-Agent / OpenClaw / Zed / LSP |
+| [ACP vs Sub-Agent (EN)](2026-03-02/acp-vs-subagent-en.md) | ACP / Sub-Agent / Agent Client Protocol |
