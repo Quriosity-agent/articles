@@ -245,3 +245,5 @@
 | [OpenAI Harness Engineering: Codex Agent-First (EN)](2026-03-01/openai-harness-engineering-codex-en.md) | OpenAI / Codex / Agent-First / AGENTS.md |
 | [Agent Harness 才是真正的产品：各家架构深度对比](2026-03-02/agent-harness-real-product.md) | Agent Harness / Claude Code / Cursor / Manus / Devin |
 | [Agent Harness Is the Real Product (EN)](2026-03-02/agent-harness-real-product-en.md) | Agent Harness / Claude Code / Cursor / Progressive Disclosure |
+| [SWE-1.6 Preview：Cognition RL 炼丹报告](2026-03-02/swe-1-6-preview.md) | Cognition / SWE-1.6 / Devin / RL / Model UX |
+| [SWE-1.6 Preview (EN)](2026-03-02/swe-1-6-preview-en.md) | Cognition / SWE-1.6 / RL / NVFP4 / SWE-Bench Pro |
