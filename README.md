@@ -241,3 +241,5 @@
 | [The Automaton: AI That Dies If It Can't Earn (EN)](2026-03-01/automaton-ai-earn-or-die-en.md) | AI Agent / Autonomous Economy / Web 4.0 |
 | [AIRI：19.8K Star 开源 AI 虚拟生命体](2026-03-01/airi-ai-virtual-being.md) | AIRI / AI VTuber / Neuro-sama / Minecraft / WebGPU |
 | [AIRI: 19.8K Star AI Virtual Being (EN)](2026-03-01/airi-ai-virtual-being-en.md) | AIRI / AI VTuber / Neuro-sama / Minecraft / WebGPU |
+| [OpenAI 百万行零手写代码：Codex Agent-First 工程实践](2026-03-01/openai-harness-engineering-codex.md) | OpenAI / Codex / Agent-First / AGENTS.md |
+| [OpenAI Harness Engineering: Codex Agent-First (EN)](2026-03-01/openai-harness-engineering-codex-en.md) | OpenAI / Codex / Agent-First / AGENTS.md |
