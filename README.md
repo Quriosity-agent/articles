@@ -263,3 +263,5 @@
 | [Qwen3-VL Explicit Video Timestamps (EN)](2026-03-03/qwen3-vl-explicit-timestamps-en.md) | Qwen3-VL / Video Timestamps / RoPE |
 | [Vidi2：字节跳动时空定位碾压 Gemini 3 Pro 和 GPT-5](2026-03-03/vidi2-spatiotemporal-grounding.md) | Vidi2 / 字节跳动 / 时空定位 / STG / 视频理解 |
 | [Vidi2 Spatio-Temporal Grounding (EN)](2026-03-03/vidi2-spatiotemporal-grounding-en.md) | Vidi2 / ByteDance / STG / Video Understanding |
+| [Kimi K2.5 技术报告深度解读：零视觉SFT + PARL](2026-03-03/kimi-k25-technical-report.md) | Kimi K2.5 / 零视觉SFT / Agent Swarm / PARL / MoonViT-3D |
+| [Kimi K2.5 Technical Report Deep Dive (EN)](2026-03-03/kimi-k25-technical-report-en.md) | Kimi K2.5 / Zero-Vision SFT / PARL / MoonViT-3D |
