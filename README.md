@@ -267,3 +267,5 @@
 | [Kimi K2.5 Technical Report Deep Dive (EN)](2026-03-03/kimi-k25-technical-report-en.md) | Kimi K2.5 / Zero-Vision SFT / PARL / MoonViT-3D |
 | [Seed 2.0：字节跳动生产级大模型全面升级](2026-03-03/seed20-production-llm.md) | Seed 2.0 / 字节跳动 / 豆包 / 生产级 / 多模态 / Agent |
 | [Seed 2.0 Production-Grade LLM (EN)](2026-03-03/seed20-production-llm-en.md) | Seed 2.0 / ByteDance / Doubao / Production LLM |
+| [Seed 2.0 Model Card 深度解读](2026-03-03/seed20-model-card.md) | Seed 2.0 / 字节跳动 / Model Card / Benchmark / 生产部署 |
+| [Seed 2.0 Model Card Deep Dive (EN)](2026-03-03/seed20-model-card-en.md) | Seed 2.0 / ByteDance / Model Card / Benchmark |
