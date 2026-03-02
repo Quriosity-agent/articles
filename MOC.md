@@ -16,6 +16,7 @@
 - [[2026-03-01/claude-code-shorthand-guide|Claude Code 全面指南：10 个月日用配置手册]]
 - [[2026-03-01/claude-code-v2163-friday-ships|Claude Code v2.1.63 Friday Ships]]
 - [[2026-03-01/everything-claude-code|Everything Claude Code：50K Star 性能优化系统]]
+- [[2026-02-24/claude-financial-services-plugins|Anthropic 金融服务插件套件：让 Claude 变身华尔街分析师]]
 
 ## 🧑‍💻 Codex / OpenAI
 - [[2026-02-06/GPT-5.3-Codex/README|GPT-5.3-Codex 发布]]
