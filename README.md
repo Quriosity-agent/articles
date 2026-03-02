@@ -261,3 +261,5 @@
 | [Qwen3-VL Technical Report Deep Dive (EN)](2026-03-03/qwen3-vl-technical-report-en.md) | Qwen3-VL / VLM / MRoPE / DeepStack |
 | [Qwen3-VL 显式视频时间戳深度解析](2026-03-03/qwen3-vl-explicit-timestamps.md) | Qwen3-VL / 视频时间戳 / RoPE / 位置编码 |
 | [Qwen3-VL Explicit Video Timestamps (EN)](2026-03-03/qwen3-vl-explicit-timestamps-en.md) | Qwen3-VL / Video Timestamps / RoPE |
+| [Vidi2：字节跳动时空定位碾压 Gemini 3 Pro 和 GPT-5](2026-03-03/vidi2-spatiotemporal-grounding.md) | Vidi2 / 字节跳动 / 时空定位 / STG / 视频理解 |
+| [Vidi2 Spatio-Temporal Grounding (EN)](2026-03-03/vidi2-spatiotemporal-grounding-en.md) | Vidi2 / ByteDance / STG / Video Understanding |
