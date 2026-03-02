@@ -63,7 +63,7 @@ The skills are organized into three plugin packages:
 
 ### Content Skills (8 skills)
 
-**baoyu-xhs-images** — The flagship feature. A Xiaohongshu (RedNote) infographic series generator with a **Style × Layout** two-dimensional system: 9 visual styles (cute, fresh, warm, bold, minimal, retro, pop, notion, chalkboard) × 6 information layouts (sparse, balanced, dense, list, comparison, flow). Automatically decomposes content into 1–10 cartoon-style infographic cards.
+**baoyu-xhs-images** — The flagship feature. A Xiaohongshu (RedNote) infographic series generator with a **Style × Layout** two-dimensional system: 9 visual styles (cute, fresh, warm, bold, minimal, retro, pop, notion, chalkboard) × 6 information layouts (sparse, balanced, dense, list, comparison, flow). The generation workflow is notably clever: Claude Code first analyzes the content and generates a detailed **prompt markdown file** for each image, specifying style presets, layout rules, color palettes, typography guidelines, and the actual text content. These prompts are then fed to the underlying **baoyu-image-gen** skill (which defaults to the **Nano Banana Pro** model via Replicate) to produce high-quality PNG images. From image 2 onward, the system passes image 1 as a `--ref` reference to ensure visual consistency across the entire series.
 
 **baoyu-infographic** — A professional infographic generator with **20 layout types** (fishbone, iceberg, funnel, Venn diagram, pyramid, timeline, mind map, and more) × **17 visual styles** (from craft-handmade to cyberpunk-neon, pixel-art to IKEA-manual). That's 340 unique combinations.
 
@@ -117,6 +117,10 @@ The `SKILL.md` file is the soul of each skill — it's both human-readable docum
 The project extensively uses **dimension × dimension** combinatorial systems. For infographics: 20 layouts × 17 styles = 340 combinations. For cover images: 6 types × 9 palettes × 6 renderings × 4 text modes × 3 moods. Yet users can specify as few as zero parameters — the AI auto-selects based on content analysis.
 
 This is a masterclass in API design: **hide complexity behind intelligent defaults**.
+
+### Prompt-Driven Image Generation
+
+The visual content skills (xhs-images, infographic, etc.) employ a distinctive **"prompt intermediate layer"** architecture. Claude Code doesn't generate images directly — instead, it first produces structured **prompt markdown files** containing style presets, layout rules, color palettes, typography guidelines, and the actual content text. These prompt files are then passed to baoyu-image-gen (which calls AI image generation APIs — defaulting to **Nano Banana Pro** on Replicate) to produce the final PNG output. To maintain visual consistency across a series, images from the second onward are generated with the first image passed as a `--ref` reference. This two-tier "prompt → prompt → image" architecture preserves the flexibility of natural language while ensuring controllability and visual coherence across the output.
 
 ### Browser Automation for Publishing
 

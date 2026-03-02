@@ -55,7 +55,7 @@ baoyu-skills 将 15 个技能组织成三个插件包：
 
 这是项目的核心，包含 8 个技能：
 
-**baoyu-xhs-images** — 小红书信息图生成器，堪称项目的明星功能。它使用"风格 × 布局"二维系统，支持 9 种视觉风格（cute、fresh、warm、bold、minimal、retro、pop、notion、chalkboard）和 6 种信息布局（sparse、balanced、dense、list、comparison、flow），将内容自动拆解为 1-10 张卡通风格信息图。
+**baoyu-xhs-images** — 小红书信息图生成器，堪称项目的明星功能。它使用"风格 × 布局"二维系统，支持 9 种视觉风格（cute、fresh、warm、bold、minimal、retro、pop、notion、chalkboard）和 6 种信息布局（sparse、balanced、dense、list、comparison、flow），将内容自动拆解为 1-10 张信息图卡片。其工作流程颇具巧思：Claude Code 首先分析内容，为每张图生成一份详细的 **Prompt Markdown 文件**，其中精确指定了风格预设、布局规则、配色方案、排版指引和具体文案内容；然后调用底层的 **baoyu-image-gen**（默认使用 Replicate 上的 Nano Banana Pro 模型）将这些 Prompt 转化为高质量 PNG 图像。从第二张图开始，系统会将第一张图作为 `--ref` 参考图传入，确保整组图片在视觉风格上保持一致。
 
 **baoyu-infographic** — 专业信息图生成器，更加强大。20 种布局类型（从鱼骨图到冰山模型，从漏斗图到韦恩图）配合 17 种视觉风格（从手工纸艺到赛博朋克，从像素风到宜家说明书风），组合出数百种可能性。
 
@@ -115,6 +115,10 @@ skills/baoyu-xxx/
 ### 多维参数系统
 
 项目中大量使用了"维度 × 维度"的组合设计模式。以 infographic 为例，20 种布局 × 17 种风格 = 340 种组合，但用户只需要指定两个参数（甚至可以完全不指定，让 AI 自动推荐）。这种设计将复杂性隐藏在简洁的接口背后。
+
+### Prompt 驱动的图像生成
+
+xhs-images 等视觉内容技能采用了一种独特的"Prompt 中间层"架构：Claude Code 并不直接生成图像，而是先生成结构化的 **Prompt Markdown 文件**，其中包含风格预设、布局规则、配色方案、排版指引和具体内容文案。这些 Prompt 文件随后被传递给 baoyu-image-gen（底层调用 AI 图像生成 API，默认为 Replicate 上的 Nano Banana Pro），由 AI 图像模型根据详细规格生成最终图像。为保持系列图片的视觉一致性，从第二张图开始，系统会通过 `--ref` 参数将第一张图作为参考传入。这种"提示词→提示词→图像"的两级架构，既保留了自然语言的灵活性，又确保了输出的可控性和一致性。
 
 ### 浏览器自动化
 
