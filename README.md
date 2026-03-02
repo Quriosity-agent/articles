@@ -243,3 +243,5 @@
 | [AIRI: 19.8K Star AI Virtual Being (EN)](2026-03-01/airi-ai-virtual-being-en.md) | AIRI / AI VTuber / Neuro-sama / Minecraft / WebGPU |
 | [OpenAI 百万行零手写代码：Codex Agent-First 工程实践](2026-03-01/openai-harness-engineering-codex.md) | OpenAI / Codex / Agent-First / AGENTS.md |
 | [OpenAI Harness Engineering: Codex Agent-First (EN)](2026-03-01/openai-harness-engineering-codex-en.md) | OpenAI / Codex / Agent-First / AGENTS.md |
+| [Agent Harness 才是真正的产品：各家架构深度对比](2026-03-02/agent-harness-real-product.md) | Agent Harness / Claude Code / Cursor / Manus / Devin |
+| [Agent Harness Is the Real Product (EN)](2026-03-02/agent-harness-real-product-en.md) | Agent Harness / Claude Code / Cursor / Progressive Disclosure |
