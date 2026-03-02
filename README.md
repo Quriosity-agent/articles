@@ -255,3 +255,5 @@
 | [ACP vs Sub-Agent (EN)](2026-03-02/acp-vs-subagent-en.md) | ACP / Sub-Agent / Agent Client Protocol |
 | [Kimi K2.5：月之暗面开源多模态 Agent 模型](2026-03-03/kimi-k25-agent-swarm.md) | Kimi K2.5 / Moonshot AI / Agent Swarm / MoE |
 | [Kimi K2.5 Agent Swarm (EN)](2026-03-03/kimi-k25-agent-swarm-en.md) | Kimi K2.5 / MoE / Agent Swarm / Multimodal |
+| [Qwen3.5：阿里原生多模态 Agent 模型全系列](2026-03-03/qwen35-multimodal-agent.md) | Qwen3.5 / 阿里云 / MoE / 多模态 / Agent / 201语言 |
+| [Qwen3.5 Multimodal Agent (EN)](2026-03-03/qwen35-multimodal-agent-en.md) | Qwen3.5 / Alibaba / MoE / Multimodal / Agent |
