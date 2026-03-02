@@ -53,6 +53,44 @@ Internal task delegation — parent agent breaks large tasks into subtasks for c
 
 Like LSP revolutionized language server integration (write once, run everywhere), ACP does the same for coding agents. Any ACP agent works with any ACP editor — plug and play.
 
+## ACP vs tmux: Plain English Version
+
+Common question: I can already open multiple tmux terminals to run agents. What's ACP actually better at?
+
+**tmux approach:**
+```
+You say → Agent opens tmux → manually types "claude -p fix bug" → waits → copies result → reports back
+```
+Problems: Must constantly check each window. Manual permission approval. Poll each window for status. Parse raw text output.
+
+**ACP approach:**
+```
+You say → Agent calls API → coding agent runs → auto-notifies on completion → structured result
+```
+Benefits: Push notifications. Auto permission requests. `/acp status` shows all sessions. `/acp steer` redirects without interrupting.
+
+### The Analogy
+
+| | tmux | ACP |
+|--|------|-----|
+| 📞 | Phone call — hold the line | WeChat — auto notification |
+| 🍳 | Watch every pot on the stove | Each pot has a timer |
+
+**Core difference: Pull vs Push.**
+
+tmux = you **check** agent status. ACP = agent **tells you** status.
+
+1-2 tasks: similar. **5-10 parallel tasks**: ACP saves all the window-switching overhead.
+
+| Dimension | tmux | ACP |
+|-----------|------|-----|
+| **Nature** | Terminal multiplexer | Agent communication protocol |
+| **Completion notification** | ❌ Manual checking | ✅ Auto push |
+| **Permission management** | ❌ Switch windows to approve | ✅ Auto request popup |
+| **Status tracking** | ❌ Check each window | ✅ `/acp status` overview |
+| **Mid-course correction** | Switch window, type command | `/acp steer` without interrupting |
+| **Scale** | 1-3 tasks | 5-10+ parallel tasks |
+
 ## Resources
 
 - **ACP**: <https://agentclientprotocol.com>
