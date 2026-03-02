@@ -253,3 +253,5 @@
 | [Peon-Ping: Warcraft Notifications for AI Agents (EN)](2026-03-02/peon-ping-warcraft-notifications-en.md) | Peon-Ping / Claude Code / CESP / MCP |
 | [ACP vs Sub-Agent：两种 Agent 协作模式](2026-03-02/acp-vs-subagent.md) | ACP / Sub-Agent / OpenClaw / Zed / LSP |
 | [ACP vs Sub-Agent (EN)](2026-03-02/acp-vs-subagent-en.md) | ACP / Sub-Agent / Agent Client Protocol |
+| [Kimi K2.5：月之暗面开源多模态 Agent 模型](2026-03-03/kimi-k25-agent-swarm.md) | Kimi K2.5 / Moonshot AI / Agent Swarm / MoE |
+| [Kimi K2.5 Agent Swarm (EN)](2026-03-03/kimi-k25-agent-swarm-en.md) | Kimi K2.5 / MoE / Agent Swarm / Multimodal |
