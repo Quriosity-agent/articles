@@ -257,3 +257,5 @@
 | [Kimi K2.5 Agent Swarm (EN)](2026-03-03/kimi-k25-agent-swarm-en.md) | Kimi K2.5 / MoE / Agent Swarm / Multimodal |
 | [Qwen3.5：阿里原生多模态 Agent 模型全系列](2026-03-03/qwen35-multimodal-agent.md) | Qwen3.5 / 阿里云 / MoE / 多模态 / Agent / 201语言 |
 | [Qwen3.5 Multimodal Agent (EN)](2026-03-03/qwen35-multimodal-agent-en.md) | Qwen3.5 / Alibaba / MoE / Multimodal / Agent |
+| [Qwen3-VL 技术报告深度解读](2026-03-03/qwen3-vl-technical-report.md) | Qwen3-VL / 视觉语言模型 / MRoPE / DeepStack / 技术报告 |
+| [Qwen3-VL Technical Report Deep Dive (EN)](2026-03-03/qwen3-vl-technical-report-en.md) | Qwen3-VL / VLM / MRoPE / DeepStack |
