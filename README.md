@@ -277,3 +277,5 @@
 | [Vattention Video Editing Agent (EN)](2026-03-03/vattention-video-editing-agent-en.md) | Vattention / Video Editing / AI Agent |
 | [AI 早报 2026-03-03](2026-03-03/ai-daily-brief-0303.md) | iPhone 17e / 小米机器人 / 小鹏VLA / Grok安全 |
 | [AI Daily Brief 2026-03-03 (EN)](2026-03-03/ai-daily-brief-0303-en.md) | iPhone 17e / Xiaomi Robot / XPeng VLA / Grok Safety |
+| [Vercel CLI 完全指南](2026-03-03/vercel-cli-complete-guide.md) | Vercel CLI / 部署 / DevOps / MCP |
+| [Vercel CLI Complete Guide (EN)](2026-03-03/vercel-cli-complete-guide-en.md) | Vercel CLI / Deployment / MCP |
