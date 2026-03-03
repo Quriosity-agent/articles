@@ -273,3 +273,5 @@
 | [Codex 0.107.0 Fork (EN)](2026-03-03/codex-0107-fork-en.md) | Codex / Fork / Multi-Agent / Context Inheritance |
 | [SDD 三大工具深度对比](2026-03-03/sdd-tools-comparison.md) | SDD / Spec-Kit / OpenSpec / Superpowers / AI编程 |
 | [SDD Tools Comparison (EN)](2026-03-03/sdd-tools-comparison-en.md) | SDD / Spec-Kit / OpenSpec / Superpowers |
+| [Vattention 视频编辑 AI Agent](2026-03-03/vattention-video-editing-agent.md) | Vattention / 视频编辑 / AI Agent / 指数剪辑 |
+| [Vattention Video Editing Agent (EN)](2026-03-03/vattention-video-editing-agent-en.md) | Vattention / Video Editing / AI Agent |
