@@ -281,3 +281,5 @@
 | [Vercel CLI Complete Guide (EN)](2026-03-03/vercel-cli-complete-guide-en.md) | Vercel CLI / Deployment / MCP |
 | [Vercel CLI Agent 集成管理](2026-03-04/vercel-cli-agent-marketplace.md) | Vercel CLI / AI Agent / 基础设施自动化 |
 | [Vercel CLI Agent Marketplace (EN)](2026-03-04/vercel-cli-agent-marketplace-en.md) | Vercel CLI / AI Agent / Infrastructure |
+| [Agent-First CLI 设计](2026-03-04/agent-first-cli-design.md) | Unix哲学 / Agent-First CLI / QCut CLI |
+| [Agent-First CLI Design (EN)](2026-03-04/agent-first-cli-design-en.md) | Unix Philosophy / Agent-First CLI |
