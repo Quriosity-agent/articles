@@ -271,3 +271,5 @@
 | [Seed 2.0 Model Card Deep Dive (EN)](2026-03-03/seed20-model-card-en.md) | Seed 2.0 / ByteDance / Model Card / Benchmark |
 | [Codex 0.107.0 Fork 功能](2026-03-03/codex-0107-fork.md) | Codex / Fork / Multi-Agent / 对话分叉 |
 | [Codex 0.107.0 Fork (EN)](2026-03-03/codex-0107-fork-en.md) | Codex / Fork / Multi-Agent / Context Inheritance |
+| [SDD 三大工具深度对比](2026-03-03/sdd-tools-comparison.md) | SDD / Spec-Kit / OpenSpec / Superpowers / AI编程 |
+| [SDD Tools Comparison (EN)](2026-03-03/sdd-tools-comparison-en.md) | SDD / Spec-Kit / OpenSpec / Superpowers |
