@@ -17,6 +17,8 @@
 - [[2026-03-01/claude-code-v2163-friday-ships|Claude Code v2.1.63 Friday Ships]]
 - [[2026-03-01/everything-claude-code|Everything Claude Code：50K Star 性能优化系统]]
 - [[2026-02-24/claude-financial-services-plugins|Anthropic 金融服务插件套件：让 Claude 变身华尔街分析师]]
+- [[2026-03-02/baoyu-skills|baoyu-skills：当 Prompt 成为软件，重新定义 AI 技能生态]]
+- [[2026-03-02/humanizer-zh|Humanizer-zh：当 AI 学会擦掉自己的指纹]]
 
 ## 🧑‍💻 Codex / OpenAI
 - [[2026-02-06/GPT-5.3-Codex/README|GPT-5.3-Codex 发布]]
@@ -25,6 +27,7 @@
 - [[2026-02-27/codex-figma-mcp-bidirectional|Codex + Figma MCP 双向传送门]]
 - [[2026-02-11/OpenAI-Skills-Shell-Compaction-Tips|OpenAI Skills + Shell + Compaction Tips]]
 - [[2026-03-01/openai-harness-engineering-codex|OpenAI 内部实验：100 万行代码 0 行手写]]
+- [[2026-03-03/codex-0107-fork|Codex 0.107.0：Fork 功能 — Agent 带着完整记忆分身]]
 
 ## 🐙 多 Agent 编排
 - [[2026-02-22/ai-team-skills|AI Team Skills：Claude 指挥 Gemini 和 Codex 协作]]
@@ -35,6 +38,7 @@
 - [[2026-02-27/arc-agi-3-agents|ARC-AGI-3：用 Agent 挑战人类智力测试]]
 - [[2026-03-01/multi-agent-orchestration-three-modes|多 Agent 编排三种模式：独行侠、主从、对等网络]]
 - [[2026-03-01/two-lobsters-build-game|两只 AI 龙虾 10 分钟造了个游戏]]
+- [[2026-03-02/acp-vs-subagent|ACP vs Sub-Agent：AI Agent 两种协作模式对比]]
 
 ## 🔧 AI 编码工具对比
 - [[2026-02-15/AI-Coding-CLI-Architecture-Comparison/article|五把 AI 手术刀架构全拆解]]
@@ -44,6 +48,7 @@
 - [[2026-03-02/agent-harness-real-product|Agent Harness 才是真正的产品：架构深度对比]]
 - [[2026-03-02/peon-ping-warcraft-notifications|Peon-Ping：魔兽争霸农民工当 AI 通知员]]
 - [[2026-03-02/qcut-architecture-audit|QCut Electron 架构层级违规审计]]
+- [[2026-03-03/sdd-tools-comparison|110K Stars 背后的共识：AI 编程三大 SDD 工具深度对比]]
 
 ## 🔌 MCP 生态
 - [[2026-02-13/WebMCP-Browser-Native-Agent-API|WebMCP：让网站成为 Agent 工具接口]]
@@ -60,6 +65,9 @@
 - [[2026-02-05/Kling3.0/README|Kling 3.0]]
 - [[2026-02-07/AI-ManJu-Industry-Disruption/README|漫剧行业被 AI 踹了一脚]]
 - [[2026-02-15/ponyodong-六棱镜法/article|AI 视频角色换脸问题：六棱镜法]]
+- [[2026-03-02/agentic-video-editing|Agentic Video Editing：AI 视频编辑的下一个范式转变]]
+- [[2026-03-03/vattention-video-editing-agent|Vattention：视频编辑的 Claude Code 时刻]]
+- [[2026-03-03/vidi2-spatiotemporal-grounding|Vidi2：字节跳动视频理解大模型 — 时空定位碾压 Gemini/GPT-5]]
 
 ## 🧠 大模型发布 & 基准测试
 - [[2026-02-23/GLM-5-Slime-Framework/article|GLM-5 异步强化学习框架 Slime]]
@@ -72,7 +80,16 @@
 - [[2026-02-05/SWE-Universe/README|SWE-Universe 训练环境]]
 - [[2026-02-14/SWE-rebench-Benchmark/README|SWE-rebench 基准测试]]
 - [[2026-02-05/CL-BENCH/README|CL-BENCH 大模型基准]]
+- [[2026-03-02/molmo2-allen-ai|Molmo 2：Allen AI 最强开源视频理解模型]]
+- [[2026-03-02/verl-vision-rl|verl：重新定义大模型强化学习训练的开源框架]]
 - [[2026-03-02/swe-1-6-preview|SWE-1.6 Preview：Cognition RL 炼丹报告]]
+- [[2026-03-03/kimi-k25-agent-swarm|Kimi K2.5：1T 参数开源多模态 Agent + Agent Swarm]]
+- [[2026-03-03/kimi-k25-technical-report|Kimi K2.5 技术报告：零视觉 SFT + 智能体集群]]
+- [[2026-03-03/qwen3-vl-explicit-timestamps|Qwen3-VL 显式视频时间戳：文本令牌替代位置编码]]
+- [[2026-03-03/qwen3-vl-technical-report|Qwen3-VL 技术报告：架构到训练全面拆解]]
+- [[2026-03-03/qwen35-multimodal-agent|Qwen3.5：原生多模态 Agent 模型全尺寸覆盖]]
+- [[2026-03-03/seed20-model-card|Seed 2.0 Model Card 深度解读：78 页全文版]]
+- [[2026-03-03/seed20-production-llm|Seed 2.0：字节跳动生产级大模型全面升级]]
 
 ## 🦞 OpenClaw 生态
 - [[2026-02-11/OpenClaw背后的秘密武器-大道至简的Pi-Mono|OpenClaw 背后的 Pi-Mono]]
@@ -97,12 +114,14 @@
 - [[2026-02-11/ElevenLabs-Expressive-Mode-ElevenAgents|ElevenLabs Expressive Mode]]
 - [[2026-03-01/ai-oiran-costume-prompt|AI 一键变装花魁：角色变装 Prompt 模板]]
 - [[2026-03-01/nano-banana-2-prompts-guide|Nano Banana 2：20 个实战 Prompt + 免费 4K 出图]]
+- [[2026-03-02/tldraw-canvas-sdk|tldraw：500 万美元开源无限画布 SDK]]
 
 ## 🔮 行业观察 & 访谈
 - [[2026-02-27/dario-amodei-tsunami-interview|Dario Amodei：海啸已在地平线上]]
 - [[2026-02-06/Musk-Space-AI-Interview/README|马斯克：36 个月后太空是跑 AI 最便宜的地方]]
 - [[2026-02-04/特工宇宙AI榜单/README|特工宇宙 2025 年度 AI 应用榜单]]
 - [[2026-02-24/fars-fully-automated-research-system|FARS 全自动 AI 科研系统]]
+- [[2026-03-03/ai-daily-brief-0303|AI 早报 2026-03-03：iPhone 17e 基带、小鹏 VLA L4、Grok 安全争议]]
 
 ## 💰 其他
 - [[2026-02-24/polymarket-cli|Polymarket CLI：终端玩预测市场]]
