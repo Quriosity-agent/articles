@@ -275,3 +275,5 @@
 | [SDD Tools Comparison (EN)](2026-03-03/sdd-tools-comparison-en.md) | SDD / Spec-Kit / OpenSpec / Superpowers |
 | [Vattention 视频编辑 AI Agent](2026-03-03/vattention-video-editing-agent.md) | Vattention / 视频编辑 / AI Agent / 指数剪辑 |
 | [Vattention Video Editing Agent (EN)](2026-03-03/vattention-video-editing-agent-en.md) | Vattention / Video Editing / AI Agent |
+| [AI 早报 2026-03-03](2026-03-03/ai-daily-brief-0303.md) | iPhone 17e / 小米机器人 / 小鹏VLA / Grok安全 |
+| [AI Daily Brief 2026-03-03 (EN)](2026-03-03/ai-daily-brief-0303-en.md) | iPhone 17e / Xiaomi Robot / XPeng VLA / Grok Safety |
