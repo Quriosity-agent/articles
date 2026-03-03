@@ -279,3 +279,5 @@
 | [AI Daily Brief 2026-03-03 (EN)](2026-03-03/ai-daily-brief-0303-en.md) | iPhone 17e / Xiaomi Robot / XPeng VLA / Grok Safety |
 | [Vercel CLI 完全指南](2026-03-03/vercel-cli-complete-guide.md) | Vercel CLI / 部署 / DevOps / MCP |
 | [Vercel CLI Complete Guide (EN)](2026-03-03/vercel-cli-complete-guide-en.md) | Vercel CLI / Deployment / MCP |
+| [Vercel CLI Agent 集成管理](2026-03-04/vercel-cli-agent-marketplace.md) | Vercel CLI / AI Agent / 基础设施自动化 |
+| [Vercel CLI Agent Marketplace (EN)](2026-03-04/vercel-cli-agent-marketplace-en.md) | Vercel CLI / AI Agent / Infrastructure |
