@@ -299,3 +299,5 @@
 | [ShotDeck vs Frameset vs Flim.ai (EN)](2026-03-04/shotdeck-frameset-flim-comparison-en.md) | Visual References / Director Workflow |
 | [Script Slug + IMSDb + Deadline 研究栈](2026-03-04/scriptslug-imsdb-deadline-research-stack.md) | 编剧研究 / 行业情报 / 创作工作流 |
 | [Script Slug + IMSDb + Deadline (EN)](2026-03-04/scriptslug-imsdb-deadline-research-stack-en.md) | Script Research / Industry Intelligence |
+| [World-Class Agentic Engineer 实战](2026-03-05/world-class-agentic-engineer.md) | Agentic Engineering / 工作流 / Claude Code / Codex |
+| [World-Class Agentic Engineer (EN)](2026-03-05/world-class-agentic-engineer-en.md) | Agentic Engineering / Workflow |
