@@ -283,3 +283,5 @@
 | [Vercel CLI Agent Marketplace (EN)](2026-03-04/vercel-cli-agent-marketplace-en.md) | Vercel CLI / AI Agent / Infrastructure |
 | [Agent-First CLI 设计](2026-03-04/agent-first-cli-design.md) | Unix哲学 / Agent-First CLI / QCut CLI |
 | [Agent-First CLI Design (EN)](2026-03-04/agent-first-cli-design-en.md) | Unix Philosophy / Agent-First CLI |
+| [Codex Context Compaction 深度解析](2026-03-04/codex-context-compaction-deep-dive.md) | Codex / 上下文压缩 / LLM 记忆管理 |
+| [Codex Context Compaction Deep Dive (EN)](2026-03-04/codex-context-compaction-deep-dive-en.md) | Codex / Context Compaction / Memory |
