@@ -289,3 +289,5 @@
 | [SkyDiscover AI Discovery (EN)](2026-03-04/skydiscover-ai-discovery-framework-en.md) | SkyDiscover / AlphaEvolve / Evolutionary Search |
 | [Midjourney 日系复古胶片风格](2026-03-04/midjourney-vintage-japanese-film-style.md) | Midjourney / 日系胶片 / AI图像 / 提示词 |
 | [Midjourney Vintage Film Style (EN)](2026-03-04/midjourney-vintage-japanese-film-style-en.md) | Midjourney / Japanese Film / Prompts |
+| [Agent Reach 互联网工具包](2026-03-04/agent-reach-internet-toolkit.md) | Agent Reach / AI Agent / 互联网能力 |
+| [Agent Reach Internet Toolkit (EN)](2026-03-04/agent-reach-internet-toolkit-en.md) | Agent Reach / Internet Access / Scaffolding |
