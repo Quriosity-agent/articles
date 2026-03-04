@@ -287,3 +287,5 @@
 | [Codex Context Compaction Deep Dive (EN)](2026-03-04/codex-context-compaction-deep-dive-en.md) | Codex / Context Compaction / Memory |
 | [SkyDiscover AI 发现框架](2026-03-04/skydiscover-ai-discovery-framework.md) | SkyDiscover / AlphaEvolve / LLM 进化搜索 |
 | [SkyDiscover AI Discovery (EN)](2026-03-04/skydiscover-ai-discovery-framework-en.md) | SkyDiscover / AlphaEvolve / Evolutionary Search |
+| [Midjourney 日系复古胶片风格](2026-03-04/midjourney-vintage-japanese-film-style.md) | Midjourney / 日系胶片 / AI图像 / 提示词 |
+| [Midjourney Vintage Film Style (EN)](2026-03-04/midjourney-vintage-japanese-film-style-en.md) | Midjourney / Japanese Film / Prompts |
