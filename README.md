@@ -293,3 +293,5 @@
 | [Agent Reach Internet Toolkit (EN)](2026-03-04/agent-reach-internet-toolkit-en.md) | Agent Reach / Internet Access / Scaffolding |
 | [Waoowaoo AI 影视制作平台](2026-03-04/waoowaoo-ai-film-production.md) | Waoowaoo / AI 影视 / 短剧生成 |
 | [Waoowaoo AI Film Production (EN)](2026-03-04/waoowaoo-ai-film-production-en.md) | Waoowaoo / AI Film / Novel-to-Video |
+| [Self-Improving Agent 技能解析](2026-03-04/self-improving-agent-skill.md) | Self-Improving / OpenClaw / 持续学习 |
+| [Self-Improving Agent Skill (EN)](2026-03-04/self-improving-agent-skill-en.md) | Self-Improving / Continuous Learning |
