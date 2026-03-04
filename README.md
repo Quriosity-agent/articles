@@ -291,3 +291,5 @@
 | [Midjourney Vintage Film Style (EN)](2026-03-04/midjourney-vintage-japanese-film-style-en.md) | Midjourney / Japanese Film / Prompts |
 | [Agent Reach 互联网工具包](2026-03-04/agent-reach-internet-toolkit.md) | Agent Reach / AI Agent / 互联网能力 |
 | [Agent Reach Internet Toolkit (EN)](2026-03-04/agent-reach-internet-toolkit-en.md) | Agent Reach / Internet Access / Scaffolding |
+| [Waoowaoo AI 影视制作平台](2026-03-04/waoowaoo-ai-film-production.md) | Waoowaoo / AI 影视 / 短剧生成 |
+| [Waoowaoo AI Film Production (EN)](2026-03-04/waoowaoo-ai-film-production-en.md) | Waoowaoo / AI Film / Novel-to-Video |
