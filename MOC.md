@@ -28,6 +28,7 @@
 - [[2026-02-11/OpenAI-Skills-Shell-Compaction-Tips|OpenAI Skills + Shell + Compaction Tips]]
 - [[2026-03-01/openai-harness-engineering-codex|OpenAI 内部实验：100 万行代码 0 行手写]]
 - [[2026-03-03/codex-0107-fork|Codex 0.107.0：Fork 功能 — Agent 带着完整记忆分身]]
+- [[2026-03-04/codex-context-compaction-deep-dive|深度解析 Codex Context Compaction：AI 怎么"压缩记忆"不丢关键信息]]
 
 ## 🐙 多 Agent 编排
 - [[2026-02-22/ai-team-skills|AI Team Skills：Claude 指挥 Gemini 和 Codex 协作]]
@@ -49,6 +50,10 @@
 - [[2026-03-02/peon-ping-warcraft-notifications|Peon-Ping：魔兽争霸农民工当 AI 通知员]]
 - [[2026-03-02/qcut-architecture-audit|QCut Electron 架构层级违规审计]]
 - [[2026-03-03/sdd-tools-comparison|110K Stars 背后的共识：AI 编程三大 SDD 工具深度对比]]
+- [[2026-03-03/vercel-cli-complete-guide|Vercel CLI 完全指南：40+ 命令，从部署到 DNS 一把梭]]
+- [[2026-03-04/agent-first-cli-design|Agent-First CLI 设计：从 Unix 管道到 AI Agent 的 50 年演进]]
+- [[2026-03-04/agent-reach-internet-toolkit|Agent Reach：一句话给 AI Agent 装上全互联网能力，零 API 费用]]
+- [[2026-03-04/vercel-cli-agent-marketplace|Vercel CLI 新更新：AI Agent 可以自己装数据库了]]
 
 ## 🔌 MCP 生态
 - [[2026-02-13/WebMCP-Browser-Native-Agent-API|WebMCP：让网站成为 Agent 工具接口]]
@@ -68,6 +73,7 @@
 - [[2026-03-02/agentic-video-editing|Agentic Video Editing：AI 视频编辑的下一个范式转变]]
 - [[2026-03-03/vattention-video-editing-agent|Vattention：视频编辑的 Claude Code 时刻]]
 - [[2026-03-03/vidi2-spatiotemporal-grounding|Vidi2：字节跳动视频理解大模型 — 时空定位碾压 Gemini/GPT-5]]
+- [[2026-03-04/waoowaoo-ai-film-production|Waoowaoo：开源 AI 全流程影视制作平台，从小说到成片一键搞定]]
 
 ## 🧠 大模型发布 & 基准测试
 - [[2026-02-23/GLM-5-Slime-Framework/article|GLM-5 异步强化学习框架 Slime]]
@@ -99,6 +105,7 @@
 - [[2026-02-26/hermes-agent-nous-research|Hermes Agent：OpenClaw 最强竞品？]]
 - [[2026-02-28/openclaw-memory-management-guide|OpenClaw 记忆管理完整实战指南]]
 - [[2026-03-01/openclaw-multi-agent-routing|OpenClaw 多 Agent 路由：一台服务器跑多个 AI 大脑]]
+- [[2026-03-04/self-improving-agent-skill|Self-Improving Agent：让 AI Agent 学会"记错题本"，越用越聪明]]
 
 ## 🌐 浏览器 & 自动化
 - [[2026-02-27/agent-browser-cli|agent-browser CLI]]
@@ -114,6 +121,7 @@
 - [[2026-02-11/ElevenLabs-Expressive-Mode-ElevenAgents|ElevenLabs Expressive Mode]]
 - [[2026-03-01/ai-oiran-costume-prompt|AI 一键变装花魁：角色变装 Prompt 模板]]
 - [[2026-03-01/nano-banana-2-prompts-guide|Nano Banana 2：20 个实战 Prompt + 免费 4K 出图]]
+- [[2026-03-04/midjourney-vintage-japanese-film-style|Midjourney 日系复古胶片风格：提示词 + 参数一键出图指南]]
 - [[2026-03-02/tldraw-canvas-sdk|tldraw：500 万美元开源无限画布 SDK]]
 
 ## 🔮 行业观察 & 访谈
@@ -122,6 +130,7 @@
 - [[2026-02-04/特工宇宙AI榜单/README|特工宇宙 2025 年度 AI 应用榜单]]
 - [[2026-02-24/fars-fully-automated-research-system|FARS 全自动 AI 科研系统]]
 - [[2026-03-03/ai-daily-brief-0303|AI 早报 2026-03-03：iPhone 17e 基带、小鹏 VLA L4、Grok 安全争议]]
+- [[2026-03-04/skydiscover-ai-discovery-framework|SkyDiscover：开源 AlphaEvolve 替代品，200+ 任务刷新 SOTA]]
 
 ## 💰 其他
 - [[2026-02-24/polymarket-cli|Polymarket CLI：终端玩预测市场]]
