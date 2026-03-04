@@ -295,3 +295,5 @@
 | [Waoowaoo AI Film Production (EN)](2026-03-04/waoowaoo-ai-film-production-en.md) | Waoowaoo / AI Film / Novel-to-Video |
 | [Self-Improving Agent 技能解析](2026-03-04/self-improving-agent-skill.md) | Self-Improving / OpenClaw / 持续学习 |
 | [Self-Improving Agent Skill (EN)](2026-03-04/self-improving-agent-skill-en.md) | Self-Improving / Continuous Learning |
+| [ShotDeck vs Frameset vs Flim.ai 对比](2026-03-04/shotdeck-frameset-flim-comparison.md) | 视觉参考 / 导演工作流 / AI创意工具 |
+| [ShotDeck vs Frameset vs Flim.ai (EN)](2026-03-04/shotdeck-frameset-flim-comparison-en.md) | Visual References / Director Workflow |
