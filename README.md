@@ -285,3 +285,5 @@
 | [Agent-First CLI Design (EN)](2026-03-04/agent-first-cli-design-en.md) | Unix Philosophy / Agent-First CLI |
 | [Codex Context Compaction 深度解析](2026-03-04/codex-context-compaction-deep-dive.md) | Codex / 上下文压缩 / LLM 记忆管理 |
 | [Codex Context Compaction Deep Dive (EN)](2026-03-04/codex-context-compaction-deep-dive-en.md) | Codex / Context Compaction / Memory |
+| [SkyDiscover AI 发现框架](2026-03-04/skydiscover-ai-discovery-framework.md) | SkyDiscover / AlphaEvolve / LLM 进化搜索 |
+| [SkyDiscover AI Discovery (EN)](2026-03-04/skydiscover-ai-discovery-framework-en.md) | SkyDiscover / AlphaEvolve / Evolutionary Search |
