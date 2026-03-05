@@ -317,3 +317,5 @@
 | [Claude-to-IM Skill Architecture Review (EN)](2026-03-06/claude-to-im-skill-architecture-review-en.md) | Claude Code / IM Bridge / Permission Gateway |
 | [Google Bayesian Teaching LLMs 深度解读](2026-03-06/google-bayesian-teaching-llms.md) | Bayesian推理 / LLM训练 / Agent能力 |
 | [Google Bayesian Teaching LLMs (EN)](2026-03-06/google-bayesian-teaching-llms-en.md) | Bayesian Reasoning / LLM Training |
+| [frontend-slides Skill 评测](2026-03-06/frontend-slides-skill-review.md) | Claude Skill / HTML演示 / 渐进式加载 / 抗AI模板化 |
+| [frontend-slides Skill Review (EN)](2026-03-06/frontend-slides-skill-review-en.md) | Claude Skill / HTML Slides / Progressive Loading |
