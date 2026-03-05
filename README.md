@@ -313,3 +313,5 @@
 | [Paperclip: Zero-Human Company Orchestration (EN)](2026-03-05/paperclip-zero-human-company-en.md) | Paperclip / Agent Orchestration |
 | [Paperclip vs QAgent 架构级拆解](2026-03-05/paperclip-vs-qagent-architecture-teardown.md) | Paperclip / QAgent / 架构对比 / Agent治理 |
 | [Paperclip vs QAgent Architecture Teardown (EN)](2026-03-05/paperclip-vs-qagent-architecture-teardown-en.md) | Paperclip / QAgent / Architecture |
+| [Claude-to-IM Skill 架构拆解](2026-03-06/claude-to-im-skill-architecture-review.md) | Claude Code / IM Bridge / 权限网关 / Agent Ops |
+| [Claude-to-IM Skill Architecture Review (EN)](2026-03-06/claude-to-im-skill-architecture-review-en.md) | Claude Code / IM Bridge / Permission Gateway |
