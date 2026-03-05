@@ -43,6 +43,10 @@
 - [[2026-03-05/symphony-work-orchestration|Symphony 深度拆解：把「盯 AI 写代码」升级成「调度工单生产线」]]
 - [[2026-03-05/symphony-vs-qagent-orchestration|Symphony vs QAgent：两种 Agent 编排路线，谁更适合你的团队？]]
 - [[2026-03-05/qagent-learn-from-symphony-implementation-en|How QAgent Should Learn from Symphony: An Implementation Blueprint]]
+- [[2026-03-05/openai-symphony-agent-orchestrator|OpenAI Symphony：从"管 Agent"进化到"管工作"]]
+- [[2026-03-05/paperclip-zero-human-company|Paperclip：把 Agent 从"工具"升级成"公司组织系统"]]
+- [[2026-03-05/qagent-learn-from-symphony|QAgent 如何学习 Symphony：从"能跑"到"可运营"的 7 个升级点]]
+- [[2026-03-05/qagent-vs-openai-symphony-workflow|QCut QAgent vs OpenAI Symphony：两种 Agent Workflow 路线的本质区别]]
 
 ## 🔧 AI 编码工具对比
 - [[2026-02-15/AI-Coding-CLI-Architecture-Comparison/article|五把 AI 手术刀架构全拆解]]
@@ -57,6 +61,7 @@
 - [[2026-03-04/agent-first-cli-design|Agent-First CLI 设计：从 Unix 管道到 AI Agent 的 50 年演进]]
 - [[2026-03-04/agent-reach-internet-toolkit|Agent Reach：一句话给 AI Agent 装上全互联网能力，零 API 费用]]
 - [[2026-03-04/vercel-cli-agent-marketplace|Vercel CLI 新更新：AI Agent 可以自己装数据库了]]
+- [[2026-03-05/google-workspace-cli-agent-tooling|Google Workspace CLI：Addy 推荐的"人类+Agent 双模"工作台]]
 
 ## 🔌 MCP 生态
 - [[2026-02-13/WebMCP-Browser-Native-Agent-API|WebMCP：让网站成为 Agent 工具接口]]
@@ -77,6 +82,8 @@
 - [[2026-03-03/vattention-video-editing-agent|Vattention：视频编辑的 Claude Code 时刻]]
 - [[2026-03-03/vidi2-spatiotemporal-grounding|Vidi2：字节跳动视频理解大模型 — 时空定位碾压 Gemini/GPT-5]]
 - [[2026-03-04/waoowaoo-ai-film-production|Waoowaoo：开源 AI 全流程影视制作平台，从小说到成片一键搞定]]
+- [[2026-03-04/scriptslug-imsdb-deadline-research-stack|Script Slug + IMSDb + Deadline：编剧与导演的"信息铁三角"]]
+- [[2026-03-04/shotdeck-frameset-flim-comparison|ShotDeck vs Frameset vs Flim.ai：导演参考库三件套怎么选？]]
 
 ## 🧠 大模型发布 & 基准测试
 - [[2026-02-23/GLM-5-Slime-Framework/article|GLM-5 异步强化学习框架 Slime]]
@@ -134,6 +141,7 @@
 - [[2026-02-24/fars-fully-automated-research-system|FARS 全自动 AI 科研系统]]
 - [[2026-03-03/ai-daily-brief-0303|AI 早报 2026-03-03：iPhone 17e 基带、小鹏 VLA L4、Grok 安全争议]]
 - [[2026-03-04/skydiscover-ai-discovery-framework|SkyDiscover：开源 AlphaEvolve 替代品，200+ 任务刷新 SOTA]]
+- [[2026-03-05/world-class-agentic-engineer|如何成为 World-Class Agentic Engineer：不是会用工具，而是会设计工作流]]
 
 ## 💰 其他
 - [[2026-02-24/polymarket-cli|Polymarket CLI：终端玩预测市场]]
