@@ -315,3 +315,5 @@
 | [Paperclip vs QAgent Architecture Teardown (EN)](2026-03-05/paperclip-vs-qagent-architecture-teardown-en.md) | Paperclip / QAgent / Architecture |
 | [Claude-to-IM Skill 架构拆解](2026-03-06/claude-to-im-skill-architecture-review.md) | Claude Code / IM Bridge / 权限网关 / Agent Ops |
 | [Claude-to-IM Skill Architecture Review (EN)](2026-03-06/claude-to-im-skill-architecture-review-en.md) | Claude Code / IM Bridge / Permission Gateway |
+| [Google Bayesian Teaching LLMs 深度解读](2026-03-06/google-bayesian-teaching-llms.md) | Bayesian推理 / LLM训练 / Agent能力 |
+| [Google Bayesian Teaching LLMs (EN)](2026-03-06/google-bayesian-teaching-llms-en.md) | Bayesian Reasoning / LLM Training |
