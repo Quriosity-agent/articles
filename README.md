@@ -319,3 +319,5 @@
 | [Google Bayesian Teaching LLMs (EN)](2026-03-06/google-bayesian-teaching-llms-en.md) | Bayesian Reasoning / LLM Training |
 | [frontend-slides Skill 评测](2026-03-06/frontend-slides-skill-review.md) | Claude Skill / HTML演示 / 渐进式加载 / 抗AI模板化 |
 | [frontend-slides Skill Review (EN)](2026-03-06/frontend-slides-skill-review-en.md) | Claude Skill / HTML Slides / Progressive Loading |
+| [Convex 后端平台解读](2026-03-06/convex-backend-platform-explained.md) | Convex / Realtime Backend / TypeScript全栈 |
+| [Convex Backend Platform Explained (EN)](2026-03-06/convex-backend-platform-explained-en.md) | Convex / Realtime Backend / TS |
