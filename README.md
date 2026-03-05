@@ -321,3 +321,5 @@
 | [frontend-slides Skill Review (EN)](2026-03-06/frontend-slides-skill-review-en.md) | Claude Skill / HTML Slides / Progressive Loading |
 | [Convex 后端平台解读](2026-03-06/convex-backend-platform-explained.md) | Convex / Realtime Backend / TypeScript全栈 |
 | [Convex Backend Platform Explained (EN)](2026-03-06/convex-backend-platform-explained-en.md) | Convex / Realtime Backend / TS |
+| [QAgent 学习 Symphony 进展报告 #2](2026-03-06/qagent-learn-from-symphony-progress-report-2.md) | QAgent / Symphony / Policy Gate / 实施进度 |
+| [QAgent Learns from Symphony Progress Report #2 (EN)](2026-03-06/qagent-learn-from-symphony-progress-report-2-en.md) | QAgent / Symphony / Governance Progress |
