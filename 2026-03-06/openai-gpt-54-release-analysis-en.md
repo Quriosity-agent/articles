@@ -2,13 +2,9 @@
 
 > **TL;DR**: GPT‑5.4 is a major consolidation release across ChatGPT, API, and Codex. The key shift is not just better raw reasoning, but stronger agent execution: computer use, tool-search efficiency, long-horizon context, and improved knowledge-work quality.
 
-![GPT-5.4 Visual 1](gpt54-img-1.webp)
+![GPT-5.4 Visual](gpt54-img-1.webp)
 
-![GPT-5.4 Visual 2](gpt54-img-2.webp)
-
-![GPT-5.4 Visual 3](gpt54-img-3.webp)
-
-![GPT-5.4 Visual 4](gpt54-img-4.webp)
+![GPT-5.4 Capability Card](gpt54-img-2.webp)
 
 ## Key Upgrades
 1. **Knowledge work**: GDPval wins/ties at **83.0%** (vs 70.9% for GPT‑5.2)

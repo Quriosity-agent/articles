@@ -2,13 +2,9 @@
 
 > **TL;DR**: GPT‑5.4 这次不是小修小补，而是把 OpenAI 最近几条线合并到一个主力模型：推理、编码、computer use、工具调用效率、知识工作质量。最关键变化是“**更像能独立做事的 agent 基座**”，而不是只会回答问题的聊天模型。
 
-![GPT-5.4 Visual 1](gpt54-img-1.webp)
+![GPT-5.4 Visual](gpt54-img-1.webp)
 
-![GPT-5.4 Visual 2](gpt54-img-2.webp)
-
-![GPT-5.4 Visual 3](gpt54-img-3.webp)
-
-![GPT-5.4 Visual 4](gpt54-img-4.webp)
+![GPT-5.4 Capability Card](gpt54-img-2.webp)
 
 ---
 
