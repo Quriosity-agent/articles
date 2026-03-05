@@ -4,6 +4,15 @@
 
 ![OpenAI Symphony](openai-symphony-cover.jpg)
 
+## Workflow Deep Dive (from source)
+From `elixir/WORKFLOW.md`, Symphony's workflow is executable policy, not just prompt text:
+
+- **Runtime config in YAML front matter**: tracker, polling interval, workspace root, concurrency, Codex command/sandbox/approval.
+- **Lifecycle hooks**: `after_create` clones repo + installs deps; `before_remove` runs cleanup.
+- **Strict state machine**: Todo → In Progress → Human Review → Merging → Done (+ Rework loop).
+- **Single workpad comment policy**: one `Codex Workpad` thread as source of truth.
+- **Unattended operation default**: only true blocker conditions should stop automation.
+
 ## Why It Matters
 Symphony shifts the focus from single-agent intelligence to multi-agent operations:
 - deterministic per-issue workspaces

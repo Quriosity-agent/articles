@@ -60,6 +60,70 @@ Symphony 强调一个 in-memory authoritative state 管：
 
 ---
 
+## Workflow 深挖：它到底怎么跑起来的？（基于源码）
+
+我看了 `elixir/WORKFLOW.md`，它不是“概念文档”，而是真正驱动运行的策略文件。
+
+### 1) Front Matter 就是运行参数
+
+```yaml
+tracker:
+  kind: linear
+  project_slug: symphony-...
+polling:
+  interval_ms: 5000
+workspace:
+  root: ~/code/symphony-workspaces
+agent:
+  max_concurrent_agents: 10
+  max_turns: 20
+codex:
+  command: codex ... --model gpt-5.3-codex app-server
+  approval_policy: never
+  thread_sandbox: workspace-write
+```
+
+这意味着：**workflow 不是提示词附件，而是 runtime 配置中心**。
+
+### 2) Hook 机制很实用（after_create / before_remove）
+
+它在工作区创建后会自动：
+- `git clone` 代码
+- 安装依赖（`mix deps.get`）
+
+在工作区回收前还会跑清理逻辑。
+
+这点对我们很有借鉴价值：把“环境准备”从人工步骤变成 lifecycle hook。
+
+### 3) 状态机写得很清楚
+
+`Todo -> In Progress -> Human Review -> Merging -> Done`，再加 `Rework` 回路。
+
+关键不是状态名字，而是每个状态有严格动作：
+- Todo 必须先转 In Progress 再执行
+- Human Review 等人工判定
+- Merging 必须走 land skill（不是直接 merge）
+
+### 4) Workpad 单评论策略（很妙）
+
+要求每个 issue 只维护一个 `## Codex Workpad` 作为唯一事实源。
+
+优点：
+- 所有计划、进度、验证证据都在一个地方
+- 追踪和审计简单
+- 避免评论区碎片化
+
+### 5) 明确“无人值守”原则
+
+workflow 里明确写了：
+- unattended session
+- 不要让人类做后续操作
+- 只有缺权限/缺密钥这类硬阻塞才停
+
+这就是它和“聊天式 coding”最大的差别：它是生产运营流程，不是对话。
+
+---
+
 ## 为什么这事重要？
 
 过去一年大家都在卷“哪个模型更聪明”。
