@@ -303,3 +303,5 @@
 | [World-Class Agentic Engineer (EN)](2026-03-05/world-class-agentic-engineer-en.md) | Agentic Engineering / Workflow |
 | [OpenAI Symphony：管工作而不是管Agent](2026-03-05/openai-symphony-agent-orchestrator.md) | Symphony / Agent编排 / Workflow-as-Code |
 | [OpenAI Symphony (EN)](2026-03-05/openai-symphony-agent-orchestrator-en.md) | Agent Orchestration / Workflow-as-Code |
+| [QAgent vs OpenAI Symphony Workflow 对比](2026-03-05/qagent-vs-openai-symphony-workflow.md) | QAgent / Symphony / Agent编排 / Workflow |
+| [QAgent vs OpenAI Symphony Workflow (EN)](2026-03-05/qagent-vs-openai-symphony-workflow-en.md) | QAgent / Symphony / Orchestration |
