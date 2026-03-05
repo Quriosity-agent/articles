@@ -301,3 +301,5 @@
 | [Script Slug + IMSDb + Deadline (EN)](2026-03-04/scriptslug-imsdb-deadline-research-stack-en.md) | Script Research / Industry Intelligence |
 | [World-Class Agentic Engineer 实战](2026-03-05/world-class-agentic-engineer.md) | Agentic Engineering / 工作流 / Claude Code / Codex |
 | [World-Class Agentic Engineer (EN)](2026-03-05/world-class-agentic-engineer-en.md) | Agentic Engineering / Workflow |
+| [OpenAI Symphony：管工作而不是管Agent](2026-03-05/openai-symphony-agent-orchestrator.md) | Symphony / Agent编排 / Workflow-as-Code |
+| [OpenAI Symphony (EN)](2026-03-05/openai-symphony-agent-orchestrator-en.md) | Agent Orchestration / Workflow-as-Code |
