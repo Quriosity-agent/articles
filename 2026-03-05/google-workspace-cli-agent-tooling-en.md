@@ -20,6 +20,21 @@ Three design lessons for Agent-First CLI:
 2. strict structured output
 3. dual integration layer (Skills + MCP)
 
+## Field Notes (Real-world integration pitfalls)
+In our hands-on setup, two practical issues appeared:
+- command name collision on Windows (`gws` resolving to a different binary)
+- auth ambiguity (`auth status` looked valid while `auth list` was empty, causing 401)
+
+Operational fix:
+```bash
+# always use package-pinned invocation
+npx gws auth login --account xiaosa.assistant@gmail.com
+npx gws auth list   # source of truth
+npx gws auth status
+```
+
+Takeaway: for production scripts, treat `auth list` as the binding truth, not just token presence.
+
 ## Sources
 - Tweet: <https://x.com/addyosmani/status/2029372736267805081>
 - Repo: <https://github.com/googleworkspace/cli>

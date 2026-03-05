@@ -74,6 +74,26 @@ gws 强制结构化输出，让 LLM tool-use 成本显著降低。
 1. 项目仍在 active development，存在 breaking changes
 2. OAuth 与 GCP 配置仍有门槛
 3. 工具多了之后要做权限与 scope 收敛
+4. **Windows 上可能有同名命令冲突**（我们实测碰到 Java 版 `gws` 抢命令）
+5. **账号绑定细节容易踩坑**（`auth status` 看起来 OK，但 `auth list` 为空时仍会 401）
+
+### 实测补充（本轮真实踩坑）
+
+我们这次实操里踩了两个典型坑：
+
+- `gws auth` 报 Unknown command（实际上调用到了另一个 `gws` 可执行）
+- 登录成功但 account 显示 `(unknown)`，导致 API 调用无凭据
+
+最终可用方案：
+
+```bash
+# 固定用 npx，避免命令冲突
+npx gws auth login --account xiaosa.assistant@gmail.com
+npx gws auth list
+npx gws auth status
+```
+
+经验结论：**把 `auth list` 当成最终真值，不要只看 `auth status`。**
 
 但这不影响它的方向正确性：
 
