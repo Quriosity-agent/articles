@@ -309,3 +309,5 @@
 | [How QAgent Learns from Symphony (EN)](2026-03-05/qagent-learn-from-symphony-en.md) | QAgent / Symphony / Governance Upgrade |
 | [Google Workspace CLI：人类+Agent 双模工具栈](2026-03-05/google-workspace-cli-agent-tooling.md) | Workspace CLI / Agent Skills / MCP / CLI设计 |
 | [Google Workspace CLI (EN)](2026-03-05/google-workspace-cli-agent-tooling-en.md) | Workspace CLI / Agent Tooling / MCP |
+| [Paperclip：零人类公司编排层](2026-03-05/paperclip-zero-human-company.md) | Paperclip / Agent公司 / 编排治理 |
+| [Paperclip: Zero-Human Company Orchestration (EN)](2026-03-05/paperclip-zero-human-company-en.md) | Paperclip / Agent Orchestration |
