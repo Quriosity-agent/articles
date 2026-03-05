@@ -40,6 +40,9 @@
 - [[2026-03-01/multi-agent-orchestration-three-modes|多 Agent 编排三种模式：独行侠、主从、对等网络]]
 - [[2026-03-01/two-lobsters-build-game|两只 AI 龙虾 10 分钟造了个游戏]]
 - [[2026-03-02/acp-vs-subagent|ACP vs Sub-Agent：AI Agent 两种协作模式对比]]
+- [[2026-03-05/symphony-work-orchestration|Symphony 深度拆解：把「盯 AI 写代码」升级成「调度工单生产线」]]
+- [[2026-03-05/symphony-vs-qagent-orchestration|Symphony vs QAgent：两种 Agent 编排路线，谁更适合你的团队？]]
+- [[2026-03-05/qagent-learn-from-symphony-implementation-en|How QAgent Should Learn from Symphony: An Implementation Blueprint]]
 
 ## 🔧 AI 编码工具对比
 - [[2026-02-15/AI-Coding-CLI-Architecture-Comparison/article|五把 AI 手术刀架构全拆解]]
