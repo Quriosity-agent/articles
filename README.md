@@ -307,3 +307,5 @@
 | [QAgent vs OpenAI Symphony Workflow (EN)](2026-03-05/qagent-vs-openai-symphony-workflow-en.md) | QAgent / Symphony / Orchestration |
 | [QAgent 如何学习 Symphony](2026-03-05/qagent-learn-from-symphony.md) | QAgent / Symphony / Workflow升级 / 编排治理 |
 | [How QAgent Learns from Symphony (EN)](2026-03-05/qagent-learn-from-symphony-en.md) | QAgent / Symphony / Governance Upgrade |
+| [Google Workspace CLI：人类+Agent 双模工具栈](2026-03-05/google-workspace-cli-agent-tooling.md) | Workspace CLI / Agent Skills / MCP / CLI设计 |
+| [Google Workspace CLI (EN)](2026-03-05/google-workspace-cli-agent-tooling-en.md) | Workspace CLI / Agent Tooling / MCP |
