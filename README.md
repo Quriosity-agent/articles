@@ -311,3 +311,5 @@
 | [Google Workspace CLI (EN)](2026-03-05/google-workspace-cli-agent-tooling-en.md) | Workspace CLI / Agent Tooling / MCP |
 | [Paperclip：零人类公司编排层](2026-03-05/paperclip-zero-human-company.md) | Paperclip / Agent公司 / 编排治理 |
 | [Paperclip: Zero-Human Company Orchestration (EN)](2026-03-05/paperclip-zero-human-company-en.md) | Paperclip / Agent Orchestration |
+| [Paperclip vs QAgent 架构级拆解](2026-03-05/paperclip-vs-qagent-architecture-teardown.md) | Paperclip / QAgent / 架构对比 / Agent治理 |
+| [Paperclip vs QAgent Architecture Teardown (EN)](2026-03-05/paperclip-vs-qagent-architecture-teardown-en.md) | Paperclip / QAgent / Architecture |
