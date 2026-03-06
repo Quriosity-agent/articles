@@ -331,3 +331,5 @@
 | [Generative-Media-Skills Agent Toolkit (EN)](2026-03-06/generative-media-skills-agent-toolkit-en.md) | Multimodal / Agent Native / Schema Driven |
 | [QCut Native CLI 源码复盘（2026-03-06）](2026-03-06/qcut-native-cli-source-check-20260306.md) | QCut CLI / 源码分析 / 契约收口 / QAgent治理 |
 | [QCut Native CLI Source Check (EN)](2026-03-06/qcut-native-cli-source-check-20260306-en.md) | QCut CLI / Source Review / Governance |
+| [Xiaomi miclaw 移动端 Agent 架构解析](2026-03-06/xiaomi-miclaw-mobile-agent-architecture.md) | Mobile Agent / 系统执行 / IoT生态 / 架构拆解 |
+| [Xiaomi miclaw Mobile Agent Architecture (EN)](2026-03-06/xiaomi-miclaw-mobile-agent-architecture-en.md) | Mobile Agent / System Execution / Architecture |
