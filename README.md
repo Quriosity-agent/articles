@@ -327,3 +327,5 @@
 | [OpenAI GPT‑5.4 Release Analysis (EN)](2026-03-06/openai-gpt-54-release-analysis-en.md) | GPT-5.4 / Agent Engineering |
 | [LTX-Desktop 开源视频工作站解析](2026-03-06/ltx-desktop-open-source-video-studio.md) | LTX-Desktop / AI视频 / Electron / Hybrid架构 |
 | [LTX-Desktop Open-Source Video Studio (EN)](2026-03-06/ltx-desktop-open-source-video-studio-en.md) | LTX-Desktop / AI Video / Local+API Hybrid |
+| [Generative-Media-Skills 工具箱解析](2026-03-06/generative-media-skills-agent-toolkit.md) | Multimodal / Agent Native / Schema Driven / QCut参考 |
+| [Generative-Media-Skills Agent Toolkit (EN)](2026-03-06/generative-media-skills-agent-toolkit-en.md) | Multimodal / Agent Native / Schema Driven |
