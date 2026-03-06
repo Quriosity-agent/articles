@@ -325,3 +325,5 @@
 | [QAgent Learns from Symphony Progress Report #2 (EN)](2026-03-06/qagent-learn-from-symphony-progress-report-2-en.md) | QAgent / Symphony / Governance Progress |
 | [OpenAI GPT‑5.4 发布解析](2026-03-06/openai-gpt-54-release-analysis.md) | GPT-5.4 / Agent执行 / Tool Search / Computer Use |
 | [OpenAI GPT‑5.4 Release Analysis (EN)](2026-03-06/openai-gpt-54-release-analysis-en.md) | GPT-5.4 / Agent Engineering |
+| [LTX-Desktop 开源视频工作站解析](2026-03-06/ltx-desktop-open-source-video-studio.md) | LTX-Desktop / AI视频 / Electron / Hybrid架构 |
+| [LTX-Desktop Open-Source Video Studio (EN)](2026-03-06/ltx-desktop-open-source-video-studio-en.md) | LTX-Desktop / AI Video / Local+API Hybrid |
