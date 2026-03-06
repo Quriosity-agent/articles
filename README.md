@@ -333,3 +333,5 @@
 | [QCut Native CLI Source Check (EN)](2026-03-06/qcut-native-cli-source-check-20260306-en.md) | QCut CLI / Source Review / Governance |
 | [Xiaomi miclaw 移动端 Agent 架构解析](2026-03-06/xiaomi-miclaw-mobile-agent-architecture.md) | Mobile Agent / 系统执行 / IoT生态 / 架构拆解 |
 | [Xiaomi miclaw Mobile Agent Architecture (EN)](2026-03-06/xiaomi-miclaw-mobile-agent-architecture-en.md) | Mobile Agent / System Execution / Architecture |
+| [Luma Uni‑1 统一图像模型解读](2026-03-06/luma-uni1-unified-image-model.md) | Uni-1 / 图像理解生成统一架构 / Luma |
+| [Luma Uni‑1 Unified Image Model (EN)](2026-03-06/luma-uni1-unified-image-model-en.md) | Uni-1 / Unified Visual Model |
