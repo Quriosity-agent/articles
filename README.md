@@ -329,3 +329,5 @@
 | [LTX-Desktop Open-Source Video Studio (EN)](2026-03-06/ltx-desktop-open-source-video-studio-en.md) | LTX-Desktop / AI Video / Local+API Hybrid |
 | [Generative-Media-Skills 工具箱解析](2026-03-06/generative-media-skills-agent-toolkit.md) | Multimodal / Agent Native / Schema Driven / QCut参考 |
 | [Generative-Media-Skills Agent Toolkit (EN)](2026-03-06/generative-media-skills-agent-toolkit-en.md) | Multimodal / Agent Native / Schema Driven |
+| [QCut Native CLI 源码复盘（2026-03-06）](2026-03-06/qcut-native-cli-source-check-20260306.md) | QCut CLI / 源码分析 / 契约收口 / QAgent治理 |
+| [QCut Native CLI Source Check (EN)](2026-03-06/qcut-native-cli-source-check-20260306-en.md) | QCut CLI / Source Review / Governance |
