@@ -19,6 +19,7 @@
 - [[2026-02-24/claude-financial-services-plugins|Anthropic 金融服务插件套件：让 Claude 变身华尔街分析师]]
 - [[2026-03-02/baoyu-skills|baoyu-skills：当 Prompt 成为软件，重新定义 AI 技能生态]]
 - [[2026-03-02/humanizer-zh|Humanizer-zh：当 AI 学会擦掉自己的指纹]]
+- [[2026-03-06/claude-to-im-skill-architecture-review|Claude-to-IM Skill 深度拆解：异步 IM 交互 + 同步工具权限桥接]]
 
 ## 🧑‍💻 Codex / OpenAI
 - [[2026-02-06/GPT-5.3-Codex/README|GPT-5.3-Codex 发布]]
@@ -29,6 +30,7 @@
 - [[2026-03-01/openai-harness-engineering-codex|OpenAI 内部实验：100 万行代码 0 行手写]]
 - [[2026-03-03/codex-0107-fork|Codex 0.107.0：Fork 功能 — Agent 带着完整记忆分身]]
 - [[2026-03-04/codex-context-compaction-deep-dive|深度解析 Codex Context Compaction：AI 怎么"压缩记忆"不丢关键信息]]
+- [[2026-03-06/openai-gpt-54-release-analysis|OpenAI GPT-5.4：从"更强模型"到"更会干活的 Agent 引擎"]]
 
 ## 🐙 多 Agent 编排
 - [[2026-02-22/ai-team-skills|AI Team Skills：Claude 指挥 Gemini 和 Codex 协作]]
@@ -47,6 +49,7 @@
 - [[2026-03-05/paperclip-zero-human-company|Paperclip：把 Agent 从"工具"升级成"公司组织系统"]]
 - [[2026-03-05/qagent-learn-from-symphony|QAgent 如何学习 Symphony：从"能跑"到"可运营"的 7 个升级点]]
 - [[2026-03-05/qagent-vs-openai-symphony-workflow|QCut QAgent vs OpenAI Symphony：两种 Agent Workflow 路线的本质区别]]
+- [[2026-03-06/qagent-learn-from-symphony-progress-report-2|QAgent 学习 Symphony：第二阶段进展报告]]
 
 ## 🔧 AI 编码工具对比
 - [[2026-02-15/AI-Coding-CLI-Architecture-Comparison/article|五把 AI 手术刀架构全拆解]]
@@ -62,6 +65,8 @@
 - [[2026-03-04/agent-reach-internet-toolkit|Agent Reach：一句话给 AI Agent 装上全互联网能力，零 API 费用]]
 - [[2026-03-04/vercel-cli-agent-marketplace|Vercel CLI 新更新：AI Agent 可以自己装数据库了]]
 - [[2026-03-05/google-workspace-cli-agent-tooling|Google Workspace CLI：Addy 推荐的"人类+Agent 双模"工作台]]
+- [[2026-03-06/frontend-slides-skill-review|frontend-slides：零依赖 HTML 演示文稿生成器]]
+- [[2026-03-06/qcut-native-cli-source-check-20260306|QCut Native CLI 源码复盘：主干已成，细节进入收口期]]
 
 ## 🔌 MCP 生态
 - [[2026-02-13/WebMCP-Browser-Native-Agent-API|WebMCP：让网站成为 Agent 工具接口]]
@@ -82,6 +87,7 @@
 - [[2026-03-03/vattention-video-editing-agent|Vattention：视频编辑的 Claude Code 时刻]]
 - [[2026-03-03/vidi2-spatiotemporal-grounding|Vidi2：字节跳动视频理解大模型 — 时空定位碾压 Gemini/GPT-5]]
 - [[2026-03-04/waoowaoo-ai-film-production|Waoowaoo：开源 AI 全流程影视制作平台，从小说到成片一键搞定]]
+- [[2026-03-06/ltx-desktop-open-source-video-studio|LTX-Desktop：开源 AI 视频工作站，本地+API 双模架构]]
 - [[2026-03-04/scriptslug-imsdb-deadline-research-stack|Script Slug + IMSDb + Deadline：编剧与导演的"信息铁三角"]]
 - [[2026-03-04/shotdeck-frameset-flim-comparison|ShotDeck vs Frameset vs Flim.ai：导演参考库三件套怎么选？]]
 
@@ -106,6 +112,8 @@
 - [[2026-03-03/qwen35-multimodal-agent|Qwen3.5：原生多模态 Agent 模型全尺寸覆盖]]
 - [[2026-03-03/seed20-model-card|Seed 2.0 Model Card 深度解读：78 页全文版]]
 - [[2026-03-03/seed20-production-llm|Seed 2.0：字节跳动生产级大模型全面升级]]
+- [[2026-03-06/google-bayesian-teaching-llms|Google「教 LLM 像贝叶斯一样推理」：模仿最优猜测比直接喂正确答案更强]]
+- [[2026-03-06/luma-uni1-unified-image-model|Luma Uni-1：15人华人团队做出的统一图像模型]]
 
 ## 🦞 OpenClaw 生态
 - [[2026-02-11/OpenClaw背后的秘密武器-大道至简的Pi-Mono|OpenClaw 背后的 Pi-Mono]]
@@ -133,6 +141,7 @@
 - [[2026-03-01/nano-banana-2-prompts-guide|Nano Banana 2：20 个实战 Prompt + 免费 4K 出图]]
 - [[2026-03-04/midjourney-vintage-japanese-film-style|Midjourney 日系复古胶片风格：提示词 + 参数一键出图指南]]
 - [[2026-03-02/tldraw-canvas-sdk|tldraw：500 万美元开源无限画布 SDK]]
+- [[2026-03-06/generative-media-skills-agent-toolkit|Generative-Media-Skills：AI Agent 的多模态生产工具箱]]
 
 ## 🔮 行业观察 & 访谈
 - [[2026-02-27/dario-amodei-tsunami-interview|Dario Amodei：海啸已在地平线上]]
@@ -142,6 +151,7 @@
 - [[2026-03-03/ai-daily-brief-0303|AI 早报 2026-03-03：iPhone 17e 基带、小鹏 VLA L4、Grok 安全争议]]
 - [[2026-03-04/skydiscover-ai-discovery-framework|SkyDiscover：开源 AlphaEvolve 替代品，200+ 任务刷新 SOTA]]
 - [[2026-03-05/world-class-agentic-engineer|如何成为 World-Class Agentic Engineer：不是会用工具，而是会设计工作流]]
+- [[2026-03-06/xiaomi-miclaw-mobile-agent-architecture|Xiaomi miclaw：移动端 Agent 从"会聊天"走向"能执行"的四层架构]]
 
 ## 💰 其他
 - [[2026-02-24/polymarket-cli|Polymarket CLI：终端玩预测市场]]
@@ -150,3 +160,4 @@
 - [[2026-02-04/蚂蚁世界模型/README|蚂蚁开源世界模型]]
 - [[2026-03-01/airi-ai-virtual-being|AIRI：19.8K Star 开源 AI 虚拟生命体]]
 - [[2026-03-01/automaton-ai-earn-or-die|The Automaton：挣不到钱就会死的 AI Agent]]
+- [[2026-03-06/convex-backend-platform-explained|Convex：保持应用实时同步的后端平台]]
