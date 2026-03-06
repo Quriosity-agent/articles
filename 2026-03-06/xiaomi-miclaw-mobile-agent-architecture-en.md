@@ -2,7 +2,11 @@
 
 > **TL;DR**: Xiaomi’s miclaw announcement is important not because it’s “another assistant,” but because it outlines a practical architecture for mobile agents: **system execution capabilities → personal context understanding → ecosystem interoperability → self-evolution**.
 
-![Xiaomi miclaw WeChat article](xiaomi-miclaw-wechat.jpg)
+![Xiaomi miclaw WeChat article - Part 1](xiaomi-miclaw-wechat-part1.jpg)
+
+![Xiaomi miclaw WeChat article - Part 2](xiaomi-miclaw-wechat-part2.jpg)
+
+![Xiaomi miclaw WeChat article - Part 3](xiaomi-miclaw-wechat-part3.jpg)
 
 ## Why It Matters
 Most mobile AI products stop at chat/search/recommendation. miclaw aims at execution loops:

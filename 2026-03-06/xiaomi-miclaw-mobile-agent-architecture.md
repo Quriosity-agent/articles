@@ -2,7 +2,11 @@
 
 > **TL;DR**: 小米这篇关于 `miclaw` 的信息，重点不在“又一个 AI 助手”，而在架构路线：把 Agent 放进系统层，连接个人上下文与 IoT 生态，再叠加可持续进化能力。它在讲的是移动端 Agent 的产品化路径：**系统底层能力 → 个人上下文理解 → 生态互联 → 自进化**。
 
-![Xiaomi miclaw WeChat article](xiaomi-miclaw-wechat.jpg)
+![Xiaomi miclaw WeChat article - Part 1](xiaomi-miclaw-wechat-part1.jpg)
+
+![Xiaomi miclaw WeChat article - Part 2](xiaomi-miclaw-wechat-part2.jpg)
+
+![Xiaomi miclaw WeChat article - Part 3](xiaomi-miclaw-wechat-part3.jpg)
 
 ---
 
