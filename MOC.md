@@ -50,6 +50,8 @@
 - [[2026-03-05/qagent-learn-from-symphony|QAgent 如何学习 Symphony：从"能跑"到"可运营"的 7 个升级点]]
 - [[2026-03-05/qagent-vs-openai-symphony-workflow|QCut QAgent vs OpenAI Symphony：两种 Agent Workflow 路线的本质区别]]
 - [[2026-03-06/qagent-learn-from-symphony-progress-report-2|QAgent 学习 Symphony：第二阶段进展报告]]
+- [[2026-03-07/symphony-elixir-deep-dive|OpenAI Symphony Elixir 源码深度拆解：9000 行代码到底在干什么]]
+- [[2026-03-05/paperclip-vs-qagent-architecture-teardown|Paperclip vs QAgent：架构级拆解]]
 
 ## 🔧 AI 编码工具对比
 - [[2026-02-15/AI-Coding-CLI-Architecture-Comparison/article|五把 AI 手术刀架构全拆解]]
@@ -67,6 +69,8 @@
 - [[2026-03-05/google-workspace-cli-agent-tooling|Google Workspace CLI：Addy 推荐的"人类+Agent 双模"工作台]]
 - [[2026-03-06/frontend-slides-skill-review|frontend-slides：零依赖 HTML 演示文稿生成器]]
 - [[2026-03-06/qcut-native-cli-source-check-20260306|QCut Native CLI 源码复盘：主干已成，细节进入收口期]]
+- [[2026-03-07/linear-cli-terminal-issue-tracker|Linear CLI：不离开终端管理 Linear Issues 的命令行工具]]
+- [[2026-03-07/linear-github-branch-issue-pr-workflow|Linear + GitHub：Issue → Branch → PR 完整工作流]]
 
 ## 🔌 MCP 生态
 - [[2026-02-13/WebMCP-Browser-Native-Agent-API|WebMCP：让网站成为 Agent 工具接口]]
