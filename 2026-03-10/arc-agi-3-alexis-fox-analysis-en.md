@@ -20,21 +20,70 @@ RGB = **Read-Grep-Bash**. The name says it all — an agent built on the most fu
 
 ### Core Architecture
 
-- **Swarm orchestrator**: coordinates multiple sub-agents working in parallel
-- **Analyzer**: performs batch analysis of game state at regular intervals (default: every 10 actions), producing plans for the next phase
-- **Docker sandbox**: the analyzer runs code in an isolated opencode-sandbox container
-- **Default model**: Claude Opus 4.6 as the analyzer's brain
+![RGB Agent Architecture](rgb-agent-architecture.png)
+
+The entire system runs inside a **Docker container**. The architecture is minimal:
+
+```
+┌─────────────────────── Docker Container ───────────────────────┐
+│                                                                 │
+│   ┌──────────┐    calls    ┌──────────────┐    file-based     │
+│   │          │ ──────────→ │  Tool Space   │ ←──────────────→  │
+│   │ LLM      │             │              │    memory access   │
+│   │ (Opus    │             │  READ        │                    │
+│   │  4.6)    │             │  GREP        │    ┌────────────┐  │
+│   │          │             │  BASH*       │    │ Game Logs  │  │
+│   └────┬─────┘             │ (*Python only)│ ──→│            │  │
+│        │                   └──────────────┘    │ • Actions   │  │
+│        │ Batched Actions                       │ • Scores    │  │
+│        │ (up to 10)                            │ • 64×64 grid│  │
+│        │                                       │ • Plans     │  │
+│        ▼                                       └──────┬─────┘  │
+│   ┌──────────┐                                        │        │
+│   │ ARC-AGI-3│  Structured logs (actions, score,      │        │
+│   │ Env      │  board state) ────────────────────────→┘        │
+│   └──────────┘                                                  │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+**Key design: files are memory.** The LLM's context window is finite, so Game Logs serve as **persistent external memory**. The agent queries history via READ and GREP, overcoming context window limitations.
+
+**Core loop (each step):**
+1. LLM reads current state from Game Logs via READ/GREP
+2. LLM reasons and formulates a plan
+3. Plan is appended to Game Logs (persisted)
+4. LLM sends **batched actions (up to 10)** to the ARC-AGI-3 environment
+5. Environment executes actions, produces structured logs (actions, score, 64×64 board state)
+6. Logs are written back to Game Logs
+7. Cycle repeats
+
+**Three tools, nothing more:**
+- **READ** — read log files and state files
+- **GREP** — search files for patterns (history recall)
+- **BASH*** — execute Python scripts (*restricted to Python only — no arbitrary shell commands)
+
+**What Game Logs contain (visible from architecture diagram):**
+```
+Action 20 | Level 1 | Attempt 1 | Plan Step 3/3
+Score: 0 | State: NOT_FINISHED
+Current Plan: Move Down 3 times from (38,19) to explore left column
+Recent History:
+  Step 14: ACTION1 → score 0 → changed (32,19) to blue
+  Step 15: ACTION2 → score 0 → moved to (33,19)
+  ...
+[64×64 ASCII matrix representing current board state]
+```
 
 ### Key Configuration
 
 - `--max-actions 500`: budget of 500 actions per game
-- `--analyzer-interval 10`: analyze every 10 steps
+- `--analyzer-interval 10`: batch analysis every 10 steps
 - `--operation-mode online`: supports online/offline/normal modes
-- Multi-model support: Claude, GPT 5.2, Gemini 2.5 Pro, or anything on OpenRouter
+- Multi-model support: Claude Opus 4.6 (default), GPT 5.2, Gemini 2.5 Pro, or anything on OpenRouter
 
 ## Design Philosophy
 
-Alexis Fox articulated two core principles:
+Alexis Fox articulated three core principles:
 
 **1. The agent should decide what to abstract, not the harness**
 
@@ -44,9 +93,17 @@ Alexis Fox articulated two core principles:
 
 **2. Solve complex problems with the simplest tool combinations**
 
-- Read (observe state), Grep (search for patterns), Bash (execute actions)
+- Read (observe state), Grep (search for patterns), Bash (execute Python)
 - No dependency on complex specialized frameworks — just Unix-philosophy small tools composed together
+- Bash is restricted to **Python scripts only** — prevents the agent from taking shortcuts with arbitrary commands
 - A simpler architecture is easier to debug and iterate on
+
+**3. Files are the best memory**
+
+- LLM context windows are finite (even 200K tokens isn't enough for full game history)
+- Game Logs serve as **persistent external memory** — GREP searching is far more efficient than re-reading everything
+- Every action result (action taken, score, 64×64 board state) is written as structured logs
+- This is essentially a **searchable long-term memory system** bolted onto the LLM
 
 ## Results
 
