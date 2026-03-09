@@ -71,6 +71,10 @@
 - [[2026-03-06/qcut-native-cli-source-check-20260306|QCut Native CLI 源码复盘：主干已成，细节进入收口期]]
 - [[2026-03-07/linear-cli-terminal-issue-tracker|Linear CLI：不离开终端管理 Linear Issues 的命令行工具]]
 - [[2026-03-07/linear-github-branch-issue-pr-workflow|Linear + GitHub：Issue → Branch → PR 完整工作流]]
+- [[2026-03-09/agent-skills-ecosystem-landscape|2026 Agent Skills 生态全景：从 SKILL.md 到万级市场]]
+- [[2026-03-09/apify-agent-skills-web-scraping-for-ai|Apify Agent Skills：给 AI 编程助手装上「爬虫超能力」]]
+- [[2026-03-09/rtk-ai-agent-toolkit|RTK：让 AI 编程助手省下 80% Token 的 CLI 神器]]
+- [[2026-03-09/prompt-engineering-ship-faster|Prompt 工程实战：让 AI Coding Agent 10 倍提速的写法]]
 
 ## 🔌 MCP 生态
 - [[2026-02-13/WebMCP-Browser-Native-Agent-API|WebMCP：让网站成为 Agent 工具接口]]
@@ -135,6 +139,7 @@
 - [[2026-02-24/fdm1-computer-action-model|FDM-1 通用计算机操作模型]]
 - [[2026-03-01/scrapling-cloudflare-bypass|Scrapling：突破 Cloudflare 的开源爬虫框架]]
 - [[2026-03-01/wifi-densepose-through-wall|WiFi DensePose：用 WiFi 信号透视人体姿态]]
+- [[2026-03-09/openai-cua-computer-use-agent|OpenAI CUA：让 AI 像人一样操控电脑]]
 
 ## 🎨 AI 创意工具
 - [[2026-02-26/recraft-v4-image-generation|Recraft V4 图片生成]]
@@ -156,6 +161,7 @@
 - [[2026-03-04/skydiscover-ai-discovery-framework|SkyDiscover：开源 AlphaEvolve 替代品，200+ 任务刷新 SOTA]]
 - [[2026-03-05/world-class-agentic-engineer|如何成为 World-Class Agentic Engineer：不是会用工具，而是会设计工作流]]
 - [[2026-03-06/xiaomi-miclaw-mobile-agent-architecture|Xiaomi miclaw：移动端 Agent 从"会聊天"走向"能执行"的四层架构]]
+- [[2026-03-09/karpathy-autoresearch|Karpathy 的 autoresearch：让 AI Agent 自动做 AI 研究]]
 
 ## 💰 其他
 - [[2026-02-24/polymarket-cli|Polymarket CLI：终端玩预测市场]]
