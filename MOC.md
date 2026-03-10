@@ -52,6 +52,8 @@
 - [[2026-03-06/qagent-learn-from-symphony-progress-report-2|QAgent 学习 Symphony：第二阶段进展报告]]
 - [[2026-03-07/symphony-elixir-deep-dive|OpenAI Symphony Elixir 源码深度拆解：9000 行代码到底在干什么]]
 - [[2026-03-05/paperclip-vs-qagent-architecture-teardown|Paperclip vs QAgent：架构级拆解]]
+- [[2026-03-10/arc-agi-3-alexis-fox-analysis|RGB Agent：用 1,069 步通关 ARC-AGI-3，比人类还高效]]
+- [[2026-03-10/mirofish-social-simulation|MiroFish：知识图谱驱动的群体智能社会仿真平台]]
 
 ## 🔧 AI 编码工具对比
 - [[2026-02-15/AI-Coding-CLI-Architecture-Comparison/article|五把 AI 手术刀架构全拆解]]
@@ -75,6 +77,9 @@
 - [[2026-03-09/apify-agent-skills-web-scraping-for-ai|Apify Agent Skills：给 AI 编程助手装上「爬虫超能力」]]
 - [[2026-03-09/rtk-ai-agent-toolkit|RTK：让 AI 编程助手省下 80% Token 的 CLI 神器]]
 - [[2026-03-09/prompt-engineering-ship-faster|Prompt 工程实战：让 AI Coding Agent 10 倍提速的写法]]
+- [[2026-03-10/devin-review-free-pr-review|Devin Review：免费的 AI PR Review 工具，解决 AI 时代的代码审查瓶颈]]
+- [[2026-03-10/qcut-multi-platform-migration-plan|QCut 多平台架构迁移路线图（Desktop / Web / iPad）]]
+- [[2026-03-10/skillcraft-agent-skill-generation|SkillCraft：LLM Agent 能学会"熟练"使用工具吗？]]
 
 ## 🔌 MCP 生态
 - [[2026-02-13/WebMCP-Browser-Native-Agent-API|WebMCP：让网站成为 Agent 工具接口]]
@@ -96,6 +101,7 @@
 - [[2026-03-03/vidi2-spatiotemporal-grounding|Vidi2：字节跳动视频理解大模型 — 时空定位碾压 Gemini/GPT-5]]
 - [[2026-03-04/waoowaoo-ai-film-production|Waoowaoo：开源 AI 全流程影视制作平台，从小说到成片一键搞定]]
 - [[2026-03-06/ltx-desktop-open-source-video-studio|LTX-Desktop：开源 AI 视频工作站，本地+API 双模架构]]
+- [[2026-03-10/autoclip-automated-video-clipping|AutoClip：AI驱动的智能视频切片与高光提取工具]]
 - [[2026-03-04/scriptslug-imsdb-deadline-research-stack|Script Slug + IMSDb + Deadline：编剧与导演的"信息铁三角"]]
 - [[2026-03-04/shotdeck-frameset-flim-comparison|ShotDeck vs Frameset vs Flim.ai：导演参考库三件套怎么选？]]
 
@@ -162,6 +168,8 @@
 - [[2026-03-05/world-class-agentic-engineer|如何成为 World-Class Agentic Engineer：不是会用工具，而是会设计工作流]]
 - [[2026-03-06/xiaomi-miclaw-mobile-agent-architecture|Xiaomi miclaw：移动端 Agent 从"会聊天"走向"能执行"的四层架构]]
 - [[2026-03-09/karpathy-autoresearch|Karpathy 的 autoresearch：让 AI Agent 自动做 AI 研究]]
+- [[2026-03-10/karpathy-autoresearch-results-nanochat|Karpathy 的 Autoresearch 首战告捷：小模型改进全部迁移到大模型]]
+- [[2026-03-10/jeff-dean-interview-50-ai-interns|Jeff Dean 最新访谈：未来每个开发者管理 50 个 AI 实习生]]
 
 ## 💰 其他
 - [[2026-02-24/polymarket-cli|Polymarket CLI：终端玩预测市场]]
