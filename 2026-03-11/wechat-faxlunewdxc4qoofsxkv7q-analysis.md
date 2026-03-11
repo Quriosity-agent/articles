@@ -3,6 +3,9 @@
 原文链接：<https://mp.weixin.qq.com/s/FAXLuNewDxc4QoOFsxkV7Q>  
 文章来源：红杉汇（内容核心来自 xbench / Humanlaya Data Lab / BIGAI / M-A-P 联合发布）
 
+![OneMillion-Bench 文章封面图，突出“1美元 Token 撬动高价值任务交付”](assets/wechat-faxlunewdxc4qoofsxkv7q/hero-cover.jpg)
+*图：原文封面，强调基准的经济价值视角。*
+
 ## 先说结论：AI 已经能“赚钱”，但还没到“放心托付”
 
 这篇文章最有价值的地方，不是又发了一个榜单，而是把评测目标从“分数”切到“可兑现经济价值”。
@@ -52,6 +55,12 @@ $OneMillion-Bench 的设计，解决的是“能不能上线”的问题：
 
 这套体系的意义是：让模型评测结果更接近“采购一个 Agent 团队后，财务报表会发生什么”。
 
+![OneMillion-Bench 框架示意图，展示高价值任务、Rubric 与评测结构](assets/wechat-faxlunewdxc4qoofsxkv7q/benchmark-overview.png)
+*图：基准设计框架，强调“高价值任务 × 可复核评测”。*
+
+![任务经济价值计算示意：专家耗时与时薪映射到可兑现价值](assets/wechat-faxlunewdxc4qoofsxkv7q/economic-value-formula.png)
+*图：$OneMillion-Bench 的经济价值计算逻辑。*
+
 ---
 
 ## 成绩单怎么读：平均分会误导，Pass Rate 才能指导上线
@@ -70,6 +79,9 @@ $OneMillion-Bench 的设计，解决的是“能不能上线”的问题：
 
 - 不要把“看起来聪明”当成“可签 SLA”
 - 要把评估指标从“平均体验”改成“可交付比例 + 返工成本 + 错误损失”
+
+![模型通过率、平均分与总经济价值对比图](assets/wechat-faxlunewdxc4qoofsxkv7q/scoreboard-passrate-value.png)
+*图：平均分与通过率的落差，直接影响可兑现经济价值。*
 
 ---
 

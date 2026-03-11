@@ -3,6 +3,9 @@
 Source article: <https://mp.weixin.qq.com/s/FAXLuNewDxc4QoOFsxkV7Q>  
 Published via Sequoia-style media summary, based on xbench / Humanlaya Data Lab / BIGAI / M-A-P findings.
 
+![Cover visual from the OneMillion-Bench WeChat article highlighting high ROI from token spend](assets/wechat-faxlunewdxc4qoofsxkv7q/hero-cover.jpg)
+*Figure: Original cover visual framing the benchmark in economic-value terms.*
+
 ## Executive summary
 
 The most useful shift in this piece is methodological: it evaluates AI systems by **deliverable economic value**, not just benchmark scores.
@@ -47,6 +50,12 @@ $OneMillion-Bench adds practical constraints:
 
 This makes the benchmark much closer to a procurement question: _if I hire AI for expert workflows, what value is truly deliverable?_ 
 
+![Overview graphic of benchmark design and evaluation dimensions](assets/wechat-faxlunewdxc4qoofsxkv7q/benchmark-overview.png)
+*Figure: Benchmark structure emphasizing high-value tasks and rubric-based assessment.*
+
+![Economic value formula visual mapping expert labor into benchmark value](assets/wechat-faxlunewdxc4qoofsxkv7q/economic-value-formula.png)
+*Figure: How task value is priced (expert time × hourly rate).* 
+
 ---
 
 ## How to read the scoreboard correctly
@@ -65,6 +74,9 @@ For builders, this means your north-star metric should not be “looks smart,”
 - deliverable pass rate,
 - rework burden,
 - and downside cost of failures.
+
+![Comparison chart of pass rate, average score, and total economic value across models](assets/wechat-faxlunewdxc4qoofsxkv7q/scoreboard-passrate-value.png)
+*Figure: The score-to-delivery gap that drives real-world rework and risk.*
 
 ---
 
