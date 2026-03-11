@@ -31,6 +31,7 @@
 - [[2026-03-03/codex-0107-fork|Codex 0.107.0：Fork 功能 — Agent 带着完整记忆分身]]
 - [[2026-03-04/codex-context-compaction-deep-dive|深度解析 Codex Context Compaction：AI 怎么"压缩记忆"不丢关键信息]]
 - [[2026-03-06/openai-gpt-54-release-analysis|OpenAI GPT-5.4：从"更强模型"到"更会干活的 Agent 引擎"]]
+- [[2026-03-11/openai-agents-python-analysis|openai-agents-python 深度拆解：给构建者的实战指南]]
 
 ## 🐙 多 Agent 编排
 - [[2026-02-22/ai-team-skills|AI Team Skills：Claude 指挥 Gemini 和 Codex 协作]]
@@ -54,6 +55,7 @@
 - [[2026-03-05/paperclip-vs-qagent-architecture-teardown|Paperclip vs QAgent：架构级拆解]]
 - [[2026-03-10/arc-agi-3-alexis-fox-analysis|RGB Agent：用 1,069 步通关 ARC-AGI-3，比人类还高效]]
 - [[2026-03-10/mirofish-social-simulation|MiroFish：知识图谱驱动的群体智能社会仿真平台]]
+- [[2026-03-11/karpathy-agenthub-analysis|Karpathy 的 AgentHub 深度解析：给 Builder 的实战技术笔记]]
 
 ## 🔧 AI 编码工具对比
 - [[2026-02-15/AI-Coding-CLI-Architecture-Comparison/article|五把 AI 手术刀架构全拆解]]
@@ -80,6 +82,7 @@
 - [[2026-03-10/devin-review-free-pr-review|Devin Review：免费的 AI PR Review 工具，解决 AI 时代的代码审查瓶颈]]
 - [[2026-03-10/qcut-multi-platform-migration-plan|QCut 多平台架构迁移路线图（Desktop / Web / iPad）]]
 - [[2026-03-10/skillcraft-agent-skill-generation|SkillCraft：LLM Agent 能学会"熟练"使用工具吗？]]
+- [[2026-03-10/alphaxiv-paper-lookup-skill|AlphaXiv Paper Lookup Skill：给 AI Agent 的论文检索"快车道"]]
 
 ## 🔌 MCP 生态
 - [[2026-02-13/WebMCP-Browser-Native-Agent-API|WebMCP：让网站成为 Agent 工具接口]]
@@ -128,6 +131,7 @@
 - [[2026-03-03/seed20-production-llm|Seed 2.0：字节跳动生产级大模型全面升级]]
 - [[2026-03-06/google-bayesian-teaching-llms|Google「教 LLM 像贝叶斯一样推理」：模仿最优猜测比直接喂正确答案更强]]
 - [[2026-03-06/luma-uni1-unified-image-model|Luma Uni-1：15人华人团队做出的统一图像模型]]
+- [[2026-03-11/wechat-faxlunewdxc4qoofsxkv7q-analysis|从"会答题"到"能交付"：$OneMillion-Bench 给 AI Agent 创业者的五个硬结论]]
 
 ## 🦞 OpenClaw 生态
 - [[2026-02-11/OpenClaw背后的秘密武器-大道至简的Pi-Mono|OpenClaw 背后的 Pi-Mono]]
@@ -146,6 +150,7 @@
 - [[2026-03-01/scrapling-cloudflare-bypass|Scrapling：突破 Cloudflare 的开源爬虫框架]]
 - [[2026-03-01/wifi-densepose-through-wall|WiFi DensePose：用 WiFi 信号透视人体姿态]]
 - [[2026-03-09/openai-cua-computer-use-agent|OpenAI CUA：让 AI 像人一样操控电脑]]
+- [[2026-03-11/ghost-os-analysis|Ghost OS 技术分析：让 AI 代理真正"操作电脑"]]
 
 ## 🎨 AI 创意工具
 - [[2026-02-26/recraft-v4-image-generation|Recraft V4 图片生成]]
@@ -157,6 +162,7 @@
 - [[2026-03-04/midjourney-vintage-japanese-film-style|Midjourney 日系复古胶片风格：提示词 + 参数一键出图指南]]
 - [[2026-03-02/tldraw-canvas-sdk|tldraw：500 万美元开源无限画布 SDK]]
 - [[2026-03-06/generative-media-skills-agent-toolkit|Generative-Media-Skills：AI Agent 的多模态生产工具箱]]
+- [[2026-03-11/fish-speech-analysis|Fish Speech 技术解析：从开源仓库看 S2 的架构、工作流与落地策略]]
 
 ## 🔮 行业观察 & 访谈
 - [[2026-02-27/dario-amodei-tsunami-interview|Dario Amodei：海啸已在地平线上]]
@@ -170,6 +176,7 @@
 - [[2026-03-09/karpathy-autoresearch|Karpathy 的 autoresearch：让 AI Agent 自动做 AI 研究]]
 - [[2026-03-10/karpathy-autoresearch-results-nanochat|Karpathy 的 Autoresearch 首战告捷：小模型改进全部迁移到大模型]]
 - [[2026-03-10/jeff-dean-interview-50-ai-interns|Jeff Dean 最新访谈：未来每个开发者管理 50 个 AI 实习生]]
+- [[2026-03-11/qingq77-2031573577355743471-analysis|从"PUA AI"到工程韧性：一条爆款推文背后的提示词工程边界]]
 
 ## 💰 其他
 - [[2026-02-24/polymarket-cli|Polymarket CLI：终端玩预测市场]]
