@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description"
+        content="runescape-bench evaluates AI coding agents on their ability to play RuneScape.">
+  <meta name="keywords" content="runescape-bench, RuneScape, AI benchmark, coding agents">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/png" href="views/skill-icons/crafting.png">
+  <title>runescape-bench: AI Agent Benchmark for RuneScape</title>
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+        rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github.min.css">
+  <link rel="stylesheet" href="app/styles.css">
+</head>
+<body>
+  <div id="root"></div>
+
+  <!-- Dependencies -->
+  <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+  <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+  <script src="https://unpkg.com/htm@3/dist/htm.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+
+  <!-- Shared constants and data -->
+  <script>window.VIEWS_BASE = 'views/';</script>
+  <script src="views/shared-constants.js"></script>
+  <script src="views/cumulative-chart.js"></script>
+  <script src="results/skills-30m/_data.js"></script>
+
+  <!-- React app -->
+  <script type="module" src="app/index.js"></script>
+</body>
+</html>
+
