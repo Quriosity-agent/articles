@@ -1,0 +1,52 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='860' viewBox='0 0 1200 860'>
+  <style>
+    .title{font:700 32px Arial; fill:#111}
+    .h{font:700 19px Arial; fill:#111}
+    .t{font:15px Arial; fill:#222}
+    .box{fill:#f8fafc; stroke:#64748b; stroke-width:2; rx:12}
+    .step{fill:#eef2ff; stroke:#3730a3; stroke-width:2; rx:10}
+    .warn{fill:#fff7ed; stroke:#c2410c; stroke-width:2; rx:10}
+    .ok{fill:#ecfccb; stroke:#3f6212; stroke-width:2; rx:10}
+    .arr{stroke:#334155; stroke-width:2.2; marker-end:url(#a)}
+  </style>
+  <defs><marker id='a' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><polygon points='0,0 10,4 0,8' fill='#334155'/></marker></defs>
+
+  <text x='40' y='52' class='title'>Typical Firecrawl CLI execution flow</text>
+
+  <rect class='step' x='60' y='90' width='1080' height='90'/>
+  <text x='90' y='126' class='h'>1) Parse command + normalize input</text>
+  <text x='90' y='152' class='t'>URL shorthand (firecrawl https://...), option parsing, command dispatch (Commander)</text>
+
+  <rect class='step' x='60' y='210' width='1080' height='100'/>
+  <text x='90' y='246' class='h'>2) Resolve auth/config</text>
+  <text x='90' y='272' class='t'>Config precedence: CLI flags > env vars > stored credentials; preAction hook enforces auth for core commands</text>
+  <text x='90' y='294' class='t'>Exception: custom --api-url skips mandatory cloud auth (useful for self-hosted/local Firecrawl)</text>
+
+  <rect class='step' x='60' y='340' width='520' height='140'/>
+  <text x='90' y='376' class='h'>3A) Synchronous path</text>
+  <text x='90' y='402' class='t'>scrape / map / search</text>
+  <text x='90' y='426' class='t'>Single request-response, optional multi-URL concurrency</text>
+  <text x='90' y='450' class='t'>download = map first, then batched scrape + nested file write</text>
+
+  <rect class='step' x='620' y='340' width='520' height='140'/>
+  <text x='650' y='376' class='h'>3B) Job-based async path</text>
+  <text x='650' y='402' class='t'>crawl / agent / browser sessions</text>
+  <text x='650' y='426' class='t'>Start job or session, optionally --wait with polling + spinner/progress</text>
+  <text x='650' y='450' class='t'>Job IDs become stable handles for status checks and resumable workflows</text>
+
+  <rect class='warn' x='60' y='520' width='1080' height='120'/>
+  <text x='90' y='556' class='h'>4) Output shaping</text>
+  <text x='90' y='582' class='t'>Raw text for single text formats (markdown/html/links/images/summary); JSON for multi-format or complex payloads</text>
+  <text x='90' y='606' class='t'>Writes to stdout by default; -o writes files (auto-creates directories). .firecrawl/ used as local cache/workspace</text>
+
+  <rect class='ok' x='60' y='680' width='1080' height='120'/>
+  <text x='90' y='716' class='h'>5) Integrate into builder workflow</text>
+  <text x='90' y='742' class='t'>Shell pipes, CI jobs, AI coding agents via setup skills/MCP, and experimental multi-agent workflows (claude/codex/opencode)</text>
+  <text x='90' y='766' class='t'>Operational guardrails: credit visibility, concurrency limits, retries/timeouts, controllable scraping depth</text>
+
+  <line class='arr' x1='600' y1='180' x2='600' y2='210'/>
+  <line class='arr' x1='600' y1='310' x2='600' y2='340'/>
+  <line class='arr' x1='320' y1='480' x2='320' y2='520'/>
+  <line class='arr' x1='880' y1='480' x2='880' y2='520'/>
+  <line class='arr' x1='600' y1='640' x2='600' y2='680'/>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='760' viewBox='0 0 1200 760'>
+  <style>
+    .title{font:700 34px Arial; fill:#111}
+    .h{font:700 20px Arial; fill:#111}
+    .t{font:16px Arial; fill:#222}
+    .small{font:14px Arial; fill:#333}
+    .box{fill:#f7f9fc; stroke:#5b6b82; stroke-width:2; rx:12}
+    .cmd{fill:#fff7ed; stroke:#c2410c; stroke-width:2; rx:10}
+    .util{fill:#ecfeff; stroke:#0e7490; stroke-width:2; rx:10}
+    .sdk{fill:#ecfccb; stroke:#4d7c0f; stroke-width:2; rx:10}
+    .arr{stroke:#334155; stroke-width:2.2; marker-end:url(#a)}
+  </style>
+  <defs><marker id='a' markerWidth='10' markerHeight='8' refX='9' refY='4' orient='auto'><polygon points='0,0 10,4 0,8' fill='#334155'/></marker></defs>
+  <text x='40' y='52' class='title'>Firecrawl CLI runtime architecture (from src/index.ts + commands/*)</text>
+
+  <rect class='box' x='40' y='90' width='1120' height='100'/>
+  <text x='60' y='125' class='h'>Entry layer: Commander router (src/index.ts)</text>
+  <text x='60' y='155' class='t'>- Defines commands, global flags, URL shorthand, and preAction auth hook</text>
+  <text x='60' y='178' class='t'>- Routes to scrape/map/crawl/search/agent/browser/init/setup/status handlers</text>
+
+  <rect class='cmd' x='40' y='230' width='185' height='90'/><text x='60' y='268' class='h'>scrape / download</text><text x='60' y='292' class='small'>commands/scrape.ts</text>
+  <rect class='cmd' x='245' y='230' width='185' height='90'/><text x='300' y='268' class='h'>map</text><text x='275' y='292' class='small'>commands/map.ts</text>
+  <rect class='cmd' x='450' y='230' width='185' height='90'/><text x='505' y='268' class='h'>crawl</text><text x='480' y='292' class='small'>commands/crawl.ts</text>
+  <rect class='cmd' x='655' y='230' width='185' height='90'/><text x='705' y='268' class='h'>search</text><text x='685' y='292' class='small'>commands/search.ts</text>
+  <rect class='cmd' x='860' y='230' width='145' height='90'/><text x='903' y='268' class='h'>agent</text><text x='878' y='292' class='small'>commands/agent.ts</text>
+  <rect class='cmd' x='1025' y='230' width='135' height='90'/><text x='1058' y='268' class='h'>browser</text><text x='1045' y='292' class='small'>commands/browser.ts</text>
+
+  <rect class='util' x='60' y='380' width='230' height='135'/><text x='80' y='415' class='h'>Auth + credentials</text><text x='80' y='440' class='small'>utils/auth.ts</text><text x='80' y='462' class='small'>utils/credentials.ts</text><text x='80' y='484' class='small'>PKCE browser login</text>
+  <rect class='util' x='320' y='380' width='230' height='135'/><text x='340' y='415' class='h'>Global config</text><text x='340' y='440' class='small'>utils/config.ts</text><text x='340' y='462' class='small'>env + stored key merge</text><text x='340' y='484' class='small'>custom api-url bypass</text>
+  <rect class='util' x='580' y='380' width='230' height='135'/><text x='600' y='415' class='h'>Output pipeline</text><text x='600' y='440' class='small'>utils/output.ts</text><text x='600' y='462' class='small'>raw text vs JSON rules</text><text x='600' y='484' class='small'>stdout or file write</text>
+  <rect class='util' x='840' y='380' width='320' height='135'/><text x='860' y='415' class='h'>Session persistence + status</text><text x='860' y='440' class='small'>utils/browser-session.ts</text><text x='860' y='462' class='small'>commands/status.ts</text><text x='860' y='484' class='small'>concurrency/credits + local cache info</text>
+
+  <rect class='sdk' x='220' y='570' width='760' height='130'/>
+  <text x='250' y='610' class='h'>Execution backend: @mendable/firecrawl-js SDK + Firecrawl API</text>
+  <text x='250' y='638' class='t'>Methods used: scrape, map, startCrawl/getCrawlStatus, search, startAgent/getAgentStatus, browser/browserExecute</text>
+  <text x='250' y='664' class='t'>Most command handlers are thin orchestration layers over SDK calls, with CLI-native UX (prompts/progress/file outputs)</text>
+
+  <line class='arr' x1='600' y1='190' x2='600' y2='230'/>
+  <line class='arr' x1='140' y1='320' x2='140' y2='380'/>
+  <line class='arr' x1='390' y1='320' x2='390' y2='380'/>
+  <line class='arr' x1='695' y1='320' x2='695' y2='380'/>
+  <line class='arr' x1='1030' y1='320' x2='1030' y2='380'/>
+  <line class='arr' x1='600' y1='515' x2='600' y2='570'/>
+</svg>
