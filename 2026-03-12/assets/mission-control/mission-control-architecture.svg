@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680">
+  <style>
+    .title{font:700 28px Arial;fill:#0f172a}
+    .label{font:600 18px Arial;fill:#0f172a}
+    .small{font:14px Arial;fill:#334155}
+    .box{fill:#f8fafc;stroke:#334155;stroke-width:2;rx:12}
+    .accent{fill:#ecfeff;stroke:#0891b2;stroke-width:2;rx:12}
+    .db{fill:#fef3c7;stroke:#d97706;stroke-width:2;rx:12}
+    .ext{fill:#f5f3ff;stroke:#7c3aed;stroke-width:2;rx:12}
+    .arrow{stroke:#0f172a;stroke-width:2.5;marker-end:url(#arr)}
+  </style>
+  <defs>
+    <marker id="arr" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L10,3 L0,6 Z" fill="#0f172a"/>
+    </marker>
+  </defs>
+
+  <text x="40" y="50" class="title">Mission Control (Autensa) — Source-grounded Architecture</text>
+
+  <rect x="40" y="90" width="1120" height="540" class="box" fill="#ffffff"/>
+  <text x="60" y="120" class="label">Self-hosted environment</text>
+
+  <rect x="80" y="160" width="360" height="180" class="accent"/>
+  <text x="100" y="195" class="label">Mission Control UI + API</text>
+  <text x="100" y="220" class="small">Next.js 14 App Router</text>
+  <text x="100" y="245" class="small">Kanban, planning Q&A, task dispatch</text>
+  <text x="100" y="270" class="small">SSE stream: /api/events/stream</text>
+  <text x="100" y="295" class="small">Auth: MC_API_TOKEN, webhook secret</text>
+
+  <rect x="80" y="390" width="360" height="170" class="db"/>
+  <text x="100" y="425" class="label">SQLite state store</text>
+  <text x="100" y="450" class="small">tasks, agents, workflows, roles</text>
+  <text x="100" y="475" class="small">activities, deliverables, sessions</text>
+  <text x="100" y="500" class="small">knowledge_entries (learner memory)</text>
+
+  <rect x="500" y="160" width="300" height="180" class="ext"/>
+  <text x="520" y="195" class="label">OpenClaw Gateway</text>
+  <text x="520" y="220" class="small">WebSocket RPC + challenge auth</text>
+  <text x="520" y="245" class="small">chat.send / sessions / models / node</text>
+  <text x="520" y="270" class="small">Routes work to agent sessions</text>
+
+  <rect x="860" y="160" width="250" height="180" class="ext"/>
+  <text x="880" y="195" class="label">LLM Providers</text>
+  <text x="880" y="220" class="small">Anthropic / OpenAI / Google</text>
+  <text x="880" y="245" class="small">(via OpenClaw)</text>
+
+  <rect x="500" y="390" width="610" height="170" class="accent"/>
+  <text x="520" y="425" class="label">Agent execution + QA loop</text>
+  <text x="520" y="450" class="small">Builder → Tester (Playwright + CSS/resource checks) → Reviewer/Verifier</text>
+  <text x="520" y="475" class="small">Failure loopback via fail_targets; queue draining + role handoff</text>
+  <text x="520" y="500" class="small">Artifacts logged as deliverables; progress logged as task_activities</text>
+
+  <line x1="440" y1="250" x2="500" y2="250" class="arrow"/>
+  <line x1="800" y1="250" x2="860" y2="250" class="arrow"/>
+  <line x1="260" y1="340" x2="260" y2="390" class="arrow"/>
+  <line x1="650" y1="340" x2="650" y2="390" class="arrow"/>
+  <line x1="500" y1="475" x2="440" y2="475" class="arrow"/>
+  <text x="315" y="468" class="small">write/read</text>
+</svg>
