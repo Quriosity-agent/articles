@@ -1,4 +1,4 @@
-﻿# PPBench Figures Deep Dive: Why â€œReasoningâ€ Alone Is Not Enough
+# PPBench Figures Deep Dive: Why "Reasoning" Alone Is Not Enough
 
 > Based on https://ppbench.com/figures.html plus context from the main PPBench site (Leaderboard / Puzzles) and public repo docs.
 
@@ -14,7 +14,7 @@ Pencil Puzzle Bench (PPBench) is a highly practical reasoning benchmark: instead
 Why this matters for builders:
 - 300 tasks are enough for comparative signal, but still a controlled benchmark, not your production KPI.
 - 20 puzzle families provide structure diversity, but not universal generalization.
-- 17k runs is materially stronger than anecdotal â€œfew exampleâ€ claims.
+- 17k runs is materially stronger than anecdotal "few example" claims.
 
 ## 2) Metric definitions (the minimum shared vocabulary)
 
@@ -41,7 +41,7 @@ High-value observations:
 - For some models, agentic execution helps a lot; for others, it can underperform direct ask.
 
 **Builder takeaway**:
-- Always benchmark **strategy Ã— model** pairs; donâ€™t assume agentic is universally better.
+- Always benchmark **strategy × model** pairs; don't assume agentic is universally better.
 - Reasoning tier selection inside a model family can matter more than switching model family.
 
 ---
@@ -87,8 +87,8 @@ This is one of the most deployment-relevant charts:
 
 **Builder takeaway**:
 - Route by business value:
-  - low-value tasks â†’ cheap Pareto points,
-  - high-value tasks â†’ expensive high-success tier.
+  - low-value tasks → cheap Pareto points,
+  - high-value tasks → expensive high-success tier.
 - Optimize for utility, not raw success only (`value * success - cost`).
 
 ---
@@ -99,7 +99,7 @@ This is one of the most deployment-relevant charts:
 *Caption: How solve rate changes as reasoning budget increases.*
 
 Typical pattern shown:
-- Big gains from low â†’ medium/high in some models.
+- Big gains from low → medium/high in some models.
 - Higher tiers can show diminishing or unstable marginal returns.
 
 **Builder takeaway**:
@@ -151,7 +151,7 @@ Distribution shape matters:
 ![Complete](assets/ppbench-figures/puzzle_example_complete.png)
 *Caption: Fully solved state.*
 
-These visuals reinforce PPBenchâ€™s key advantage: **observable intermediate states**.
+These visuals reinforce PPBench's key advantage: **observable intermediate states**.
 
 **Builder takeaway**:
 - Process supervision (step checks) often improves reliability more than final-answer-only scoring.
@@ -174,7 +174,7 @@ Granular grid analysis helps reveal:
 
 ## 4) Practical implementation checklist
 
-1. Baseline **model Ã— strategy Ã— effort Ã— cost** in one matrix.  
+1. Baseline **model × strategy × effort × cost** in one matrix.  
 2. Use adaptive escalation (start cheap, escalate on failure class).  
 3. Instrument step-level verifier signals, not only final answer pass/fail.  
 4. Build structural difficulty scoring (including move-compression proxies).  
@@ -185,5 +185,5 @@ Granular grid analysis helps reveal:
 
 PPBench is valuable not just because it ranks models, but because it operationalizes a production-like evaluation pattern: **interactive, verifiable, cost-aware, and debug-friendly multi-step reasoning**.
 
-â€”â€” ðŸ¦ž
+—— 🦞
 

@@ -1,4 +1,4 @@
-﻿# Mission Control (Autensa) Deep Dive: Practical Analysis for Builders
+# Mission Control (Autensa) Deep Dive: Practical Analysis for Builders
 
 > Repository analyzed: <https://github.com/crshdn/mission-control>  
 > Version context: `v1.5.0` (README/package.json)
@@ -10,7 +10,7 @@
 
 Mission Control (now branded as **Autensa**, formerly Mission Control) is a **self-hosted orchestration dashboard** built with Next.js + SQLite that sits in front of OpenClaw Gateway. It gives teams a visual control plane for task planning, role-based multi-agent handoffs, real-time activity visibility, and iterative quality gates.
 
-If your pain is â€œagent sessions are powerful but hard to supervise,â€ this project is directly aimed at that.
+If your pain is "agent sessions are powerful but hard to supervise," this project is directly aimed at that.
 
 ---
 
@@ -54,7 +54,7 @@ Key components:
 *Figure 3. Workflow/fail-loop model based on `workflow-engine.ts` + project docs.*
 
 Typical lifecycle:
-1. Task created â†’ planning Q&A starts.
+1. Task created → planning Q&A starts.
 2. Planner/spec is stored in task fields (`planning_spec`, `planning_agents`).
 3. Handoff by role/stage (`task_roles` + `workflow_templates`).
 4. Dispatch sends detailed execution prompt to agent session.
@@ -125,18 +125,18 @@ Less ideal:
 - n8n is broader for generic SaaS automation and integrations.
 - Mission Control is narrower but deeper for **agent task orchestration linked to OpenClaw sessions**.
 
-### vs â€œjust run coding agents in terminalâ€
+### vs "just run coding agents in terminal"
 - Terminal-only is lighter and faster for one person.
-- Mission Control adds shared visibility, queueing, role routing, QA stages, and durable historyâ€”valuable once coordination matters.
+- Mission Control adds shared visibility, queueing, role routing, QA stages, and durable history—valuable once coordination matters.
 
 ---
 
 ## Actionable takeaways for builders
 
-1. Start with the default pipeline (Builder â†’ Tester â†’ Reviewer/Verifier) before adding custom stages.
+1. Start with the default pipeline (Builder → Tester → Reviewer/Verifier) before adding custom stages.
 2. Use task image attachments for UI-heavy tasks; this reduces ambiguity early.
 3. Keep role definitions clean; fuzzy role-agent matching works best with disciplined naming.
-4. Treat `knowledge_entries` as a feedback assetâ€”review and prune regularly.
+4. Treat `knowledge_entries` as a feedback asset—review and prune regularly.
 5. If operating multi-machine, harden token management and proxy/NO_PROXY behavior from day one.
 6. For team adoption, standardize completion payloads (deliverables + verification notes) to preserve audit quality.
 
@@ -144,9 +144,9 @@ Less ideal:
 
 ## Final assessment
 
-Mission Control is one of the more practical open-source attempts at turning agent execution into a **visible, governable, iterative production workflow**. It wonâ€™t replace your runtime or your full DevOps stack, but it can be an effective orchestration layer when your bottleneck is coordination, quality gating, and operational transparency.
+Mission Control is one of the more practical open-source attempts at turning agent execution into a **visible, governable, iterative production workflow**. It won't replace your runtime or your full DevOps stack, but it can be an effective orchestration layer when your bottleneck is coordination, quality gating, and operational transparency.
 
 For builder teams already in OpenClaw-land, this is a high-leverage control surface worth piloting.
 
-ðŸ¦ž
+🦞
 
