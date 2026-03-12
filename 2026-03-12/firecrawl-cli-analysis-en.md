@@ -1,4 +1,4 @@
-# Firecrawl CLI Deep Dive: Architecture, Workflow, and Where It Fits
+﻿# Firecrawl CLI Deep Dive: Architecture, Workflow, and Where It Fits
 
 Repository: <https://github.com/firecrawl/cli>
 
@@ -6,7 +6,7 @@ Repository: <https://github.com/firecrawl/cli>
 
 ## What Firecrawl CLI is
 
-**Firecrawl CLI** is a TypeScript command-line wrapper around Firecrawl’s API/SDK (`@mendable/firecrawl-js`) for turning websites into LLM-ready data.
+**Firecrawl CLI** is a TypeScript command-line wrapper around Firecrawlâ€™s API/SDK (`@mendable/firecrawl-js`) for turning websites into LLM-ready data.
 
 At a practical level, it gives you one interface for:
 
@@ -25,12 +25,12 @@ The design target is clear: **make Firecrawl capabilities scriptable in shell, C
 
 ## Visuals
 
-The repo currently doesn’t ship official architecture diagrams/screenshots in-tree, so the following visuals are derived from source (`src/index.ts`, `src/commands/*`, `src/utils/*`).
+The repo currently doesnâ€™t ship official architecture diagrams/screenshots in-tree, so the following visuals are derived from source (`src/index.ts`, `src/commands/*`, `src/utils/*`).
 
-![Firecrawl CLI runtime architecture](./assets/firecrawl-cli/firecrawl-cli-architecture.svg)
+![Firecrawl CLI runtime architecture](./assets/firecrawl-cli/firecrawl-cli-architecture.png)
 *Figure 1. Runtime architecture from command router to SDK/API execution layer.*
 
-![Firecrawl CLI execution flow](./assets/firecrawl-cli/firecrawl-cli-workflow.svg)
+![Firecrawl CLI execution flow](./assets/firecrawl-cli/firecrawl-cli-workflow.png)
 *Figure 2. Typical request lifecycle from parse/auth to output/integration.*
 
 ---
@@ -80,7 +80,7 @@ Examples:
 - `setup skills` builds `npx skills add firecrawl/cli --full-depth --global --all` style install command.
 - `status` shows auth state + queue concurrency + credit usage + local cache hygiene.
 
-This is not “just another scraper binary”; it is also an **ops/onboarding surface** for teams.
+This is not â€œjust another scraper binaryâ€; it is also an **ops/onboarding surface** for teams.
 
 ---
 
@@ -90,7 +90,7 @@ This is not “just another scraper binary”; it is also an **ops/onboarding su
 
 For small-to-medium retrieval jobs:
 
-1. `search` when you don’t yet know URLs.
+1. `search` when you donâ€™t yet know URLs.
 2. `map` when you know site but need path discovery.
 3. `scrape` on final URLs for extraction.
 
@@ -106,7 +106,7 @@ This pattern is robust for CI and agentic workflows where long jobs are normal.
 
 ### Local artifact strategy
 
-`download` and multi-URL handling write to `.firecrawl/` with nested path mapping. That’s useful for:
+`download` and multi-URL handling write to `.firecrawl/` with nested path mapping. Thatâ€™s useful for:
 
 - reproducible datasets
 - offline post-processing
@@ -120,7 +120,7 @@ Best fit:
 
 - AI app builders who need web-to-LLM extraction quickly.
 - Developer teams that want command composability in shell/CI.
-- People using Claude Code/Codex/OpenCode/Cursor-style setups and needing “one command” integration.
+- People using Claude Code/Codex/OpenCode/Cursor-style setups and needing â€œone commandâ€ integration.
 
 Less ideal for:
 
@@ -141,7 +141,7 @@ Less ideal for:
    - `agent --schema-file schema.json --wait` to produce typed outputs.
 
 4. **QA and browser-required scraping**
-   - `browser launch-session` + `browser execute` for click/interaction workflows that normal scraping can’t reach.
+   - `browser launch-session` + `browser execute` for click/interaction workflows that normal scraping canâ€™t reach.
 
 5. **CI content checks**
    - crawl specific paths and validate deltas or broken assumptions in content structure.
@@ -179,7 +179,7 @@ Less ideal for:
    - convenient for many workflows, but some advanced browser automation users may still prefer direct Playwright projects for full control/debug tooling.
 
 4. **Feature velocity vs stability balance**
-   - experimental workflow surface is promising, but “coming soon” backends indicate some areas are still maturing.
+   - experimental workflow surface is promising, but â€œcoming soonâ€ backends indicate some areas are still maturing.
 
 ---
 
@@ -200,7 +200,7 @@ Less ideal for:
 - Both are automation/data platforms. Firecrawl CLI feels more focused on LLM-ready extraction ergonomics and coding-agent integration UX.
 - Apify often shines where you need marketplace actors and platform orchestration variety.
 
-## 4) Firecrawl CLI vs “search + ad-hoc scraping scripts”
+## 4) Firecrawl CLI vs â€œsearch + ad-hoc scraping scriptsâ€
 
 - CLI gives consistent output semantics, auth/config handling, status, credits, and structured job lifecycle; much less glue code.
 
@@ -231,4 +231,5 @@ Firecrawl CLI is a **pragmatic orchestration layer** that makes web extraction/s
 
 If your team wants to ship web-to-LLM data pipelines quickly, it is a high-leverage tool. If you need deep crawler internals customization, pair it with (or choose) lower-level frameworks.
 
-🦞
+ðŸ¦ž
+

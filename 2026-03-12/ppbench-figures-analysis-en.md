@@ -1,4 +1,4 @@
-# PPBench Figures Deep Dive: Why “Reasoning” Alone Is Not Enough
+﻿# PPBench Figures Deep Dive: Why â€œReasoningâ€ Alone Is Not Enough
 
 > Based on https://ppbench.com/figures.html plus context from the main PPBench site (Leaderboard / Puzzles) and public repo docs.
 
@@ -14,7 +14,7 @@ Pencil Puzzle Bench (PPBench) is a highly practical reasoning benchmark: instead
 Why this matters for builders:
 - 300 tasks are enough for comparative signal, but still a controlled benchmark, not your production KPI.
 - 20 puzzle families provide structure diversity, but not universal generalization.
-- 17k runs is materially stronger than anecdotal “few example” claims.
+- 17k runs is materially stronger than anecdotal â€œfew exampleâ€ claims.
 
 ## 2) Metric definitions (the minimum shared vocabulary)
 
@@ -32,7 +32,7 @@ Core metrics used across figures:
 
 ### Figure 1: Model Leaderboard
 
-![Model Leaderboard](assets/ppbench-figures/model_success_leaderboard.svg)
+![Model Leaderboard](assets/ppbench-figures/model_success_leaderboard.png)
 *Caption: Overall solve rates for 51 models, grouped by provider, split by Direct Ask vs Agentic.*
 
 High-value observations:
@@ -41,14 +41,14 @@ High-value observations:
 - For some models, agentic execution helps a lot; for others, it can underperform direct ask.
 
 **Builder takeaway**:
-- Always benchmark **strategy × model** pairs; don’t assume agentic is universally better.
+- Always benchmark **strategy Ã— model** pairs; donâ€™t assume agentic is universally better.
 - Reasoning tier selection inside a model family can matter more than switching model family.
 
 ---
 
 ### Figure 2: Frontier Progress (Recent)
 
-![Frontier Progress Recent](assets/ppbench-figures/model_success_over_time_recent_frontier_pins.svg)
+![Frontier Progress Recent](assets/ppbench-figures/model_success_over_time_recent_frontier_pins.png)
 *Caption: Recent frontier-model solve rates across reasoning effort tiers.*
 
 This figure emphasizes:
@@ -63,7 +63,7 @@ This figure emphasizes:
 
 ### Figure 3: Frontier Progress (Full History)
 
-![Frontier Progress Full](assets/ppbench-figures/model_success_over_time_full_frontier_pins.svg)
+![Frontier Progress Full](assets/ppbench-figures/model_success_over_time_full_frontier_pins.png)
 *Caption: Longer historical trend of puzzle-solving performance across model generations.*
 
 The long view suggests:
@@ -78,7 +78,7 @@ The long view suggests:
 
 ### Figure 4: Cost vs Success (Pareto Frontier)
 
-![Cost vs Success](assets/ppbench-figures/pareto_cost_vs_success.svg)
+![Cost vs Success](assets/ppbench-figures/pareto_cost_vs_success.png)
 *Caption: Pareto tradeoff between per-puzzle cost and solve rate.*
 
 This is one of the most deployment-relevant charts:
@@ -87,19 +87,19 @@ This is one of the most deployment-relevant charts:
 
 **Builder takeaway**:
 - Route by business value:
-  - low-value tasks → cheap Pareto points,
-  - high-value tasks → expensive high-success tier.
+  - low-value tasks â†’ cheap Pareto points,
+  - high-value tasks â†’ expensive high-success tier.
 - Optimize for utility, not raw success only (`value * success - cost`).
 
 ---
 
 ### Figure 5: Reasoning Effort Scaling
 
-![Reasoning Effort Scaling](assets/ppbench-figures/reasoning_effort_scaling.svg)
+![Reasoning Effort Scaling](assets/ppbench-figures/reasoning_effort_scaling.png)
 *Caption: How solve rate changes as reasoning budget increases.*
 
 Typical pattern shown:
-- Big gains from low → medium/high in some models.
+- Big gains from low â†’ medium/high in some models.
 - Higher tiers can show diminishing or unstable marginal returns.
 
 **Builder takeaway**:
@@ -110,7 +110,7 @@ Typical pattern shown:
 
 ### Figure 6: Difficulty Predictors
 
-![Difficulty Predictors](assets/ppbench-figures/difficulty_predictors_comparison.svg)
+![Difficulty Predictors](assets/ppbench-figures/difficulty_predictors_comparison.png)
 *Caption: Feature comparison for predicting model-facing puzzle difficulty; move-compression ratio leads as a single predictor.*
 
 This has direct architecture impact:
@@ -125,7 +125,7 @@ This has direct architecture impact:
 
 ### Figure 7: Difficulty Distribution
 
-![Difficulty Distribution](assets/ppbench-figures/difficulty_distribution.svg)
+![Difficulty Distribution](assets/ppbench-figures/difficulty_distribution.png)
 *Caption: Distribution of puzzle difficulty in the benchmark set.*
 
 Distribution shape matters:
@@ -139,19 +139,19 @@ Distribution shape matters:
 
 ### Figure 8: Puzzle Type Gallery + Solve-State Sequence
 
-![Puzzle Type Gallery](assets/ppbench-figures/puzzle_type_gallery.svg)
+![Puzzle Type Gallery](assets/ppbench-figures/puzzle_type_gallery.png)
 *Caption: Examples of the 20 puzzle types in the benchmark.*
 
-![Initial State](assets/ppbench-figures/puzzle_example_initial.svg)
+![Initial State](assets/ppbench-figures/puzzle_example_initial.png)
 *Caption: Initial unsolved state.*
 
-![Mid Solve](assets/ppbench-figures/puzzle_example_midsolve.svg)
+![Mid Solve](assets/ppbench-figures/puzzle_example_midsolve.png)
 *Caption: Intermediate partial progress.*
 
-![Complete](assets/ppbench-figures/puzzle_example_complete.svg)
+![Complete](assets/ppbench-figures/puzzle_example_complete.png)
 *Caption: Fully solved state.*
 
-These visuals reinforce PPBench’s key advantage: **observable intermediate states**.
+These visuals reinforce PPBenchâ€™s key advantage: **observable intermediate states**.
 
 **Builder takeaway**:
 - Process supervision (step checks) often improves reliability more than final-answer-only scoring.
@@ -161,7 +161,7 @@ These visuals reinforce PPBench’s key advantage: **observable intermediate sta
 
 ### Figure 9: Leaderboard Puzzle Grid
 
-![Leaderboard Puzzle Grid](assets/ppbench-figures/leaderboard_puzzle_grid_3x3.svg)
+![Leaderboard Puzzle Grid](assets/ppbench-figures/leaderboard_puzzle_grid_3x3.png)
 *Caption: Per-puzzle result landscape at granular level.*
 
 Granular grid analysis helps reveal:
@@ -174,7 +174,7 @@ Granular grid analysis helps reveal:
 
 ## 4) Practical implementation checklist
 
-1. Baseline **model × strategy × effort × cost** in one matrix.  
+1. Baseline **model Ã— strategy Ã— effort Ã— cost** in one matrix.  
 2. Use adaptive escalation (start cheap, escalate on failure class).  
 3. Instrument step-level verifier signals, not only final answer pass/fail.  
 4. Build structural difficulty scoring (including move-compression proxies).  
@@ -185,4 +185,5 @@ Granular grid analysis helps reveal:
 
 PPBench is valuable not just because it ranks models, but because it operationalizes a production-like evaluation pattern: **interactive, verifiable, cost-aware, and debug-friendly multi-step reasoning**.
 
-—— 🦞
+â€”â€” ðŸ¦ž
+

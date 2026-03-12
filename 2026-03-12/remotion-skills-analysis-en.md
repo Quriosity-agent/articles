@@ -1,4 +1,4 @@
-# Remotion Skills Repository: Architecture, Patterns, and Practical Value for AI-Assisted Video Builders
+﻿# Remotion Skills Repository: Architecture, Patterns, and Practical Value for AI-Assisted Video Builders
 
 Repository analyzed: <https://github.com/remotion-dev/skills> (commit `937ffb3`)
 
@@ -6,7 +6,7 @@ Repository analyzed: <https://github.com/remotion-dev/skills> (commit `937ffb3`)
 
 `remotion-dev/skills` is a **rule-centric knowledge package** for guiding AI agents (and humans) to write better Remotion code. It is not an app and not a rendering service. Its core value is encoding domain constraints (timeline determinism, frame-driven animation, media handling, package setup, common pitfalls) into composable markdown rules.
 
-For builders using coding agents, this repo acts as a pragmatic “quality guardrail layer” between a vague prompt and production-ready Remotion code.
+For builders using coding agents, this repo acts as a pragmatic â€œquality guardrail layerâ€ between a vague prompt and production-ready Remotion code.
 
 ---
 
@@ -24,9 +24,9 @@ At first glance, it looks tiny:
 
 So this repo should be understood as a **structured instruction corpus** for Remotion best practices.
 
-![Repository structure of remotion-dev/skills](./assets/remotion-skills/repo-structure.svg)
+![Repository structure of remotion-dev/skills](./assets/remotion-skills/repo-structure.png)
 
-*Figure 1 — Source-grounded structure map (no native screenshot assets were found in the repo, so this diagram is derived from repository files).* 
+*Figure 1 â€” Source-grounded structure map (no native screenshot assets were found in the repo, so this diagram is derived from repository files).* 
 
 ---
 
@@ -40,7 +40,7 @@ So this repo should be understood as a **structured instruction corpus** for Rem
 - points to specialized rules (captions, ffmpeg, maps, transitions, etc.),
 - keeps each topic in separate markdown files.
 
-This is a classic “**index + deep modules**” pattern, good for both LLM retrieval and human scanning.
+This is a classic â€œ**index + deep modules**â€ pattern, good for both LLM retrieval and human scanning.
 
 ### 2.2 Rule file pattern
 
@@ -48,7 +48,7 @@ Most `rules/*.md` files follow this operational structure:
 
 1. Front matter (`name`, `description`, tags)
 2. Prerequisites (what package to install)
-3. Constraints (do/don’t rules)
+3. Constraints (do/donâ€™t rules)
 4. Copy-pastable TypeScript snippets
 5. Cross-links to neighboring rules
 
@@ -84,7 +84,7 @@ Less ideal for:
 
 ### Use case A: Caption-heavy short videos
 
-Rule chain: `subtitles.md` → `transcribe-captions.md` → `display-captions.md` → `import-srt-captions.md`
+Rule chain: `subtitles.md` â†’ `transcribe-captions.md` â†’ `display-captions.md` â†’ `import-srt-captions.md`
 
 Value: enforce a normalized `Caption` type, sequence-based rendering, and token-level highlighting.
 
@@ -106,9 +106,9 @@ Rule chain: `voiceover.md` + `get-audio-duration.md` + `calculate-metadata.md`
 
 Value: compute composition duration from generated audio, reducing manual retiming.
 
-![AI + Remotion workflow using this skills repo](./assets/remotion-skills/agent-workflow.svg)
+![AI + Remotion workflow using this skills repo](./assets/remotion-skills/agent-workflow.png)
 
-*Figure 2 — Practical workflow: intent → skill routing → constrained code generation → render validation → iterative rule targeting.*
+*Figure 2 â€” Practical workflow: intent â†’ skill routing â†’ constrained code generation â†’ render validation â†’ iterative rule targeting.*
 
 ---
 
@@ -117,7 +117,7 @@ Value: compute composition duration from generated audio, reducing manual retimi
 1. **Operational specificity**: many rules are concrete and production-minded (e.g., Remotion-specific pitfalls around frame control and delayed rendering).
 2. **Modularity**: easy to load only relevant domains.
 3. **Cross-domain coverage**: media, captions, transitions, maps, 3D, ffmpeg, parameters.
-4. **Agent-friendly shape**: concise files with explicit “do this, avoid that” semantics.
+4. **Agent-friendly shape**: concise files with explicit â€œdo this, avoid thatâ€ semantics.
 5. **Bridges docs and execution**: example assets and small demo root improve transfer to real code.
 
 ---
@@ -129,7 +129,7 @@ Value: compute composition duration from generated audio, reducing manual retimi
    - some files are very complete (e.g., `maps.md`), others are brief/minimal (`tailwind.md`, `text-animations.md`).
 2. **No visuals in-repo**: there are no built-in screenshots/diagrams, so users rely on code reading and local execution.
 3. **Tooling assumptions**: several rules assume availability of specific CLI/package flows (`npx remotion add`, ffmpeg wrappers, API keys).
-4. **Not an enforcement engine**: these are guidance rules; quality still depends on the agent’s retrieval quality and user prompts.
+4. **Not an enforcement engine**: these are guidance rules; quality still depends on the agentâ€™s retrieval quality and user prompts.
 5. **Scope is Remotion-centric**: not a universal abstraction over all video stacks.
 
 ---
@@ -162,7 +162,7 @@ Value: compute composition duration from generated audio, reducing manual retimi
 ## 8) Actionable takeaways for builders
 
 1. Treat this repo as a **retrieval corpus**, not just docs. Load only topic-relevant rule files per task.
-2. Build your own “project overlay rules” on top (naming, brand style, audio levels, transition defaults).
+2. Build your own â€œproject overlay rulesâ€ on top (naming, brand style, audio levels, transition defaults).
 3. Add CI lint checks for known anti-patterns (e.g., accidental non-frame-driven animation in key contexts).
 4. Backfill missing consistency:
    - fix stale links (`sound-effects.md` vs `sfx.md`),
@@ -174,6 +174,7 @@ Value: compute composition duration from generated audio, reducing manual retimi
 
 ## Final assessment
 
-`remotion-dev/skills` is best viewed as a **domain-specific instruction architecture** for AI-assisted Remotion development. Its strongest value is reducing ambiguity and failure modes in generated video code. It is already practical for builders, and with tighter consistency + richer visual artifacts, it could become a reference pattern for other “agent skills” ecosystems.
+`remotion-dev/skills` is best viewed as a **domain-specific instruction architecture** for AI-assisted Remotion development. Its strongest value is reducing ambiguity and failure modes in generated video code. It is already practical for builders, and with tighter consistency + richer visual artifacts, it could become a reference pattern for other â€œagent skillsâ€ ecosystems.
 
-— 🦞
+â€” ðŸ¦ž
+
