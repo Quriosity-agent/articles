@@ -202,4 +202,6 @@
 - [[2026-02-04/蚂蚁世界模型/README|蚂蚁开源世界模型]]
 - [[2026-03-01/airi-ai-virtual-being|AIRI：19.8K Star 开源 AI 虚拟生命体]]
 - [[2026-03-01/automaton-ai-earn-or-die|The Automaton：挣不到钱就会死的 AI Agent]]
+- [[2026-03-13/electron-misconceptions-analysis|Electron 常见误解拆解：给 Builder 的实战判断框架]]
+- [[2026-03-13/electron-misconceptions-analysis-en|What People Get Wrong About Electron: A Practical Builder’s Analysis]]
 - [[2026-03-06/convex-backend-platform-explained|Convex：保持应用实时同步的后端平台]]
