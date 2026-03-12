@@ -33,6 +33,8 @@
 - [[2026-03-04/codex-context-compaction-deep-dive|深度解析 Codex Context Compaction：AI 怎么"压缩记忆"不丢关键信息]]
 - [[2026-03-06/openai-gpt-54-release-analysis|OpenAI GPT-5.4：从"更强模型"到"更会干活的 Agent 引擎"]]
 - [[2026-03-11/openai-agents-python-analysis|openai-agents-python 深度拆解：给构建者的实战指南]]
+- [[2026-03-13/openai-codex-best-practices-analysis|OpenAI Codex Best Practices 深度拆解：给 Builder 的落地手册]]
+- [[2026-03-13/openai-codex-best-practices-analysis-en|OpenAI Codex Best Practices — A Practical Builder’s Analysis]]
 
 ## 🐙 多 Agent 编排
 - [[2026-02-22/ai-team-skills|AI Team Skills：Claude 指挥 Gemini 和 Codex 协作]]
