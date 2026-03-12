@@ -20,6 +20,7 @@
 - [[2026-03-02/baoyu-skills|baoyu-skills：当 Prompt 成为软件，重新定义 AI 技能生态]]
 - [[2026-03-02/humanizer-zh|Humanizer-zh：当 AI 学会擦掉自己的指纹]]
 - [[2026-03-06/claude-to-im-skill-architecture-review|Claude-to-IM Skill 深度拆解：异步 IM 交互 + 同步工具权限桥接]]
+- [[2026-03-12/iamemily2050-2031879748834771302-analysis|从"AI Slop"到结构化提示词：Emily 这条推文的实战解读]]
 
 ## 🧑‍💻 Codex / OpenAI
 - [[2026-02-06/GPT-5.3-Codex/README|GPT-5.3-Codex 发布]]
@@ -56,6 +57,8 @@
 - [[2026-03-10/arc-agi-3-alexis-fox-analysis|RGB Agent：用 1,069 步通关 ARC-AGI-3，比人类还高效]]
 - [[2026-03-10/mirofish-social-simulation|MiroFish：知识图谱驱动的群体智能社会仿真平台]]
 - [[2026-03-11/karpathy-agenthub-analysis|Karpathy 的 AgentHub 深度解析：给 Builder 的实战技术笔记]]
+- [[2026-03-12/agentcraft-analysis|AgentCraft 深度拆解：把 AI Agent 运维做成 RTS 指挥系统]]
+- [[2026-03-12/mission-control-analysis|Mission Control(Autensa)技术解析：面向 Builder 的实战评估]]
 
 ## 🔧 AI 编码工具对比
 - [[2026-02-15/AI-Coding-CLI-Architecture-Comparison/article|五把 AI 手术刀架构全拆解]]
@@ -83,6 +86,9 @@
 - [[2026-03-10/qcut-multi-platform-migration-plan|QCut 多平台架构迁移路线图（Desktop / Web / iPad）]]
 - [[2026-03-10/skillcraft-agent-skill-generation|SkillCraft：LLM Agent 能学会"熟练"使用工具吗？]]
 - [[2026-03-10/alphaxiv-paper-lookup-skill|AlphaXiv Paper Lookup Skill：给 AI Agent 的论文检索"快车道"]]
+- [[2026-03-09/twitter-cli-terminal-first-x|twitter-cli：终端里刷推、发推、搜推的完整方案]]
+- [[2026-03-12/vercel-agent-browser-vs-qcut-cli|Vercel agent-browser 深度拆解：QCut CLI 能借什么]]
+- [[2026-03-12/yan5xu-2031947154911351159-analysis|从一条推文到一套 Agent 工程方法：为什么「CLI is all agents need」值得认真看]]
 
 ## 🔌 MCP 生态
 - [[2026-02-13/WebMCP-Browser-Native-Agent-API|WebMCP：让网站成为 Agent 工具接口]]
@@ -105,6 +111,7 @@
 - [[2026-03-04/waoowaoo-ai-film-production|Waoowaoo：开源 AI 全流程影视制作平台，从小说到成片一键搞定]]
 - [[2026-03-06/ltx-desktop-open-source-video-studio|LTX-Desktop：开源 AI 视频工作站，本地+API 双模架构]]
 - [[2026-03-10/autoclip-automated-video-clipping|AutoClip：AI驱动的智能视频切片与高光提取工具]]
+- [[2026-03-12/remotion-skills-analysis|Remotion Skills 仓库深度解析：给 AI 时代视频开发者的规则型知识架构]]
 - [[2026-03-04/scriptslug-imsdb-deadline-research-stack|Script Slug + IMSDb + Deadline：编剧与导演的"信息铁三角"]]
 - [[2026-03-04/shotdeck-frameset-flim-comparison|ShotDeck vs Frameset vs Flim.ai：导演参考库三件套怎么选？]]
 
@@ -132,6 +139,10 @@
 - [[2026-03-06/google-bayesian-teaching-llms|Google「教 LLM 像贝叶斯一样推理」：模仿最优猜测比直接喂正确答案更强]]
 - [[2026-03-06/luma-uni1-unified-image-model|Luma Uni-1：15人华人团队做出的统一图像模型]]
 - [[2026-03-11/wechat-faxlunewdxc4qoofsxkv7q-analysis|从"会答题"到"能交付"：$OneMillion-Bench 给 AI Agent 创业者的五个硬结论]]
+- [[2026-03-11/googleaistudio-2031421162123870239-analysis|Google AI Studio 发布 Gemini Embedding 2：多模态检索进入"同一向量空间"时代]]
+- [[2026-03-12/ppbench-figures-analysis|PPBench 图表深读：为什么"会想"还不够，关键是"可验证地多步求解"]]
+- [[2026-03-12/runebench-analysis|RuneBench 实战拆解：把"会写代码"变成"会在复杂世界里持续拿分"]]
+- [[2026-03-12/tobiaslee-2031844225629978794-analysis|从一条推文看 Agent 评测走向：为什么 Claw-Eval 值得开发者关注]]
 
 ## 🦞 OpenClaw 生态
 - [[2026-02-11/OpenClaw背后的秘密武器-大道至简的Pi-Mono|OpenClaw 背后的 Pi-Mono]]
@@ -142,6 +153,7 @@
 - [[2026-02-28/openclaw-memory-management-guide|OpenClaw 记忆管理完整实战指南]]
 - [[2026-03-01/openclaw-multi-agent-routing|OpenClaw 多 Agent 路由：一台服务器跑多个 AI 大脑]]
 - [[2026-03-04/self-improving-agent-skill|Self-Improving Agent：让 AI Agent 学会"记错题本"，越用越聪明]]
+- [[2026-03-11/labclaw-analysis|LabClaw 深度解析：面向生物医药 AI Agent 的 Skill Operating Layer]]
 
 ## 🌐 浏览器 & 自动化
 - [[2026-02-27/agent-browser-cli|agent-browser CLI]]
@@ -151,6 +163,8 @@
 - [[2026-03-01/wifi-densepose-through-wall|WiFi DensePose：用 WiFi 信号透视人体姿态]]
 - [[2026-03-09/openai-cua-computer-use-agent|OpenAI CUA：让 AI 像人一样操控电脑]]
 - [[2026-03-11/ghost-os-analysis|Ghost OS 技术分析：让 AI 代理真正"操作电脑"]]
+- [[2026-03-12/devvmandal-2022331149172048296-analysis|从一条推文看「电脑使用代理」数据战：Markov 开源数据集发布解读]]
+- [[2026-03-12/firecrawl-cli-analysis|Firecrawl CLI 深度解析：架构、工作流与生态定位]]
 
 ## 🎨 AI 创意工具
 - [[2026-02-26/recraft-v4-image-generation|Recraft V4 图片生成]]
@@ -177,6 +191,7 @@
 - [[2026-03-10/karpathy-autoresearch-results-nanochat|Karpathy 的 Autoresearch 首战告捷：小模型改进全部迁移到大模型]]
 - [[2026-03-10/jeff-dean-interview-50-ai-interns|Jeff Dean 最新访谈：未来每个开发者管理 50 个 AI 实习生]]
 - [[2026-03-11/qingq77-2031573577355743471-analysis|从"PUA AI"到工程韧性：一条爆款推文背后的提示词工程边界]]
+- [[2026-03-12/phosphenq-2031400355167117498-analysis|从 74% 到 85%：这个单人网球 AI 项目到底做对了什么]]
 
 ## 💰 其他
 - [[2026-02-24/polymarket-cli|Polymarket CLI：终端玩预测市场]]
