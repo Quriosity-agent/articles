@@ -89,6 +89,8 @@
 - [[2026-03-09/twitter-cli-terminal-first-x|twitter-cli：终端里刷推、发推、搜推的完整方案]]
 - [[2026-03-12/vercel-agent-browser-vs-qcut-cli|Vercel agent-browser 深度拆解：QCut CLI 能借什么]]
 - [[2026-03-12/yan5xu-2031947154911351159-analysis|从一条推文到一套 Agent 工程方法：为什么「CLI is all agents need」值得认真看]]
+- [[2026-03-12/akashi203-2031533857082646769-analysis|一夜 320 次实验：AutoKernel 把 GPU Kernel 优化做成了「自动科研循环」]]
+- [[2026-03-12/akashi203-2031533857082646769-analysis-en|AutoKernel Turns GPU Kernel Tuning into an Overnight Autonomous Research Loop]]
 
 ## 🔌 MCP 生态
 - [[2026-02-13/WebMCP-Browser-Native-Agent-API|WebMCP：让网站成为 Agent 工具接口]]
