@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="860" viewBox="0 0 1400 860">
+  <style>
+    .title { font: 700 34px 'Segoe UI', Arial, sans-serif; fill: #111827; }
+    .subtitle { font: 500 18px 'Segoe UI', Arial, sans-serif; fill: #374151; }
+    .box { fill: #ffffff; stroke: #9ca3af; stroke-width: 2; rx: 14; }
+    .h { font: 700 20px 'Segoe UI', Arial, sans-serif; fill: #111827; }
+    .t { font: 16px 'Segoe UI', Arial, sans-serif; fill: #1f2937; }
+    .arrow { stroke: #6b7280; stroke-width: 2.5; fill: none; marker-end: url(#a); }
+  </style>
+  <defs><marker id="a" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#6b7280"/></marker></defs>
+  <text x="60" y="60" class="title">Typical AI + Remotion development workflow with this skills repo</text>
+  <text x="60" y="92" class="subtitle">How SKILL.md + rules/*.md guide generation toward frame-deterministic, render-safe code</text>
+
+  <rect x="60" y="150" width="270" height="150" class="box"/>
+  <text x="82" y="188" class="h">1) User intent</text>
+  <text x="82" y="220" class="t">"Make a captioned explainer"</text>
+  <text x="82" y="246" class="t">"Animate map route"</text>
+
+  <rect x="400" y="150" width="290" height="150" class="box"/>
+  <text x="422" y="188" class="h">2) Skill routing</text>
+  <text x="422" y="220" class="t">Read skills/remotion/SKILL.md</text>
+  <text x="422" y="246" class="t">Pick relevant rule files</text>
+
+  <rect x="760" y="120" width="300" height="210" class="box"/>
+  <text x="782" y="158" class="h">3) Rule constraints</text>
+  <text x="782" y="190" class="t">Examples from repo:</text>
+  <text x="802" y="218" class="t">• useCurrentFrame() driven motion</text>
+  <text x="802" y="244" class="t">• useDelayRender() for async load</text>
+  <text x="802" y="270" class="t">• package-specific setup notes</text>
+  <text x="802" y="296" class="t">• FFmpeg / captions / transitions rules</text>
+
+  <rect x="1130" y="150" width="220" height="150" class="box"/>
+  <text x="1152" y="188" class="h">4) Code output</text>
+  <text x="1152" y="220" class="t">TSX components</text>
+  <text x="1152" y="246" class="t">Composition config</text>
+
+  <rect x="400" y="410" width="430" height="170" class="box"/>
+  <text x="422" y="448" class="h">5) Validate in Remotion Studio / render</text>
+  <text x="422" y="480" class="t">Check timeline determinism, no flicker,</text>
+  <text x="422" y="506" class="t">duration math (esp. TransitionSeries),</text>
+  <text x="422" y="532" class="t">caption sync, and media decoding behavior.</text>
+
+  <rect x="910" y="410" width="440" height="220" class="box"/>
+  <text x="932" y="448" class="h">6) Iterate with targeted rules</text>
+  <text x="932" y="480" class="t">Need map polish? read rules/maps.md</text>
+  <text x="932" y="506" class="t">Need TTS duration? read voiceover.md</text>
+  <text x="932" y="532" class="t">Need subtitle import? import-srt-captions.md</text>
+  <text x="932" y="558" class="t">Need trimming? ffmpeg.md + videos.md</text>
+  <text x="932" y="584" class="t">→ Prompt agent again with tighter scope</text>
+
+  <path d="M330 225 L400 225" class="arrow"/>
+  <path d="M690 225 L760 225" class="arrow"/>
+  <path d="M1060 225 L1130 225" class="arrow"/>
+  <path d="M1240 300 L1240 410" class="arrow"/>
+  <path d="M910 520 L830 520" class="arrow"/>
+  <path d="M615 410 L615 300" class="arrow"/>
+
+  <text x="60" y="800" class="subtitle">Key point: This repo is not a runtime framework; it is an instruction layer that improves reliability and consistency of AI-generated Remotion code.</text>
+</svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="860" viewBox="0 0 1400 860">
+  <style>
+    .title { font: 700 34px 'Segoe UI', Arial, sans-serif; fill: #0f172a; }
+    .subtitle { font: 500 18px 'Segoe UI', Arial, sans-serif; fill: #334155; }
+    .box { fill: #f8fafc; stroke: #94a3b8; stroke-width: 2; rx: 10; }
+    .h { font: 700 20px 'Segoe UI', Arial, sans-serif; fill: #0f172a; }
+    .t { font: 16px 'Segoe UI', Arial, sans-serif; fill: #1e293b; }
+    .mono { font: 15px Consolas, monospace; fill: #0f172a; }
+    .arrow { stroke: #64748b; stroke-width: 2.5; fill: none; marker-end: url(#m); }
+  </style>
+  <defs><marker id="m" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#64748b"/></marker></defs>
+  <text x="60" y="60" class="title">remotion-dev/skills: repository organization (source-grounded)</text>
+  <text x="60" y="92" class="subtitle">Based on commit 937ffb3: README + skills/remotion + rules + demo compositions in src/</text>
+
+  <rect x="60" y="130" width="360" height="270" class="box"/>
+  <text x="85" y="168" class="h">Root package</text>
+  <text x="85" y="202" class="mono">README.md</text>
+  <text x="85" y="230" class="t">Minimal package readme</text>
+  <text x="85" y="264" class="mono">package.json</text>
+  <text x="85" y="292" class="t">private @remotion/skills</text>
+  <text x="85" y="320" class="t">dev: remotion studio</text>
+  <text x="85" y="348" class="t">Remotion 4.x ecosystem deps</text>
+
+  <rect x="500" y="130" width="390" height="350" class="box"/>
+  <text x="525" y="168" class="h">Skill entry</text>
+  <text x="525" y="202" class="mono">skills/remotion/SKILL.md</text>
+  <text x="525" y="230" class="t">Front-door router: when to use +</text>
+  <text x="525" y="254" class="t">links to domain rule files</text>
+  <text x="525" y="290" class="t">Examples of linked domains:</text>
+  <text x="545" y="320" class="t">• media assets / video / audio / trimming</text>
+  <text x="545" y="346" class="t">• transitions / timing / text animation</text>
+  <text x="545" y="372" class="t">• maps / captions / voiceover / 3D</text>
+  <text x="545" y="398" class="t">• FFmpeg / metadata / parameters</text>
+
+  <rect x="970" y="130" width="360" height="350" class="box"/>
+  <text x="995" y="168" class="h">Rule library</text>
+  <text x="995" y="202" class="mono">skills/remotion/rules/*.md</text>
+  <text x="995" y="230" class="t">~34 markdown rule files</text>
+  <text x="995" y="258" class="t">YAML front matter + practical snippets</text>
+  <text x="995" y="286" class="t">Pattern: prerequisite → do/don't → code</text>
+  <text x="995" y="314" class="t">Cross-links between related rules</text>
+  <text x="995" y="342" class="t">(captions, transitions, ffmpeg, etc.)</text>
+
+  <rect x="500" y="550" width="390" height="210" class="box"/>
+  <text x="525" y="588" class="h">Executable examples</text>
+  <text x="525" y="622" class="mono">src/Root.tsx + src/index.ts</text>
+  <text x="525" y="650" class="t">Registers sample compositions:</text>
+  <text x="545" y="678" class="t">BarChart, Typewriter, WordHighlight</text>
+  <text x="545" y="706" class="t">using assets in rules/assets/*.tsx</text>
+
+  <path d="M420 250 L500 250" class="arrow"/>
+  <path d="M890 300 L970 300" class="arrow"/>
+  <path d="M695 480 L695 550" class="arrow"/>
+
+  <text x="60" y="820" class="subtitle">Interpretation: a small package functioning primarily as a reusable, rule-based knowledge base for AI-assisted Remotion coding.</text>
+</svg>
