@@ -207,6 +207,10 @@
 - [[2026-03-14/mrahmadawais-2032208308132856085-analysis|Chartli：终端里的数据可视化，零配置出图]]
 - [[2026-03-14/mrahmadawais-2032208308132856085-analysis-en|Chartli: Zero-Config Data Visualization in Your Terminal]]
 
+## 💰 AI 金融
+- [[2026-03-14/billtheinvestor-2032244753916707378-analysis|AI 对冲基金开源项目深度拆解：一个人用 AI Agent 团队模拟整个基金公司]]
+- [[2026-03-14/billtheinvestor-2032244753916707378-analysis-en|AI Hedge Fund Deep Dive: One Person Simulating an Entire Fund with AI Agents]]
+
 ## 💰 其他
 - [[2026-02-24/polymarket-cli|Polymarket CLI：终端玩预测市场]]
 - [[2026-02-05/Google-Game-Arena/README|Google AI Game Arena]]
