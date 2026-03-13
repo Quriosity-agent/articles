@@ -196,6 +196,8 @@
 - [[2026-03-10/jeff-dean-interview-50-ai-interns|Jeff Dean 最新访谈：未来每个开发者管理 50 个 AI 实习生]]
 - [[2026-03-11/qingq77-2031573577355743471-analysis|从"PUA AI"到工程韧性：一条爆款推文背后的提示词工程边界]]
 - [[2026-03-12/phosphenq-2031400355167117498-analysis|从 74% 到 85%：这个单人网球 AI 项目到底做对了什么]]
+- [[2026-03-13/wechat-xActnLdiFb29WwIEHsA1Vw-analysis|2026 GTC 边会活动清单深读：给 Builder 的参会作战手册]]
+- [[2026-03-13/wechat-xActnLdiFb29WwIEHsA1Vw-analysis-en|2026 GTC Side-Event Roundup: A Practical Field Guide for Builders]]
 
 ## 💰 其他
 - [[2026-02-24/polymarket-cli|Polymarket CLI：终端玩预测市场]]
