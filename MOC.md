@@ -86,6 +86,8 @@
 - [[2026-03-09/prompt-engineering-ship-faster|Prompt 工程实战：让 AI Coding Agent 10 倍提速的写法]]
 - [[2026-03-10/devin-review-free-pr-review|Devin Review：免费的 AI PR Review 工具，解决 AI 时代的代码审查瓶颈]]
 - [[2026-03-10/qcut-multi-platform-migration-plan|QCut 多平台架构迁移路线图（Desktop / Web / iPad）]]
+- [[2026-03-13/qcut-subtitle-enhancement-plan|QCut 字幕增强实施计划：样式面板 + ASS/SSA 格式支持]]
+- [[2026-03-13/qcut-subtitle-enhancement-plan-en|QCut Subtitle Enhancement Plan: Style Panel + ASS/SSA Format Support]]
 - [[2026-03-10/skillcraft-agent-skill-generation|SkillCraft：LLM Agent 能学会"熟练"使用工具吗？]]
 - [[2026-03-10/alphaxiv-paper-lookup-skill|AlphaXiv Paper Lookup Skill：给 AI Agent 的论文检索"快车道"]]
 - [[2026-03-09/twitter-cli-terminal-first-x|twitter-cli：终端里刷推、发推、搜推的完整方案]]
