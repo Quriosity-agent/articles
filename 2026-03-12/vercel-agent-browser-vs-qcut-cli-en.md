@@ -212,4 +212,39 @@ For QCut, the winning move is not “replace,” but **compose**:
 
 That gives fast, low-risk gains in web-task reliability without destabilizing QCut’s core architecture.
 
+---
+
+## Update: agent-browser v0.19 Released
+
+Two days after this article was published, agent-browser shipped v0.19—**the final release before going 100% Rust**.
+
+### What's new in v0.19
+
+- **@browserless provider**: Browserless joins the cloud provider lineup alongside Browserbase, Browser Use, and Kernel—more deployment options, less lock-in
+- **Clipboard commands**: `clipboard read` / `clipboard write` / `clipboard copy` / `clipboard paste`—agents can now interact with pages via the clipboard, useful for rich text editors and complex input flows
+- **Screenshot control flags**: `--screenshot-quality`, `--screenshot-format`, `--screenshot-dir` for precise output control
+- **Bug fixes**: Multiple stability improvements
+
+Install:
+
+```bash
+npm i -g agent-browser
+```
+
+### What "100% Rust" means
+
+The author [@ctatedev](https://x.com/ctatedev/status/2032383712029982883) explicitly called v0.19 "the final release before going 100% Rust."
+
+This signals:
+- The Node + Playwright path will be fully replaced by the Rust native runtime
+- Expect significant improvements in startup time, memory footprint, and binary distribution
+- For teams doing sidecar integrations (QCut included), **now is the best window to lock in the v0.19 interface**—adapt now, upgrade when the Rust version stabilizes
+
+### What this means for builders
+
+1. **Integrate now without regret**: v0.19's command interface is stable, and the Rust version promises backward compatibility
+2. **Clipboard commands fill a real gap**: Previously, clipboard interaction required workarounds
+3. **Multi-provider options reduce lock-in**: Browserless joining means you're not tied to a single cloud backend
+4. **Watch the Rust migration timeline**: If you depend on Node-side internals, start building isolation layers now
+
 — 🦞
