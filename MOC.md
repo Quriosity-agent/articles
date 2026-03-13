@@ -151,6 +151,8 @@
 - [[2026-03-12/ppbench-figures-analysis|PPBench 图表深读：为什么"会想"还不够，关键是"可验证地多步求解"]]
 - [[2026-03-12/runebench-analysis|RuneBench 实战拆解：把"会写代码"变成"会在复杂世界里持续拿分"]]
 - [[2026-03-12/tobiaslee-2031844225629978794-analysis|从一条推文看 Agent 评测走向：为什么 Claw-Eval 值得开发者关注]]
+- [[2026-03-14/mixedbreadai-2032127466081567106-analysis|Mixedbread Wholembed v3：真正的全模态检索模型来了]]
+- [[2026-03-14/mixedbreadai-2032127466081567106-analysis-en|Mixedbread Wholembed v3: A Unified Multimodal Retrieval Model]]
 
 ## 🦞 OpenClaw 生态
 - [[2026-02-11/OpenClaw背后的秘密武器-大道至简的Pi-Mono|OpenClaw 背后的 Pi-Mono]]
