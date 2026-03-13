@@ -116,6 +116,8 @@
 - [[2026-03-06/ltx-desktop-open-source-video-studio|LTX-Desktop：开源 AI 视频工作站，本地+API 双模架构]]
 - [[2026-03-10/autoclip-automated-video-clipping|AutoClip：AI驱动的智能视频切片与高光提取工具]]
 - [[2026-03-12/remotion-skills-analysis|Remotion Skills 仓库深度解析：给 AI 时代视频开发者的规则型知识架构]]
+- [[2026-03-13/gojun315-2032056511250546792-analysis|FlyCut Caption 实战解读：一个开源字幕工具，怎么替代「本地识别要 VIP」]]
+- [[2026-03-13/gojun315-2032056511250546792-analysis-en|FlyCut Caption Analysis: A Practical Open-Source Path Beyond VIP-Locked Local Subtitles]]
 - [[2026-03-04/scriptslug-imsdb-deadline-research-stack|Script Slug + IMSDb + Deadline：编剧与导演的"信息铁三角"]]
 - [[2026-03-04/shotdeck-frameset-flim-comparison|ShotDeck vs Frameset vs Flim.ai：导演参考库三件套怎么选？]]
 
