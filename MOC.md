@@ -101,6 +101,8 @@
 - [[2026-03-13/context7-cli-ai-docs-fetcher-en|Context7 CLI: Give Your AI Coding Agent Up-to-Date Docs]]
 
 ## 🔌 MCP 生态
+- [[2026-03-14/xpasky-2032252486145253865-analysis|Chrome 146 正式支持 MCP：一个开关，让 AI Agent 接管你的浏览器]]
+- [[2026-03-14/xpasky-2032252486145253865-analysis-en|Chrome 146 Ships Native MCP Support: One Toggle to Give AI Agents Your Browser]]
 - [[2026-02-13/WebMCP-Browser-Native-Agent-API|WebMCP：让网站成为 Agent 工具接口]]
 - [[2026-02-13/MCP-Apps-Interactive-UI-in-Chat|MCP Apps：聊天中渲染交互式 UI]]
 - [[2026-02-24/drawio-mcp-server|Draw.io MCP Server]]
