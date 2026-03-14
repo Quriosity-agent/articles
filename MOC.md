@@ -1,6 +1,8 @@
 # 📚 文章导航 (Map of Content)
 
 ## 🤖 Claude Code / Anthropic
+- [[2026-03-15/qcut-pi-mono-integration-guide|如何用 Pi Mono 在 QCut 中构建嵌入式 AI Agent：完整实现指南]]
+- [[2026-03-15/qcut-pi-mono-integration-guide-en|How to Build an Embedded AI Agent in QCut Using Pi Mono: Complete Implementation Guide]]
 - [[2026-02-28/claude-code-agent-teams-reverse-engineering|Agent Teams 逆向工程：文件系统就是消息队列]]
 - [[2026-02-13/Claude-Code-Agent-Teams-Reverse-Engineering|Claude Code 逆向发现 Agent 靠 JSON 文件聊天]]
 - [[2026-02-22/claude-code-review-plugin|/code-review 插件：多智能体并行代码审查]]
