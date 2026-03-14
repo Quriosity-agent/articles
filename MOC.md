@@ -21,6 +21,8 @@
 - [[2026-03-02/humanizer-zh|Humanizer-zh：当 AI 学会擦掉自己的指纹]]
 - [[2026-03-06/claude-to-im-skill-architecture-review|Claude-to-IM Skill 深度拆解：异步 IM 交互 + 同步工具权限桥接]]
 - [[2026-03-12/iamemily2050-2031879748834771302-analysis|从"AI Slop"到结构化提示词：Emily 这条推文的实战解读]]
+- [[2026-03-13/gstack-claude-code-specialist-team|gstack：把 Claude Code 从通用助手变成一支专家团队]]
+- [[2026-03-13/gstack-claude-code-specialist-team-en|gstack: Turn Claude Code Into a Team of Specialists]]
 
 ## 🧑‍💻 Codex / OpenAI
 - [[2026-02-06/GPT-5.3-Codex/README|GPT-5.3-Codex 发布]]
@@ -95,6 +97,8 @@
 - [[2026-03-12/yan5xu-2031947154911351159-analysis|从一条推文到一套 Agent 工程方法：为什么「CLI is all agents need」值得认真看]]
 - [[2026-03-12/akashi203-2031533857082646769-analysis|一夜 320 次实验：AutoKernel 把 GPU Kernel 优化做成了「自动科研循环」]]
 - [[2026-03-12/akashi203-2031533857082646769-analysis-en|AutoKernel Turns GPU Kernel Tuning into an Overnight Autonomous Research Loop]]
+- [[2026-03-13/context7-cli-ai-docs-fetcher|Context7 CLI：让 AI 编程助手读到最新文档，不再瞎编 API]]
+- [[2026-03-13/context7-cli-ai-docs-fetcher-en|Context7 CLI: Give Your AI Coding Agent Up-to-Date Docs]]
 
 ## 🔌 MCP 生态
 - [[2026-02-13/WebMCP-Browser-Native-Agent-API|WebMCP：让网站成为 Agent 工具接口]]
