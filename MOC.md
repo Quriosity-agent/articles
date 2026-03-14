@@ -231,3 +231,7 @@
 - [[2026-03-13/electron-misconceptions-analysis|Electron 常见误解拆解：给 Builder 的实战判断框架]]
 - [[2026-03-13/electron-misconceptions-analysis-en|What People Get Wrong About Electron: A Practical Builder’s Analysis]]
 - [[2026-03-06/convex-backend-platform-explained|Convex：保持应用实时同步的后端平台]]
+
+## 🚀 AI 开源项目盘点
+- [[2026-03-14/0xkenny-2032557322078400527-analysis|Agency Agents：把 Claude Code 变成一整家 AI 公司，51 位专家 + 9 大部门全流程覆盖]]
+- [[2026-03-14/0xkenny-2032557322078400527-analysis-en|Agency Agents: Turn Claude Code Into an Entire AI Company]]
