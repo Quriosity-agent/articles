@@ -218,6 +218,8 @@
 - [[2026-03-14/mrahmadawais-2032208308132856085-analysis-en|Chartli: Zero-Config Data Visualization in Your Terminal]]
 - [[2026-03-14/arlanr-2032599903432749287-analysis|Nia CLI：让 Agent 真正拥有记忆和搜索能力的命令行工具]]
 - [[2026-03-14/arlanr-2032599903432749287-analysis-en|Nia CLI: Give Your Agents Real Memory and Search]]
+- [[2026-03-14/ayi-ainotes-2032501233219678369-analysis|OpenViking：字节跳动开源的 AI Agent 记忆系统，用文件系统范式重构上下文管理]]
+- [[2026-03-14/ayi-ainotes-2032501233219678369-analysis-en|OpenViking: ByteDance's Open-Source Memory System That Gives AI Agents a Real Brain]]
 
 ## 💰 AI 金融
 - [[2026-03-14/billtheinvestor-2032244753916707378-analysis|AI 对冲基金开源项目深度拆解：一个人用 AI Agent 团队模拟整个基金公司]]
