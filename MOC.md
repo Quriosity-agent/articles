@@ -230,6 +230,8 @@
 - [[2026-03-14/ayi-ainotes-2032501233219678369-analysis-en|OpenViking: ByteDance's Open-Source Memory System That Gives AI Agents a Real Brain]]
 - [[2026-03-15/pi-mono-analysis|Pi Mono：一个被低估的 AI Agent 全家桶]]
 - [[2026-03-15/pi-mono-analysis-en|Pi Mono: A Full-Stack AI Agent Toolkit Worth Knowing]]
+- [[2026-03-15/qcut-agent-sdk-comparison|QCut 内嵌 AI Agent：Anthropic Claude SDK vs Pi Mono 选型对比]]
+- [[2026-03-15/qcut-agent-sdk-comparison-en|Embedding an AI Agent in QCut: Anthropic Claude SDK vs Pi Mono]]
 
 ## 💰 AI 金融
 - [[2026-03-14/billtheinvestor-2032244753916707378-analysis|AI 对冲基金开源项目深度拆解：一个人用 AI Agent 团队模拟整个基金公司]]
