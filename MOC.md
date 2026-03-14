@@ -68,6 +68,8 @@
 - [[2026-02-15/AI-Coding-CLI-Architecture-Comparison/article|五把 AI 手术刀架构全拆解]]
 - [[2026-02-27/martian-code-review-benchmark|AI Code Review 工具大比拼]]
 - [[2026-02-27/agent-browser-cli|agent-browser：AI Agent 浏览器 CLI]]
+- [[2026-03-15/chrome-cdp-skill-analysis|chrome-cdp-skill：让 AI Agent 直接操控你正在用的 Chrome]]
+- [[2026-03-15/chrome-cdp-skill-analysis-en|chrome-cdp-skill: Give Your AI Agent Access to Your Live Chrome Session]]
 - [[2026-02-22/qcut-pr-comments-system|QCut PR Comments 系统]]
 - [[2026-03-02/agent-harness-real-product|Agent Harness 才是真正的产品：架构深度对比]]
 - [[2026-03-02/peon-ping-warcraft-notifications|Peon-Ping：魔兽争霸农民工当 AI 通知员]]
