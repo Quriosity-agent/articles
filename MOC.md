@@ -218,6 +218,8 @@
 - [[2026-03-14/theahmadosman-2032460101206839424-analysis-en|26 Essential Papers for Mastering LLMs: Ahmad's Complete Reading Roadmap]]
 
 ## 🖥️ 终端工具 & CLI
+- [[2026-03-14/enesakar-2031887459085377887-analysis|Context7 CLI：让任何 AI Agent 都能拉取最新文档，不再依赖 MCP]]
+- [[2026-03-14/enesakar-2031887459085377887-analysis-en|Context7 CLI: Any AI Agent Can Now Pull Latest Docs — No MCP Required]]
 - [[2026-03-14/mrahmadawais-2032208308132856085-analysis|Chartli：终端里的数据可视化，零配置出图]]
 - [[2026-03-14/mrahmadawais-2032208308132856085-analysis-en|Chartli: Zero-Config Data Visualization in Your Terminal]]
 - [[2026-03-14/arlanr-2032599903432749287-analysis|Nia CLI：让 Agent 真正拥有记忆和搜索能力的命令行工具]]
