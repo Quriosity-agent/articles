@@ -126,6 +126,8 @@
 - [[2026-03-13/gojun315-2032056511250546792-analysis-en|FlyCut Caption Analysis: A Practical Open-Source Path Beyond VIP-Locked Local Subtitles]]
 - [[2026-03-04/scriptslug-imsdb-deadline-research-stack|Script Slug + IMSDb + Deadline：编剧与导演的"信息铁三角"]]
 - [[2026-03-04/shotdeck-frameset-flim-comparison|ShotDeck vs Frameset vs Flim.ai：导演参考库三件套怎么选？]]
+- [[2026-03-14/adam-2032364163763486891-analysis|影视灯光与色调：AI 视频创作者的实用指南]]
+- [[2026-03-14/adam-2032364163763486891-analysis-en|Film Lighting & Color Grading for AI Video Creators: A Practical Guide]]
 
 ## 🧠 大模型发布 & 基准测试
 - [[2026-02-23/GLM-5-Slime-Framework/article|GLM-5 异步强化学习框架 Slime]]
