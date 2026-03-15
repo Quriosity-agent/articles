@@ -243,6 +243,10 @@
 - [[2026-03-15/qcut-agent-sdk-comparison|QCut 内嵌 AI Agent：Anthropic Claude SDK vs Pi Mono 选型对比]]
 - [[2026-03-15/qcut-agent-sdk-comparison-en|Embedding an AI Agent in QCut: Anthropic Claude SDK vs Pi Mono]]
 
+## 🎬 录屏 / 屏幕录制工具
+- [[2026-03-16/lgylight-2033109870187295151-analysis|Recordly：免费开源的 Screen Studio 平替，录屏工具三兄弟横评]]
+- [[2026-03-16/lgylight-2033109870187295151-analysis-en|Recordly: The Free Open-Source Screen Studio Alternative That Actually Works]]
+
 ## 💰 AI 金融
 - [[2026-03-14/billtheinvestor-2032244753916707378-analysis|AI 对冲基金开源项目深度拆解：一个人用 AI Agent 团队模拟整个基金公司]]
 - [[2026-03-14/billtheinvestor-2032244753916707378-analysis-en|AI Hedge Fund Deep Dive: One Person Simulating an Entire Fund with AI Agents]]
