@@ -205,6 +205,8 @@
 - [[2026-03-02/tldraw-canvas-sdk|tldraw：500 万美元开源无限画布 SDK]]
 - [[2026-03-06/generative-media-skills-agent-toolkit|Generative-Media-Skills：AI Agent 的多模态生产工具箱]]
 - [[2026-03-11/fish-speech-analysis|Fish Speech 技术解析：从开源仓库看 S2 的架构、工作流与落地策略]]
+- [[2026-03-16/qisi-ai-2033102558936576231-analysis|AI写真提示词拆解：「深夜卧室自拍」风格的九大模块完整解析]]
+- [[2026-03-16/qisi-ai-2033102558936576231-analysis-en|Deconstructing an AI Photography Prompt: The 9-Module Framework Behind "Late Night Bedroom Selfie"]]
 
 ## 🔮 行业观察 & 访谈
 - [[2026-02-27/dario-amodei-tsunami-interview|Dario Amodei：海啸已在地平线上]]
