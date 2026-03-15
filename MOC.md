@@ -142,6 +142,8 @@
 - [[2026-03-14/adam-2032364163763486891-analysis-en|Film Lighting & Color Grading for AI Video Creators: A Practical Guide]]
 
 ## 🧠 大模型发布 & 基准测试
+- [[2026-03-16/christostzamos-2031845139526652236-analysis|在 Transformer 里造了一台计算机：Percepta AI 让 LLM 跑程序]]
+- [[2026-03-16/christostzamos-2031845139526652236-analysis-en|Building a Computer Inside a Transformer: Percepta AI Makes LLMs Execute Programs]]
 - [[2026-02-23/GLM-5-Slime-Framework/article|GLM-5 异步强化学习框架 Slime]]
 - [[2026-02-18/glm5-technical-innovations/article|GLM-5 核心技术创新]]
 - [[2026-02-26/qwen3-vl-vision-language-model|Qwen3-VL 视觉语言模型]]
