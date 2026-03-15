@@ -27,6 +27,8 @@
 - [[2026-03-13/gstack-claude-code-specialist-team-en|gstack: Turn Claude Code Into a Team of Specialists]]
 
 ## 🧑‍💻 Codex / OpenAI
+- [[2026-03-16/argusbot-analysis|ArgusBot：让 Codex CLI 不再"干到一半就停"的 Python 监督插件]]
+- [[2026-03-16/argusbot-analysis-en|ArgusBot: A Python Supervisor Plugin That Stops Codex CLI From Quitting Early]]
 - [[2026-02-06/GPT-5.3-Codex/README|GPT-5.3-Codex 发布]]
 - [[2026-02-27/codex-0106-update|Codex 0.106.0：Agent 终于会问问题了]]
 - [[2026-02-27/codex-multi-agent-swarm-playbook|Codex 多 Agent Swarm 实战手册]]
