@@ -43,6 +43,8 @@
 - [[2026-03-13/openai-codex-best-practices-analysis-en|OpenAI Codex Best Practices — A Practical Builder’s Analysis]]
 
 ## 🐙 多 Agent 编排
+- [[2026-03-16/sharbel-2032790032336007350-analysis|本月 GitHub 增长最快的 10 个项目：AI Agent 时代的军备竞赛]]
+- [[2026-03-16/sharbel-2032790032336007350-analysis-en|The 10 Fastest Growing GitHub Projects This Month: The AI Agent Arms Race]]
 - [[2026-03-16/varun-mathur-2032671842230501729-analysis|Hyperspace AGI v3.0：237 个 Agent 零人工干预跑出真实研究成果]]
 - [[2026-03-16/varun-mathur-2032671842230501729-analysis-en|Hyperspace AGI v3.0: 237 Agents, Zero Human Intervention, Real Research Results]]
 - [[2026-02-22/ai-team-skills|AI Team Skills：Claude 指挥 Gemini 和 Codex 协作]]
