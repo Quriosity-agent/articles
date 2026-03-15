@@ -243,6 +243,10 @@
 - [[2026-03-14/billtheinvestor-2032244753916707378-analysis|AI 对冲基金开源项目深度拆解：一个人用 AI Agent 团队模拟整个基金公司]]
 - [[2026-03-14/billtheinvestor-2032244753916707378-analysis-en|AI Hedge Fund Deep Dive: One Person Simulating an Entire Fund with AI Agents]]
 
+## 🥽 3D / XR / Gaussian Splatting
+- [[2026-03-16/gracia-vr-2032554546086424635-analysis|Gracia 4DGS 流媒体突破：高斯泼溅视频终于能像普通视频一样在浏览器里播放了]]
+- [[2026-03-16/gracia-vr-2032554546086424635-analysis-en|Gracia 4DGS Streaming Breakthrough: Gaussian Splatting Videos Now Play Like Regular Video in the Browser]]
+
 ## 💰 其他
 - [[2026-02-24/polymarket-cli|Polymarket CLI：终端玩预测市场]]
 - [[2026-02-05/Google-Game-Arena/README|Google AI Game Arena]]
