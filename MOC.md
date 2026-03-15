@@ -244,6 +244,8 @@
 - [[2026-03-15/qcut-agent-sdk-comparison-en|Embedding an AI Agent in QCut: Anthropic Claude SDK vs Pi Mono]]
 
 ## 🎬 录屏 / 屏幕录制工具
+- [[2026-03-16/qcut-recordly-reuse-guide|QCut 如何复用 Recordly 的屏幕录制增强代码：实战集成指南]]
+- [[2026-03-16/qcut-recordly-reuse-guide-en|How QCut Can Reuse Recordly's Screen Recording Enhancement Code: A Practical Integration Guide]]
 - [[2026-03-16/lgylight-2033109870187295151-analysis|Recordly：免费开源的 Screen Studio 平替，录屏工具三兄弟横评]]
 - [[2026-03-16/lgylight-2033109870187295151-analysis-en|Recordly: The Free Open-Source Screen Studio Alternative That Actually Works]]
 
