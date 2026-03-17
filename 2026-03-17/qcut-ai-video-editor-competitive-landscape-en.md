@@ -108,6 +108,67 @@ The real direct competitors are Shorz (YC) and Mosaic (YC W25), likely in the $1
 
 ---
 
+---
+
+## Generation Capability Comparison: Who Can Actually Generate Video?
+
+The 12 competitors analyzed above are overwhelmingly **editing tools** — they cut, arrange, subtitle, and enhance existing footage. But "editing" and "generation" are fundamentally different things. Whether a product can generate video from scratch is the key dividing line between product tiers.
+
+### Cannot Generate: Pure Editing Tools
+
+These 7 products only process existing footage. Zero video generation capability:
+
+- **OpusClip** — Clips long videos into short segments. You supply the footage.
+- **Shorz** — Agentic editing, but operates on your pre-shot video.
+- **ChatCut** — Natural language-driven editing. Doesn't create new assets.
+- **Ava** — Fully automated editing pipeline. Input is still your raw footage.
+- **CueClip** — Edit text = edit video. Requires having video to edit.
+- **VideoKit AI** — Rough cut automation. Needs existing material.
+- **Flow** — Vibe editing. The footage is still yours.
+
+### Limited Generation: Specific Scenarios
+
+These 3 have some "generation" ability, but with major limitations:
+
+- **Bazaar** — Generates SaaS product demo videos, but template-based + screen recording, not AI video generation.
+- **Odysser** — AI animation / motion graphics. Can generate dynamic graphic overlays, but doesn't generate full videos from text/images.
+- **Reelful** — Auto-generates narrative videos, but it's more like automated arrangement of existing assets + stock footage.
+
+### Code-Driven: Not AI Generation
+
+- **Remotion** — Generates video via React code. Flexible but programmatic rendering — a completely different paradigm from AI generation.
+
+### QCut: Actual Generation Capability
+
+QCut integrates mainstream AI video generation models via CLI, generating video assets directly from text or images:
+
+**Video Generation Models (8):**
+- Kling 2.6 Pro
+- LTX 2.3
+- Minimax Video 01
+- Runway Gen4
+- Veo 2
+- Wan X
+- Seedance 1.0
+- Luma Ray2
+
+**Beyond video — a complete AI production pipeline:**
+- **Image generation:** Flux, Recraft, Ideogram, DALL-E 3
+- **Avatar / digital human generation**
+- **Speech generation:** Chatterbox, ElevenLabs, Qwen3
+- **Motion transfer**
+- **Upscaling**
+
+### What This Means
+
+Of the 12 competitors, **not a single one** can call multiple AI video generation models the way QCut does. They solve the problem of "I have footage, how do I edit it." QCut solves "I have no footage, but I still need a video."
+
+More importantly, QCut integrates generation and editing in the same product. You can generate a video clip with AI, drop it directly into the timeline, and have the AI agent auto-grade and subtitle it. **Generation → Editing → Agent control** — end to end.
+
+The competitors are "editing tools." QCut is "generation + editing + agent" — a fundamentally different product category.
+
+---
+
 *Data as of 2026-03-17, compiled from public sources.*
 
 🦞
