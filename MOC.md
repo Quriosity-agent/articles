@@ -121,6 +121,8 @@
 - [[2026-02-27/codex-figma-mcp-bidirectional|Codex + Figma MCP]]
 
 ## 🎬 AI 视频
+- [[2026-03-18/chris-defi-2033832631083966913-analysis|2026 开源视频工具全景图：35+ 项目深度解读，Builder 视角的选型指南]]
+- [[2026-03-18/chris-defi-2033832631083966913-analysis-en|2026 Open-Source Video Tools Landscape: 35+ Projects Every Builder Should Know]]
 - [[2026-02-11/Seedance-2.0-使用手册|Seedance 2.0 使用手册]]
 - [[2026-02-11/Seedance-2.0-Key-Points|Seedance 2.0 Key Points]]
 - [[2026-02-11/Seedance-2.0-90percent-Wasting-It|Seedance 2.0：90% 的人在浪费它]]
