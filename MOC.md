@@ -144,6 +144,8 @@
 - [[2026-03-14/adam-2032364163763486891-analysis-en|Film Lighting & Color Grading for AI Video Creators: A Practical Guide]]
 - [[2026-03-17/qcut-ai-video-editor-competitive-landscape|AI 视频编辑器竞品全景：QCut vs 12 个竞争对手]]
 - [[2026-03-17/qcut-ai-video-editor-competitive-landscape-en|AI Video Editor Competitive Landscape: QCut vs 12 Competitors]]
+- [[2026-03-17/funcineforge-analysis|FunCineForge：用 AI 给影视剧配音的完整开源方案]]
+- [[2026-03-17/funcineforge-analysis-en|FunCineForge: The Complete Open-Source Pipeline for AI Movie Dubbing]]
 
 ## 🧠 大模型发布 & 基准测试
 - [[2026-03-16/christostzamos-2031845139526652236-analysis|在 Transformer 里造了一台计算机：Percepta AI 让 LLM 跑程序]]
