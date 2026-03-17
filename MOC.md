@@ -148,6 +148,8 @@
 - [[2026-03-17/funcineforge-analysis-en|FunCineForge: The Complete Open-Source Pipeline for AI Movie Dubbing]]
 
 ## 🧠 大模型发布 & 基准测试
+- [[2026-03-17/attention-residuals-analysis|Attention Residuals：用注意力机制替换残差连接，Transformer 性能直接起飞]]
+- [[2026-03-17/attention-residuals-analysis-en|Attention Residuals: Replace Fixed Residual Connections with Learned Attention, Get Free Performance]]
 - [[2026-03-16/christostzamos-2031845139526652236-analysis|在 Transformer 里造了一台计算机：Percepta AI 让 LLM 跑程序]]
 - [[2026-03-16/christostzamos-2031845139526652236-analysis-en|Building a Computer Inside a Transformer: Percepta AI Makes LLMs Execute Programs]]
 - [[2026-02-23/GLM-5-Slime-Framework/article|GLM-5 异步强化学习框架 Slime]]
