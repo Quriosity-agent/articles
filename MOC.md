@@ -159,6 +159,8 @@
 - [[2026-03-18/omniclip-analysis-en|Omniclip: A Fully Browser-Based Open Source Video Editor — Architecture Deep Dive]]
 - [[2026-03-18/openreel-video-analysis|OpenReel Video 深度分析：130K 行代码的开源 CapCut 替代品，纯浏览器剪辑到底行不行？]]
 - [[2026-03-18/openreel-video-analysis-en|OpenReel Video Deep Dive: 130K Lines of Open-Source CapCut Alternative, Running Entirely in Your Browser]]
+- [[2026-03-18/jellyfish-analysis|Jellyfish：一站式 AI 短剧生产工厂，从剧本到成片的完整开源方案]]
+- [[2026-03-18/jellyfish-analysis-en|Jellyfish: An Open-Source AI Short Drama Factory — From Script to Final Cut]]
 
 ## 🧠 大模型发布 & 基准测试
 - [[2026-03-17/attention-residuals-analysis|Attention Residuals：用注意力机制替换残差连接，Transformer 性能直接起飞]]
