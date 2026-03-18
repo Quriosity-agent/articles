@@ -25,6 +25,9 @@
 - [[2026-03-12/iamemily2050-2031879748834771302-analysis|从"AI Slop"到结构化提示词：Emily 这条推文的实战解读]]
 - [[2026-03-13/gstack-claude-code-specialist-team|gstack：把 Claude Code 从通用助手变成一支专家团队]]
 - [[2026-03-13/gstack-claude-code-specialist-team-en|gstack: Turn Claude Code Into a Team of Specialists]]
+- [[2026-03-16/claude-generative-ui-interactive-chat|Claude 生成式 UI：AI 不再只输出文字，而是直接构建交互界面]]
+- [[2026-03-16/claude-generative-ui-interactive-chat-en|Claude Generative UI: AI No Longer Just Outputs Text — It Builds Interactive Interfaces]]
+- [[2026-03-16/claude-generative-ui-replication|歸藏一天复刻了 Claude 的生成式 UI 交互，这意味着什么？]]
 
 ## 🧑‍💻 Codex / OpenAI
 - [[2026-03-16/argusbot-analysis|ArgusBot：让 Codex CLI 不再"干到一半就停"的 Python 监督插件]]
