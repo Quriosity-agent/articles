@@ -82,6 +82,8 @@
 - [[2026-03-02/agent-harness-real-product|Agent Harness 才是真正的产品：架构深度对比]]
 - [[2026-03-17/jakevin7-2033784104659882013-analysis|Harness Engineering 深度解读：AI Agent 时代的工程范式革命]]
 - [[2026-03-17/jakevin7-2033784104659882013-analysis-en|Harness Engineering Deep Dive: The Engineering Paradigm Shift of the AI Agent Era]]
+- [[2026-03-17/harness-engineering-deep-dive|Harness Engineering 深度解读：AI Agent 时代的工程范式革命（综合分析版）]]
+- [[2026-03-17/harness-engineering-deep-dive-en|Harness Engineering Deep Dive: The Engineering Paradigm Revolution of the AI Agent Era]]
 - [[2026-03-02/peon-ping-warcraft-notifications|Peon-Ping：魔兽争霸农民工当 AI 通知员]]
 - [[2026-03-02/qcut-architecture-audit|QCut Electron 架构层级违规审计]]
 - [[2026-03-03/sdd-tools-comparison|110K Stars 背后的共识：AI 编程三大 SDD 工具深度对比]]
