@@ -198,6 +198,8 @@
 - [[2026-03-01/openclaw-multi-agent-routing|OpenClaw 多 Agent 路由：一台服务器跑多个 AI 大脑]]
 - [[2026-03-04/self-improving-agent-skill|Self-Improving Agent：让 AI Agent 学会"记错题本"，越用越聪明]]
 - [[2026-03-11/labclaw-analysis|LabClaw 深度解析：面向生物医药 AI Agent 的 Skill Operating Layer]]
+- [[2026-03-18/clawmatrix-ai-analysis|ClawMatrix 深度分析：用 AI 重新定义品牌分发的"分布式人类-Agent 引擎"]]
+- [[2026-03-18/clawmatrix-ai-analysis-en|ClawMatrix Deep Dive: The Distributed Human-Agent Engine Redefining Brand Distribution with AI]]
 
 ## 🌐 浏览器 & 自动化
 - [[2026-02-27/agent-browser-cli|agent-browser CLI]]
