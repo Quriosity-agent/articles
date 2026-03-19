@@ -271,6 +271,8 @@
 - [[2026-03-15/qcut-agent-sdk-comparison-en|Embedding an AI Agent in QCut: Anthropic Claude SDK vs Pi Mono]]
 
 ## 🔄 代码复用分析
+- [[2026-03-19/qcut-beat-detection-guide|QCut 实现 Beat Detection（自动节拍标记）：复用 OpenReel Video 代码的完整实施指南]]
+- [[2026-03-19/qcut-beat-detection-guide-en|Adding Beat Detection (Auto Beat Markers) to QCut: Reusing OpenReel Video Code]]
 - [[2026-03-19/qcut-karaoke-implementation-guide|QCut 卡拉OK逐字高亮字幕：复用 OpenReel Video 代码的完整实现指南]]
 - [[2026-03-19/qcut-karaoke-implementation-guide-en|Adding Karaoke-Style Word-by-Word Subtitle Highlighting to QCut: Reusing OpenReel Video Code]]
 - [[2026-03-18/qcut-openreel-reuse-guide|QCut 能从 OpenReel Video 借到什么？完整代码复用分析]]
