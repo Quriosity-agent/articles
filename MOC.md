@@ -1,6 +1,8 @@
 # 📚 文章导航 (Map of Content)
 
 ## 🤖 Claude Code / Anthropic
+- [[2026-03-20/trq212-2034761704601690432-analysis|Claude Code Channels：用手机上的 Telegram/Discord 直接控制你的 Claude Code]]
+- [[2026-03-20/trq212-2034761704601690432-analysis-en|Claude Code Channels: Control Your Claude Code Session from Telegram or Discord on Your Phone]]
 - [[2026-03-15/qcut-pi-mono-integration-guide|如何用 Pi Mono 在 QCut 中构建嵌入式 AI Agent：完整实现指南]]
 - [[2026-03-15/qcut-pi-mono-integration-guide-en|How to Build an Embedded AI Agent in QCut Using Pi Mono: Complete Implementation Guide]]
 - [[2026-02-28/claude-code-agent-teams-reverse-engineering|Agent Teams 逆向工程：文件系统就是消息队列]]
