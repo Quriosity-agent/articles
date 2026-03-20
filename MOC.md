@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧠 Andrej Karpathy / AI 思想领袖
+- [[2026-03-21/karpathy-no-priors-agent-psychosis|Andrej Karpathy 的 "AI 精神错乱"：当顶级 AI 研究者彻底放弃手写代码]]
+- [[2026-03-21/karpathy-no-priors-agent-psychosis-en|Andrej Karpathy's "AI Psychosis": When a Top AI Researcher Completely Stopped Writing Code]]
+
 ## 🤖 Claude Code / Anthropic
 - [[2026-03-20/trq212-2034761704601690432-analysis|Claude Code Channels：用手机上的 Telegram/Discord 直接控制你的 Claude Code]]
 - [[2026-03-20/trq212-2034761704601690432-analysis-en|Claude Code Channels: Control Your Claude Code Session from Telegram or Discord on Your Phone]]
