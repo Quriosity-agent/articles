@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🛠️ gstack / YC 创始人工具链
+- [[2026-03-23/gstack-office-hours-ceo-review|gstack 深度拆解：Office Hours + CEO Review — YC 掌门人的 AI 产品思维工具链]]
+- [[2026-03-23/gstack-office-hours-ceo-review-en|gstack Deep Dive: Office Hours + CEO Review — YC's CEO Built an AI Product Thinking Toolchain]]
+
 ## 🧠 Andrej Karpathy / AI 思想领袖
 - [[2026-03-21/karpathy-no-priors-agent-psychosis|Andrej Karpathy 的 "AI 精神错乱"：当顶级 AI 研究者彻底放弃手写代码]]
 - [[2026-03-21/karpathy-no-priors-agent-psychosis-en|Andrej Karpathy's "AI Psychosis": When a Top AI Researcher Completely Stopped Writing Code]]
