@@ -266,6 +266,9 @@
 - [[2026-03-13/wechat-xActnLdiFb29WwIEHsA1Vw-analysis|2026 GTC 边会活动清单深读：给 Builder 的参会作战手册]]
 - [[2026-03-13/wechat-xActnLdiFb29WwIEHsA1Vw-analysis-en|2026 GTC Side-Event Roundup: A Practical Field Guide for Builders]]
 
+- [[2026-03-23/yc-w26-batch-analysis-85-percent-ai|YC W26 深度分析：85% 的公司都是 AI，这届 Demo Day 到底在卷什么？]]
+- [[2026-03-23/yc-w26-batch-analysis-85-percent-ai-en|YC W26 Deep Dive: 85% AI-First — What the Biggest AI Batch Ever Tells Us About the Future]]
+
 ## 📚 LLM 学习资源
 - [[2026-03-14/theahmadosman-2032460101206839424-analysis|掌握 LLM 的 26 篇必读论文：Ahmad 的完整阅读路线图]]
 - [[2026-03-14/theahmadosman-2032460101206839424-analysis-en|26 Essential Papers for Mastering LLMs: Ahmad's Complete Reading Roadmap]]
