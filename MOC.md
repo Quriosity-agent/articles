@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🤖 Anthropic 多 Agent Harness 设计
+- [[2026-03-26/anthropic-2036481033621623056-analysis|Anthropic 多 Agent Harness 设计：如何让 Claude 自主构建完整应用]]
+- [[2026-03-26/anthropic-2036481033621623056-analysis-en|Anthropic's Multi-Agent Harness: How They Push Claude to Build Complete Apps Autonomously]]
+
 ## 🛠️ gstack / YC 创始人工具链
 - [[2026-03-23/gstack-office-hours-ceo-review|gstack 深度拆解：Office Hours + CEO Review — YC 掌门人的 AI 产品思维工具链]]
 - [[2026-03-23/gstack-office-hours-ceo-review-en|gstack Deep Dive: Office Hours + CEO Review — YC's CEO Built an AI Product Thinking Toolchain]]
