@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 Cutia 开源浏览器视频编辑器
+- [[2026-03-27/cutia-analysis|Cutia：开源的浏览器视频编辑器，CapCut 的平替方案]]
+- [[2026-03-27/cutia-analysis-en|Cutia: An Open-Source In-Browser Video Editor — The CapCut Alternative That Respects Your Privacy]]
+
 ## 🤖 Anthropic 多 Agent Harness 设计
 - [[2026-03-26/anthropic-2036481033621623056-analysis|Anthropic 多 Agent Harness 设计：如何让 Claude 自主构建完整应用]]
 - [[2026-03-26/anthropic-2036481033621623056-analysis-en|Anthropic's Multi-Agent Harness: How They Push Claude to Build Complete Apps Autonomously]]
