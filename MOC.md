@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧠 林俊旸：从「推理式思考」到「智能体式思考」
+- [[2026-03-27/justinlin-2037116325210829168-analysis|林俊旸离职后首篇长文：从「推理式思考」到「智能体式思考」]]
+- [[2026-03-27/justinlin-2037116325210829168-analysis-en|Junyang Lin's First Post After Leaving Qwen: From "Reasoning Thinking" to "Agentic Thinking"]]
+
 ## 🎬 Cutia 开源浏览器视频编辑器
 - [[2026-03-27/cutia-analysis|Cutia：开源的浏览器视频编辑器，CapCut 的平替方案]]
 - [[2026-03-27/cutia-analysis-en|Cutia: An Open-Source In-Browser Video Editor — The CapCut Alternative That Respects Your Privacy]]
