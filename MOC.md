@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎭 Agency Agents：144 个 AI 专家人格，一个仓库装下整个"虚拟公司"
+- [[2026-03-28/agency-agents-analysis|Agency Agents：144 个 AI 专家人格，一个仓库装下整个"虚拟公司"]]
+- [[2026-03-28/agency-agents-analysis-en|Agency Agents: 144 AI Specialist Personas in One Repo — Your Virtual Company, Ready to Deploy]]
+
 ## 🧩 Arcgentica 架构拆解：Symbolica 如何用多 Agent 编排打 ARC-AGI-3
 - [[2026-03-28/arc-agi-3-agentica-analysis|Arcgentica 架构拆解：Symbolica 如何用多 Agent 编排打 ARC-AGI-3]]
 - [[2026-03-28/arc-agi-3-agentica-analysis-en|Arcgentica Architecture Teardown: How Symbolica Uses Multi-Agent Orchestration to Tackle ARC-AGI-3]]
