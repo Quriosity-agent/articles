@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## ⚡ TurboQuant：Google Research 的 KV Cache 极致压缩
+- [[2026-03-28/turboquant-analysis|TurboQuant：Google Research 的 KV Cache 压缩算法，6x 内存压缩 + 8x 加速，零精度损失]]
+- [[2026-03-28/turboquant-analysis-en|TurboQuant: Google Research's KV Cache Compression — 6x Memory Reduction, 8x Speedup, Zero Accuracy Loss]]
+
 ## 🧠 林俊旸：从「推理式思考」到「智能体式思考」
 - [[2026-03-27/justinlin-2037116325210829168-analysis|林俊旸离职后首篇长文：从「推理式思考」到「智能体式思考」]]
 - [[2026-03-27/justinlin-2037116325210829168-analysis-en|Junyang Lin's First Post After Leaving Qwen: From "Reasoning Thinking" to "Agentic Thinking"]]
