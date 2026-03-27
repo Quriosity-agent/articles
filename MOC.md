@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧩 Arcgentica 架构拆解：Symbolica 如何用多 Agent 编排打 ARC-AGI-3
+- [[2026-03-28/arc-agi-3-agentica-analysis|Arcgentica 架构拆解：Symbolica 如何用多 Agent 编排打 ARC-AGI-3]]
+- [[2026-03-28/arc-agi-3-agentica-analysis-en|Arcgentica Architecture Teardown: How Symbolica Uses Multi-Agent Orchestration to Tackle ARC-AGI-3]]
+
 ## 🎮 用 AI 生成 FFT 风格等距像素精灵：Nano Banana 2 + Veo 3.1 完整流水线
 - [[2026-03-28/chongdashu-2037109734445084684-analysis|用 AI 生成《最终幻想战略版》风格等距像素精灵：Nano Banana 2 + Veo 3.1 完整流水线]]
 - [[2026-03-28/chongdashu-2037109734445084684-analysis-en|Generating Final Fantasy Tactics-Style Isometric Sprites with AI: The Nano Banana 2 + Veo 3.1 Pipeline]]
