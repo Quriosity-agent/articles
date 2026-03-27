@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎮 用 AI 生成 FFT 风格等距像素精灵：Nano Banana 2 + Veo 3.1 完整流水线
+- [[2026-03-28/chongdashu-2037109734445084684-analysis|用 AI 生成《最终幻想战略版》风格等距像素精灵：Nano Banana 2 + Veo 3.1 完整流水线]]
+- [[2026-03-28/chongdashu-2037109734445084684-analysis-en|Generating Final Fantasy Tactics-Style Isometric Sprites with AI: The Nano Banana 2 + Veo 3.1 Pipeline]]
+
 ## 🎭 Deep-Live-Cam：一张照片实时换脸，GitHub 81.5k+ Star 的最危险开源项目
 - [[2026-03-28/hank-aibtc-2037493951951929659-analysis|Deep-Live-Cam：一张照片实时换脸，GitHub 81.5k+ Star 的最危险开源项目]]
 - [[2026-03-28/hank-aibtc-2037493951951929659-analysis-en|Deep-Live-Cam: Real-Time Face Swapping With a Single Photo — The 81.5k Star Open-Source Project]]
