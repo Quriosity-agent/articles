@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎭 Deep-Live-Cam：一张照片实时换脸，GitHub 81.5k+ Star 的最危险开源项目
+- [[2026-03-28/hank-aibtc-2037493951951929659-analysis|Deep-Live-Cam：一张照片实时换脸，GitHub 81.5k+ Star 的最危险开源项目]]
+- [[2026-03-28/hank-aibtc-2037493951951929659-analysis-en|Deep-Live-Cam: Real-Time Face Swapping With a Single Photo — The 81.5k Star Open-Source Project]]
+
 ## ⚡ TurboQuant：Google Research 的 KV Cache 极致压缩
 - [[2026-03-28/turboquant-analysis|TurboQuant：Google Research 的 KV Cache 压缩算法，6x 内存压缩 + 8x 加速，零精度损失]]
 - [[2026-03-28/turboquant-analysis-en|TurboQuant: Google Research's KV Cache Compression — 6x Memory Reduction, 8x Speedup, Zero Accuracy Loss]]
