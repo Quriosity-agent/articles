@@ -324,6 +324,8 @@
 - [[2026-03-16/qcut-recordly-reuse-guide-en|How QCut Can Reuse Recordly's Screen Recording Enhancement Code: A Practical Integration Guide]]
 
 ## 🎬 录屏 / 屏幕录制工具
+- [[2026-03-28/openscreen-analysis|OpenScreen：免费开源的 Screen Studio 替代品，Electron + PixiJS 的跨平台录屏工具]]
+- [[2026-03-28/openscreen-analysis-en|OpenScreen: A Free, Open-Source Alternative to Screen Studio — Cross-Platform with Electron + PixiJS]]
 - [[2026-03-16/lgylight-2033109870187295151-analysis|Recordly：免费开源的 Screen Studio 平替，录屏工具三兄弟横评]]
 - [[2026-03-16/lgylight-2033109870187295151-analysis-en|Recordly: The Free Open-Source Screen Studio Alternative That Actually Works]]
 
