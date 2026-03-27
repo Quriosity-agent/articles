@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎯 Lenny Skills：86 个产品管理技能包，让 Claude Code 变成产品导师
+- [[2026-03-28/lenny-skills-analysis|Lenny Skills：86 个产品管理技能包，让 Claude Code 变成你的产品导师]]
+- [[2026-03-28/lenny-skills-analysis-en|Lenny Skills: 86 Product Management Skills That Turn Claude Code Into Your Product Mentor]]
+
 ## 🧠 gstack 深度拆解：Office Hours + CEO Review — YC CEO 搭建的 AI 产品思考工具链
 - [[2026-03-28/peter6759-2035718798834369012-analysis|gstack 深度拆解：Office Hours + CEO Review — YC CEO 搭建的 AI 产品思考工具链]]
 - [[2026-03-28/peter6759-2035718798834369012-analysis-en|gstack Deep Dive: Office Hours + CEO Review — YC's CEO Built an AI Product Thinking Toolchain]]
