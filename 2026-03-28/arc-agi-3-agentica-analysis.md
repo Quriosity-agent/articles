@@ -14,9 +14,9 @@ ARC-AGI-3 是 ARC Prize 推出的第三代通用智能基准测试。跟前两�
 
 ## 整体架构
 
-![Arcgentica Architecture](https://raw.githubusercontent.com/symbolica-ai/ARC-AGI-3-Agents/symbolica/arcgentica/agents/templates/agentica/logging/frontend/index.html)
+![ARC-AGI-3 Game Interface](https://opengraph.githubassets.com/1/symbolica-ai/ARC-AGI-3-Agents)
 
-*图片来源：[symbolica-ai/ARC-AGI-3-Agents](https://github.com/symbolica-ai/ARC-AGI-3-Agents/tree/symbolica/arcgentica) (MIT License)*
+*图片来源：[symbolica-ai/ARC-AGI-3-Agents](https://github.com/symbolica-ai/ARC-AGI-3-Agents/tree/symbolica/arcgentica) GitHub OG 图*
 
 Arcgentica 的架构可以用一句话概括：**Orchestrator 不玩游戏，只调度 Agent。**
 
