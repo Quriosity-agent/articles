@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧠 gstack 深度拆解：Office Hours + CEO Review — YC CEO 搭建的 AI 产品思考工具链
+- [[2026-03-28/peter6759-2035718798834369012-analysis|gstack 深度拆解：Office Hours + CEO Review — YC CEO 搭建的 AI 产品思考工具链]]
+- [[2026-03-28/peter6759-2035718798834369012-analysis-en|gstack Deep Dive: Office Hours + CEO Review — YC's CEO Built an AI Product Thinking Toolchain]]
+
 ## 🎭 Agency Agents：144 个 AI 专家人格，一个仓库装下整个"虚拟公司"
 - [[2026-03-28/agency-agents-analysis|Agency Agents：144 个 AI 专家人格，一个仓库装下整个"虚拟公司"]]
 - [[2026-03-28/agency-agents-analysis-en|Agency Agents: 144 AI Specialist Personas in One Repo — Your Virtual Company, Ready to Deploy]]
