@@ -3,8 +3,7 @@
 > 原文：[中国AIGC「全家桶」来了！三箭齐发杀入全球第一梯队](https://mp.weixin.qq.com/s/PC4SHTIr6S8VlZOOgwsfnw)（新智元，2026-03-27）
 > 发布会：2026 中关村论坛，昆仑万维天工 AI 专场
 
-![天工AI AIGC全家桶发布会](https://matrix-game-v3.github.io/static/images/teaser.png)
-*图片来源：[Matrix-Game 3.0 项目主页](https://matrix-game-v3.github.io/)*
+*图片来源：[原文链接](https://mp.weixin.qq.com/s/PC4SHTIr6S8VlZOOgwsfnw)（新智元）*
 
 ---
 

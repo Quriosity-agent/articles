@@ -3,7 +3,7 @@
 > Source: [中国AIGC「全家桶」来了！三箭齐发杀入全球第一梯队](https://mp.weixin.qq.com/s/PC4SHTIr6S8VlZOOgwsfnw) (Xinzhiyuan, 2026-03-27)
 > Event: 2026 Zhongguancun Forum, Kunlun Tech / Tiangong AI keynote
 
-![Tiangong AI AIGC Suite Launch](https://matrix-game-v3.github.io/static/images/teaser.png)
+*Image source: [Original WeChat article](https://mp.weixin.qq.com/s/PC4SHTIr6S8VlZOOgwsfnw)*
 *Image source: [Matrix-Game 3.0 Project Page](https://matrix-game-v3.github.io/)*
 
 ---
