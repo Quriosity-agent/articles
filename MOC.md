@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎮 天工 AI「AIGC 全家桶」：Matrix-Game 3.0 + SkyReels V4 + Mureka V9 三线杀入全球第一梯队
+- [[2026-03-28/wechat-PC4SHTIr6S8VlZOOgwsfnw-analysis|天工 AI「AIGC 全家桶」：游戏世界模型 + 视频 + 音乐，三线同时杀入全球第一梯队]]
+- [[2026-03-28/wechat-PC4SHTIr6S8VlZOOgwsfnw-analysis-en|Tiangong AI's "AIGC Suite": World Model + Video + Music — Three Models Hit Global Tier-1 Simultaneously]]
+
 ## 🎯 Lenny Skills：86 个产品管理技能包，让 Claude Code 变成产品导师
 - [[2026-03-28/lenny-skills-analysis|Lenny Skills：86 个产品管理技能包，让 Claude Code 变成你的产品导师]]
 - [[2026-03-28/lenny-skills-analysis-en|Lenny Skills: 86 Product Management Skills That Turn Claude Code Into Your Product Mentor]]
