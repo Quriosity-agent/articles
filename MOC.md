@@ -320,6 +320,8 @@
 - [[2026-03-14/theahmadosman-2032460101206839424-analysis-en|26 Essential Papers for Mastering LLMs: Ahmad's Complete Reading Roadmap]]
 
 ## 🖥️ 终端工具 & CLI
+- [[2026-03-27/stripe-projects-cli-dev-stack-terminal|Stripe Projects：从终端一键搭建生产级开发栈]]
+- [[2026-03-27/stripe-projects-cli-dev-stack-terminal-en|Stripe Projects: Provision a Production-Ready Dev Stack from Your Terminal]]
 - [[2026-03-14/enesakar-2031887459085377887-analysis|Context7 CLI：让任何 AI Agent 都能拉取最新文档，不再依赖 MCP]]
 - [[2026-03-14/enesakar-2031887459085377887-analysis-en|Context7 CLI: Any AI Agent Can Now Pull Latest Docs — No MCP Required]]
 - [[2026-03-14/mrahmadawais-2032208308132856085-analysis|Chartli：终端里的数据可视化，零配置出图]]
