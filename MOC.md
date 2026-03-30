@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## ⚡ 独立开发者 7 天逆向工程 Google TurboQuant：一个人 + Claude 造出比论文更快的实现
+- [[2026-03-31/k1rallik-2038567965465944491-analysis|独立开发者 7 天逆向工程 Google 十亿级算法：TurboQuant 的 llama.cpp 实战]]
+- [[2026-03-31/k1rallik-2038567965465944491-analysis-en|Solo Dev Reverse-Engineered Google's Billion-Dollar Algorithm in 7 Days: TurboQuant Meets llama.cpp]]
+
 ## 🧠 Qwen3.5-Omni：阿里巴巴的全模态基座模型，Builder 应该关注什么？
 - [[2026-03-31/qwen35-omni-analysis|Qwen3.5-Omni 深度解析：阿里巴巴的全模态基座模型，Builder 应该关注什么？]]
 - [[2026-03-31/qwen35-omni-analysis-en|Qwen3.5-Omni Deep Dive: Alibaba's Omni-Modal Foundation Model — What Builders Need to Know]]
