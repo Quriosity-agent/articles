@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🔬 Awesome AutoResearch：Karpathy 的 AutoResearch 生态全景分析
+- [[2026-03-31/awesome-autoresearch-analysis|Awesome AutoResearch：Karpathy 的"让 AI 自己搞研究"到底带火了什么]]
+- [[2026-03-31/awesome-autoresearch-analysis-en|Awesome AutoResearch: What Karpathy's "Let AI Do Its Own Research" Actually Sparked]]
+
 ## 📏 pretext：不触发 DOM reflow 的浏览器文本高度预测
 - [[2026-03-31/pretext-analysis|pretext：不触发 DOM reflow 就能预测文本高度的浏览器库]]
 - [[2026-03-31/pretext-analysis-en|pretext: Predict Text Block Heights Without Triggering DOM Reflow]]
