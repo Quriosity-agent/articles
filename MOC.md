@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧠 Qwen3.5-Omni：阿里巴巴的全模态基座模型，Builder 应该关注什么？
+- [[2026-03-31/qwen35-omni-analysis|Qwen3.5-Omni 深度解析：阿里巴巴的全模态基座模型，Builder 应该关注什么？]]
+- [[2026-03-31/qwen35-omni-analysis-en|Qwen3.5-Omni Deep Dive: Alibaba's Omni-Modal Foundation Model — What Builders Need to Know]]
+
 ## 🎬 Grok Imagine 视频生成终极指南：X 官方手把手教你零门槛出片
 - [[2026-03-31/xcreators-2037642851732066580-analysis|Grok Imagine 视频生成终极指南：X 官方手把手教你零门槛出片]]
 - [[2026-03-31/xcreators-2037642851732066580-analysis-en|The Ultimate Guide to Grok Imagine Videos: X's Official Playbook for Zero-Friction AI Video Creation]]
