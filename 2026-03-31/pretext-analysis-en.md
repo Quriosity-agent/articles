@@ -1,140 +1,183 @@
-# pretext: Predict Text Block Heights Without Triggering DOM Reflow
+# pretext: Multiline Text Measurement & Layout Without DOM Reflow
 
-> **Repo:** [somnai-dreams/pretext](https://github.com/somnai-dreams/pretext) · TypeScript · ⭐ 2 · Based on Sebastian Markbåge's text-layout research prototype
+> **Repo:** [chenglou/pretext](https://github.com/chenglou/pretext) · TypeScript · npm: `@chenglou/pretext`
+> **Author:** Cheng Lou (creator of React Motion, Reason/ReScript, ex-Meta/Facebook)
+> **Demo:** [chenglou.me/pretext](https://chenglou.me/pretext/)
 
 ## TL;DR
 
-pretext uses canvas `measureText()` + two-phase caching to turn "text block height prediction" from a DOM read operation into pure arithmetic — ~0.0002ms per block on resize, 0.11ms total for 500 comments, zero DOM interaction.
+pretext is a pure JS/TS library that measures and lays out multiline text without touching the DOM. One-time `prepare()` does segmentation + canvas measurement; subsequent `layout()` calls are pure arithmetic — ~0.09ms for 500 texts. Supports CJK, bidi (Arabic/Hebrew), emoji, mixed scripts. Renders to DOM, Canvas, SVG, WebGL, and eventually server-side.
 
 ## The Problem
 
-Measuring text height in the browser (`getBoundingClientRect`, `offsetHeight`) triggers synchronous layout reflow. When a virtual scrolling list needs to independently measure 500 comments, each measurement forces the browser to recompute layout for the entire document. Read/write interleaving on the resize hot path can easily cost 30ms+ per frame.
+Measuring text height in the browser (`getBoundingClientRect`, `offsetHeight`) triggers synchronous layout reflow — one of the most expensive browser operations. For virtual scrolling lists, chat UIs, masonry grids, and anything that needs to know text dimensions before rendering, this is a fundamental bottleneck.
 
 **Where it hurts:**
-- Virtualized feeds / comment lists: need row heights before mount
-- Masonry / card grids: text-heavy cards need upfront sizing
-- Chat / messaging UIs: bubble heights must recompute on every width change
-- Loading skeletons / CLS reduction: reserve accurate vertical space before render
+- **Virtualized lists**: You need exact row heights before mount, but current solutions rely on `estimatedRowHeight` or render-then-measure hacks
+- **Masonry layouts**: Text-heavy cards need upfront sizing that CSS can't provide
+- **Layout shift (CLS)**: New text loads and the page jumps because you couldn't reserve accurate space
+- **Shrink-wrap width**: The tightest container width for multiline text — CSS simply can't compute this
+- **Text flowing around floats**: Each line has a different available width, breaking traditional measurement approaches entirely
 
-## Core Idea: Two-Phase Measurement
+## Core Design: Two-Phase Architecture
 
 ```
-┌───────────────────────────────────────────────────┐
-│  Phase 1: prepare(text, font)                      │
-│  ┌────────────┐  ┌─────────────┐  ┌────────────┐  │
-│  │ Intl.      │→│ canvas      │→│ Cache word  │  │
-│  │ Segmenter  │  │ measureText  │  │ widths     │  │
-│  └────────────┘  └─────────────┘  └────────────┘  │
-│  Called once when text first appears                │
-├───────────────────────────────────────────────────┤
-│  Phase 2: layout(block, maxWidth, lineHeight)      │
-│  ┌────────────────────────────────────────────┐   │
-│  │ Pure arithmetic: walk cached widths → count │   │
-│  │ lines → multiply by lineHeight              │   │
-│  │ No canvas, no DOM, no string ops            │   │
-│  └────────────────────────────────────────────┘   │
-│  Called on every resize, ~0.0002ms per block       │
-└───────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────┐
+│  Phase 1: prepare(text, font)                         │
+│  ┌────────────┐  ┌──────────────┐  ┌──────────────┐  │
+│  │ Normalize  │→│ Segment text │→│ canvas       │  │
+│  │ whitespace │  │ + glue rules │  │ measureText  │  │
+│  └────────────┘  └──────────────┘  └──────────────┘  │
+│  Called once, returns an opaque handle                 │
+├──────────────────────────────────────────────────────┤
+│  Phase 2: layout(prepared, maxWidth, lineHeight)      │
+│  ┌──────────────────────────────────────────────┐    │
+│  │ Pure arithmetic: walk cached widths → wrap    │    │
+│  │ lines → compute height                        │    │
+│  │ No canvas, no DOM, no string operations       │    │
+│  └──────────────────────────────────────────────┘    │
+│  Called on every resize, 500 texts in ~0.09ms         │
+└──────────────────────────────────────────────────────┘
 ```
 
-Usage is minimal:
+The key principle: **`prepare()` once per text, `layout()` on every resize**. The hot path is pure arithmetic.
+
+## Usage
+
+### Use Case 1: Height Only (Most Common)
 
 ```ts
-import { prepare, layout } from './src/layout.ts'
+import { prepare, layout } from '@chenglou/pretext'
 
-// When text first appears
-const block = prepare(commentText, '16px Inter')
-
-// On every container width change (pure arithmetic, blazing fast)
-const { height, lineCount } = layout(block, containerWidth, 19)
+const prepared = prepare('AGI 春天到了. بدأت الرحلة 🚀', '16px Inter')
+const { height, lineCount } = layout(prepared, containerWidth, 20)
+// Pure arithmetic. Zero DOM reflow.
 ```
+
+For textarea-like whitespace preservation, pass `{ whiteSpace: 'pre-wrap' }`:
+
+```ts
+const prepared = prepare(textareaValue, '16px Inter', { whiteSpace: 'pre-wrap' })
+const { height } = layout(prepared, textareaWidth, 20)
+```
+
+### Use Case 2: Full Line Data
+
+Switch to `prepareWithSegments` + `layoutWithLines` to get each line's text, width, and cursors:
+
+```ts
+import { prepareWithSegments, layoutWithLines } from '@chenglou/pretext'
+
+const prepared = prepareWithSegments('AGI 春天到了', '18px "Helvetica Neue"')
+const { lines } = layoutWithLines(prepared, 320, 26)
+for (let i = 0; i < lines.length; i++) {
+  ctx.fillText(lines[i].text, 0, i * 26)  // Render to Canvas
+}
+```
+
+### Use Case 3: Shrink-Wrap Width
+
+`walkLineRanges` calls back with each line's width without building text strings — perfect for binary-searching the optimal container width:
+
+```ts
+let maxW = 0
+walkLineRanges(prepared, 320, line => {
+  if (line.width > maxW) maxW = line.width
+})
+// maxW = widest line = tightest container width that fits the text
+// This multiline "shrink-wrap" has been missing from the web
+```
+
+### Use Case 4: Text Flowing Around Floats
+
+`layoutNextLine` lays out one line at a time with a different width each time:
+
+```ts
+let cursor = { segmentIndex: 0, graphemeIndex: 0 }
+let y = 0
+
+while (true) {
+  const width = y < image.bottom ? columnWidth - image.width : columnWidth
+  const line = layoutNextLine(prepared, cursor, width)
+  if (line === null) break
+  ctx.fillText(line.text, 0, y)
+  cursor = line.end
+  y += 26
+}
+```
+
+These APIs unlock rendering to Canvas, SVG, WebGL — no longer confined to the DOM.
 
 ## Performance
 
-500 comments, resize to new width (the hot path):
+From the repo's built-in benchmark (500 texts):
 
-| Approach | Time | DOM-free |
-|---|---|---|
-| **pretext** | **0.11ms** | ✅ |
-| DOM batch (write all, read all) | 0.18ms | ❌ |
-| DOM interleaved (per-component) | Much worse in practice | ❌ |
-| Sebastian's text-layout (no cache) | 30ms | ✅ |
-| Sebastian's + word cache | 3ms | ✅ |
-
-**0.11ms vs 30ms** — a 270× improvement. And because pretext never touches the DOM, it won't interrupt the browser's rendering pipeline.
-
-## Accuracy
-
-Tested across 4 fonts × 8 sizes × 8 widths × 30 i18n texts (7680 tests):
-
-| Browser | Match Rate |
+| Phase | Time |
 |---|---|
-| Chrome | 99.96% |
-| Safari | 99.92% |
-| Firefox | 99.95% |
-| Headless (HarfBuzz) | 100% |
+| `prepare()` | ~19ms (one-time) |
+| `layout()` | **~0.09ms** (per resize) |
 
-Remaining mismatches are font-specific borderline pixel rounding issues (Georgia rounding, Courier New Korean, etc.), not algorithm errors.
+`layout()` is pure arithmetic. 0.09ms for 500 texts means resize-time re-layout is essentially free.
 
-## Key Technical Details
+## Language Support
 
-After reading the source (`src/layout.ts`), here are the designs worth noting:
+pretext isn't an English-only library. The README's very first example mixes Chinese, Arabic, and emoji:
 
-### 1. Word Segmentation: Intl.Segmenter
+```ts
+prepare('AGI 春天到了. بدأت الرحلة 🚀', '16px Inter')
+```
 
-Uses `Intl.Segmenter` with `word` granularity — natively handles CJK (per-character breaking), Thai, Arabic, and every script the browser supports. No npm dependencies (Sebastian's original used the `linebreak` package and non-standard `Intl.v8BreakIterator`).
+What's supported:
+- **CJK (Chinese, Japanese, Korean)**: Per-character line breaking + kinsoku shori rules (e.g., `，。」` never start a line)
+- **Bidirectional text (Bidi)**: Full Unicode Bidirectional Algorithm (UAX #9), with a fast path for pure-LTR text (zero overhead)
+- **Emoji**: Handles Chrome/Firefox macOS emoji width inflation at font sizes <24px
+- **Mixed scripts**: Chinese + English + Arabic + emoji in the same string — all correct
+- **Browser quirks**: Specific adaptations for per-browser rendering differences
 
-### 2. Punctuation Merging
+## API Overview
 
-`"better."` is measured as one unit, not `"better"` + `"."`. Why: canvas measureText accumulates error when measuring individual characters — up to 2.6px at 28px font size without merging.
+**Use Case 1 (height only):**
+- `prepare(text, font, options?)` → `PreparedText`
+- `layout(prepared, maxWidth, lineHeight)` → `{ height, lineCount }`
 
-### 3. CJK Splitting + Kinsoku Shori
+**Use Case 2 (full line data):**
+- `prepareWithSegments(text, font, options?)` → `PreparedTextWithSegments`
+- `layoutWithLines(prepared, maxWidth, lineHeight)` → `{ height, lineCount, lines }`
+- `walkLineRanges(prepared, maxWidth, onLine)` → per-line callback with widths and cursors
+- `layoutNextLine(prepared, start, maxWidth)` → iterator-style one-line-at-a-time layout
 
-CJK character segments are re-split into individual graphemes (CSS allows line breaks between any CJK characters), but kinsoku shori rules ensure:
-- `，。「」` etc. never start a line
-- `（「《` etc. never end a line
+**Utilities:**
+- `clearCache()` — clear internal measurement caches
+- `setLocale(locale?)` — set locale for future prepare calls (also clears cache)
 
-The source hard-codes Unicode codepoint sets — simple and effective.
+## Current Limitations
 
-### 4. Emoji Correction
-
-Chrome/Firefox on macOS inflate canvas-measured emoji widths at font sizes <24px. pretext detects this via one DOM calibration read, then auto-compensates in subsequent calculations. Safari is unaffected (correction = 0).
-
-### 5. Bidi (Bidirectional Text)
-
-Implements the Unicode Bidirectional Algorithm (UAX #9), but pure LTR text hits a fast path with zero overhead. Full bidi classification and embedding level computation only activate when RTL characters are present.
-
-### 6. Cache Design
-
-- Global `Map<font, Map<segment, width>>` cache
-- Shared across text blocks ("the", "a", etc. are measured once)
-- No eviction — grows monotonically (typically a few KB for single-font feeds)
-- `clearCache()` available for manual eviction
-
-## Limitations (Being Honest)
-
-- Only supports default CSS config (`white-space: normal`, `word-break: normal`, `overflow-wrap: break-word`)
-- Does not infer `line-height` — you must pass the exact value
-- `system-ui` font resolves differently between canvas and DOM on macOS — use named fonts
-- Server-side requires a canvas implementation (`@napi-rs/canvas` with registered fonts)
+Being direct:
+- Supports `white-space: normal` and `pre-wrap` only; `word-break: normal`, `overflow-wrap: break-word`
+- `line-height` must be passed explicitly — no auto-inference
+- `system-ui` on macOS resolves differently between canvas and DOM — use named fonts
+- Very narrow widths may break inside words at grapheme boundaries (due to `overflow-wrap: break-word`)
 
 ## Who Is This For?
 
-- **Virtual scrolling list builders**: the most direct use case
-- **Chat / messaging UI developers**: bubble height prediction, lag-free resize
-- **Masonry / card layout builders**: upfront sizing for text-heavy cards
-- **CLS-conscious developers**: reserve accurate space before render
+- **Virtual scrolling builders**: No more `estimatedRowHeight` guesswork
+- **Chat / messaging UI developers**: Accurate bubble heights, lag-free resize
+- **Masonry layout builders**: Upfront sizing for text-heavy cards
+- **CLS-conscious developers**: Reserve exact vertical space before render
+- **Canvas/SVG/WebGL renderers**: `layoutWithLines` gives you per-line text data directly
 
 ## My Take
 
-This library is small (~400 lines of TypeScript, single file) but solves a real performance problem. The two-phase design is elegant: prepare does the heavy lifting once (segmentation + measurement), layout does pure arithmetic, turning O(n × DOM) into O(n × addition).
+Cheng Lou has a track record. React Motion proved he understands animation. Reason/ReScript proved he understands programming languages. Now pretext proves he understands text layout.
 
-The i18n support deserves special mention — CJK kinsoku shori, bidi, emoji correction weren't bolted on as afterthoughts. They emerged from running 7680 test cases and fixing edge cases one by one. RESEARCH.md documents the full exploration and is worth reading.
+The design philosophy is clean: separate the one-time heavy work (segmentation, measurement) from the hot-path lightweight work (pure arithmetic layout). `prepare()` does 19ms of upfront computation, then `layout()` handles 500 texts in 0.09ms. During browser resize, your JS spends essentially zero time on text layout.
 
-**However** — 2 stars, early-stage project, no npm package, no license, demo page is a TODO. If you're using this in production, fork it.
+The multilingual support isn't bolted on after the fact. The very first README example mixes Chinese, Arabic, and emoji. CJK kinsoku shori, the bidi algorithm, emoji width correction — all first-class concerns from day one.
+
+It's published on npm (`@chenglou/pretext`), has [live demos](https://chenglou.me/pretext/), and the API is well-layered (simple API for heights, advanced API for line data). This isn't experimental — it's ready to use.
 
 ---
 
-> 📸 *Repo screenshot from [somnai-dreams/pretext](https://github.com/somnai-dreams/pretext). Built on Sebastian Markbåge's [text-layout](https://github.com/chenglou/text-layout) research prototype.*
+> 📎 More at [chenglou/pretext](https://github.com/chenglou/pretext) · Demo: [chenglou.me/pretext](https://chenglou.me/pretext/) · npm: `@chenglou/pretext`
 
 🦞
