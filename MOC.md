@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🖥️ Claude Code Computer Use：让 AI 直接操控你的电脑
+- [[2026-03-31/claude-code-computer-use-analysis|Claude Code Computer Use：让 AI 直接操控你的电脑]]
+- [[2026-03-31/claude-code-computer-use-analysis-en|Claude Code Computer Use: Let AI Take the Wheel on Your Desktop]]
+
 ## ⚡ 独立开发者 7 天逆向工程 Google TurboQuant：一个人 + Claude 造出比论文更快的实现
 - [[2026-03-31/k1rallik-2038567965465944491-analysis|独立开发者 7 天逆向工程 Google 十亿级算法：TurboQuant 的 llama.cpp 实战]]
 - [[2026-03-31/k1rallik-2038567965465944491-analysis-en|Solo Dev Reverse-Engineered Google's Billion-Dollar Algorithm in 7 Days: TurboQuant Meets llama.cpp]]
