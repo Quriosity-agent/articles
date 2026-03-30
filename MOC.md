@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 📏 pretext：不触发 DOM reflow 的浏览器文本高度预测
+- [[2026-03-31/pretext-analysis|pretext：不触发 DOM reflow 就能预测文本高度的浏览器库]]
+- [[2026-03-31/pretext-analysis-en|pretext: Predict Text Block Heights Without Triggering DOM Reflow]]
+
 ## 🎮 天工 AI「AIGC 全家桶」：Matrix-Game 3.0 + SkyReels V4 + Mureka V9 三线杀入全球第一梯队
 - [[2026-03-28/wechat-PC4SHTIr6S8VlZOOgwsfnw-analysis|天工 AI「AIGC 全家桶」：游戏世界模型 + 视频 + 音乐，三线同时杀入全球第一梯队]]
 - [[2026-03-28/wechat-PC4SHTIr6S8VlZOOgwsfnw-analysis-en|Tiangong AI's "AIGC Suite": World Model + Video + Music — Three Models Hit Global Tier-1 Simultaneously]]
