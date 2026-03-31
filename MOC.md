@@ -1,4 +1,8 @@
-# 📚 文章导航 (Map of Content)
+﻿# 📚 文章导航 (Map of Content)
+
+## 📌 Codex Plugin for Claude Code：让两个 AI Agent 在同一终端互相 Review
+- [[2026-03-31/codex-plugin-claude-code-analysis|Codex Plugin for Claude Code：让两个 AI 编程 Agent 在同一个终端里互相 Review]]
+- [[2026-03-31/codex-plugin-claude-code-analysis-en|Codex Plugin for Claude Code: Cross-Agent Code Review Without Leaving Your Terminal]]
 
 ## 🔧 lark-cli：飞书官方 CLI，200+ 命令 + 19 个 AI Agent Skills
 - [[2026-03-31/larksuite-cli-analysis|lark-cli：飞书/Lark 官方 CLI，200+ 命令 + 19 个 AI Agent Skills，3 分钟接入]]
