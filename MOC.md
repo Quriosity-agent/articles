@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🔧 lark-cli：飞书官方 CLI，200+ 命令 + 19 个 AI Agent Skills
+- [[2026-03-31/larksuite-cli-analysis|lark-cli：飞书/Lark 官方 CLI，200+ 命令 + 19 个 AI Agent Skills，3 分钟接入]]
+- [[2026-03-31/larksuite-cli-analysis-en|lark-cli: The Official Lark/Feishu CLI — 200+ Commands, 19 Agent Skills, Built for Humans and AI]]
+
 ## 🎬 好莱坞一边骂一边买：美国片厂花 200 万美元抢 Seedance 2.0 独占权
 - [[2026-03-31/seedance2-2038584486498099567-analysis|好莱坞一边骂一边买：美国片厂花 200 万美元抢 Seedance 2.0 独占权]]
 - [[2026-03-31/seedance2-2038584486498099567-analysis-en|Hollywood Studios Are Paying $2M for Seedance 2.0 Access — While Publicly Demanding It Be Shut Down]]
