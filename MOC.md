@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 好莱坞一边骂一边买：美国片厂花 200 万美元抢 Seedance 2.0 独占权
+- [[2026-03-31/seedance2-2038584486498099567-analysis|好莱坞一边骂一边买：美国片厂花 200 万美元抢 Seedance 2.0 独占权]]
+- [[2026-03-31/seedance2-2038584486498099567-analysis-en|Hollywood Studios Are Paying $2M for Seedance 2.0 Access — While Publicly Demanding It Be Shut Down]]
+
 ## 🖥️ Claude Code Computer Use：让 AI 直接操控你的电脑
 - [[2026-03-31/claude-code-computer-use-analysis|Claude Code Computer Use：让 AI 直接操控你的电脑]]
 - [[2026-03-31/claude-code-computer-use-analysis-en|Claude Code Computer Use: Let AI Take the Wheel on Your Desktop]]
