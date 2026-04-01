@@ -1,5 +1,7 @@
 # AutoReason: When AI Has No Score to Optimize, Make Agents Debate Each Other
 
+![AutoReason Diagram](autoreason-diagram.jpg)
+
 > **TL;DR**: AutoResearch iterates on objective metrics like val_bpb — but what about writing, arguments, and marketing copy where there's no number to optimize? SHL0MS built AutoReason to solve this by replacing the objective fitness function with **agent debate**: isolated agents with strictly separated roles — critic, author, synthesizer, blind judge panel. In testing, AutoReason scored **35/35** on a blind evaluation panel. The next best method scored **21/35**. It's peer review for AI output, automated.
 
 ---

@@ -1,5 +1,7 @@
 # AutoReason：当 AI 没有分数可以优化时，让 Agent 互相辩论
 
+![AutoReason 流程图](autoreason-diagram.jpg)
+
 > **TL;DR**: AutoResearch 通过 val_bpb 等客观指标驱动迭代优化——但写作、论证、营销文案这些主观任务没有数字可以衡量。SHL0MS 构建的 AutoReason 用 **agent 辩论** 替代客观适应度函数：隔离的 agent 各司其职——批评者只找问题、作者只管重写、合成者融合优势、盲审团做最终裁决。测试结果：盲审面板 **35/35 满分**，第二名方法只拿到 **21/35**。这就是把科学同行评审搬进了 AI 生成循环。
 
 ---
