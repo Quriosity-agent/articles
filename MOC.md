@@ -1,5 +1,9 @@
 ﻿# 📚 文章导航 (Map of Content)
 
+## 🤖 claw-code 的真正教训：不是代码速度，是 Agent 协调系统
+- [[2026-04-02/realsigridjin-2039472968624185713-analysis|claw-code 的真正教训：不是代码速度，是 Agent 协调系统]]
+- [[2026-04-02/realsigridjin-2039472968624185713-analysis-en|The Real Lesson from claw-code: It's the Agent Coordination System, Not the Code]]
+
 ## 🎙️ Willow Atlas 1：1.2% 词错率的语音转文字模型，把 OpenAI 和 ElevenLabs 都甩在后面
 - [[2026-04-02/willowvoiceai-2039393908053114912-analysis|Willow Atlas 1：1.2% 词错率的语音转文字模型，把 OpenAI 和 ElevenLabs 都甩在后面]]
 - [[2026-04-02/willowvoiceai-2039393908053114912-analysis-en|Willow Atlas 1: A 1.2% WER Speech-to-Text Model That Claims to Outperform OpenAI, ElevenLabs, and Deepgram]]
