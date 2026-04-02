@@ -1,5 +1,9 @@
 ﻿# 📚 文章导航 (Map of Content)
 
+## 🎙️ Willow Atlas 1：1.2% 词错率的语音转文字模型，把 OpenAI 和 ElevenLabs 都甩在后面
+- [[2026-04-02/willowvoiceai-2039393908053114912-analysis|Willow Atlas 1：1.2% 词错率的语音转文字模型，把 OpenAI 和 ElevenLabs 都甩在后面]]
+- [[2026-04-02/willowvoiceai-2039393908053114912-analysis-en|Willow Atlas 1: A 1.2% WER Speech-to-Text Model That Claims to Outperform OpenAI, ElevenLabs, and Deepgram]]
+
 ## 📌 Codex Plugin for Claude Code：让两个 AI Agent 在同一终端互相 Review
 - [[2026-03-31/codex-plugin-claude-code-analysis|Codex Plugin for Claude Code：让两个 AI 编程 Agent 在同一个终端里互相 Review]]
 - [[2026-03-31/codex-plugin-claude-code-analysis-en|Codex Plugin for Claude Code: Cross-Agent Code Review Without Leaving Your Terminal]]
