@@ -1,5 +1,9 @@
 ﻿# 📚 文章导航 (Map of Content)
 
+## 💻 Qwen 3.6 Plus：百万上下文 + Agentic Coding，阿里通义千问杀入编程智能体赛道
+- [[2026-04-02/qwen-36-plus-agentic-coding-1m-context|Qwen 3.6 Plus：百万上下文 + Agentic Coding，阿里通义千问杀入编程智能体赛道]]
+- [[2026-04-02/qwen-36-plus-agentic-coding-1m-context-en|Qwen 3.6 Plus: 1M Context + Agentic Coding — Alibaba Goes All-In on the Coding Agent Race]]
+
 ## 🤖 claw-code 的真正教训：不是代码速度，是 Agent 协调系统
 - [[2026-04-02/realsigridjin-2039472968624185713-analysis|claw-code 的真正教训：不是代码速度，是 Agent 协调系统]]
 - [[2026-04-02/realsigridjin-2039472968624185713-analysis-en|The Real Lesson from claw-code: It's the Agent Coordination System, Not the Code]]
