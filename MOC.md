@@ -12,6 +12,42 @@
 - [[2026-04-02/willowvoiceai-2039393908053114912-analysis|Willow Atlas 1：1.2% 词错率的语音转文字模型，把 OpenAI 和 ElevenLabs 都甩在后面]]
 - [[2026-04-02/willowvoiceai-2039393908053114912-analysis-en|Willow Atlas 1: A 1.2% WER Speech-to-Text Model That Claims to Outperform OpenAI, ElevenLabs, and Deepgram]]
 
+## 🧠 AutoReason：当 AI 没有分数可以优化时，让 Agent 互相辩论
+- [[2026-04-01/autoreason-agent-debate-subjective-refinement|AutoReason：当 AI 没有分数可以优化时，让 Agent 互相辩论]]
+- [[2026-04-01/autoreason-agent-debate-subjective-refinement-en|AutoReason: When AI Has No Score to Optimize, Make Agents Debate Each Other]]
+
+## 📚 2025年度获奖科幻小说：五本不容错过的佳作
+- [[2026-04-01/award-winning-sci-fi-2025-five-books|2025年度获奖科幻小说：五本不容错过的佳作]]
+- [[2026-04-01/award-winning-sci-fi-2025-five-books-en|The Award-Winning Sci-Fi of 2025: Five Books You Shouldn't Miss]]
+
+## 🧱 Claude Code 源码泄露：7 个隐藏限制 + Anthropic 员工专属修复
+- [[2026-04-01/claude-code-7-hidden-limits-employee-fixes|Claude Code 源码泄露：7 个隐藏限制 + Anthropic 员工专属修复]]
+- [[2026-04-01/claude-code-7-hidden-limits-employee-fixes-en|Claude Code Source Leak: 7 Hidden Limits + Employee-Only Fixes]]
+
+## 🧩 Claude Code 源码泄露：50 万行代码里藏着什么秘密？
+- [[2026-04-01/claude-code-source-leak-500k-lines-analysis|Claude Code 源码泄露：50 万行代码里藏着什么秘密？]]
+- [[2026-04-01/claude-code-source-leak-500k-lines-analysis-en|Claude Code Source Leak: What's Hiding in 500K Lines of Code?]]
+
+## 🔍 一文了解 Claude Code 源码：为什么它就是比别人好用？
+- [[2026-04-01/claude-code-source-why-better-than-others|一文了解 Claude Code 源码：为什么它就是比别人好用？]]
+- [[2026-04-01/claude-code-source-why-better-than-others-en|Understanding Claude Code's Source: Why It's Just Better Than the Rest]]
+
+## ⚡ Heaviside：不是语言模型，是电磁学的基础模型
+- [[2026-04-01/heaviside-em-foundation-model-arena-physica|Heaviside：不是语言模型，是电磁学的基础模型 — 13ms 预测，比商业求解器快 80 万倍]]
+- [[2026-04-01/heaviside-em-foundation-model-arena-physica-en|Heaviside: Not a Language Model — A Foundation Model for Electromagnetism, 800,000x Faster Than Commercial Solvers]]
+
+## 🖥️ Holo3：开源 Computer Use 模型登顶，GPT-5.4 和 Opus 4.6 都被甩在身后
+- [[2026-04-01/holo3-open-source-computer-use-model|Holo3：开源 Computer Use 模型登顶，GPT-5.4 和 Opus 4.6 都被甩在身后]]
+- [[2026-04-01/holo3-open-source-computer-use-model-en|Holo3: Open-Source Computer Use Model Tops GPT-5.4 and Opus 4.6 at One-Tenth the Cost]]
+
+## 🎬 PixVerse V6：AI 视频进入"物理常识"时代，Sora 死后的江湖重新洗牌
+- [[2026-04-01/pixverse-v6-ai-video-physics-post-sora|PixVerse V6：AI 视频进入"物理常识"时代，Sora 死后的江湖重新洗牌]]
+- [[2026-04-01/pixverse-v6-ai-video-physics-post-sora-en|PixVerse V6: AI Video Enters the Physics Era, and the Post-Sora Landscape Gets Real]]
+
+## 🏗️ 从 Claude Code 源码泄露中，我们能学到什么？
+- [[2026-04-01/what-we-can-learn-from-claude-code-architecture|从 Claude Code 源码泄露中，我们能学到什么？]]
+- [[2026-04-01/what-we-can-learn-from-claude-code-architecture-en|What We Can Learn from Claude Code's Leaked Architecture]]
+
 ## 📌 Codex Plugin for Claude Code：让两个 AI Agent 在同一终端互相 Review
 - [[2026-03-31/codex-plugin-claude-code-analysis|Codex Plugin for Claude Code：让两个 AI 编程 Agent 在同一个终端里互相 Review]]
 - [[2026-03-31/codex-plugin-claude-code-analysis-en|Codex Plugin for Claude Code: Cross-Agent Code Review Without Leaving Your Terminal]]
