@@ -1,5 +1,7 @@
 # Cuttable：墨尔本 AI 广告创意平台，成立两年半估值 1 亿美元
 
+![Cuttable Team](cuttable-team.jpg)
+
 > 上一家公司卖了 20 亿美元。这次他用 AI 革新广告创意，两年半做到 1 亿估值。
 
 ---

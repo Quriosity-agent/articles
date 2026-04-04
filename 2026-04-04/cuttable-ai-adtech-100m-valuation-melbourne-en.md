@@ -1,5 +1,7 @@
 # Cuttable: Melbourne AI Ad Creative Platform Hits $100M Valuation in 2.5 Years
 
+![Cuttable Team](cuttable-team.jpg)
+
 > His last company sold for $2 billion. Now he's using AI to reinvent ad creative — and reached a $100M valuation in under three years.
 
 ---
