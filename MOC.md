@@ -266,6 +266,8 @@
 - [[2026-02-27/codex-figma-mcp-bidirectional|Codex + Figma MCP]]
 
 ## 🎬 AI 视频
+- [[2026-04-04/void-netflix-video-object-deletion-physics|VOID：Netflix 的"删除物体"不只是擦掉——它还会模拟物理后果]]
+- [[2026-04-04/void-netflix-video-object-deletion-physics-en|VOID: Netflix's Object Removal Doesn't Just Erase — It Simulates the Physical Consequences]]
 - [[2026-03-18/wechat-A8Unxhp-OU79VsTFa7mJPA-analysis|LibTV：第一个同时为人类和 Agent 设计的 AI 视频产品]]
 - [[2026-03-18/wechat-A8Unxhp-OU79VsTFa7mJPA-analysis-en|LibTV: The First AI Video Product Designed for Both Humans and Agents]]
 - [[2026-03-18/chris-defi-2033832631083966913-analysis|2026 开源视频工具全景图：35+ 项目深度解读，Builder 视角的选型指南]]
@@ -307,6 +309,10 @@
 - [[2026-03-19/pexo-ai-analysis-en|Pexo AI Analysis: Conversational Video Generation That Replaces Editing]]
 
 ## 🧠 大模型发布 & 基准测试
+- [[2026-04-04/gemma-4-google-open-model-apache-license|Gemma 4：Google 最强开源模型家族，Apache 2.0 许可证，手机都能跑]]
+- [[2026-04-04/gemma-4-google-open-model-apache-license-en|Gemma 4: Google's Most Capable Open Model Family — Apache 2.0, Runs on Phones]]
+- [[2026-04-04/sole-r1-robot-foundation-model-video-language-reward|机器人版 GPT-3 来了：SOLE-R1 用"看视频"当唯一奖励，24 个没见过的任务成功率 99%]]
+- [[2026-04-04/sole-r1-robot-foundation-model-video-language-reward-en|The GPT-3 Moment for Robotics? SOLE-R1 Uses Video-Language Reasoning as the Only Reward Signal]]
 - [[2026-03-17/attention-residuals-analysis|Attention Residuals：用注意力机制替换残差连接，Transformer 性能直接起飞]]
 - [[2026-03-17/attention-residuals-analysis-en|Attention Residuals: Replace Fixed Residual Connections with Learned Attention, Get Free Performance]]
 - [[2026-03-16/christostzamos-2031845139526652236-analysis|在 Transformer 里造了一台计算机：Percepta AI 让 LLM 跑程序]]
@@ -380,6 +386,10 @@
 - [[2026-03-16/qisi-ai-2033102558936576231-analysis-en|Deconstructing an AI Photography Prompt: The 9-Module Framework Behind "Late Night Bedroom Selfie"]]
 
 ## 🔮 行业观察 & 访谈
+- [[2026-04-03/anthropic-acquires-coefficient-bio-400m|Anthropic 4 亿美元收购 Coefficient Bio：9 个人值 4 亿，AI 人才到底有多贵？]]
+- [[2026-04-03/anthropic-acquires-coefficient-bio-400m-en|Anthropic Acquires Coefficient Bio for $400M: $40M Per Head for a 6-Month-Old Startup]]
+- [[2026-04-03/medvi-2-person-1-8b-ai-telehealth|Medvi：2 个人、2 万美元、18 亿美元年收入 —— AI 远程医疗的疯狂故事]]
+- [[2026-04-03/medvi-2-person-1-8b-ai-telehealth-en|Medvi: 2 People, $20K, $1.8B ARR — The Insane Story of an AI-Powered Telehealth Company]]
 - [[2026-02-27/dario-amodei-tsunami-interview|Dario Amodei：海啸已在地平线上]]
 - [[2026-02-06/Musk-Space-AI-Interview/README|马斯克：36 个月后太空是跑 AI 最便宜的地方]]
 - [[2026-02-04/特工宇宙AI榜单/README|特工宇宙 2025 年度 AI 应用榜单]]
@@ -444,6 +454,8 @@
 - [[2026-03-16/gracia-vr-2032554546086424635-analysis-en|Gracia 4DGS Streaming Breakthrough: Gaussian Splatting Videos Now Play Like Regular Video in the Browser]]
 
 ## 📣 AI 内容营销 / 内容分发
+- [[2026-04-04/cuttable-ai-adtech-100m-valuation-melbourne|Cuttable：墨尔本 AI 广告创意平台，成立两年半估值 1 亿美元]]
+- [[2026-04-04/cuttable-ai-adtech-100m-valuation-melbourne-en|Cuttable: Melbourne AI Ad Creative Platform Hits $100M Valuation in 2.5 Years]]
 - [[2026-03-23/aitoearn-analysis|AiToEarn：开源 AI 内容营销全栈平台深度分析]]
 - [[2026-03-23/aitoearn-analysis-en|AiToEarn: The Most Complete Open-Source AI Content Marketing Platform — Deep Dive]]
 
