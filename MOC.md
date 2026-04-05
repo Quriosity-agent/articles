@@ -1,5 +1,9 @@
 ﻿# 📚 文章导航 (Map of Content)
 
+## 🤖 Oh My ClaudeCode：24K Star 的多 Agent 编排工具，让 Claude Code 变成一支团队
+- [[2026-04-05/oh-my-claudecode-multi-agent-orchestration-24k-stars|Oh My ClaudeCode：24K Star 的多 Agent 编排工具，让 Claude Code 变成一支团队]]
+- [[2026-04-05/oh-my-claudecode-multi-agent-orchestration-24k-stars-en|Oh My ClaudeCode: The 24K-Star Multi-Agent Orchestration Tool That Turns Claude Code Into a Team]]
+
 ## 💻 Qwen 3.6 Plus：百万上下文 + Agentic Coding，阿里通义千问杀入编程智能体赛道
 - [[2026-04-02/qwen-36-plus-agentic-coding-1m-context|Qwen 3.6 Plus：百万上下文 + Agentic Coding，阿里通义千问杀入编程智能体赛道]]
 - [[2026-04-02/qwen-36-plus-agentic-coding-1m-context-en|Qwen 3.6 Plus: 1M Context + Agentic Coding — Alibaba Goes All-In on the Coding Agent Race]]
