@@ -1,4 +1,9 @@
-﻿# 📚 文章导航 (Map of Content)
+# 📚 文章导航 (Map of Content)
+
+
+## 🎯 Stanford x DeepMind Hackathon VC 名单：给 AI/Video Builder 的 Networking 指南
+- [[2026-04-07/stanford-deepmind-hackathon-vc-list|Stanford x DeepMind Hackathon VC 名单：给 AI/Video Builder 的 Networking 指南]]
+- [[2026-04-07/stanford-deepmind-hackathon-vc-list-en|Stanford x DeepMind Hackathon VC List: A Networking Guide for AI/Video Builders]]
 
 ## 🤖 Oh My ClaudeCode：24K Star 的多 Agent 编排工具，让 Claude Code 变成一支团队
 - [[2026-04-05/oh-my-claudecode-multi-agent-orchestration-24k-stars|Oh My ClaudeCode：24K Star 的多 Agent 编排工具，让 Claude Code 变成一支团队]]
