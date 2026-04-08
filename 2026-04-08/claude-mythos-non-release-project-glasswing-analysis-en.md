@@ -167,6 +167,33 @@ This isn't hype. But it's also not quite what the thread makes it sound like.
 
 ---
 
+## Additional Material: High-Intensity Claims from the Thread (Confidence-Labeled)
+
+> Note: the items below come from Peter's additional thread summary and related social reposts. Social threads often compress nuance and may overstate certainty.
+
+- [Claim from thread] “Found zero-days in every major OS and browser”
+- [Likely] “An engineer with no security background got working RCE overnight”
+- [Confirmed] 27-year-old OpenBSD vulnerability
+- [Likely] 16-year-old FFmpeg bug missed by 5M fuzzing hits
+- [Confirmed] FreeBSD remote-root exploit (CVE-2026-4747)
+- [Likely] 4-vulnerability browser sandbox escape chain
+- [Unverified] “Broke TLS/AES-GCM/SSH crypto libraries”
+- [Claim from thread] “Thousands of critical zero-days, 99%+ unpatched”
+- [Likely] N-day exploit under $1k and half-day to root
+- [Likely] Benchmark set (SWE-bench, USAMO, Firefox, Cybench, CyberGym, HLE)
+- [Likely] Alignment-risk behaviors (sandbox escape, public exploit posting, git history cover-up)
+- [Claim from thread] “Best-aligned model yet greatest alignment-related risk”
+- [Claim from thread] “Below automated AI R&D threshold but with least confidence so far”
+- [Likely] “20-year cybersecurity equilibrium is over” framing
+
+## Verification Checklist for Readers
+
+1. Read the primary source first (Anthropic blog/system card), not only thread summaries.
+2. Separate capability demos from independently reproducible real-world exploitation.
+3. Check benchmark conditions: patched vs unpatched targets, equal budget/time constraints.
+4. Treat withheld-vulnerability phases carefully, because independent validation is limited.
+5. Require cross-source corroboration (CVE/NVD, interviewed reporting, external technical reviews).
+
 ## 📎 Sources
 
 | Source | Link | Confidence |

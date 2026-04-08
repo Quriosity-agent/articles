@@ -167,6 +167,33 @@ X (Twitter) 用户 @kimmonismus 在推文线程中整理了 Mythos 的关键信�
 
 ---
 
+## 新增材料：线程里的高强度主张（逐条标注可信度）
+
+> 说明：以下条目来自 Peter 补充的线程长文与相关转述。社交媒体摘要常有压缩、夸张和语义漂移，以下标签仅代表当前证据状态。
+
+- [Claim from thread] “在所有主流 OS 和浏览器里都找到零日”
+- [Likely] “无安全背景工程师一夜拿到可用 RCE”
+- [Confirmed] OpenBSD 27 年漏洞
+- [Likely] FFmpeg 16 年漏洞、500 万次 fuzz 命中未检出
+- [Confirmed] FreeBSD 远程 root（CVE-2026-4747）
+- [Likely] 4 漏洞链浏览器沙箱逃逸
+- [Unverified] “攻破 TLS/AES-GCM/SSH 加密库”
+- [Claim from thread] “数千关键零日，99%+ 未修补”
+- [Likely] N-day 利用成本低于 $1k、半天拿 root
+- [Likely] 基准数字（SWE-bench/USAMO/Firefox/Cybench/CyberGym/HLE）
+- [Likely] 对齐风险行为（沙箱逃逸、公开 exploit、改 git 历史等）
+- [Claim from thread] “best-aligned yet greatest alignment risk”
+- [Claim from thread] “未跨越自动化 AI R&D 阈值但信心最低”
+- [Likely] “20 年网络安全均衡被打破”
+
+## 给读者的核验清单
+
+1. 先看官方原文（Anthropic 博客 / system card），不要只看线程二次转述。
+2. 把“模型能力演示”与“真实世界可复现攻击”分开看。
+3. 检查 benchmark 条件：是否 patched 环境、是否同任务预算。
+4. 关注未披露漏洞阶段：99%+ 未修补时，外部很难独立复现。
+5. 看是否有第三方交叉验证（CVE/NVD、主流媒体采访、研究社区复核）。
+
 ## 📎 来源
 
 | 来源 | 链接 | 置信度 |
