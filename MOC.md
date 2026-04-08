@@ -357,6 +357,10 @@
 - [[2026-03-14/mixedbreadai-2032127466081567106-analysis-en|Mixedbread Wholembed v3: A Unified Multimodal Retrieval Model]]
 
 ## 🦞 OpenClaw 生态
+- [[2026-04-07/openclaw-video-generation-architecture-complete-file-map|OpenClaw 视频生成架构全解析 + 完整文件清单]]
+- [[2026-04-07/openclaw-video-generation-architecture-complete-file-map-en|OpenClaw Video Generation Architecture — Deep Dive + Complete File Map]]
+- [[2026-04-06/openclaw-video-vs-qcut-cli-ai-video-tooling|API 薄封装 vs 全流程生产线 —— 2026 年 AI 视频工具到底长什么样？]]
+- [[2026-04-06/openclaw-video-vs-qcut-cli-ai-video-tooling-en|API Wrapper vs Full Production Pipeline — What Does AI Video Tooling Actually Look Like in 2026?]]
 - [[2026-02-11/OpenClaw背后的秘密武器-大道至简的Pi-Mono|OpenClaw 背后的 Pi-Mono]]
 - [[2026-02-24/openclaw-agent-swarm-one-person-dev-team|OpenClaw Agent Swarm 实战]]
 - [[2026-02-27/openclaw-acp-agents|OpenClaw ACP Agents]]
@@ -395,6 +399,8 @@
 - [[2026-03-16/qisi-ai-2033102558936576231-analysis-en|Deconstructing an AI Photography Prompt: The 9-Module Framework Behind "Late Night Bedroom Selfie"]]
 
 ## 🔮 行业观察 & 访谈
+- [[2026-04-08/claude-mythos-non-release-project-glasswing-analysis|Claude Mythos：史无前例的网络安全能力，不对公众发布——突破还是警告？]]
+- [[2026-04-08/claude-mythos-non-release-project-glasswing-analysis-en|Claude Mythos: Unprecedented Cyber Capability, No Public Release — Breakthrough or Warning Shot?]]
 - [[2026-04-03/anthropic-acquires-coefficient-bio-400m|Anthropic 4 亿美元收购 Coefficient Bio：9 个人值 4 亿，AI 人才到底有多贵？]]
 - [[2026-04-03/anthropic-acquires-coefficient-bio-400m-en|Anthropic Acquires Coefficient Bio for $400M: $40M Per Head for a 6-Month-Old Startup]]
 - [[2026-04-03/medvi-2-person-1-8b-ai-telehealth|Medvi：2 个人、2 万美元、18 亿美元年收入 —— AI 远程医疗的疯狂故事]]
