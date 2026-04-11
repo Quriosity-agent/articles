@@ -429,6 +429,8 @@
 - [[2026-03-14/theahmadosman-2032460101206839424-analysis-en|26 Essential Papers for Mastering LLMs: Ahmad's Complete Reading Roadmap]]
 
 ## 🖥️ 终端工具 & CLI
+- [[2026-04-11/minimax-mmx-cli-agent-first-multimodal-cli|MiniMax 发布 MMX-CLI：为 Agent 设计的全模态命令行工具]]
+- [[2026-04-11/minimax-mmx-cli-agent-first-multimodal-cli-en|MiniMax MMX-CLI: An Agent-First Multimodal Command-Line Tool]]
 - [[2026-03-27/stripe-projects-cli-dev-stack-terminal|Stripe Projects：从终端一键搭建生产级开发栈]]
 - [[2026-03-27/stripe-projects-cli-dev-stack-terminal-en|Stripe Projects: Provision a Production-Ready Dev Stack from Your Terminal]]
 - [[2026-03-14/enesakar-2031887459085377887-analysis|Context7 CLI：让任何 AI Agent 都能拉取最新文档，不再依赖 MCP]]
