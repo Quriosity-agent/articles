@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🤖 multica 深度拆解：把 Coding Agent 管理做成团队系统
+- [[2026-04-12/multica-ai-multica-github-deep-dive|multica-ai/multica 深度拆解：把“Coding Agent 管理”做成一套团队系统]]
+- [[2026-04-12/multica-ai-multica-github-deep-dive-en|multica-ai/multica Deep Dive: Turning Coding Agents into an Operable Team System]]
+
 
 ## 🎯 Stanford x DeepMind Hackathon VC 名单：给 AI/Video Builder 的 Networking 指南
 - [[2026-04-07/stanford-deepmind-hackathon-vc-list|Stanford x DeepMind Hackathon VC 名单：给 AI/Video Builder 的 Networking 指南]]
