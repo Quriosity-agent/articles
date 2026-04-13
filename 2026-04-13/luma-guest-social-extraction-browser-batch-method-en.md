@@ -44,6 +44,121 @@ for each batch in chunk(window._lumaGuests, 30) every 250ms:
 downloadCSV(rows) // Blob + objectURL + <a download>
 ```
 
+## Full code (execution order)
+
+### 1) Open modal + force-scroll to load all guests
+```javascript
+// Run this after clicking the "259 Going" button:
+async function loadAll() {
+ const container = document.querySelector(
+ '.jsx-64bdc2159590826e.flex-column.outer.overflow-auto'
+ );
+ let last = 0;
+ for (let i = 0; i < 30; i++) {
+ container.scrollTop = container.scrollHeight;
+ await new Promise(r => setTimeout(r, 500));
+ if (container.scrollHeight === last) break;
+ last = container.scrollHeight;
+ }
+ const links = Array.from(container.querySelectorAll('a[href^="/user/"]'));
+ const seen = new Set();
+ links.forEach(l => seen.add(l.href));
+ console.log(seen.size + ' unique guests loaded');
+}
+loadAll();
+```
+
+### 2) Collect guest list + batch-fetch social links
+```javascript
+// ===== Step 1: extract all guests from modal DOM to global state =====
+const container = document.querySelector(
+ '.jsx-64bdc2159590826e.flex-column.outer.overflow-auto'
+);
+const guestLinks = Array.from(container.querySelectorAll('a[href^="/user/"]'));
+const seen = new Set();
+window._lumaGuests = [];
+
+for (const link of guestLinks) {
+ const url = link.href.startsWith('http')
+ ? link.href
+ : location.origin + link.getAttribute('href');
+ if (seen.has(url)) continue;
+ seen.add(url);
+ const nameEl = link.querySelector('p, span, div');
+ const name = nameEl ? nameEl.textContent.trim() : link.textContent.trim();
+ window._lumaGuests.push({ name, profileUrl: url });
+}
+
+window._lumaResults = [
+ ['Name', 'Profile URL', 'Instagram', 'X/Twitter', 'LinkedIn', 'TikTok', 'Website']
+];
+window._lumaIndex = 0;
+console.log('Stored ' + window._lumaGuests.length + ' guests');
+
+// ===== Step 2: fetch each profile page in batches (30 per run) =====
+(async function() {
+ const start = window._lumaIndex;
+ const end = Math.min(start + 30, window._lumaGuests.length);
+
+ async function getSocials(profileUrl) {
+ try {
+ const res = await fetch(profileUrl, { credentials: 'include' });
+ const html = await res.text();
+ const doc = new DOMParser().parseFromString(html, 'text/html');
+ const links = Array.from(doc.querySelectorAll('a[href]'));
+ const result = {
+ instagram: '', x: '', linkedin: '', tiktok: '', website: ''
+ };
+ for (const a of links) {
+ const href = a.href;
+ if (/instagram\.com/i.test(href)) result.instagram = href;
+ else if (/twitter\.com|x\.com/i.test(href)) result.x = href;
+ else if (/linkedin\.com/i.test(href)) result.linkedin = href;
+ else if (/tiktok\.com/i.test(href)) result.tiktok = href;
+ else if (
+ !/lumacdn\.com|lu\.ma|luma\.com|google|apple|javascript|void/i
+ .test(href) &&
+ href.startsWith('http') &&
+ !result.website
+ ) result.website = href;
+ }
+ return result;
+ } catch(e) {
+ return { instagram: '', x: '', linkedin: '', tiktok: '', website: '' };
+ }
+ }
+
+ for (let i = start; i < end; i++) {
+ const g = window._lumaGuests[i];
+ const s = await getSocials(g.profileUrl);
+ window._lumaResults.push([
+ g.name, g.profileUrl,
+ s.instagram, s.x, s.linkedin, s.tiktok, s.website
+ ]);
+ await new Promise(r => setTimeout(r, 250));
+ }
+
+ window._lumaIndex = end;
+ console.log(`Processed ${start} → ${end} of ${window._lumaGuests.length}`);
+})();
+// Repeat this block until _lumaIndex === 258
+```
+
+### 3) Export CSV
+```javascript
+const csv = window._lumaResults
+ .map(r => r.map(x => '"' + (x || '').replace(/"/g, '""') + '"').join(','))
+ .join('\n');
+
+const blob = new Blob([csv], { type: 'text/csv' });
+const a = document.createElement('a');
+a.href = URL.createObjectURL(blob);
+a.download = 'luma_guests_full_socials.csv';
+document.body.appendChild(a);
+a.click();
+document.body.removeChild(a);
+```
+
 ## Why batching + checkpointing mattered
 - **Reliability:** 9 smaller batches were significantly less brittle than one monolithic run.
 - **Recoverability:** `window._lumaIndex` made interruption/resume practical.
