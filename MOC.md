@@ -378,6 +378,8 @@
 - [[2026-03-18/clawmatrix-ai-analysis-en|ClawMatrix Deep Dive: The Distributed Human-Agent Engine Redefining Brand Distribution with AI]]
 
 ## 🌐 浏览器 & 自动化
+- [[2026-04-13/luma-guest-social-extraction-browser-batch-method|我如何在浏览器内提取 258 位 Luma 嘉宾社交链接（绕过懒加载 + 可断点续跑批处理爬取）]]
+- [[2026-04-13/luma-guest-social-extraction-browser-batch-method-en|How I extracted 258 Luma guests’ social links in-browser (with lazy-load bypass and resumable batch crawler)]]
 - [[2026-02-27/agent-browser-cli|agent-browser CLI]]
 - [[2026-02-27/cdp-social-media-automation|CDP 社交媒体自动化：零成本方案]]
 - [[2026-02-24/fdm1-computer-action-model|FDM-1 通用计算机操作模型]]
@@ -389,6 +391,8 @@
 - [[2026-03-12/firecrawl-cli-analysis|Firecrawl CLI 深度解析：架构、工作流与生态定位]]
 
 ## 🎨 AI 创意工具
+- [[2026-04-11/minimax-music-26-four-stories-agent-workflow|MiniMax Music 2.6：我们想讲的四个故事]]
+- [[2026-04-11/minimax-music-26-four-stories-agent-workflow-en|MiniMax Music 2.6: Four Stories We Want to Tell]]
 - [[2026-02-26/recraft-v4-image-generation|Recraft V4 图片生成]]
 - [[2026-02-26/quiver-ai-arrow-svg-generation|QuiverAI 矢量设计]]
 - [[2026-02-26/moonlake-multimodal-world-modeling|Moonlake 多模态交互世界]]
@@ -433,8 +437,14 @@
 - [[2026-03-14/theahmadosman-2032460101206839424-analysis-en|26 Essential Papers for Mastering LLMs: Ahmad's Complete Reading Roadmap]]
 
 ## 🖥️ 终端工具 & CLI
+- [[2026-04-11/minimax-ai-cli-github-deep-dive|MiniMax-AI/cli 深度拆解：把多模态 API 压成一个命令面]]
+- [[2026-04-11/minimax-ai-cli-github-deep-dive-en|MiniMax-AI/cli Deep Dive: A Multimodal API Surface in CLI Form]]
 - [[2026-04-11/minimax-mmx-cli-agent-first-multimodal-cli|MiniMax 发布 MMX-CLI：为 Agent 设计的全模态命令行工具]]
 - [[2026-04-11/minimax-mmx-cli-agent-first-multimodal-cli-en|MiniMax MMX-CLI: An Agent-First Multimodal Command-Line Tool]]
+- [[2026-04-11/qcut-cli-command-architecture-refactor-like-minimax|QCut CLI 命令架构重构提案（借鉴 MiniMax CLI，但保留 QCut 深度生产能力）]]
+- [[2026-04-11/qcut-cli-command-architecture-refactor-like-minimax-en|QCut CLI Command Architecture Refactor Proposal (Inspired by MiniMax, Preserving QCut Depth)]]
+- [[2026-04-11/qcut-cli-refactor-code-locations-and-migration-plan|QCut CLI 重构：命名变更影响面、代码定位与迁移方案]]
+- [[2026-04-11/qcut-cli-refactor-code-locations-and-migration-plan-en|QCut CLI Refactor: Code Locations, Impact Surface, and Migration Plan]]
 - [[2026-03-27/stripe-projects-cli-dev-stack-terminal|Stripe Projects：从终端一键搭建生产级开发栈]]
 - [[2026-03-27/stripe-projects-cli-dev-stack-terminal-en|Stripe Projects: Provision a Production-Ready Dev Stack from Your Terminal]]
 - [[2026-03-14/enesakar-2031887459085377887-analysis|Context7 CLI：让任何 AI Agent 都能拉取最新文档，不再依赖 MCP]]
