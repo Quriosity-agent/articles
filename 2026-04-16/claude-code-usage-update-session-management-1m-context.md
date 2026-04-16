@@ -1,72 +1,77 @@
-# Claude Code 使用更新解读：`/usage`、会话管理与 1M Context（基于可见信息）
+![Using Claude Code: Session Management & 1M Context](https://pbs.twimg.com/media/HF-p1RUbEAIH-6t.jpg)
+
+# Claude Code `/usage` 更新解读：Session 管理与 1M Context（基于 Thariq 帖子）
 
 ## TL;DR
-- 从可确认信息看，Claude Code 正在更新 `/usage`，目标是让用户更清楚地理解自己的用量。
-- 这次沟通主题明确指向两件事：**会话管理（session management）** 和 **1M context 的工作方式**。
-- 对团队来说，核心价值不是“更大数字”，而是把**成本、上下文边界、协作规范**做成可操作流程。
-- 由于 X 长文正文当前无法直接读取，下面会区分“已确认”与“推断”，避免过度解读。
+- [Confirmed] Thariq（@trq212）发布的帖子确实指向文章 **“Using Claude Code: Session Management & 1M Context”**，核心是 `/usage` 更新，且明确提到来自客户反馈。
+- [Confirmed] Anthropic 官方文章解释了为什么在 1M context 下，session 管理（continue、rewind、compact、clear、subagents）会显著影响质量、成本与速度。
+- [Likely] 这次 `/usage` 迭代的实质目标是把“配额/限流状态”做得更可见，帮助团队在长会话中更早做策略切换，而不是等到质量衰减或限额触发。
 
-## 这次更新“看起来”是什么
-根据公开可见元数据，这次内容标题为 **“Using Claude Code: Session Management & 1M Context”**，并配有预览文案：
-> “Today we’re rolling out a new update to /usage to help you understand your usage with Claude Code, this was informed by a number of conversations with customers.”
+## What the update appears to be
+- [Confirmed] 从帖子元数据可确认：该更新围绕 Claude Code 的 `/usage` 可视化改进，且由客户访谈驱动。
+- [Confirmed] 官方文章正文明确说“released /usage… informed by conversations with customers”，并把问题聚焦在 session 管理差异。
+- [Likely] 结合命令文档（`/usage` 用于显示 plan usage limits 和 rate limit status）与 changelog 的多次 `/usage` 调整，这不是一次“新命令发布”，而是“可见性与解释质量”的连续增强。
 
-在不假设具体 UI 细节的前提下，合理结论是：
-1. `/usage` 正在增强，重点是“可理解性”而非只给总量数字。  
-2. 改动动机来自真实客户反馈（不是纯内部拍脑袋）。  
-3. 官方把这次更新与 **session management + 1M context** 放在同一讨论框架下。
+## Why `/usage` transparency matters for developers
+- [Confirmed] 在 Claude Code 中，context 与 usage 是耦合的，长会话会带来更多 token 消耗。
+- [Confirmed] 官方把“context rot”定义为上下文变长后注意力分散、旧信息干扰，导致表现下降。
+- [Likely] 对开发者而言，`/usage` 透明度的价值在于：
+  1) 提前判断是否要 `/clear` 或 `/compact`，
+  2) 识别是否该把高噪声任务下放给 subagent，
+  3) 在配额临界点前做任务拆分，减少中途中断。
 
-## 为什么 `/usage` 透明度重要
-对工程团队，usage 透明度直接影响三件事：
-- **可预期成本**：知道哪里在烧额度，才谈得上预算控制。
-- **调试效率**：出现性能或质量异常时，能定位是上下文膨胀、会话累积，还是调用策略问题。
-- **行为反馈回路**：开发者会因为可见指标调整提示词、分段策略、缓存/摘要策略。
+## 1M context: what changed in practice
+- [Confirmed] Claude Code 文中直接写到 context window 为 **1 million tokens**。
+- [Confirmed] Changelog 显示 2.1.75 提到“Added 1M context window for Opus 4.6 by default…”。
+- [Likely] 实务上变化是：
+  - 会话可更长，能连续推进更大型任务；
+  - 但“更长”不等于“无限”，context rot 仍存在；
+  - cost/limit 观察（`/usage`）变得更关键，因为单 session 的资源消耗更不直观。
+- [Unverified] 我们无法从公开材料确认这次 `/usage` 在 UI 上具体新增了哪些字段、图表或分栏。
 
-一句话：看得见，才能治理。
+## Session management best practices（reset boundaries, chunking, checkpoints）
+- [Confirmed] 官方建议：**新任务通常开新 session**，避免无关上下文继续累积。
+- [Confirmed] 对“走错路径”场景，`/rewind` 常优于“继续纠错”，因为可保留有价值读取、丢弃失败分支。
+- [Confirmed] `/compact` 是有损摘要，适合低成本收敛；`/clear` 是手工重建上下文，控制力更高。
+- [Confirmed] subagent 适合“中间输出很多但只需结论”的工作块。
+- [Likely] 可操作模板：
+  1) **Reset boundary**：任务目标变化就切 session；
+  2) **Chunking**：把探索、实现、验证、文档拆成独立块；
+  3) **Checkpoint**：关键里程碑记录“已验证事实/已否定路径/下一步假设”，防止 compaction 丢关键信息。
 
-## 1M context 对工作流的实际影响
-“1M context”常被误读成“可以无脑塞一切”。更实际的影响是：
-- **跨文件/跨模块推理上限提高**：更适合大仓库问题定位、长链路重构规划。
-- **减少频繁手工切片**：早期探索阶段可以少做一些机械分块。
-- **但成本与噪声风险上升**：上下文越大，越需要信息分层（关键事实、次要背景、历史痕迹）。
+## What teams should operationalize（quotas, guardrails, observability）
+- [Likely] **Quotas**：设定“单任务预算”（token/时长/轮次）与“超阈值切换策略”（改用 `/clear`、降模型、拆子任务）。
+- [Likely] **Guardrails**：约定何时必须 rewind、何时禁止在重度污染上下文里继续追加指令。
+- [Likely] **Observability**：把 `/usage`、`/cost`、任务阶段标签纳入团队复盘，建立“问题出在模型能力还是会话管理”的区分机制。
 
-建议把 1M context 当成“更大的工作台”，不是“更乱的储物间”。
+## Caveats（source text partly inaccessible）
+- [Confirmed] X 原文页抓取不稳定，本次主要依赖帖子元数据与 Anthropic 官方文章做交叉验证。
+- [Unverified] 未能独立验证 X 文章页内是否存在与 Claude 博客完全一致的段落结构与配图文案。
+- [Confirmed] 因此本文避免声明未经二次来源确认的细粒度 UI 细节。
 
-## 会话管理最佳实践（实操向）
-1. **按任务边界切会话**：需求澄清、实现、回归验证，尽量分段。  
-2. **阶段性摘要**：把已确认决策压缩成短摘要，替换冗长历史。  
-3. **保留证据链**：关键结论附来源（commit、日志、文档链接）。  
-4. **建立退出条件**：会话超过阈值（体量/时长/漂移）就重开，不恋战。  
-5. **模板化交接**：团队交接时固定“目标-现状-阻塞-下一步”四段，减少重复喂上下文。
+## 🦞 Lobster verdict
+这次信息的真正价值，不是“又一个命令”，而是把 Claude Code 的核心工程问题说透了：
+**1M context 让你能跑更远，但 session 管理决定你会不会跑偏。**
+`/usage` 的意义在于把“快超限了/该重置了/该拆任务了”从体感变成可观测信号。对团队来说，这就是稳定性工程，而不仅是交互体验优化。
 
-## 团队运营护栏：配额与可观测性
-即便模型上下文更大，团队仍应设置护栏：
-- **配额策略**：按环境（实验/生产）、角色（个人/CI）、项目优先级分层。
-- **异常检测**：监控高频重试、单任务异常高消耗、夜间突增。
-- **最小可观测面板**：至少跟踪任务级别的 tokens/成本、成功率、平均完成时长。
-- **复盘机制**：每周看一次“高消耗低产出”任务，优化提示与流程，而非只压人。
-
-## 由于 X 正文不可完全访问的注意事项
-- 本文没有引用不可见正文中的具体字段、按钮或精确文案。
-- 凡是“可能包含”“推测是”的内容，都应视为待官方原文二次确认。
-- 如果你拿到全文，建议优先核对：
-  1) `/usage` 到底新增了哪些维度；
-  2) session 管理建议是原则级还是操作级；
-  3) 1M context 是否给出明确边界条件或成本提醒。
-
-## 🦞 Verdict
-这是一次方向正确的更新信号：把“能用”往“可运营”推进。  
-真正的收益不在于口号式的 1M，而在于团队是否把 usage 透明度和会话纪律落到日常工程流程。
+## Sources（with confidence labels）
+1. [Confirmed] Thariq X 帖子元数据（vxTwitter API）
+   - https://api.vxtwitter.com/trq212/status/2044548257058328723
+   - 可确认作者、标题、preview 文本、文章配图 URL。
+2. [Confirmed] Anthropic 官方博客
+   - https://claude.com/blog/using-claude-code-session-management-and-1m-context
+   - 直接包含 `/usage`、1M context、context rot、rewind/compact/clear/subagent 的实践说明。
+3. [Confirmed] Claude Code Commands 文档
+   - https://code.claude.com/docs/en/commands.md
+   - `/usage` 定义为显示 plan usage limits 和 rate limit status。
+4. [Confirmed] Claude Code Changelog（GitHub）
+   - https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md
+   - 包含 `/usage` 历史迭代项与 1M context（2.1.75）变更记录。
+5. [Likely] Claude Code 官方 changelog 页面（文档镜像）
+   - https://code.claude.com/docs/en/changelog.md
+   - 与 GitHub changelog 同步生成，作为辅助可读来源。
 
 ---
-
-## Sources
-- [Confirmed] X 帖子（trq212，ID: 2044548257058328723）可读到的卡片信息：标题 **Using Claude Code: Session Management & 1M Context**，以及预览文案中对 `/usage` 更新的描述。  
-  链接：<https://x.com/trq212/status/2044548257058328723>
-- [Confirmed] 该帖子指向 X 长文链接：<https://x.com/i/article/2044537014620721153>（当前环境下正文不可直接读取）。
-- [Likely] “会话管理 + 1M context + /usage 透明度”是同一轮产品沟通主轴（由标题与预览文案共同指向）。
-- [Unverified] 具体 UI 字段、图表维度、配额展示细节、任何未在可见预览中出现的功能描述。
-
-## Author / Date / Tags
-- Author: Donghao Zhang（代写整理）
-- Date: 2026-04-16
-- Tags: Claude Code, usage, session management, 1M context, AI engineering, ops
+**Author:** 🦞 龙虾侦探 / Lobster Detective  
+**Date:** 2026-04-16  
+**Tags:** Claude Code, /usage, Session Management, 1M Context, Context Window, Developer Productivity, Anthropic
