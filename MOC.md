@@ -150,6 +150,8 @@
 - [[2026-03-21/karpathy-no-priors-agent-psychosis-en|Andrej Karpathy's "AI Psychosis": When a Top AI Researcher Completely Stopped Writing Code]]
 
 ## 🤖 Claude Code / Anthropic
+- [[2026-04-16/claude-code-usage-update-session-management-1m-context|Claude Code `/usage` 更新解读：Session 管理与 1M Context（基于 Thariq 帖子）]]
+- [[2026-04-16/claude-code-usage-update-session-management-1m-context-en|Claude Code `/usage` Update: Session Management and 1M Context (from Thariq’s post)]]
 - [[2026-03-20/trq212-2034761704601690432-analysis|Claude Code Channels：用手机上的 Telegram/Discord 直接控制你的 Claude Code]]
 - [[2026-03-20/trq212-2034761704601690432-analysis-en|Claude Code Channels: Control Your Claude Code Session from Telegram or Discord on Your Phone]]
 - [[2026-03-15/qcut-pi-mono-integration-guide|如何用 Pi Mono 在 QCut 中构建嵌入式 AI Agent：完整实现指南]]
@@ -279,6 +281,8 @@
 - [[2026-02-27/codex-figma-mcp-bidirectional|Codex + Figma MCP]]
 
 ## 🎬 AI 视频
+- [[2026-04-17/heygen-hyperframes-github-deep-dive|HyperFrames GitHub 深度拆解（工程视角）]]
+- [[2026-04-17/heygen-hyperframes-github-deep-dive-en|HyperFrames GitHub Deep Dive (Engineering Lens)]]
 - [[2026-04-04/void-netflix-video-object-deletion-physics|VOID：Netflix 的"删除物体"不只是擦掉——它还会模拟物理后果]]
 - [[2026-04-04/void-netflix-video-object-deletion-physics-en|VOID: Netflix's Object Removal Doesn't Just Erase — It Simulates the Physical Consequences]]
 - [[2026-03-18/wechat-A8Unxhp-OU79VsTFa7mJPA-analysis|LibTV：第一个同时为人类和 Agent 设计的 AI 视频产品]]
