@@ -365,6 +365,7 @@
 - [[2026-03-14/mixedbreadai-2032127466081567106-analysis-en|Mixedbread Wholembed v3: A Unified Multimodal Retrieval Model]]
 
 ## 🦞 OpenClaw 生态
+- [[2026-04-15/windows-hermes-openclaw-recovery-log|Windows Hermes / OpenClaw 恢复记录]]
 - [[2026-04-07/openclaw-video-generation-architecture-complete-file-map|OpenClaw 视频生成架构全解析 + 完整文件清单]]
 - [[2026-04-07/openclaw-video-generation-architecture-complete-file-map-en|OpenClaw Video Generation Architecture — Deep Dive + Complete File Map]]
 - [[2026-04-06/openclaw-video-vs-qcut-cli-ai-video-tooling|API 薄封装 vs 全流程生产线 —— 2026 年 AI 视频工具到底长什么样？]]
