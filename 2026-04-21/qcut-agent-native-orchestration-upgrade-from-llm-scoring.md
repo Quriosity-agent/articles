@@ -23,175 +23,46 @@ QCut 已经把“选片质量”做得不错（`autoclip` 的 outline → timeli
 - 已经具备“从原料到成片”的端到端基础
 
 ## 差距分析：离 Agent 原生自动化还缺什么
-要让 Agent 真正接管生产流程，仅有打分还不够，关键缺口在工程层：
+结合现有代码，缺口更具体：
 
-1. **缺统一编排语义**：现在像是“命令集合”，不是“可追踪工作流”
-2. **缺稳定机器接口**：步骤输出若不稳定，Agent 难以决策下一步
-3. **缺断点恢复**：中途失败后只能重跑，成本高、体验差
-4. **缺质量门槛机制**：没有可参数化的“不过线不出片”策略
-5. **缺标准化状态查询**：外部系统无法稳定读取 run 的生命周期状态
+1. **缺第一类 run 编排对象**：`autoclip` 由 `electron/native-pipeline/autoclip/autoclip-runner.ts` 串 4 步，但 `cli/command-registry.ts`、`cli/command-groups.ts`、`cli/cli-runner/handler-map.ts` 里都还没有 `flow autopilot`。
+2. **缺“步骤级”稳定 JSON 合约**：CLI 已有统一 `--json` 包装（`cli/cli.ts` + `cli/json-output.ts`），但 `autoclip` 当前只返回命令级 `data`，没有 per-step 固定字段（run_id/attempt/error_code 等）。
+3. **缺 run checkpoint/resume**：`autoclip-runner.ts` 会落盘 `autoclip-metadata/step*.json` 且支持 `--step` 续跑，这是局部恢复；但没有 `.qcut/run-state.json` 这种全生命周期状态机。
+4. **缺质量门槛驱动的重试策略**：已有 API 重试（`infra/api-caller.ts`）和 pipeline step 重试（`execution/executor.ts` 的 `retryCount`），但还没有“avg_score/clip_count 触发回退与重试”的策略层。
+5. **缺统一 run 状态查询接口**：已有 `pipeline:status`（`cli/cli-runner/handler-pipeline-status.ts`）和 `--resume` 会话状态（`cli/session-state.ts`），但它们不是 `autoclip` run 生命周期接口。
+
+## Code-grounded Reality Check
+- **[Already present partially]** 4 步流程与中间产物：`autoclip/autoclip-runner.ts` + `autoclip/steps/*`，并写入 `autoclip-metadata/step1_outline.json`、`step2_timeline.json`、`step3_*scores.json`。
+- **[Already present partially]** 统一 JSON 外壳：`cli/cli.ts` 统一解析 `--json`，`cli/json-output.ts` 统一输出 `status/data/error` envelope。
+- **[Already present partially]** 重试基础设施：`infra/api-caller.ts` 的 `fetchWithRetry` 与 `retries`，`execution/executor.ts` 的 `executeStepWithRetry`。
+- **[Already present partially]** 状态能力分散存在：`pipeline:status` 针对 editor job；`session-state.ts` 针对 CLI 会话。
+- **Not present yet**：`flow autopilot` / `flow resume` / `flow cancel` 的命令与 handler，及 run-state 文件协议。
+
+## Minimal-change insertion points
+| 提案项 | 现有锚点 | 最小改动入口（likely） | Delta |
+|---|---|---|---|
+| `qcut flow autopilot` 统一入口 | `autoclip/autoclip-runner.ts` 已具备 4 步串行逻辑 | `cli/command-groups.ts`（新增 flow action），`cli/command-registry.ts`（新增命令定义），`cli/cli-runner/handler-map.ts`（新增 handler 映射），复用 `autoclip-runner.ts` | **Medium** |
+| 每步稳定 `--json` schema | `cli/json-output.ts` 已有命令级 envelope | 在 `autoclip/autoclip-runner.ts` 每步结束构造 step result；必要时在 `cli/json-output.ts` 增加 step payload 约定 | **Small-Medium** |
+| run checkpoint/resume（`.qcut/run-state.json`） | 现有 `autoclip-metadata/*.json` + `--step` | 新增 `autoclip/run-state.ts`（建议）；在 `autoclip-runner.ts` 每步原子写状态；可借鉴 `cli/session-state.ts` 的读写/恢复模式 | **Medium** |
+| 质量门槛 + 重试策略 | `step-scoring.ts` 有 `minScore`，`execution/executor.ts` 有 retryCount | 在 `autoclip-runner.ts` 增加 gate 评估（avg_score/clip_count）与分支重试；必要时在 `steps/step-timeline.ts`、`steps/step-scoring.ts` 增加可调参数 | **Medium** |
+| 命令统一与兼容别名 | 已有扁平命令→分组命令别名（`cli/aliases.ts`） | 在 `cli/aliases.ts` 增加 `autoclip -> flow autopilot` 指引；保留 `autoclip` handler 并内部代理到新入口 | **Small** |
 
 ## 架构升级提案
 
 ### 1) 新增编排命令：`qcut flow autopilot`
-把现有步骤串成第一类工作流对象（run）。
-
-```bash
-qcut flow autopilot \
-  --input ./input/interview.mp4 \
-  --profile short-form \
-  --output ./dist \
-  --json
-```
-
-建议子命令：
-
-```bash
-qcut flow autopilot ...
-qcut flow status --run-id run_20260421_001 --json
-qcut flow resume --run-id run_20260421_001 --json
-qcut flow cancel --run-id run_20260421_001 --json
-```
+现有 4 步逻辑可直接复用 `autoclip/autoclip-runner.ts`，先把它提升成可追踪 run。
 
 ### 2) 每一步统一机器可读输出（`--json`）
-要求：任何步骤都输出稳定 schema，而不是自然语言日志。
-
-```bash
-qcut outline --input ./input/interview.mp4 --json
-qcut timeline --outline ./tmp/outline.json --json
-qcut scoring --timeline ./tmp/timeline.json --json
-qcut cut --timeline ./tmp/timeline.json --select ./tmp/selected.json --json
-```
-
-#### Step 输出 JSON 示例（建议）
-```json
-{
-  "run_id": "run_20260421_001",
-  "step": "scoring",
-  "status": "succeeded",
-  "started_at": "2026-04-21T06:20:02Z",
-  "ended_at": "2026-04-21T06:20:18Z",
-  "duration_ms": 16012,
-  "input": {
-    "timeline_path": "./tmp/timeline.json",
-    "model": "anthropic/claude-sonnet-4"
-  },
-  "output": {
-    "scored_segments": 42,
-    "avg_score": 0.78,
-    "top_segments_path": "./tmp/scored-top.json"
-  },
-  "metrics": {
-    "token_in": 18234,
-    "token_out": 2177,
-    "est_cost_usd": 0.43
-  },
-  "error": null
-}
-```
+CLI 外层 JSON 已有（`cli/json-output.ts`），下一步是把 step 级字段标准化。
 
 ### 3) Checkpoint/Resume 设计
-每个 run 在工作目录落盘：`.qcut/run-state.json`
-
-- `flow status`：读取状态
-- `flow resume`：从最后成功步骤继续
-- crash/restart 后仍可恢复
-
-#### `run-state.json` 建议结构
-```json
-{
-  "run_id": "run_20260421_001",
-  "version": "1",
-  "pipeline": "autopilot",
-  "created_at": "2026-04-21T06:19:40Z",
-  "updated_at": "2026-04-21T06:20:18Z",
-  "status": "running",
-  "current_step": "scoring",
-  "steps": [
-    {
-      "name": "outline",
-      "status": "succeeded",
-      "attempt": 1,
-      "max_retry": 2,
-      "started_at": "2026-04-21T06:19:41Z",
-      "ended_at": "2026-04-21T06:19:55Z",
-      "artifacts": {
-        "outline": "./tmp/outline.json"
-      },
-      "error": null
-    },
-    {
-      "name": "timeline",
-      "status": "succeeded",
-      "attempt": 1,
-      "max_retry": 2,
-      "started_at": "2026-04-21T06:19:56Z",
-      "ended_at": "2026-04-21T06:20:01Z",
-      "artifacts": {
-        "timeline": "./tmp/timeline.json"
-      },
-      "error": null
-    },
-    {
-      "name": "scoring",
-      "status": "running",
-      "attempt": 1,
-      "max_retry": 2,
-      "started_at": "2026-04-21T06:20:02Z",
-      "ended_at": null,
-      "artifacts": {},
-      "error": null
-    }
-  ],
-  "quality_gates": {
-    "min_avg_score": 0.75,
-    "min_clip_count": 6,
-    "max_retry": 2
-  },
-  "final_output": null
-}
-```
+把当前 `autoclip-metadata/*.json`（局部产物）升级为 `.qcut/run-state.json`（全局 run 状态）。
 
 ### 4) 质量门槛 + 重试策略
-新增参数：
-- `--min-avg-score`
-- `--min-clip-count`
-- `--max-retry`
-
-示例：
-
-```bash
-qcut flow autopilot \
-  --input ./input/interview.mp4 \
-  --min-avg-score 0.76 \
-  --min-clip-count 8 \
-  --max-retry 2 \
-  --json
-```
-
-策略建议：
-- 评分均值不足：先重试 scoring（可切备选模型）
-- clip 数不足：回退 timeline 参数再跑 scoring
-- 重试超过上限：标记 `failed_quality_gate`，不输出最终成片
+在现有 API/步骤重试之上，加“质量失败分类 + 策略回退”，而不是只做网络重试。
 
 ### 5) 命令面统一 + 向后兼容别名
-目标：不打断老用户脚本，同时建立统一入口。
-
-建议：
-- 新入口：`qcut flow autopilot`
-- 老命令保留为 alias：`qcut autoclip` → `qcut flow autopilot`
-- 统一状态命令：`flow status/resume/cancel`
-- 所有核心命令均支持 `--json`（不是部分支持）
-
-兼容示例：
-
-```bash
-# 旧脚本仍可跑
-qcut autoclip --input ./input/interview.mp4 --output ./dist
-
-# 实际映射（内部）
-qcut flow autopilot --input ./input/interview.mp4 --output ./dist
-```
+保留 `autoclip`，新增 `flow autopilot` 作为主入口，逐步迁移但不打断旧脚本。
 
 ## 7 天落地计划（可执行）
 

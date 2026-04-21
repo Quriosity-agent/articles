@@ -23,175 +23,46 @@ Strengths today:
 - End-to-end baseline from raw input to edited output
 
 ## Gap analysis: what is missing for agent-native automation
-To support autonomous agents, scoring alone is not enough. Key missing pieces are system-level:
+With actual code references, the gaps are more concrete:
 
-1. **No first-class orchestration semantics**: commands exist, but workflow state is not standardized
-2. **No strict machine interface contract**: unstable output makes downstream control brittle
-3. **No robust checkpoint/resume**: failures trigger expensive full reruns
-4. **No explicit quality gate policy**: no parameterized pass/fail controls
-5. **No unified run lifecycle interface**: external systems cannot reliably read run state
+1. **No first-class run orchestration object**: `autoclip` is orchestrated in `electron/native-pipeline/autoclip/autoclip-runner.ts`, but `flow autopilot` does not exist in `cli/command-registry.ts`, `cli/command-groups.ts`, or `cli/cli-runner/handler-map.ts`.
+2. **No step-level stable JSON contract**: CLI has a global `--json` envelope (`cli/cli.ts` + `cli/json-output.ts`), but `autoclip` returns command-level `data`, not fixed per-step fields (`run_id`, `attempt`, `error_code`, etc.).
+3. **No run-level checkpoint/resume**: `autoclip-runner.ts` persists `autoclip-metadata/step*.json` and supports `--step`, which is partial recovery, not a full run state machine (`.qcut/run-state.json`).
+4. **No quality-gate-driven retry layer**: retries already exist in `infra/api-caller.ts` and `execution/executor.ts`, but there is no policy layer for `avg_score/clip_count` failure handling.
+5. **No unified run lifecycle query API for autoclip**: `pipeline:status` exists (`cli/cli-runner/handler-pipeline-status.ts`) and CLI session persistence exists (`cli/session-state.ts`), but neither is an `autoclip` run lifecycle interface.
+
+## Code-grounded Reality Check
+- **[Already present partially]** Four-step pipeline and intermediate artifacts: `autoclip/autoclip-runner.ts` + `autoclip/steps/*`, with files like `autoclip-metadata/step1_outline.json`, `step2_timeline.json`, `step3_*scores.json`.
+- **[Already present partially]** Unified JSON envelope: `cli/cli.ts` parses `--json`, `cli/json-output.ts` emits consistent `status/data/error` envelopes.
+- **[Already present partially]** Retry foundations: `infra/api-caller.ts` (`fetchWithRetry`, per-call `retries`) and `execution/executor.ts` (`executeStepWithRetry`).
+- **[Already present partially]** Status/state primitives exist but are fragmented: `pipeline:status` is editor-job oriented; `session-state.ts` is CLI-session oriented.
+- **Not present yet**: `flow autopilot` / `flow resume` / `flow cancel` commands + handlers, and a run-state file protocol.
+
+## Minimal-change insertion points
+| Proposal item | Current anchor | Minimal insertion points (likely) | Delta |
+|---|---|---|---|
+| `qcut flow autopilot` orchestration entry | `autoclip/autoclip-runner.ts` already sequences 4 stages | `cli/command-groups.ts` (new flow action), `cli/command-registry.ts` (command defs), `cli/cli-runner/handler-map.ts` (handler binding), reuse `autoclip-runner.ts` | **Medium** |
+| Stable per-step `--json` schema | `cli/json-output.ts` already provides command envelope | Add step-result construction in `autoclip/autoclip-runner.ts`; optionally extend schema conventions in `cli/json-output.ts` | **Small-Medium** |
+| Run checkpoint/resume (`.qcut/run-state.json`) | Existing `autoclip-metadata/*.json` + `--step` | Add `autoclip/run-state.ts` (likely) and state writes in `autoclip-runner.ts`; reuse patterns from `cli/session-state.ts` | **Medium** |
+| Quality gates + retry policy | `step-scoring.ts` has `minScore`; `execution/executor.ts` has retryCount | Add gate evaluation and retry branches in `autoclip-runner.ts`; possibly expose extra controls in `steps/step-timeline.ts` and `steps/step-scoring.ts` | **Medium** |
+| Command unification + compatibility alias | Existing flat→group alias system in `cli/aliases.ts` | Add migration alias guidance for `autoclip -> flow autopilot`; keep `autoclip` handler and internally route | **Small** |
 
 ## Proposed architecture upgrade
 
 ### 1) New orchestration command: `qcut flow autopilot`
-Package existing steps into a first-class run object.
-
-```bash
-qcut flow autopilot \
-  --input ./input/interview.mp4 \
-  --profile short-form \
-  --output ./dist \
-  --json
-```
-
-Suggested subcommands:
-
-```bash
-qcut flow autopilot ...
-qcut flow status --run-id run_20260421_001 --json
-qcut flow resume --run-id run_20260421_001 --json
-qcut flow cancel --run-id run_20260421_001 --json
-```
+Reuse existing logic in `autoclip/autoclip-runner.ts`, but elevate it to a first-class tracked run.
 
 ### 2) Unified machine-readable output schema (`--json`) for every step
-Requirement: each step returns a stable schema, not free-form logs.
+CLI-level JSON is already in place (`cli/json-output.ts`); next is standardizing step-level fields.
 
-```bash
-qcut outline --input ./input/interview.mp4 --json
-qcut timeline --outline ./tmp/outline.json --json
-qcut scoring --timeline ./tmp/timeline.json --json
-qcut cut --timeline ./tmp/timeline.json --select ./tmp/selected.json --json
-```
+### 3) Checkpoint/resume design
+Promote current artifact persistence (`autoclip-metadata/*.json`) into run-state persistence (`.qcut/run-state.json`).
 
-#### Concrete JSON schema example for step outputs
-```json
-{
-  "run_id": "run_20260421_001",
-  "step": "scoring",
-  "status": "succeeded",
-  "started_at": "2026-04-21T06:20:02Z",
-  "ended_at": "2026-04-21T06:20:18Z",
-  "duration_ms": 16012,
-  "input": {
-    "timeline_path": "./tmp/timeline.json",
-    "model": "anthropic/claude-sonnet-4"
-  },
-  "output": {
-    "scored_segments": 42,
-    "avg_score": 0.78,
-    "top_segments_path": "./tmp/scored-top.json"
-  },
-  "metrics": {
-    "token_in": 18234,
-    "token_out": 2177,
-    "est_cost_usd": 0.43
-  },
-  "error": null
-}
-```
-
-### 3) Checkpoint/resume design (`.qcut/run-state.json`, `flow resume`, `flow status`)
-Persist run state under `.qcut/run-state.json` in project scope.
-
-- `flow status`: read current lifecycle state
-- `flow resume`: continue from the last successful step
-- survives process restarts/crashes
-
-#### Suggested `run-state.json` schema
-```json
-{
-  "run_id": "run_20260421_001",
-  "version": "1",
-  "pipeline": "autopilot",
-  "created_at": "2026-04-21T06:19:40Z",
-  "updated_at": "2026-04-21T06:20:18Z",
-  "status": "running",
-  "current_step": "scoring",
-  "steps": [
-    {
-      "name": "outline",
-      "status": "succeeded",
-      "attempt": 1,
-      "max_retry": 2,
-      "started_at": "2026-04-21T06:19:41Z",
-      "ended_at": "2026-04-21T06:19:55Z",
-      "artifacts": {
-        "outline": "./tmp/outline.json"
-      },
-      "error": null
-    },
-    {
-      "name": "timeline",
-      "status": "succeeded",
-      "attempt": 1,
-      "max_retry": 2,
-      "started_at": "2026-04-21T06:19:56Z",
-      "ended_at": "2026-04-21T06:20:01Z",
-      "artifacts": {
-        "timeline": "./tmp/timeline.json"
-      },
-      "error": null
-    },
-    {
-      "name": "scoring",
-      "status": "running",
-      "attempt": 1,
-      "max_retry": 2,
-      "started_at": "2026-04-21T06:20:02Z",
-      "ended_at": null,
-      "artifacts": {},
-      "error": null
-    }
-  ],
-  "quality_gates": {
-    "min_avg_score": 0.75,
-    "min_clip_count": 6,
-    "max_retry": 2
-  },
-  "final_output": null
-}
-```
-
-### 4) Quality gates + retry policy (`--min-avg-score`, `--min-clip-count`, `--max-retry`)
-Introduce explicit controls:
-- `--min-avg-score`
-- `--min-clip-count`
-- `--max-retry`
-
-Example:
-
-```bash
-qcut flow autopilot \
-  --input ./input/interview.mp4 \
-  --min-avg-score 0.76 \
-  --min-clip-count 8 \
-  --max-retry 2 \
-  --json
-```
-
-Policy recommendation:
-- low average score: retry scoring, optionally with fallback model
-- insufficient clip count: adjust timeline parameters and re-score
-- retries exceeded: emit `failed_quality_gate` and stop final publish
+### 4) Quality gates + retry policy
+Build a quality failure policy layer on top of existing transport/network retries.
 
 ### 5) Command surface unification with backward-compatible aliases
-Goal: unified interface without breaking legacy scripts.
-
-Suggested approach:
-- canonical command: `qcut flow autopilot`
-- legacy alias: `qcut autoclip` → `qcut flow autopilot`
-- standardized lifecycle commands: `flow status/resume/cancel`
-- enforce `--json` support across all core commands
-
-Compatibility example:
-
-```bash
-# existing script still works
-qcut autoclip --input ./input/interview.mp4 --output ./dist
-
-# internal mapping
-qcut flow autopilot --input ./input/interview.mp4 --output ./dist
-```
+Keep `autoclip` for compatibility, but make `flow autopilot` the canonical orchestration entry.
 
 ## 7-day rollout plan
 
