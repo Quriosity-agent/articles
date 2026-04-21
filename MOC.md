@@ -199,6 +199,8 @@
 - [[2026-03-13/openai-codex-best-practices-analysis-en|OpenAI Codex Best Practices — A Practical Builder’s Analysis]]
 
 ## 🐙 多 Agent 编排
+- [[2026-04-21/qcut-agent-native-orchestration-upgrade-from-llm-scoring|从“LLM 打分剪辑”到“Agent 原生编排”：QCut 的下一步升级蓝图]]
+- [[2026-04-21/qcut-agent-native-orchestration-upgrade-from-llm-scoring-en|From “LLM Scoring for Clip Selection” to an Agent-Native Orchestration System: QCut Upgrade Blueprint]]
 - [[2026-03-16/sharbel-2032790032336007350-analysis|本月 GitHub 增长最快的 10 个项目：AI Agent 时代的军备竞赛]]
 - [[2026-03-16/sharbel-2032790032336007350-analysis-en|The 10 Fastest Growing GitHub Projects This Month: The AI Agent Arms Race]]
 - [[2026-03-16/varun-mathur-2032671842230501729-analysis|Hyperspace AGI v3.0：237 个 Agent 零人工干预跑出真实研究成果]]
@@ -281,6 +283,10 @@
 - [[2026-02-27/codex-figma-mcp-bidirectional|Codex + Figma MCP]]
 
 ## 🎬 AI 视频
+- [[2026-04-21/browser-use-video-use-github-deep-dive|`browser-use/video-use` 深度拆解：把“聊天式视频剪辑”做成可执行工程]]
+- [[2026-04-21/browser-use-video-use-github-deep-dive-en|`browser-use/video-use` Deep Dive: Turning conversational video editing into an executable engineering pipeline]]
+- [[2026-04-21/hyperframes-vs-remotion-agent-native-video-stack|HyperFrames vs Remotion：面向 Agent 原生视频栈的实战对比]]
+- [[2026-04-21/hyperframes-vs-remotion-agent-native-video-stack-en|HyperFrames vs Remotion for Agent-Native Video Stacks]]
 - [[2026-04-17/heygen-hyperframes-github-deep-dive|HyperFrames GitHub 深度拆解（工程视角）]]
 - [[2026-04-17/heygen-hyperframes-github-deep-dive-en|HyperFrames GitHub Deep Dive (Engineering Lens)]]
 - [[2026-04-04/void-netflix-video-object-deletion-physics|VOID：Netflix 的"删除物体"不只是擦掉——它还会模拟物理后果]]
