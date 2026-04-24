@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎨 huashu-design GitHub 深度拆解（工程实践视角）
+- [[2026-04-21/huashu-design-github-deep-dive|huashu-design GitHub 深度拆解（工程实践视角）]]
+- [[2026-04-21/huashu-design-github-deep-dive-en|huashu-design GitHub Deep Dive (Practical Engineering View)]]
+
 ## 🤖 multica 深度拆解：把 Coding Agent 管理做成团队系统
 - [[2026-04-12/multica-ai-multica-github-deep-dive|multica-ai/multica 深度拆解：把“Coding Agent 管理”做成一套团队系统]]
 - [[2026-04-12/multica-ai-multica-github-deep-dive-en|multica-ai/multica Deep Dive: Turning Coding Agents into an Operable Team System]]
