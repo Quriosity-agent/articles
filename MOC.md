@@ -401,6 +401,8 @@
 ## 🌐 浏览器 & 自动化
 - [[2026-04-13/luma-guest-social-extraction-browser-batch-method|我如何在浏览器内提取 258 位 Luma 嘉宾社交链接（绕过懒加载 + 可断点续跑批处理爬取）]]
 - [[2026-04-13/luma-guest-social-extraction-browser-batch-method-en|How I extracted 258 Luma guests’ social links in-browser (with lazy-load bypass and resumable batch crawler)]]
+- [[2026-04-30/2026-04-30-standard-intelligence-75m-series-a-pixel-space|Standard Intelligence 融资 7500 万美元 A 轮：在像素空间里训练通用智能，会是 Useful Agents 的下一条主线吗？]]
+- [[2026-04-30/2026-04-30-standard-intelligence-75m-series-a-pixel-space-en|Standard Intelligence’s $75M Series A: Could Training in Pixel Space Become the Next Path to Useful Agents?]]
 - [[2026-02-27/agent-browser-cli|agent-browser CLI]]
 - [[2026-02-27/cdp-social-media-automation|CDP 社交媒体自动化：零成本方案]]
 - [[2026-02-24/fdm1-computer-action-model|FDM-1 通用计算机操作模型]]
