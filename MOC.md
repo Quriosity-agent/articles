@@ -424,6 +424,8 @@
 - [[2026-03-16/qisi-ai-2033102558936576231-analysis-en|Deconstructing an AI Photography Prompt: The 9-Module Framework Behind "Late Night Bedroom Selfie"]]
 
 ## 🔮 行业观察 & 访谈
+- [[2026-04-29/standard-bots-ai-native-industrial-robotics|Standard Bots 深度观察：把工业机器人做成“可自助部署的软件产品”？]]
+- [[articles/2026-04-29-startupgrind-2026-agenda-linkedin-progress|Startup Grind 2026 议程全量整理完成：分组结构与 LinkedIn 补全计划]]
 - [[2026-04-08/claude-mythos-non-release-project-glasswing-analysis|Claude Mythos：史无前例的网络安全能力，不对公众发布——突破还是警告？]]
 - [[2026-04-08/claude-mythos-non-release-project-glasswing-analysis-en|Claude Mythos: Unprecedented Cyber Capability, No Public Release — Breakthrough or Warning Shot?]]
 - [[2026-04-03/anthropic-acquires-coefficient-bio-400m|Anthropic 4 亿美元收购 Coefficient Bio：9 个人值 4 亿，AI 人才到底有多贵？]]
