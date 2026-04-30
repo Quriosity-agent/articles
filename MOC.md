@@ -424,6 +424,7 @@
 - [[2026-03-16/qisi-ai-2033102558936576231-analysis-en|Deconstructing an AI Photography Prompt: The 9-Module Framework Behind "Late Night Bedroom Selfie"]]
 
 ## 🔮 行业观察 & 访谈
+- [[articles/2026-04-30-cloudflare-stripe-projects-agent-provisioning-payments|Cloudflare x Stripe Projects：AI Agent 第一次真正拿到了“开户、付费、买域名、上线生产”的全链路能力]]
 - [[2026-04-29/standard-bots-ai-native-industrial-robotics|Standard Bots 深度观察：把工业机器人做成“可自助部署的软件产品”？]]
 - [[articles/2026-04-29-startupgrind-2026-agenda-linkedin-progress|Startup Grind 2026 议程全量整理完成：分组结构与 LinkedIn 补全计划]]
 - [[2026-04-08/claude-mythos-non-release-project-glasswing-analysis|Claude Mythos：史无前例的网络安全能力，不对公众发布——突破还是警告？]]
