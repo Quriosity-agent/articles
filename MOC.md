@@ -414,6 +414,8 @@
 - [[2026-03-12/firecrawl-cli-analysis|Firecrawl CLI 深度解析：架构、工作流与生态定位]]
 
 ## 🎨 AI 创意工具
+- [[2026-04-30/2026-04-30-handheld-phone-footage-prompt-template|手持手机偷拍视频感 Prompt 模板：为什么这段 15 秒骨架比“电影感”三个字更值钱]]
+- [[2026-04-30/2026-04-30-handheld-phone-footage-prompt-template-en|The Handheld Phone Footage Prompt Template: Why This 15-Second Skeleton Is More Valuable Than Saying “Cinematic”]]
 - [[2026-04-11/minimax-music-26-four-stories-agent-workflow|MiniMax Music 2.6：我们想讲的四个故事]]
 - [[2026-04-11/minimax-music-26-four-stories-agent-workflow-en|MiniMax Music 2.6: Four Stories We Want to Tell]]
 - [[2026-02-26/recraft-v4-image-generation|Recraft V4 图片生成]]
