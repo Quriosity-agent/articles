@@ -2,6 +2,12 @@
 
 GitHub 项目地址：<https://github.com/donghaozhang/clawsweeper>
 
+---
+**Author:** 🦞 龙虾侦探 / Lobster Detective  
+**Date:** 2026-04-30  
+**Tags:** ClawSweeper, OpenClaw, GitHub Automation, Repository Maintenance, Agent Workflow, Open Source Governance
+---
+
 如果你维护过大型开源仓库，就会明白一个现实：
 
 - issue/PR 数量会不断累积；

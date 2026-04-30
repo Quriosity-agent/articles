@@ -424,6 +424,8 @@
 - [[2026-03-16/qisi-ai-2033102558936576231-analysis-en|Deconstructing an AI Photography Prompt: The 9-Module Framework Behind "Late Night Bedroom Selfie"]]
 
 ## 🔮 行业观察 & 访谈
+- [[2026-04-30/2026-04-30-clawsweeper-architecture-practical-guide|ClawSweeper 深度解析：一个“保守型”开源仓库维护机器人是怎么工作的]]
+- [[2026-04-30/2026-04-30-clawsweeper-architecture-practical-guide-en|ClawSweeper Deep Dive: How a “Conservative” Open-Source Maintenance Bot Actually Works]]
 - [[2026-04-30/2026-04-30-stripe-sessions-agent-economy-replatforming|从 Patrick Collison 的一条推文看清楚：AI 代理正在重写支付与商业基础设施]]
 - [[2026-04-30/2026-04-30-stripe-sessions-agent-economy-replatforming-en|What Patrick Collison’s Tweet Really Tells Us: AI Agents Are Rewriting Payments and Commercial Infrastructure]]
 - [[2026-04-30/2026-04-30-cloudflare-stripe-projects-agent-provisioning-payments|Cloudflare x Stripe Projects：AI Agent 第一次真正拿到了“开户、付费、买域名、上线生产”的全链路能力]]
