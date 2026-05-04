@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-05-04
+
+| 文章 | 主题 |
+|------|------|
+| [Open Design GitHub 深度拆解：把 Claude Design 的闭源体验拆成一套本地优先的开放工程](2026-05-04/2026-05-04-open-design-github-deep-dive.md) | Open Design / Claude Design / Coding Agents / Design Systems / Local-first |
+| [Open Design GitHub Deep Dive (EN)](2026-05-04/2026-05-04-open-design-github-deep-dive-en.md) | Open Design / Claude Design / Coding Agents / Design Systems / Local-first |
+
+---
+
 ## 📅 2026-02-27
 
 | 文章 | 主题 |

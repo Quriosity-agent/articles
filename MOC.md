@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎨 Open Design GitHub 深度拆解：把 Claude Design 的闭源体验拆成一套本地优先的开放工程
+- [[2026-05-04/2026-05-04-open-design-github-deep-dive|Open Design GitHub 深度拆解：把 Claude Design 的闭源体验拆成一套本地优先的开放工程]]
+- [[2026-05-04/2026-05-04-open-design-github-deep-dive-en|Open Design GitHub Deep Dive: Turning Claude Design’s Closed Experience into a Local-First Open Engineering System]]
+
 ## 🎬 Pixelle-Video GitHub 深度拆解：把“输入一个主题就出片”做成可运行的工程系统
 - [[2026-04-30/2026-04-30-pixelle-video-github-deep-dive|Pixelle-Video GitHub 深度拆解：把“输入一个主题就出片”做成可运行的工程系统]]
 - [[2026-04-30/2026-04-30-pixelle-video-github-deep-dive-en|Pixelle-Video Deep Dive: Turning “Type a Topic, Get a Video” Into a Real Engineering System]]
