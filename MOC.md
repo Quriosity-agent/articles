@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 Higgsfield Skills GitHub 深度拆解：把 AI 视频和商品图生成封装成 Agent 可调用的技能包
+- [[2026-05-04/2026-05-04-higgsfield-skills-github-deep-dive|Higgsfield Skills GitHub 深度拆解：把 AI 视频和商品图生成封装成 Agent 可调用的技能包]]
+- [[2026-05-04/2026-05-04-higgsfield-skills-github-deep-dive-en|Higgsfield Skills GitHub Deep Dive: Turning AI Video and Product Image Generation into Agent-Callable Workflows]]
+
 ## 🎨 Open Design GitHub 深度拆解：把 Claude Design 的闭源体验拆成一套本地优先的开放工程
 - [[2026-05-04/2026-05-04-open-design-github-deep-dive|Open Design GitHub 深度拆解：把 Claude Design 的闭源体验拆成一套本地优先的开放工程]]
 - [[2026-05-04/2026-05-04-open-design-github-deep-dive-en|Open Design GitHub Deep Dive: Turning Claude Design’s Closed Experience into a Local-First Open Engineering System]]
