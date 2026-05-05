@@ -235,7 +235,71 @@ Cursor 在同一年出现两次大额融资，说明资本已经把 AI 编程视
 | Upscale AI | 9 月 | 种子 | 1 | — | AI 基础设施 / AI 推理与部署优化平台 |
 | Parallel | 11 月 | A | 1 | — | AI 应用 / AI 代理网络 |
 
-## 十、给创业者的启发
+## 十、按公司口径的融资总额排行
+
+上面的附录是按「单笔融资」排序；如果把同一家公司在 2025 年的多轮融资合并，排行会更清楚。这里把 `Reflection AI` 与 `Reflection.Ai` 视为同一家公司。金额单位仍为「亿美元」。
+
+| 排名 | 公司 | 2025 年表内融资总额 | 表内融资次数 |
+|---:|---|---:|---:|
+| 1 | OpenAI | 400 | 1 |
+| 2 | Anthropic | 165 | 2 |
+| 3 | Cursor | 32 | 2 |
+| 4 | Reflection AI | 21.3 | 2 |
+| 5 | Thinking Machines Lab | 20 | 1 |
+| 6 | Cerebras | 11 | 1 |
+| 7 | Luma AI | 9 | 1 |
+| 8 | Groq | 7.5 | 1 |
+| 9 | Harvey | 6 | 2 |
+| 10 | Abridge | 5.5 | 2 |
+| 11 | Lila Sciences | 5.5 | 2 |
+| 12 | Lambda | 4.8 | 1 |
+| 13 | Unconventional AI | 4.75 | 1 |
+| 14 | SandboxAQ | 4.5 | 1 |
+| 15 | OpenEvidence | 4.1 | 2 |
+| 16 | Cognition AI | 4 | 1 |
+| 17 | Sierra | 3.5 | 1 |
+| 18 | Runway | 3.08 | 1 |
+| 19 | Together AI | 3.05 | 1 |
+| 20 | Periodic Labs | 3 | 1 |
+| 21 | Genspark | 2.75 | 1 |
+| 22 | Hippocratic AI | 2.67 | 2 |
+| 23 | Fal | 2.65 | 2 |
+| 24 | Uniphore | 2.6 | 1 |
+| 25 | Celestial AI | 2.5 | 1 |
+| 26 | EliseAI | 2.5 | 1 |
+| 27 | Modular | 2.5 | 1 |
+| 28 | Sesame | 2.5 | 1 |
+| 29 | Fireworks AI | 2.5 | 1 |
+| 30 | Ambience Healthcare | 2.43 | 1 |
+| 31 | Shield AI | 2.4 | 1 |
+| 32 | ElevenLabs | 1.8 | 1 |
+| 33 | Distyl AI | 1.75 | 1 |
+| 34 | Glean | 1.5 | 1 |
+| 35 | Baseten | 1.5 | 1 |
+| 36 | EvenUp | 1.5 | 1 |
+| 37 | 7AI | 1.3 | 1 |
+| 38 | ChAIDiscovery | 1.3 | 1 |
+| 39 | Mythic | 1.25 | 1 |
+| 40 | Turing | 1.11 | 1 |
+| 41 | Insilico Medicine | 1.1 | 1 |
+| 42 | Nexthop AI | 1.1 | 1 |
+| 43 | Reka AI | 1.1 | 1 |
+| 44 | Eudia | 1.05 | 1 |
+| 45 | Tennr | 1.01 | 1 |
+| 46 | EnCharge AI | 1 | 1 |
+| 47 | TensorWave | 1 | 1 |
+| 48 | LMArena | 1 | 1 |
+| 49 | Snorkel AI | 1 | 1 |
+| 50 | Harmonic | 1 | 1 |
+| 51 | Decart | 1 | 1 |
+| 52 | You.com | 1 | 1 |
+| 53 | Invisible Technologies | 1 | 1 |
+| 54 | Upscale AI | 1 | 1 |
+| 55 | Parallel | 1 | 1 |
+
+这个口径下，前三名依然非常集中：OpenAI、Anthropic、Cursor 合计约 597 亿美元，占整张表约 77.1%。也就是说，即使把公司重复融资合并，2025 年美国 AI 巨额融资仍然不是一个平均分布的市场，而是少数公司拿走绝大部分资金。
+
+## 十一、给创业者的启发
 
 如果你在 2025 年之后做 AI 公司，这张表给出的答案其实很现实：
 

@@ -235,7 +235,71 @@ Below is the company-level list from the source table, sorted by funding amount.
 | Upscale AI | Sep | Seed | 0.1 | — | AI infrastructure / AI inference and deployment optimization |
 | Parallel | Nov | A | 0.1 | — | AI applications / AI agent network |
 
-## 10. The founder takeaway
+## 10. Company-level ranking by total funding
+
+The appendix above is sorted by individual round size. If we merge multiple 2025 rounds by the same company, the ranking becomes clearer. Here, `Reflection AI` and `Reflection.Ai` are treated as the same company. Amounts are still in hundreds of millions of U.S. dollars.
+
+| Rank | Company | Total 2025 funding in the table | Number of rounds in the table |
+|---:|---|---:|---:|
+| 1 | OpenAI | 400 | 1 |
+| 2 | Anthropic | 165 | 2 |
+| 3 | Cursor | 32 | 2 |
+| 4 | Reflection AI | 21.3 | 2 |
+| 5 | Thinking Machines Lab | 20 | 1 |
+| 6 | Cerebras | 11 | 1 |
+| 7 | Luma AI | 9 | 1 |
+| 8 | Groq | 7.5 | 1 |
+| 9 | Harvey | 6 | 2 |
+| 10 | Abridge | 5.5 | 2 |
+| 11 | Lila Sciences | 5.5 | 2 |
+| 12 | Lambda | 4.8 | 1 |
+| 13 | Unconventional AI | 4.75 | 1 |
+| 14 | SandboxAQ | 4.5 | 1 |
+| 15 | OpenEvidence | 4.1 | 2 |
+| 16 | Cognition AI | 4 | 1 |
+| 17 | Sierra | 3.5 | 1 |
+| 18 | Runway | 3.08 | 1 |
+| 19 | Together AI | 3.05 | 1 |
+| 20 | Periodic Labs | 3 | 1 |
+| 21 | Genspark | 2.75 | 1 |
+| 22 | Hippocratic AI | 2.67 | 2 |
+| 23 | Fal | 2.65 | 2 |
+| 24 | Uniphore | 2.6 | 1 |
+| 25 | Celestial AI | 2.5 | 1 |
+| 26 | EliseAI | 2.5 | 1 |
+| 27 | Modular | 2.5 | 1 |
+| 28 | Sesame | 2.5 | 1 |
+| 29 | Fireworks AI | 2.5 | 1 |
+| 30 | Ambience Healthcare | 2.43 | 1 |
+| 31 | Shield AI | 2.4 | 1 |
+| 32 | ElevenLabs | 1.8 | 1 |
+| 33 | Distyl AI | 1.75 | 1 |
+| 34 | Glean | 1.5 | 1 |
+| 35 | Baseten | 1.5 | 1 |
+| 36 | EvenUp | 1.5 | 1 |
+| 37 | 7AI | 1.3 | 1 |
+| 38 | ChAIDiscovery | 1.3 | 1 |
+| 39 | Mythic | 1.25 | 1 |
+| 40 | Turing | 1.11 | 1 |
+| 41 | Insilico Medicine | 1.1 | 1 |
+| 42 | Nexthop AI | 1.1 | 1 |
+| 43 | Reka AI | 1.1 | 1 |
+| 44 | Eudia | 1.05 | 1 |
+| 45 | Tennr | 1.01 | 1 |
+| 46 | EnCharge AI | 1 | 1 |
+| 47 | TensorWave | 1 | 1 |
+| 48 | LMArena | 1 | 1 |
+| 49 | Snorkel AI | 1 | 1 |
+| 50 | Harmonic | 1 | 1 |
+| 51 | Decart | 1 | 1 |
+| 52 | You.com | 1 | 1 |
+| 53 | Invisible Technologies | 1 | 1 |
+| 54 | Upscale AI | 1 | 1 |
+| 55 | Parallel | 1 | 1 |
+
+On this company-level view, concentration is still extreme: OpenAI, Anthropic, and Cursor together account for about $59.7 billion, or roughly 77.1% of the entire table. Even after merging repeat rounds, the 2025 U.S. AI mega-round market is not evenly distributed; a small number of companies capture most of the capital.
+
+## 11. The founder takeaway
 
 If you are building an AI company after 2025, the practical lesson is clear.
 
