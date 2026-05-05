@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🖥️ Warp GitHub 深度拆解：终端正在变成 Agentic Development Environment
+- [[2026-05-04/2026-05-04-warp-agentic-development-environment-github-deep-dive|Warp GitHub 深度拆解：终端正在变成 Agentic Development Environment]]
+- [[2026-05-04/2026-05-04-warp-agentic-development-environment-github-deep-dive-en|Warp GitHub Deep Dive: The Terminal Is Becoming an Agentic Development Environment]]
+
 ## 🎬 Higgsfield Skills GitHub 深度拆解：把 AI 视频和商品图生成封装成 Agent 可调用的技能包
 - [[2026-05-04/2026-05-04-higgsfield-skills-github-deep-dive|Higgsfield Skills GitHub 深度拆解：把 AI 视频和商品图生成封装成 Agent 可调用的技能包]]
 - [[2026-05-04/2026-05-04-higgsfield-skills-github-deep-dive-en|Higgsfield Skills GitHub Deep Dive: Turning AI Video and Product Image Generation into Agent-Callable Workflows]]

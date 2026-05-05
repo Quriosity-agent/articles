@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Warp GitHub 深度拆解：终端正在变成 Agentic Development Environment](2026-05-04/2026-05-04-warp-agentic-development-environment-github-deep-dive.md) | Warp / Terminal / Agentic Development Environment / Rust / Oz |
+| [Warp GitHub Deep Dive (EN)](2026-05-04/2026-05-04-warp-agentic-development-environment-github-deep-dive-en.md) | Warp / Terminal / Agentic Development Environment / Rust / Oz |
 | [Higgsfield Skills GitHub 深度拆解：把 AI 视频和商品图生成封装成 Agent 可调用的技能包](2026-05-04/2026-05-04-higgsfield-skills-github-deep-dive.md) | Higgsfield / Agent Skills / AI Video / Product Photography / Marketplace Cards |
 | [Higgsfield Skills GitHub Deep Dive (EN)](2026-05-04/2026-05-04-higgsfield-skills-github-deep-dive-en.md) | Higgsfield / Agent Skills / AI Video / Product Photography / Marketplace Cards |
 | [Open Design GitHub 深度拆解：把 Claude Design 的闭源体验拆成一套本地优先的开放工程](2026-05-04/2026-05-04-open-design-github-deep-dive.md) | Open Design / Claude Design / Coding Agents / Design Systems / Local-first |
