@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 💰 2025 年美国 AI 初创融资地图：钱没有散开，而是集中流向三类公司
+- [[2026-05-05/2026-05-05-2025-us-ai-startup-mega-rounds-funding-map|2025 年美国 AI 初创融资地图：钱没有散开，而是集中流向三类公司]]
+- [[2026-05-05/2026-05-05-2025-us-ai-startup-mega-rounds-funding-map-en|The 2025 U.S. AI Startup Funding Map: Capital Is Not Spreading Out — It Is Concentrating]]
+
 ## 🖥️ Warp GitHub 深度拆解：终端正在变成 Agentic Development Environment
 - [[2026-05-04/2026-05-04-warp-agentic-development-environment-github-deep-dive|Warp GitHub 深度拆解：终端正在变成 Agentic Development Environment]]
 - [[2026-05-04/2026-05-04-warp-agentic-development-environment-github-deep-dive-en|Warp GitHub Deep Dive: The Terminal Is Becoming an Agentic Development Environment]]

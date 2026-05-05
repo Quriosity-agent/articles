@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-05-05
+
+| 文章 | 主题 |
+|------|------|
+| [2025 年美国 AI 初创融资地图：钱没有散开，而是集中流向三类公司](2026-05-05/2026-05-05-2025-us-ai-startup-mega-rounds-funding-map.md) | AI 融资 / OpenAI / Anthropic / AI 编程 / 基础设施 / 医疗法律 AI |
+| [The 2025 U.S. AI Startup Funding Map (EN)](2026-05-05/2026-05-05-2025-us-ai-startup-mega-rounds-funding-map-en.md) | AI funding / OpenAI / Anthropic / AI coding / Infrastructure / Vertical AI |
+
+---
+
 ## 📅 2026-05-04
 
 | 文章 | 主题 |
