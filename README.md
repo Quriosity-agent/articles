@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-05-06
+
+| 文章 | 主题 |
+|------|------|
+| [AIHOT 的真正价值：不是 AI 热点网站，而是一套内容创作者的信息操作系统](2026-05-06/2026-05-06-aihot-content-intelligence-operating-system.md) | AIHOT / AI 热点监控 / 信息筛选 / 内容创作者 / 评分系统 / 事件聚类 |
+| [AIHOT’s Real Value (EN)](2026-05-06/2026-05-06-aihot-content-intelligence-operating-system-en.md) | AIHOT / AI news monitoring / information filtering / creator tools / scoring systems / event clustering |
+
+---
+
 ## 📅 2026-05-05
 
 | 文章 | 主题 |

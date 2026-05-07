@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧠 AIHOT 的真正价值：不是 AI 热点网站，而是一套内容创作者的信息操作系统
+- [[2026-05-06/2026-05-06-aihot-content-intelligence-operating-system|AIHOT 的真正价值：不是 AI 热点网站，而是一套内容创作者的信息操作系统]]
+- [[2026-05-06/2026-05-06-aihot-content-intelligence-operating-system-en|AIHOT’s Real Value: Not an AI News Site, but an Information Operating System for Creators]]
+
 ## 💰 2025 年美国 AI 初创融资地图：钱没有散开，而是集中流向三类公司
 - [[2026-05-05/2026-05-05-2025-us-ai-startup-mega-rounds-funding-map|2025 年美国 AI 初创融资地图：钱没有散开，而是集中流向三类公司]]
 - [[2026-05-05/2026-05-05-2025-us-ai-startup-mega-rounds-funding-map-en|The 2025 U.S. AI Startup Funding Map: Capital Is Not Spreading Out — It Is Concentrating]]
