@@ -3,6 +3,49 @@
 > 来源：数字生命卡兹克在 X 上公开介绍 AIHOT。原文链接：https://x.com/Khazix0918/status/2052234427233939808?s=20  
 > 产品地址：https://aihot.virxact.com/
 
+
+## 原文配图
+
+下面这些是卡兹克原文里的 AIHOT 产品截图与流程截图，能更直观看到它的时间线、精选、评分、聚类和日报形态。
+
+![AIHOT 产品截图 1](imgs/aihot/aihot-01.jpg)
+
+![AIHOT 产品截图 2](imgs/aihot/aihot-02.jpg)
+
+![AIHOT 产品截图 3](imgs/aihot/aihot-03.jpg)
+
+![AIHOT 产品截图 4](imgs/aihot/aihot-04.jpg)
+
+![AIHOT 产品截图 5](imgs/aihot/aihot-05.jpg)
+
+![AIHOT 产品截图 6](imgs/aihot/aihot-06.jpg)
+
+![AIHOT 产品截图 7](imgs/aihot/aihot-07.png)
+
+![AIHOT 产品截图 8](imgs/aihot/aihot-08.jpg)
+
+![AIHOT 产品截图 9](imgs/aihot/aihot-09.jpg)
+
+![AIHOT 产品截图 10](imgs/aihot/aihot-10.jpg)
+
+![AIHOT 产品截图 11](imgs/aihot/aihot-11.jpg)
+
+![AIHOT 产品截图 12](imgs/aihot/aihot-12.jpg)
+
+![AIHOT 产品截图 13](imgs/aihot/aihot-13.png)
+
+![AIHOT 产品截图 14](imgs/aihot/aihot-14.jpg)
+
+![AIHOT 产品截图 15](imgs/aihot/aihot-15.jpg)
+
+![AIHOT 产品截图 16](imgs/aihot/aihot-16.jpg)
+
+![AIHOT 产品截图 17](imgs/aihot/aihot-17.jpg)
+
+![AIHOT 产品截图 18](imgs/aihot/aihot-18.jpg)
+
+![AIHOT 产品截图 19](imgs/aihot/aihot-19.jpg)
+
 今天卡兹克把自己内部使用的 AI 热点监控网站 **AIHOT** 免费开放出来了。
 
 如果只把它理解成一个「AI 新闻聚合站」，其实会低估这件事。真正值得看的不是网页上多了一个精选 Tab，也不是每天早上能看到一份 AI 日报，而是它背后那套信息处理方法论：在 AI 信息过载的时代，内容创作者需要的不是更多信息，而是一套可控、可回测、可迭代的信息操作系统。

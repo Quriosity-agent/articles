@@ -3,6 +3,49 @@
 > Source: Khazix0918’s public X article introducing AIHOT. Original link: https://x.com/Khazix0918/status/2052234427233939808?s=20  
 > Product: https://aihot.virxact.com/
 
+
+## Original Images
+
+The following images are screenshots from Khazix0918’s original article. They show AIHOT’s timeline, curation, scoring, clustering, and daily briefing experience more directly.
+
+![AIHOT screenshot 1](imgs/aihot/aihot-01.jpg)
+
+![AIHOT screenshot 2](imgs/aihot/aihot-02.jpg)
+
+![AIHOT screenshot 3](imgs/aihot/aihot-03.jpg)
+
+![AIHOT screenshot 4](imgs/aihot/aihot-04.jpg)
+
+![AIHOT screenshot 5](imgs/aihot/aihot-05.jpg)
+
+![AIHOT screenshot 6](imgs/aihot/aihot-06.jpg)
+
+![AIHOT screenshot 7](imgs/aihot/aihot-07.png)
+
+![AIHOT screenshot 8](imgs/aihot/aihot-08.jpg)
+
+![AIHOT screenshot 9](imgs/aihot/aihot-09.jpg)
+
+![AIHOT screenshot 10](imgs/aihot/aihot-10.jpg)
+
+![AIHOT screenshot 11](imgs/aihot/aihot-11.jpg)
+
+![AIHOT screenshot 12](imgs/aihot/aihot-12.jpg)
+
+![AIHOT screenshot 13](imgs/aihot/aihot-13.png)
+
+![AIHOT screenshot 14](imgs/aihot/aihot-14.jpg)
+
+![AIHOT screenshot 15](imgs/aihot/aihot-15.jpg)
+
+![AIHOT screenshot 16](imgs/aihot/aihot-16.jpg)
+
+![AIHOT screenshot 17](imgs/aihot/aihot-17.jpg)
+
+![AIHOT screenshot 18](imgs/aihot/aihot-18.jpg)
+
+![AIHOT screenshot 19](imgs/aihot/aihot-19.jpg)
+
 Khazix0918 has opened **AIHOT**, an internal AI hot-topic monitoring system, to the public for free.
 
 If we describe it simply as an “AI news aggregation site,” we miss the important part. The real value is not that there is another curated tab on the web, nor that users can read a daily AI briefing every morning. The real value is the information-processing methodology behind it: in an age of AI information overload, creators do not need more information. They need a controllable, backtestable, continuously improvable information operating system.
