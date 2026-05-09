@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-05-08
+
+| 文章 | 主题 |
+|------|------|
+| [Anthropic 的最新对齐课：真正有用的不是教 Claude「做什么」，而是教它「为什么」](2026-05-08/2026-05-08-anthropic-teaching-claude-why-alignment.md) | Anthropic / Claude / AI 对齐 / Agentic Misalignment / Constitution / RLHF / Agent 安全 |
+| [Anthropic's Latest Alignment Lesson (EN)](2026-05-08/2026-05-08-anthropic-teaching-claude-why-alignment-en.md) | Anthropic / Claude / AI alignment / Agentic misalignment / Constitution / RLHF / Agent safety |
+
+---
+
 ## 📅 2026-05-06
 
 | 文章 | 主题 |

@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧠 Anthropic 的最新对齐课：真正有用的不是教 Claude「做什么」，而是教它「为什么」
+- [[2026-05-08/2026-05-08-anthropic-teaching-claude-why-alignment|Anthropic 的最新对齐课：真正有用的不是教 Claude「做什么」，而是教它「为什么」]]
+- [[2026-05-08/2026-05-08-anthropic-teaching-claude-why-alignment-en|Anthropic's Latest Alignment Lesson: Don't Just Teach Claude What to Do — Teach It Why]]
+
 ## 🧠 AIHOT 的真正价值：不是 AI 热点网站，而是一套内容创作者的信息操作系统
 - [[2026-05-06/2026-05-06-aihot-content-intelligence-operating-system|AIHOT 的真正价值：不是 AI 热点网站，而是一套内容创作者的信息操作系统]]
 - [[2026-05-06/2026-05-06-aihot-content-intelligence-operating-system-en|AIHOT’s Real Value: Not an AI News Site, but an Information Operating System for Creators]]
