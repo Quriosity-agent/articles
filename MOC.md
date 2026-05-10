@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 Higgsfield Skills 更新拆解：从“会调用模型”到 Agent 可分发的创意操作系统
+- [[2026-05-10/2026-05-10-higgsfield-skills-agent-creative-os-update|Higgsfield Skills 更新拆解：从“会调用模型”到 Agent 可分发的创意操作系统]]
+- [[2026-05-10/2026-05-10-higgsfield-skills-agent-creative-os-update-en|Higgsfield Skills Update: From “Calling Models” to a Distributable Creative OS for Agents]]
+
 ## 🎬 video-use 深度拆解：把视频剪辑变成 Agent 可执行的工程流水线
 - [[2026-05-09/2026-05-09-video-use-agentic-video-editor|video-use 深度拆解：把视频剪辑变成 Agent 可执行的工程流水线]]
 - [[2026-05-09/2026-05-09-video-use-agentic-video-editor-en|video-use Deep Dive: Turning Video Editing into an Agent-Executable Engineering Pipeline]]

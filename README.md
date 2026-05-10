@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-05-10
+
+| 文章 | 主题 |
+|------|------|
+| [Higgsfield Skills 更新拆解：从“会调用模型”到 Agent 可分发的创意操作系统](2026-05-10/2026-05-10-higgsfield-skills-agent-creative-os-update.md) | Higgsfield / Agent Skills / Marketing Studio / Virality Predictor / Product Photography |
+| [Higgsfield Skills Update: From “Calling Models” to a Distributable Creative OS for Agents (EN)](2026-05-10/2026-05-10-higgsfield-skills-agent-creative-os-update-en.md) | Higgsfield / Agent Skills / Marketing Studio / Virality Predictor / Product Photography |
+
+---
+
 ## 📅 2026-05-09
 
 | 文章 | 主题 |
