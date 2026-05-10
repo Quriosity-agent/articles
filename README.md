@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Pixelle-Video 更新拆解：AI 短视频引擎正在补齐“产品化最后一公里”](2026-05-10/2026-05-10-pixelle-video-v0115-production-hardening.md) | Pixelle-Video / AI Video / ComfyUI / Streamlit / FastAPI / Productization |
+| [Pixelle-Video Update: The AI Short-Video Engine Is Hardening the Last Mile to Productization (EN)](2026-05-10/2026-05-10-pixelle-video-v0115-production-hardening-en.md) | Pixelle-Video / AI video / ComfyUI / Streamlit / FastAPI / productization |
 | [Higgsfield Skills 更新拆解：从“会调用模型”到 Agent 可分发的创意操作系统](2026-05-10/2026-05-10-higgsfield-skills-agent-creative-os-update.md) | Higgsfield / Agent Skills / Marketing Studio / Virality Predictor / Product Photography |
 | [Higgsfield Skills Update: From “Calling Models” to a Distributable Creative OS for Agents (EN)](2026-05-10/2026-05-10-higgsfield-skills-agent-creative-os-update-en.md) | Higgsfield / Agent Skills / Marketing Studio / Virality Predictor / Product Photography |
 

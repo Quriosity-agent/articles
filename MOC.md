@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 Pixelle-Video 更新拆解：AI 短视频引擎正在补齐“产品化最后一公里”
+- [[2026-05-10/2026-05-10-pixelle-video-v0115-production-hardening|Pixelle-Video 更新拆解：AI 短视频引擎正在补齐“产品化最后一公里”]]
+- [[2026-05-10/2026-05-10-pixelle-video-v0115-production-hardening-en|Pixelle-Video Update: The AI Short-Video Engine Is Hardening the Last Mile to Productization]]
+
 ## 🎬 Higgsfield Skills 更新拆解：从“会调用模型”到 Agent 可分发的创意操作系统
 - [[2026-05-10/2026-05-10-higgsfield-skills-agent-creative-os-update|Higgsfield Skills 更新拆解：从“会调用模型”到 Agent 可分发的创意操作系统]]
 - [[2026-05-10/2026-05-10-higgsfield-skills-agent-creative-os-update-en|Higgsfield Skills Update: From “Calling Models” to a Distributable Creative OS for Agents]]
