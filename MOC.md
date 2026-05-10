@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 AltaTV：短剧出海正在从“内容生意”变成“流量 + 支付 + 本地化”的系统工程
+- [[2026-05-09/2026-05-09-altatv-short-drama-platform|AltaTV：短剧出海正在从“内容生意”变成“流量 + 支付 + 本地化”的系统工程]]
+- [[2026-05-09/2026-05-09-altatv-short-drama-platform-en|AltaTV: Short-Drama Export Is Becoming a System of Traffic, Payments, and Localization]]
+
 ## 🧠 Anthropic 的最新对齐课：真正有用的不是教 Claude「做什么」，而是教它「为什么」
 - [[2026-05-08/2026-05-08-anthropic-teaching-claude-why-alignment|Anthropic 的最新对齐课：真正有用的不是教 Claude「做什么」，而是教它「为什么」]]
 - [[2026-05-08/2026-05-08-anthropic-teaching-claude-why-alignment-en|Anthropic's Latest Alignment Lesson: Don't Just Teach Claude What to Do — Teach It Why]]

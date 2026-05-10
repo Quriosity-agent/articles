@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-05-09
+
+| 文章 | 主题 |
+|------|------|
+| [AltaTV：短剧出海正在从“内容生意”变成“流量 + 支付 + 本地化”的系统工程](2026-05-09/2026-05-09-altatv-short-drama-platform.md) | 短剧出海 / AltaTV / Vertical Drama / 付费解锁 / AI Drama / 内容工厂 |
+| [AltaTV: Short-Drama Export Is Becoming a System of Traffic, Payments, and Localization (EN)](2026-05-09/2026-05-09-altatv-short-drama-platform-en.md) | Short drama / AltaTV / Vertical Drama / Pay-per-episode / AI Drama / Content factory |
+
+---
+
 ## 📅 2026-05-08
 
 | 文章 | 主题 |
