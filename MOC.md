@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🖥️ Warp 开源仓库再拆解：Oz 正在把开源协作变成 Agent 工厂
+- [[2026-05-09/2026-05-09-warp-oss-agentic-terminal-oz-workflow|Warp 开源仓库再拆解：Oz 正在把开源协作变成 Agent 工厂]]
+- [[2026-05-09/2026-05-09-warp-oss-agentic-terminal-oz-workflow-en|Warp OSS Deep Dive: Oz Is Turning Open-Source Collaboration into an Agent Factory]]
+
 ## 🧠 GBrain 深度拆解：给 AI Agent 装一个会自我维护的长期大脑
 - [[2026-05-09/2026-05-09-gbrain-agent-memory-knowledge-graph|GBrain 深度拆解：给 AI Agent 装一个会自我维护的长期大脑]]
 - [[2026-05-09/2026-05-09-gbrain-agent-memory-knowledge-graph-en|GBrain Deep Dive: A Self-Maintaining Long-Term Brain for AI Agents]]

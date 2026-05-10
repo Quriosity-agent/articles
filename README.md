@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Warp 开源仓库再拆解：Oz 正在把开源协作变成 Agent 工厂](2026-05-09/2026-05-09-warp-oss-agentic-terminal-oz-workflow.md) | Warp / Oz / Agentic Development Environment / Rust / Open Source Workflow |
+| [Warp OSS Deep Dive: Oz Is Turning Open-Source Collaboration into an Agent Factory (EN)](2026-05-09/2026-05-09-warp-oss-agentic-terminal-oz-workflow-en.md) | Warp / Oz / Agentic Development Environment / Rust / open-source workflow |
 | [GBrain 深度拆解：给 AI Agent 装一个会自我维护的长期大脑](2026-05-09/2026-05-09-gbrain-agent-memory-knowledge-graph.md) | GBrain / AI Agent / 长期记忆 / Knowledge Graph / Hybrid RAG / MCP / Skills |
 | [GBrain Deep Dive: A Self-Maintaining Long-Term Brain for AI Agents (EN)](2026-05-09/2026-05-09-gbrain-agent-memory-knowledge-graph-en.md) | GBrain / AI Agent / long-term memory / knowledge graph / Hybrid RAG / MCP / skills |
 | [AltaTV：短剧出海正在从“内容生意”变成“流量 + 支付 + 本地化”的系统工程](2026-05-09/2026-05-09-altatv-short-drama-platform.md) | 短剧出海 / AltaTV / Vertical Drama / 付费解锁 / AI Drama / 内容工厂 |
