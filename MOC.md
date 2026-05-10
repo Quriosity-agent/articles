@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 video-use 深度拆解：把视频剪辑变成 Agent 可执行的工程流水线
+- [[2026-05-09/2026-05-09-video-use-agentic-video-editor|video-use 深度拆解：把视频剪辑变成 Agent 可执行的工程流水线]]
+- [[2026-05-09/2026-05-09-video-use-agentic-video-editor-en|video-use Deep Dive: Turning Video Editing into an Agent-Executable Engineering Pipeline]]
+
 ## 🧭 Browser Harness 深度拆解：给 AI Agent 一根直连真实浏览器的细线
 - [[2026-05-09/2026-05-09-browser-harness-thin-cdp-agent-browser-control|Browser Harness 深度拆解：给 AI Agent 一根直连真实浏览器的细线]]
 - [[2026-05-09/2026-05-09-browser-harness-thin-cdp-agent-browser-control-en|Browser Harness Deep Dive: A Thin Wire Between AI Agents and Real Browsers]]
