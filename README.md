@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [GBrain 深度拆解：给 AI Agent 装一个会自我维护的长期大脑](2026-05-09/2026-05-09-gbrain-agent-memory-knowledge-graph.md) | GBrain / AI Agent / 长期记忆 / Knowledge Graph / Hybrid RAG / MCP / Skills |
+| [GBrain Deep Dive: A Self-Maintaining Long-Term Brain for AI Agents (EN)](2026-05-09/2026-05-09-gbrain-agent-memory-knowledge-graph-en.md) | GBrain / AI Agent / long-term memory / knowledge graph / Hybrid RAG / MCP / skills |
 | [AltaTV：短剧出海正在从“内容生意”变成“流量 + 支付 + 本地化”的系统工程](2026-05-09/2026-05-09-altatv-short-drama-platform.md) | 短剧出海 / AltaTV / Vertical Drama / 付费解锁 / AI Drama / 内容工厂 |
 | [AltaTV: Short-Drama Export Is Becoming a System of Traffic, Payments, and Localization (EN)](2026-05-09/2026-05-09-altatv-short-drama-platform-en.md) | Short drama / AltaTV / Vertical Drama / Pay-per-episode / AI Drama / Content factory |
 

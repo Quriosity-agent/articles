@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧠 GBrain 深度拆解：给 AI Agent 装一个会自我维护的长期大脑
+- [[2026-05-09/2026-05-09-gbrain-agent-memory-knowledge-graph|GBrain 深度拆解：给 AI Agent 装一个会自我维护的长期大脑]]
+- [[2026-05-09/2026-05-09-gbrain-agent-memory-knowledge-graph-en|GBrain Deep Dive: A Self-Maintaining Long-Term Brain for AI Agents]]
+
 ## 🎬 AltaTV：短剧出海正在从“内容生意”变成“流量 + 支付 + 本地化”的系统工程
 - [[2026-05-09/2026-05-09-altatv-short-drama-platform|AltaTV：短剧出海正在从“内容生意”变成“流量 + 支付 + 本地化”的系统工程]]
 - [[2026-05-09/2026-05-09-altatv-short-drama-platform-en|AltaTV: Short-Drama Export Is Becoming a System of Traffic, Payments, and Localization]]
