@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧭 Browser Harness 深度拆解：给 AI Agent 一根直连真实浏览器的细线
+- [[2026-05-09/2026-05-09-browser-harness-thin-cdp-agent-browser-control|Browser Harness 深度拆解：给 AI Agent 一根直连真实浏览器的细线]]
+- [[2026-05-09/2026-05-09-browser-harness-thin-cdp-agent-browser-control-en|Browser Harness Deep Dive: A Thin Wire Between AI Agents and Real Browsers]]
+
 ## 🤖 Hermes Agent Delegation 实战指南：如何把复杂任务拆给子 Agent
 - [[2026-05-09/2026-05-09-hermes-agent-delegation-guide|Hermes Agent Delegation 实战指南：如何把复杂任务拆给子 Agent]]
 - [[2026-05-09/2026-05-09-hermes-agent-delegation-guide-en|Practical Guide to Hermes Agent Delegation: Splitting Complex Work Across Subagents]]

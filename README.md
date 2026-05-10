@@ -10,6 +10,10 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Browser Harness 深度拆解：给 AI Agent 一根直连真实浏览器的细线](2026-05-09/2026-05-09-browser-harness-thin-cdp-agent-browser-control.md) | Browser Harness / Browser Use / CDP / Browser Agent / Chrome / Skills |
+| [Browser Harness Deep Dive: A Thin Wire Between AI Agents and Real Browsers (EN)](2026-05-09/2026-05-09-browser-harness-thin-cdp-agent-browser-control-en.md) | Browser Harness / Browser Use / CDP / browser agents / Chrome / skills |
+| [video-use 深度拆解：把视频剪辑变成 Agent 可执行的工程流水线](2026-05-09/2026-05-09-video-use-agentic-video-editor.md) | video-use / Agentic Video Editing / Claude Code / FFmpeg / ElevenLabs Scribe / EDL |
+| [video-use Deep Dive: Turning Video Editing into an Agent-Executable Engineering Pipeline (EN)](2026-05-09/2026-05-09-video-use-agentic-video-editor-en.md) | video-use / Agentic Video Editing / Claude Code / FFmpeg / ElevenLabs Scribe / EDL |
 | [Hermes Agent Delegation 实战指南：如何把复杂任务拆给子 Agent](2026-05-09/2026-05-09-hermes-agent-delegation-guide.md) | Hermes Agent / delegate_task / Subagent Delegation / Multi-Agent / Agent Orchestration |
 | [Practical Guide to Hermes Agent Delegation (EN)](2026-05-09/2026-05-09-hermes-agent-delegation-guide-en.md) | Hermes Agent / delegate_task / Subagent Delegation / multi-agent / agent orchestration |
 | [Warp 开源仓库再拆解：Oz 正在把开源协作变成 Agent 工厂](2026-05-09/2026-05-09-warp-oss-agentic-terminal-oz-workflow.md) | Warp / Oz / Agentic Development Environment / Rust / Open Source Workflow |
