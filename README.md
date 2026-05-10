@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Hermes Agent Delegation 实战指南：如何把复杂任务拆给子 Agent](2026-05-09/2026-05-09-hermes-agent-delegation-guide.md) | Hermes Agent / delegate_task / Subagent Delegation / Multi-Agent / Agent Orchestration |
+| [Practical Guide to Hermes Agent Delegation (EN)](2026-05-09/2026-05-09-hermes-agent-delegation-guide-en.md) | Hermes Agent / delegate_task / Subagent Delegation / multi-agent / agent orchestration |
 | [Warp 开源仓库再拆解：Oz 正在把开源协作变成 Agent 工厂](2026-05-09/2026-05-09-warp-oss-agentic-terminal-oz-workflow.md) | Warp / Oz / Agentic Development Environment / Rust / Open Source Workflow |
 | [Warp OSS Deep Dive: Oz Is Turning Open-Source Collaboration into an Agent Factory (EN)](2026-05-09/2026-05-09-warp-oss-agentic-terminal-oz-workflow-en.md) | Warp / Oz / Agentic Development Environment / Rust / open-source workflow |
 | [GBrain 深度拆解：给 AI Agent 装一个会自我维护的长期大脑](2026-05-09/2026-05-09-gbrain-agent-memory-knowledge-graph.md) | GBrain / AI Agent / 长期记忆 / Knowledge Graph / Hybrid RAG / MCP / Skills |

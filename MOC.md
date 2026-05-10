@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🤖 Hermes Agent Delegation 实战指南：如何把复杂任务拆给子 Agent
+- [[2026-05-09/2026-05-09-hermes-agent-delegation-guide|Hermes Agent Delegation 实战指南：如何把复杂任务拆给子 Agent]]
+- [[2026-05-09/2026-05-09-hermes-agent-delegation-guide-en|Practical Guide to Hermes Agent Delegation: Splitting Complex Work Across Subagents]]
+
 ## 🖥️ Warp 开源仓库再拆解：Oz 正在把开源协作变成 Agent 工厂
 - [[2026-05-09/2026-05-09-warp-oss-agentic-terminal-oz-workflow|Warp 开源仓库再拆解：Oz 正在把开源协作变成 Agent 工厂]]
 - [[2026-05-09/2026-05-09-warp-oss-agentic-terminal-oz-workflow-en|Warp OSS Deep Dive: Oz Is Turning Open-Source Collaboration into an Agent Factory]]
