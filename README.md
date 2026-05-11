@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [从 33 家热门公司看 2026 AI 创业地图：模型、工具、机器人、加密和能源正在重新分层](2026-05-10/2026-05-10-ai-startup-map-from-33-companies.md) | AI Startup / Robotics / LLM Infrastructure / Agent Tools / Crypto / Energy |
+| [What 33 Hot Companies Reveal About the 2026 AI Startup Map (EN)](2026-05-10/2026-05-10-ai-startup-map-from-33-companies-en.md) | AI startup / robotics / LLM infrastructure / agent tools / crypto / energy |
 | [Pixelle-Video 更新拆解：AI 短视频引擎正在补齐“产品化最后一公里”](2026-05-10/2026-05-10-pixelle-video-v0115-production-hardening.md) | Pixelle-Video / AI Video / ComfyUI / Streamlit / FastAPI / Productization |
 | [Pixelle-Video Update: The AI Short-Video Engine Is Hardening the Last Mile to Productization (EN)](2026-05-10/2026-05-10-pixelle-video-v0115-production-hardening-en.md) | Pixelle-Video / AI video / ComfyUI / Streamlit / FastAPI / productization |
 | [Higgsfield Skills 更新拆解：从“会调用模型”到 Agent 可分发的创意操作系统](2026-05-10/2026-05-10-higgsfield-skills-agent-creative-os-update.md) | Higgsfield / Agent Skills / Marketing Studio / Virality Predictor / Product Photography |

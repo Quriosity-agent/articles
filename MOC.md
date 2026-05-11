@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🗺️ 从 33 家热门公司看 2026 AI 创业地图：模型、工具、机器人、加密和能源正在重新分层
+- [[2026-05-10/2026-05-10-ai-startup-map-from-33-companies|从 33 家热门公司看 2026 AI 创业地图：模型、工具、机器人、加密和能源正在重新分层]]
+- [[2026-05-10/2026-05-10-ai-startup-map-from-33-companies-en|What 33 Hot Companies Reveal About the 2026 AI Startup Map: Models, Tools, Robotics, Crypto, and Energy Are Being Re-Layered]]
+
 ## 🎬 Pixelle-Video 更新拆解：AI 短视频引擎正在补齐“产品化最后一公里”
 - [[2026-05-10/2026-05-10-pixelle-video-v0115-production-hardening|Pixelle-Video 更新拆解：AI 短视频引擎正在补齐“产品化最后一公里”]]
 - [[2026-05-10/2026-05-10-pixelle-video-v0115-production-hardening-en|Pixelle-Video Update: The AI Short-Video Engine Is Hardening the Last Mile to Productization]]
