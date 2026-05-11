@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🤖 GENE-26.5 刷屏背后：具身智能竞争正在从模型转向 Harness 全栈
+- [[2026-05-10/2026-05-10-gene-26-5-embodied-ai-harness|GENE-26.5 刷屏背后：具身智能竞争正在从模型转向 Harness 全栈]]
+- [[2026-05-10/2026-05-10-gene-26-5-embodied-ai-harness-en|Behind the GENE-26.5 Demo: Embodied AI Is Shifting from Models to the Harness Stack]]
+
 ## 🗺️ 从 33 家热门公司看 2026 AI 创业地图：模型、工具、机器人、加密和能源正在重新分层
 - [[2026-05-10/2026-05-10-ai-startup-map-from-33-companies|从 33 家热门公司看 2026 AI 创业地图：模型、工具、机器人、加密和能源正在重新分层]]
 - [[2026-05-10/2026-05-10-ai-startup-map-from-33-companies-en|What 33 Hot Companies Reveal About the 2026 AI Startup Map: Models, Tools, Robotics, Crypto, and Energy Are Being Re-Layered]]

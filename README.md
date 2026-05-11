@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [GENE-26.5 刷屏背后：具身智能竞争正在从模型转向 Harness 全栈](2026-05-10/2026-05-10-gene-26-5-embodied-ai-harness.md) | Genesis AI / GENE-26.5 / Embodied AI / Robotics / Manipulation / Harness |
+| [Behind the GENE-26.5 Demo: Embodied AI Is Shifting from Models to the Harness Stack (EN)](2026-05-10/2026-05-10-gene-26-5-embodied-ai-harness-en.md) | Genesis AI / GENE-26.5 / embodied AI / robotics / manipulation / harness |
 | [从 33 家热门公司看 2026 AI 创业地图：模型、工具、机器人、加密和能源正在重新分层](2026-05-10/2026-05-10-ai-startup-map-from-33-companies.md) | AI Startup / Robotics / LLM Infrastructure / Agent Tools / Crypto / Energy |
 | [What 33 Hot Companies Reveal About the 2026 AI Startup Map (EN)](2026-05-10/2026-05-10-ai-startup-map-from-33-companies-en.md) | AI startup / robotics / LLM infrastructure / agent tools / crypto / energy |
 | [Pixelle-Video 更新拆解：AI 短视频引擎正在补齐“产品化最后一公里”](2026-05-10/2026-05-10-pixelle-video-v0115-production-hardening.md) | Pixelle-Video / AI Video / ComfyUI / Streamlit / FastAPI / Productization |
