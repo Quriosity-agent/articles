@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🦀 Crabbox 深度拆解：给 AI Agent 一个可租、可同步、可审计的远程工作台
+- [[2026-05-10/2026-05-10-crabbox-remote-agent-workspace-control-plane|Crabbox 深度拆解：给 AI Agent 一个可租、可同步、可审计的远程工作台]]
+- [[2026-05-10/2026-05-10-crabbox-remote-agent-workspace-control-plane-en|Crabbox Deep Dive: A Rentable, Syncable, Auditable Remote Workbench for AI Agents]]
+
 ## 🎬 NeoWOW 与玲珑AI首页拆解：AI视频平台正在从“单点生成”走向创作流水线
 - [[2026-05-10/2026-05-10-neowow-linglong-ai-video-platforms|NeoWOW 与玲珑AI首页拆解：AI视频平台正在从“单点生成”走向创作流水线]]
 - [[2026-05-10/2026-05-10-neowow-linglong-ai-video-platforms-en|NeoWOW and Linglong AI: AI Video Platforms Are Moving from Single Generators to Creative Pipelines]]

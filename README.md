@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Crabbox 深度拆解：给 AI Agent 一个可租、可同步、可审计的远程工作台](2026-05-10/2026-05-10-crabbox-remote-agent-workspace-control-plane.md) | Crabbox / OpenClaw / Agent Infrastructure / Remote Test Runner / Cloud Workspaces / CI |
+| [Crabbox Deep Dive: A Rentable, Syncable, Auditable Remote Workbench for AI Agents (EN)](2026-05-10/2026-05-10-crabbox-remote-agent-workspace-control-plane-en.md) | Crabbox / OpenClaw / agent infrastructure / remote test runner / cloud workspaces / CI |
 | [NeoWOW 与玲珑AI首页拆解：AI视频平台正在从“单点生成”走向创作流水线](2026-05-10/2026-05-10-neowow-linglong-ai-video-platforms.md) | AI Video / AIGC / Short Film Pipeline / Creative Agents / 出海短剧 |
 | [NeoWOW and Linglong AI: AI Video Platforms Are Moving from Single Generators to Creative Pipelines (EN)](2026-05-10/2026-05-10-neowow-linglong-ai-video-platforms-en.md) | AI video / AIGC / short-film pipeline / creative agents / outbound short drama |
 | [姚顺宇访谈拆解：大模型竞争正在从榜单转向后训练、长程任务和组织系统](2026-05-10/2026-05-10-yao-shunyu-ai-training-post-training-long-horizon.md) | AI Models / Post-training / Agentic Coding / Long Horizon / Anthropic / Google DeepMind |
