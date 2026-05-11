@@ -1,3 +1,5 @@
 .DS_Store
 .obsidian/
 *.canvas
+tmp/
+_tmp/
