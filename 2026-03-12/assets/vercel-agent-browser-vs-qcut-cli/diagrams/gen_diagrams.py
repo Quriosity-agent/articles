@@ -1,7 +1,8 @@
 from PIL import Image, ImageDraw, ImageFont
 import os, math
-base=r'C:\Users\yanie\Desktop\articles\2026-03-12\assets\vercel-agent-browser-vs-qcut-cli\diagrams'
-os.makedirs(base,exist_ok=True)
+
+base = os.path.dirname(os.path.abspath(__file__))
+os.makedirs(base, exist_ok=True)
 
 def font(sz=22):
     try:
