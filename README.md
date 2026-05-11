@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [姚顺宇访谈拆解：大模型竞争正在从榜单转向后训练、长程任务和组织系统](2026-05-10/2026-05-10-yao-shunyu-ai-training-post-training-long-horizon.md) | AI Models / Post-training / Agentic Coding / Long Horizon / Anthropic / Google DeepMind |
+| [Yao Shunyu Interview: AI Competition Is Moving from Benchmarks to Post-Training, Long-Horizon Tasks, and Organizational Systems (EN)](2026-05-10/2026-05-10-yao-shunyu-ai-training-post-training-long-horizon-en.md) | AI models / post-training / agentic coding / long horizon / Anthropic / Google DeepMind |
 | [GENE-26.5 刷屏背后：具身智能竞争正在从模型转向 Harness 全栈](2026-05-10/2026-05-10-gene-26-5-embodied-ai-harness.md) | Genesis AI / GENE-26.5 / Embodied AI / Robotics / Manipulation / Harness |
 | [Behind the GENE-26.5 Demo: Embodied AI Is Shifting from Models to the Harness Stack (EN)](2026-05-10/2026-05-10-gene-26-5-embodied-ai-harness-en.md) | Genesis AI / GENE-26.5 / embodied AI / robotics / manipulation / harness |
 | [从 33 家热门公司看 2026 AI 创业地图：模型、工具、机器人、加密和能源正在重新分层](2026-05-10/2026-05-10-ai-startup-map-from-33-companies.md) | AI Startup / Robotics / LLM Infrastructure / Agent Tools / Crypto / Energy |

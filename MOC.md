@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧠 姚顺宇访谈拆解：大模型竞争正在从榜单转向后训练、长程任务和组织系统
+- [[2026-05-10/2026-05-10-yao-shunyu-ai-training-post-training-long-horizon|姚顺宇访谈拆解：大模型竞争正在从榜单转向后训练、长程任务和组织系统]]
+- [[2026-05-10/2026-05-10-yao-shunyu-ai-training-post-training-long-horizon-en|Yao Shunyu Interview: AI Competition Is Moving from Benchmarks to Post-Training, Long-Horizon Tasks, and Organizational Systems]]
+
 ## 🤖 GENE-26.5 刷屏背后：具身智能竞争正在从模型转向 Harness 全栈
 - [[2026-05-10/2026-05-10-gene-26-5-embodied-ai-harness|GENE-26.5 刷屏背后：具身智能竞争正在从模型转向 Harness 全栈]]
 - [[2026-05-10/2026-05-10-gene-26-5-embodied-ai-harness-en|Behind the GENE-26.5 Demo: Embodied AI Is Shifting from Models to the Harness Stack]]
