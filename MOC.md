@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🤖 Hermes Agent Delegation 运行时参考：`delegate_task` 不是后台队列，而是可控的子 Agent 调度层
+- [[2026-05-12/2026-05-12-hermes-delegation-runtime-reference|Hermes Agent Delegation 运行时参考：`delegate_task` 不是后台队列，而是可控的子 Agent 调度层]]
+- [[2026-05-12/2026-05-12-hermes-delegation-runtime-reference-en|Hermes Agent Delegation Runtime Reference: `delegate_task` Is Not a Background Queue, but a Controlled Subagent Scheduler]]
+
 ## 🎙️ VoxCPM2：开源 TTS 的真正看点不是“更像”，而是 tokenizer-free 的工程路线
 - [[2026-05-11/2026-05-11-voxcpm2-tokenizer-free-tts-builder-analysis|VoxCPM2：开源 TTS 的真正看点不是“更像”，而是 tokenizer-free 的工程路线]]
 - [[2026-05-11/2026-05-11-voxcpm2-tokenizer-free-tts-builder-analysis-en|VoxCPM2: The Real Story Is Not “Better Voice Cloning,” but a Tokenizer-Free TTS Engineering Path]]
