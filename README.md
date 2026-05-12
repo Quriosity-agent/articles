@@ -21,6 +21,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [VoxCPM2：开源 TTS 的真正看点不是“更像”，而是 tokenizer-free 的工程路线](2026-05-11/2026-05-11-voxcpm2-tokenizer-free-tts-builder-analysis.md) | VoxCPM2 / OpenBMB / TTS / Voice Cloning / Tokenizer-Free / vLLM-Omni / Synthetic Media Safety |
+| [VoxCPM2: The Real Story Is Not “Better Voice Cloning,” but a Tokenizer-Free TTS Engineering Path (EN)](2026-05-11/2026-05-11-voxcpm2-tokenizer-free-tts-builder-analysis-en.md) | VoxCPM2 / OpenBMB / TTS / voice cloning / tokenizer-free / vLLM-Omni / synthetic media safety |
 | [Thinking Machines Lab Interaction Models：把实时协作从 Harness 挪进模型本体](2026-05-11/2026-05-11-tml-interaction-models-builder-analysis.md) | Thinking Machines Lab / Interaction Models / Real-time AI / Multimodal Models / Human-AI Collaboration |
 | [Thinking Machines Lab Interaction Models: Moving Real-Time Collaboration from the Harness into the Model (EN)](2026-05-11/2026-05-11-tml-interaction-models-builder-analysis-en.md) | Thinking Machines Lab / interaction models / real-time AI / multimodal models / human-AI collaboration |
 | [Claude Code Agent View：把多 Agent 并行从 tmux 网格升级成控制台](2026-05-11/2026-05-11-claude-code-agent-view-control-plane.md) | Claude Code / Agent View / Coding Agents / Multi-Agent / Worktrees / Agent Orchestration |

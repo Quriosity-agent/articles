@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎙️ VoxCPM2：开源 TTS 的真正看点不是“更像”，而是 tokenizer-free 的工程路线
+- [[2026-05-11/2026-05-11-voxcpm2-tokenizer-free-tts-builder-analysis|VoxCPM2：开源 TTS 的真正看点不是“更像”，而是 tokenizer-free 的工程路线]]
+- [[2026-05-11/2026-05-11-voxcpm2-tokenizer-free-tts-builder-analysis-en|VoxCPM2: The Real Story Is Not “Better Voice Cloning,” but a Tokenizer-Free TTS Engineering Path]]
+
 ## 🛡️ OpenAI Daybreak：把网络安全从“扫描工具”升级成软件工程闭环
 - [[2026-05-12/2026-05-12-openai-daybreak-codex-security-cyber-defense|OpenAI Daybreak：把网络安全从“扫描工具”升级成软件工程闭环]]
 - [[2026-05-12/2026-05-12-openai-daybreak-codex-security-cyber-defense-en|OpenAI Daybreak: Turning Cyber Defense from Scanning into an Engineering Loop]]
