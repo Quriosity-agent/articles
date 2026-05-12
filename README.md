@@ -1,4 +1,4 @@
-﻿# 📚 Articles
+# 📚 Articles
 
 我的文章收藏 | My Article Collection
 
@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [OpenAI Daybreak：把网络安全从“扫描工具”升级成软件工程闭环](2026-05-12/2026-05-12-openai-daybreak-codex-security-cyber-defense.md) | OpenAI / Daybreak / Codex Security / GPT-5.5-Cyber / Secure SDLC |
+| [OpenAI Daybreak: Turning Cyber Defense from Scanning into an Engineering Loop (EN)](2026-05-12/2026-05-12-openai-daybreak-codex-security-cyber-defense-en.md) | OpenAI / Daybreak / Codex Security / GPT-5.5-Cyber / secure SDLC |
 | [Hermes Agent Parallel Tasks 指南：从“会委派”到“会编排”](2026-05-12/2026-05-12-hermes-agent-parallel-delegation-patterns.md) | Hermes Agent / delegate_task / Parallel Tasks / Subagent Delegation / Multi-Agent Orchestration |
 | [Hermes Agent Parallel Tasks Guide: From Delegation to Orchestration (EN)](2026-05-12/2026-05-12-hermes-agent-parallel-delegation-patterns-en.md) | Hermes Agent / delegate_task / parallel tasks / subagent delegation / multi-agent orchestration |
 
@@ -19,6 +21,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Thinking Machines Lab Interaction Models：把实时协作从 Harness 挪进模型本体](2026-05-11/2026-05-11-tml-interaction-models-builder-analysis.md) | Thinking Machines Lab / Interaction Models / Real-time AI / Multimodal Models / Human-AI Collaboration |
+| [Thinking Machines Lab Interaction Models: Moving Real-Time Collaboration from the Harness into the Model (EN)](2026-05-11/2026-05-11-tml-interaction-models-builder-analysis-en.md) | Thinking Machines Lab / interaction models / real-time AI / multimodal models / human-AI collaboration |
 | [Claude Code Agent View：把多 Agent 并行从 tmux 网格升级成控制台](2026-05-11/2026-05-11-claude-code-agent-view-control-plane.md) | Claude Code / Agent View / Coding Agents / Multi-Agent / Worktrees / Agent Orchestration |
 | [Claude Code Agent View: From tmux Grids to a Real Control Plane for Parallel Agents (EN)](2026-05-11/2026-05-11-claude-code-agent-view-control-plane-en.md) | Claude Code / Agent View / coding agents / multi-agent / worktrees / agent orchestration |
 

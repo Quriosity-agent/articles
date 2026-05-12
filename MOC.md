@@ -1,5 +1,13 @@
 # 📚 文章导航 (Map of Content)
 
+## 🛡️ OpenAI Daybreak：把网络安全从“扫描工具”升级成软件工程闭环
+- [[2026-05-12/2026-05-12-openai-daybreak-codex-security-cyber-defense|OpenAI Daybreak：把网络安全从“扫描工具”升级成软件工程闭环]]
+- [[2026-05-12/2026-05-12-openai-daybreak-codex-security-cyber-defense-en|OpenAI Daybreak: Turning Cyber Defense from Scanning into an Engineering Loop]]
+
+## 🧠 Thinking Machines Lab Interaction Models：把实时协作从 Harness 挪进模型本体
+- [[2026-05-11/2026-05-11-tml-interaction-models-builder-analysis|Thinking Machines Lab Interaction Models：把实时协作从 Harness 挪进模型本体]]
+- [[2026-05-11/2026-05-11-tml-interaction-models-builder-analysis-en|Thinking Machines Lab Interaction Models: Moving Real-Time Collaboration from the Harness into the Model]]
+
 ## 🤖 Hermes Agent Parallel Tasks 指南：从“会委派”到“会编排”
 - [[2026-05-12/2026-05-12-hermes-agent-parallel-delegation-patterns|Hermes Agent Parallel Tasks 指南：从“会委派”到“会编排”]]
 - [[2026-05-12/2026-05-12-hermes-agent-parallel-delegation-patterns-en|Hermes Agent Parallel Tasks Guide: From Delegation to Orchestration]]
