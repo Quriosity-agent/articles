@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-05-11
+
+| 文章 | 主题 |
+|------|------|
+| [Claude Code Agent View：把多 Agent 并行从 tmux 网格升级成控制台](2026-05-11/2026-05-11-claude-code-agent-view-control-plane.md) | Claude Code / Agent View / Coding Agents / Multi-Agent / Worktrees / Agent Orchestration |
+| [Claude Code Agent View: From tmux Grids to a Real Control Plane for Parallel Agents (EN)](2026-05-11/2026-05-11-claude-code-agent-view-control-plane-en.md) | Claude Code / Agent View / coding agents / multi-agent / worktrees / agent orchestration |
+
+---
+
 ## 📅 2026-05-10
 
 | 文章 | 主题 |

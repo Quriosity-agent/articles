@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🖥️ Claude Code Agent View：把多 Agent 并行从 tmux 网格升级成控制台
+- [[2026-05-11/2026-05-11-claude-code-agent-view-control-plane|Claude Code Agent View：把多 Agent 并行从 tmux 网格升级成控制台]]
+- [[2026-05-11/2026-05-11-claude-code-agent-view-control-plane-en|Claude Code Agent View: From tmux Grids to a Real Control Plane for Parallel Agents]]
+
 ## 🦀 Crabbox 深度拆解：给 AI Agent 一个可租、可同步、可审计的远程工作台
 - [[2026-05-10/2026-05-10-crabbox-remote-agent-workspace-control-plane|Crabbox 深度拆解：给 AI Agent 一个可租、可同步、可审计的远程工作台]]
 - [[2026-05-10/2026-05-10-crabbox-remote-agent-workspace-control-plane-en|Crabbox Deep Dive: A Rentable, Syncable, Auditable Remote Workbench for AI Agents]]
