@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-05-12
+
+| 文章 | 主题 |
+|------|------|
+| [Hermes Agent Parallel Tasks 指南：从“会委派”到“会编排”](2026-05-12/2026-05-12-hermes-agent-parallel-delegation-patterns.md) | Hermes Agent / delegate_task / Parallel Tasks / Subagent Delegation / Multi-Agent Orchestration |
+| [Hermes Agent Parallel Tasks Guide: From Delegation to Orchestration (EN)](2026-05-12/2026-05-12-hermes-agent-parallel-delegation-patterns-en.md) | Hermes Agent / delegate_task / parallel tasks / subagent delegation / multi-agent orchestration |
+
+---
+
 ## 📅 2026-05-11
 
 | 文章 | 主题 |

@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🤖 Hermes Agent Parallel Tasks 指南：从“会委派”到“会编排”
+- [[2026-05-12/2026-05-12-hermes-agent-parallel-delegation-patterns|Hermes Agent Parallel Tasks 指南：从“会委派”到“会编排”]]
+- [[2026-05-12/2026-05-12-hermes-agent-parallel-delegation-patterns-en|Hermes Agent Parallel Tasks Guide: From Delegation to Orchestration]]
+
 ## 🖥️ Claude Code Agent View：把多 Agent 并行从 tmux 网格升级成控制台
 - [[2026-05-11/2026-05-11-claude-code-agent-view-control-plane|Claude Code Agent View：把多 Agent 并行从 tmux 网格升级成控制台]]
 - [[2026-05-11/2026-05-11-claude-code-agent-view-control-plane-en|Claude Code Agent View: From tmux Grids to a Real Control Plane for Parallel Agents]]
