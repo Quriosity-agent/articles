@@ -177,7 +177,7 @@
 
 | 文章 | 主题 |
 |------|------|
-| [揭秘GLM-5技术底牌：异步强化学习框架Slime](2026-02-23/GLM-5-Slime-Framework/article.md) | GLM-5 / Slime异步RL / DSA稀疏注意力 / Agentic Engineering |
+| [揭秘GLM-5技术底牌：异步强化学习框架Slime](2026-02-23/2026-02-23-glm-5-slime-framework.md) | GLM-5 / Slime异步RL / DSA稀疏注意力 / Agentic Engineering |
 
 ---
 
@@ -248,7 +248,7 @@
 
 | 文章 | 主题 |
 |------|------|
-| [AI满居行业颠覆](2026-02-07/AI-ManJu-Industry-Disruption/) | AI / 行业颠覆 |
+| [AI满居行业颠覆](2026-02-07/2026-02-07-ai-manju-industry-disruption.md) | AI / 行业颠覆 |
 
 ---
 
