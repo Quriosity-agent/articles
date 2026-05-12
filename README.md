@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [长程任务、无人公司与 LLM OS：这轮 Agent 竞争真正要改造什么](2026-05-12/2026-05-12-long-horizon-agents-none-person-company.md) | AI Agents / Long-Horizon Tasks / Autonomous Agent Systems / LLM OS / Self-Evolution |
+| [Long-Horizon Agents, None-Person Companies, and the LLM OS: What This Agent Wave Is Really Rebuilding (EN)](2026-05-12/2026-05-12-long-horizon-agents-none-person-company-en.md) | AI Agents / long-horizon tasks / autonomous agent systems / LLM OS / self-evolution |
 | [Hermes Agent Delegation 运行时参考：`delegate_task` 不是后台队列，而是可控的子 Agent 调度层](2026-05-12/2026-05-12-hermes-delegation-runtime-reference.md) | Hermes Agent / delegate_task / Subagent Runtime / Agent Orchestration / Toolsets / Reliability |
 | [Hermes Agent Delegation Runtime Reference: `delegate_task` Is Not a Background Queue, but a Controlled Subagent Scheduler (EN)](2026-05-12/2026-05-12-hermes-delegation-runtime-reference-en.md) | Hermes Agent / delegate_task / subagent runtime / agent orchestration / toolsets / reliability |
 | [OpenAI Daybreak：把网络安全从“扫描工具”升级成软件工程闭环](2026-05-12/2026-05-12-openai-daybreak-codex-security-cyber-defense.md) | OpenAI / Daybreak / Codex Security / GPT-5.5-Cyber / Secure SDLC |

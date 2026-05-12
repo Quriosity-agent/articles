@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧭 长程任务、无人公司与 LLM OS：这轮 Agent 竞争真正要改造什么
+- [[2026-05-12/2026-05-12-long-horizon-agents-none-person-company|长程任务、无人公司与 LLM OS：这轮 Agent 竞争真正要改造什么]]
+- [[2026-05-12/2026-05-12-long-horizon-agents-none-person-company-en|Long-Horizon Agents, None-Person Companies, and the LLM OS: What This Agent Wave Is Really Rebuilding]]
+
 ## 🤖 Hermes Agent Delegation 运行时参考：`delegate_task` 不是后台队列，而是可控的子 Agent 调度层
 - [[2026-05-12/2026-05-12-hermes-delegation-runtime-reference|Hermes Agent Delegation 运行时参考：`delegate_task` 不是后台队列，而是可控的子 Agent 调度层]]
 - [[2026-05-12/2026-05-12-hermes-delegation-runtime-reference-en|Hermes Agent Delegation Runtime Reference: `delegate_task` Is Not a Background Queue, but a Controlled Subagent Scheduler]]
