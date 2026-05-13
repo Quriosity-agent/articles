@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-05-13
+
+| 文章 | 主题 |
+|------|------|
+| [VM0 技术架构深度拆解：把 AI Teammate 做成“应用层 + 权限层 + 微虚拟机运行时”](2026-05-13/2026-05-13-vm0-ai-agent-runtime-architecture.md) | VM0 / Zero / AI Agent Runtime / Firecracker / Sandbox / Hono / Next.js / Agent Infrastructure |
+| [VM0 Technical Architecture Deep Dive: Turning an AI Teammate into an App Layer, Permission Layer, and MicroVM Runtime (EN)](2026-05-13/2026-05-13-vm0-ai-agent-runtime-architecture-en.md) | VM0 / Zero / AI Agent Runtime / Firecracker / Sandbox / Hono / Next.js / agent infrastructure |
+
+---
+
 ## 📅 2026-05-12
 
 | 文章 | 主题 |

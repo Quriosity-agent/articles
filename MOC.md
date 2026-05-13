@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧱 VM0 技术架构深度拆解：把 AI Teammate 做成“应用层 + 权限层 + 微虚拟机运行时”
+- [[2026-05-13/2026-05-13-vm0-ai-agent-runtime-architecture|VM0 技术架构深度拆解：把 AI Teammate 做成“应用层 + 权限层 + 微虚拟机运行时”]]
+- [[2026-05-13/2026-05-13-vm0-ai-agent-runtime-architecture-en|VM0 Technical Architecture Deep Dive: Turning an AI Teammate into an App Layer, Permission Layer, and MicroVM Runtime]]
+
 ## 🧭 长程任务、无人公司与 LLM OS：这轮 Agent 竞争真正要改造什么
 - [[2026-05-12/2026-05-12-long-horizon-agents-none-person-company|长程任务、无人公司与 LLM OS：这轮 Agent 竞争真正要改造什么]]
 - [[2026-05-12/2026-05-12-long-horizon-agents-none-person-company-en|Long-Horizon Agents, None-Person Companies, and the LLM OS: What This Agent Wave Is Really Rebuilding]]
