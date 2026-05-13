@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 Higgsfield Supercomputer：AI 创意工具正在从“生成器”变成可调度的 Agent 工作台
+- [[2026-05-13/2026-05-13-higgsfield-supercomputer-agentic-creative-workbench|Higgsfield Supercomputer：AI 创意工具正在从“生成器”变成可调度的 Agent 工作台]]
+- [[2026-05-13/2026-05-13-higgsfield-supercomputer-agentic-creative-workbench-en|Higgsfield Supercomputer: AI Creative Tools Are Becoming Schedulable Agent Workbenches]]
+
 ## 🧱 VM0 技术架构深度拆解：把 AI Teammate 做成“应用层 + 权限层 + 微虚拟机运行时”
 - [[2026-05-13/2026-05-13-vm0-ai-agent-runtime-architecture|VM0 技术架构深度拆解：把 AI Teammate 做成“应用层 + 权限层 + 微虚拟机运行时”]]
 - [[2026-05-13/2026-05-13-vm0-ai-agent-runtime-architecture-en|VM0 Technical Architecture Deep Dive: Turning an AI Teammate into an App Layer, Permission Layer, and MicroVM Runtime]]

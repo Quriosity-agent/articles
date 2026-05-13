@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Higgsfield Supercomputer：AI 创意工具正在从“生成器”变成可调度的 Agent 工作台](2026-05-13/2026-05-13-higgsfield-supercomputer-agentic-creative-workbench.md) | Higgsfield / Supercomputer / Agentic Creative Workflow / AI Video / Skills / Scheduled Tasks |
+| [Higgsfield Supercomputer: AI Creative Tools Are Becoming Schedulable Agent Workbenches (EN)](2026-05-13/2026-05-13-higgsfield-supercomputer-agentic-creative-workbench-en.md) | Higgsfield / Supercomputer / agentic creative workflow / AI video / skills / scheduled tasks |
 | [VM0 技术架构深度拆解：把 AI Teammate 做成“应用层 + 权限层 + 微虚拟机运行时”](2026-05-13/2026-05-13-vm0-ai-agent-runtime-architecture.md) | VM0 / Zero / AI Agent Runtime / Firecracker / Sandbox / Hono / Next.js / Agent Infrastructure |
 | [VM0 Technical Architecture Deep Dive: Turning an AI Teammate into an App Layer, Permission Layer, and MicroVM Runtime (EN)](2026-05-13/2026-05-13-vm0-ai-agent-runtime-architecture-en.md) | VM0 / Zero / AI Agent Runtime / Firecracker / Sandbox / Hono / Next.js / agent infrastructure |
 
