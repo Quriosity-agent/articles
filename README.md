@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Claude Computer / Browser Use 实战指南：真正难的不是“会点鼠标”，而是把 Harness 做稳](2026-05-13/2026-05-13-claude-computer-browser-use-production-playbook.md) | Claude / Computer Use / Browser Use / Agent Harness / UI Automation / Prompt Injection / Context Management |
+| [Claude Computer / Browser Use Playbook: The Hard Part Is Not Clicking — It Is Building a Reliable Harness (EN)](2026-05-13/2026-05-13-claude-computer-browser-use-production-playbook-en.md) | Claude / computer use / browser use / agent harness / UI automation / prompt injection / context management |
 | [Higgsfield Supercomputer：AI 创意工具正在从“生成器”变成可调度的 Agent 工作台](2026-05-13/2026-05-13-higgsfield-supercomputer-agentic-creative-workbench.md) | Higgsfield / Supercomputer / Agentic Creative Workflow / AI Video / Skills / Scheduled Tasks |
 | [Higgsfield Supercomputer: AI Creative Tools Are Becoming Schedulable Agent Workbenches (EN)](2026-05-13/2026-05-13-higgsfield-supercomputer-agentic-creative-workbench-en.md) | Higgsfield / Supercomputer / agentic creative workflow / AI video / skills / scheduled tasks |
 | [VM0 技术架构深度拆解：把 AI Teammate 做成“应用层 + 权限层 + 微虚拟机运行时”](2026-05-13/2026-05-13-vm0-ai-agent-runtime-architecture.md) | VM0 / Zero / AI Agent Runtime / Firecracker / Sandbox / Hono / Next.js / Agent Infrastructure |

@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🖥️ Claude Computer / Browser Use 实战指南：真正难的不是“会点鼠标”，而是把 Harness 做稳
+- [[2026-05-13/2026-05-13-claude-computer-browser-use-production-playbook|Claude Computer / Browser Use 实战指南：真正难的不是“会点鼠标”，而是把 Harness 做稳]]
+- [[2026-05-13/2026-05-13-claude-computer-browser-use-production-playbook-en|Claude Computer / Browser Use Playbook: The Hard Part Is Not Clicking — It Is Building a Reliable Harness]]
+
 ## 🎬 Higgsfield Supercomputer：AI 创意工具正在从“生成器”变成可调度的 Agent 工作台
 - [[2026-05-13/2026-05-13-higgsfield-supercomputer-agentic-creative-workbench|Higgsfield Supercomputer：AI 创意工具正在从“生成器”变成可调度的 Agent 工作台]]
 - [[2026-05-13/2026-05-13-higgsfield-supercomputer-agentic-creative-workbench-en|Higgsfield Supercomputer: AI Creative Tools Are Becoming Schedulable Agent Workbenches]]
