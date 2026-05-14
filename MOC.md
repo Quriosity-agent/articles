@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 CHAI 论文拆解：AI 视频真正缺的不是更大模型，而是一门可训练的“电影语言”
+- [[2026-05-13/2026-05-13-chai-precise-video-language-cinematic-control|CHAI 论文拆解：AI 视频真正缺的不是更大模型，而是一门可训练的“电影语言”]]
+- [[2026-05-13/2026-05-13-chai-precise-video-language-cinematic-control-en|CHAI Paper Deep Dive: AI Video Does Not Just Need Bigger Models — It Needs a Trainable Language of Cinema]]
+
 ## 🖥️ Claude Computer / Browser Use 实战指南：真正难的不是“会点鼠标”，而是把 Harness 做稳
 - [[2026-05-13/2026-05-13-claude-computer-browser-use-production-playbook|Claude Computer / Browser Use 实战指南：真正难的不是“会点鼠标”，而是把 Harness 做稳]]
 - [[2026-05-13/2026-05-13-claude-computer-browser-use-production-playbook-en|Claude Computer / Browser Use Playbook: The Hard Part Is Not Clicking — It Is Building a Reliable Harness]]
