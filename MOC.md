@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🖥️ Native Feel Skill 深度拆解：把 Raycast 的桌面架构经验打包成 Agent 可调用的产品审美
+- [[2026-05-14/2026-05-14-native-feel-skill-raycast-desktop-architecture|Native Feel Skill 深度拆解：把 Raycast 的桌面架构经验打包成 Agent 可调用的产品审美]]
+- [[2026-05-14/2026-05-14-native-feel-skill-raycast-desktop-architecture-en|Native Feel Skill Deep Dive: Packaging Raycast-Style Desktop Architecture into Agent-Callable Product Taste]]
+
 ## 🐋 Orca 深度拆解：AI IDE 的下一层不是聊天框，而是并行 Agent 控制台
 - [[2026-05-14/2026-05-14-orca-parallel-agent-ide-control-plane|Orca 深度拆解：AI IDE 的下一层不是聊天框，而是并行 Agent 控制台]]
 - [[2026-05-14/2026-05-14-orca-parallel-agent-ide-control-plane-en|Orca Deep Dive: The Next Layer of AI IDEs Is Not Chat, but a Parallel Agent Control Plane]]
