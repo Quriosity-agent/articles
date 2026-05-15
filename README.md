@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-05-14
+
+| 文章 | 主题 |
+|------|------|
+| [Claude Code 大型代码库实战：真正的门槛不是模型，而是 Harness、导航和组织系统](2026-05-14/2026-05-14-claude-code-large-codebase-harness.md) | Claude Code / Large Codebases / Agent Harness / CLAUDE.md / Skills / Hooks / Plugins / MCP / LSP / Subagents |
+| [Claude Code in Large Codebases: The Real Barrier Is Not the Model, but the Harness, Navigation, and Organizational System (EN)](2026-05-14/2026-05-14-claude-code-large-codebase-harness-en.md) | Claude Code / large codebases / agent harness / CLAUDE.md / skills / hooks / plugins / MCP / LSP / subagents |
+
+---
+
 ## 📅 2026-05-13
 
 | 文章 | 主题 |
