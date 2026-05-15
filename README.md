@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Orca 深度拆解：AI IDE 的下一层不是聊天框，而是并行 Agent 控制台](2026-05-14/2026-05-14-orca-parallel-agent-ide-control-plane.md) | Orca / AI IDE / Parallel Agents / Worktrees / Electron / TypeScript / SSH / Mobile Companion |
+| [Orca Deep Dive: The Next Layer of AI IDEs Is Not Chat, but a Parallel Agent Control Plane (EN)](2026-05-14/2026-05-14-orca-parallel-agent-ide-control-plane-en.md) | Orca / AI IDE / parallel agents / worktrees / Electron / TypeScript / SSH / mobile companion |
 | [Violin 深度拆解：把视频翻译做成 Claude Code 可调用的开源技能](2026-05-14/2026-05-14-violin-video-translation-skill.md) | Violin / Video Translation / Dubbing / Claude Code Skill / FastAPI / Whisper / TTS / FFmpeg |
 | [Violin Deep Dive: Turning Video Translation into an Open-Source Claude Code Skill (EN)](2026-05-14/2026-05-14-violin-video-translation-skill-en.md) | Violin / video translation / dubbing / Claude Code Skill / FastAPI / Whisper / TTS / FFmpeg |
 | [Claude Code 大型代码库实战：真正的门槛不是模型，而是 Harness、导航和组织系统](2026-05-14/2026-05-14-claude-code-large-codebase-harness.md) | Claude Code / Large Codebases / Agent Harness / CLAUDE.md / Skills / Hooks / Plugins / MCP / LSP / Subagents |

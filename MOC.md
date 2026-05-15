@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🐋 Orca 深度拆解：AI IDE 的下一层不是聊天框，而是并行 Agent 控制台
+- [[2026-05-14/2026-05-14-orca-parallel-agent-ide-control-plane|Orca 深度拆解：AI IDE 的下一层不是聊天框，而是并行 Agent 控制台]]
+- [[2026-05-14/2026-05-14-orca-parallel-agent-ide-control-plane-en|Orca Deep Dive: The Next Layer of AI IDEs Is Not Chat, but a Parallel Agent Control Plane]]
+
 ## 🎻 Violin 深度拆解：把视频翻译做成 Claude Code 可调用的开源技能
 - [[2026-05-14/2026-05-14-violin-video-translation-skill|Violin 深度拆解：把视频翻译做成 Claude Code 可调用的开源技能]]
 - [[2026-05-14/2026-05-14-violin-video-translation-skill-en|Violin Deep Dive: Turning Video Translation into an Open-Source Claude Code Skill]]
