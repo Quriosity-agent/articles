@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 💼 Amino ARM Founder Space：VC CRM 正在从内部工具变成创始人协作界面
+- [[2026-05-14/2026-05-14-amino-arm-founder-space-client|Amino ARM Founder Space：VC CRM 正在从内部工具变成创始人协作界面]]
+- [[2026-05-14/2026-05-14-amino-arm-founder-space-client-en|Amino ARM Founder Space: VC CRM Is Becoming a Founder Collaboration Interface]]
+
 ## 🖥️ Native Feel Skill 深度拆解：把 Raycast 的桌面架构经验打包成 Agent 可调用的产品审美
 - [[2026-05-14/2026-05-14-native-feel-skill-raycast-desktop-architecture|Native Feel Skill 深度拆解：把 Raycast 的桌面架构经验打包成 Agent 可调用的产品审美]]
 - [[2026-05-14/2026-05-14-native-feel-skill-raycast-desktop-architecture-en|Native Feel Skill Deep Dive: Packaging Raycast-Style Desktop Architecture into Agent-Callable Product Taste]]

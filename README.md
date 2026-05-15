@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Amino ARM Founder Space：VC CRM 正在从内部工具变成创始人协作界面](2026-05-14/2026-05-14-amino-arm-founder-space-client.md) | Amino Capital / ARM / Founder Space / VC CRM / Portfolio Collaboration / Founder Portal |
+| [Amino ARM Founder Space: VC CRM Is Becoming a Founder Collaboration Interface (EN)](2026-05-14/2026-05-14-amino-arm-founder-space-client-en.md) | Amino Capital / ARM / Founder Space / VC CRM / portfolio collaboration / founder portal |
 | [Native Feel Skill 深度拆解：把 Raycast 的桌面架构经验打包成 Agent 可调用的产品审美](2026-05-14/2026-05-14-native-feel-skill-raycast-desktop-architecture.md) | Agent Skill / Desktop Apps / Native Feel / Raycast / WebView / IPC / Product Engineering |
 | [Native Feel Skill Deep Dive: Packaging Raycast-Style Desktop Architecture into Agent-Callable Product Taste (EN)](2026-05-14/2026-05-14-native-feel-skill-raycast-desktop-architecture-en.md) | Agent Skill / desktop apps / native feel / Raycast / WebView / IPC / product engineering |
 | [Orca 深度拆解：AI IDE 的下一层不是聊天框，而是并行 Agent 控制台](2026-05-14/2026-05-14-orca-parallel-agent-ide-control-plane.md) | Orca / AI IDE / Parallel Agents / Worktrees / Electron / TypeScript / SSH / Mobile Companion |
