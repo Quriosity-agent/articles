@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🔬 RLVR 与科学发现：为什么“可验证奖励”可能最不擅长真正的科学突破
+- [[2026-05-16/2026-05-16-rlvr-science-verification-loop|RLVR 与科学发现：为什么“可验证奖励”可能最不擅长真正的科学突破]]
+- [[2026-05-16/2026-05-16-rlvr-science-verification-loop-en|RLVR and Scientific Discovery: Why Verifiable Rewards May Be Worst at Real Breakthroughs]]
+
 ## ♟️ AutoGo 深度拆解：重写 AlphaGo 不是怀旧，而是在训练自动化 AI 研究员
 - [[2026-05-16/2026-05-16-autogo-alpha-research-automation|AutoGo 深度拆解：重写 AlphaGo 不是怀旧，而是在训练自动化 AI 研究员]]
 - [[2026-05-16/2026-05-16-autogo-alpha-research-automation-en|AutoGo Deep Dive: Rebuilding AlphaGo Is Not Nostalgia, but Training an Automated AI Researcher]]

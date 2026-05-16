@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [RLVR 与科学发现：为什么“可验证奖励”可能最不擅长真正的科学突破](2026-05-16/2026-05-16-rlvr-science-verification-loop.md) | RLVR / AI for Science / Verification Loop / Scientific Discovery / Research Automation / Philosophy of Science |
+| [RLVR and Scientific Discovery: Why Verifiable Rewards May Be Worst at Real Breakthroughs (EN)](2026-05-16/2026-05-16-rlvr-science-verification-loop-en.md) | RLVR / AI for Science / verification loop / scientific discovery / research automation / philosophy of science |
 | [AutoGo 深度拆解：重写 AlphaGo 不是怀旧，而是在训练自动化 AI 研究员](2026-05-16/2026-05-16-autogo-alpha-research-automation.md) | AutoGo / AlphaGo / AI Research Automation / Go / MCTS / Self-Play / Agent Harness |
 | [AutoGo Deep Dive: Rebuilding AlphaGo Is Not Nostalgia, but Training an Automated AI Researcher (EN)](2026-05-16/2026-05-16-autogo-alpha-research-automation-en.md) | AutoGo / AlphaGo / AI research automation / Go / MCTS / self-play / agent harness |
 | [OpenHuman 深度拆解：个人 AI 助手正在变成桌面控制平面](2026-05-16/2026-05-16-openhuman-agentic-desktop-control-plane.md) | OpenHuman / AI Agent / Desktop Control Plane / Tauri / Rust / Memory Tree / Agent Harness |
