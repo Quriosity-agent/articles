@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## ♟️ AutoGo 深度拆解：重写 AlphaGo 不是怀旧，而是在训练自动化 AI 研究员
+- [[2026-05-16/2026-05-16-autogo-alpha-research-automation|AutoGo 深度拆解：重写 AlphaGo 不是怀旧，而是在训练自动化 AI 研究员]]
+- [[2026-05-16/2026-05-16-autogo-alpha-research-automation-en|AutoGo Deep Dive: Rebuilding AlphaGo Is Not Nostalgia, but Training an Automated AI Researcher]]
+
 ## 🧠 OpenHuman 深度拆解：个人 AI 助手正在变成桌面控制平面
 - [[2026-05-16/2026-05-16-openhuman-agentic-desktop-control-plane|OpenHuman 深度拆解：个人 AI 助手正在变成桌面控制平面]]
 - [[2026-05-16/2026-05-16-openhuman-agentic-desktop-control-plane-en|OpenHuman Deep Dive: Personal AI Assistants Are Becoming Desktop Control Planes]]
