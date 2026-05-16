@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧠 OpenHuman 深度拆解：个人 AI 助手正在变成桌面控制平面
+- [[2026-05-16/2026-05-16-openhuman-agentic-desktop-control-plane|OpenHuman 深度拆解：个人 AI 助手正在变成桌面控制平面]]
+- [[2026-05-16/2026-05-16-openhuman-agentic-desktop-control-plane-en|OpenHuman Deep Dive: Personal AI Assistants Are Becoming Desktop Control Planes]]
+
 ## 🦞 如果 Tokens 不重要，软件团队会怎么组织？从 OpenClaw 的“100 个 Codex”工作流看 Agent-Native SDLC
 - [[2026-05-15/2026-05-15-openclaw-tokens-dont-matter|如果 Tokens 不重要，软件团队会怎么组织？从 OpenClaw 的“100 个 Codex”工作流看 Agent-Native SDLC]]
 - [[2026-05-15/2026-05-15-openclaw-tokens-dont-matter-en|If Tokens Don’t Matter, How Would Software Teams Organize? OpenClaw’s “100 Codex” Workflow as Agent-Native SDLC]]

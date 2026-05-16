@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-05-16
+
+| 文章 | 主题 |
+|------|------|
+| [OpenHuman 深度拆解：个人 AI 助手正在变成桌面控制平面](2026-05-16/2026-05-16-openhuman-agentic-desktop-control-plane.md) | OpenHuman / AI Agent / Desktop Control Plane / Tauri / Rust / Memory Tree / Agent Harness |
+| [OpenHuman Deep Dive: Personal AI Assistants Are Becoming Desktop Control Planes (EN)](2026-05-16/2026-05-16-openhuman-agentic-desktop-control-plane-en.md) | OpenHuman / AI Agent / desktop control plane / Tauri / Rust / Memory Tree / agent harness |
+
+---
+
 ## 📅 2026-05-15
 
 | 文章 | 主题 |
