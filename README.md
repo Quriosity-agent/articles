@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Suna / Kortix 深度拆解：把 Agent 从聊天框搬进一台会长期工作的公司电脑](2026-05-15/2026-05-15-kortix-suna-autonomous-company-os.md) | Kortix / Suna / Agent OS / OpenCode / Sandbox / Company OS / Agent Infrastructure |
+| [Suna / Kortix Deep Dive: Moving Agents from Chat Boxes into a Company Computer That Keeps Working (EN)](2026-05-15/2026-05-15-kortix-suna-autonomous-company-os-en.md) | Kortix / Suna / Agent OS / OpenCode / sandbox / company OS / agent infrastructure |
 | [lark-cli 更新拆解：飞书官方 CLI 正在变成 Agent-Native 办公控制平面](2026-05-15/2026-05-15-larksuite-cli-agent-native-office-control-plane-update.md) | lark-cli / Feishu / Lark / AI Agent / Agent Skills / Office Automation / Go CLI |
 | [lark-cli Update Deep Dive: The Official Feishu CLI Is Becoming an Agent-Native Office Control Plane (EN)](2026-05-15/2026-05-15-larksuite-cli-agent-native-office-control-plane-update-en.md) | lark-cli / Feishu / Lark / AI Agent / Agent Skills / office automation / Go CLI |
 | [Awesome GPT Image 2 Prompts 深度拆解：当 Prompt 仓库变成开放视觉工作流库](2026-05-15/2026-05-15-gpt-image-2-prompts-open-visual-workflow-library.md) | GPT-Image-2 / Prompt Library / Image Generation / Visual Workflow / Evolink / Open Source |

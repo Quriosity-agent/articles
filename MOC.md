@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🖥️ Suna / Kortix 深度拆解：把 Agent 从聊天框搬进一台会长期工作的公司电脑
+- [[2026-05-15/2026-05-15-kortix-suna-autonomous-company-os|Suna / Kortix 深度拆解：把 Agent 从聊天框搬进一台会长期工作的公司电脑]]
+- [[2026-05-15/2026-05-15-kortix-suna-autonomous-company-os-en|Suna / Kortix Deep Dive: Moving Agents from Chat Boxes into a Company Computer That Keeps Working]]
+
 ## 🧰 lark-cli 更新拆解：飞书官方 CLI 正在变成 Agent-Native 办公控制平面
 - [[2026-05-15/2026-05-15-larksuite-cli-agent-native-office-control-plane-update|lark-cli 更新拆解：飞书官方 CLI 正在变成 Agent-Native 办公控制平面]]
 - [[2026-05-15/2026-05-15-larksuite-cli-agent-native-office-control-plane-update-en|lark-cli Update Deep Dive: The Official Feishu CLI Is Becoming an Agent-Native Office Control Plane]]
