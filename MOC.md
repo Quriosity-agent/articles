@@ -32,6 +32,10 @@
 - [[2026-05-14/2026-05-14-claude-code-large-codebase-harness|Claude Code 大型代码库实战：真正的门槛不是模型，而是 Harness、导航和组织系统]]
 - [[2026-05-14/2026-05-14-claude-code-large-codebase-harness-en|Claude Code in Large Codebases: The Real Barrier Is Not the Model, but the Harness, Navigation, and Organizational System]]
 
+## 🧩 Notion Developer Platform 深度拆解：Notion 正在把 Workspace 做成 Agent 运行时
+- [[2026-05-13/2026-05-13-notion-developer-platform-agent-workspace-runtime|Notion Developer Platform 深度拆解：Notion 正在把 Workspace 做成 Agent 运行时]]
+- [[2026-05-13/2026-05-13-notion-developer-platform-agent-workspace-runtime-en|Notion Developer Platform Deep Dive: Notion Is Turning the Workspace into an Agent Runtime]]
+
 ## 🎬 CHAI 论文拆解：AI 视频真正缺的不是更大模型，而是一门可训练的“电影语言”
 - [[2026-05-13/2026-05-13-chai-precise-video-language-cinematic-control|CHAI 论文拆解：AI 视频真正缺的不是更大模型，而是一门可训练的“电影语言”]]
 - [[2026-05-13/2026-05-13-chai-precise-video-language-cinematic-control-en|CHAI Paper Deep Dive: AI Video Does Not Just Need Bigger Models — It Needs a Trainable Language of Cinema]]

@@ -40,6 +40,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Notion Developer Platform 深度拆解：Notion 正在把 Workspace 做成 Agent 运行时](2026-05-13/2026-05-13-notion-developer-platform-agent-workspace-runtime.md) | Notion / Developer Platform / Agents / Workers / ntn CLI / Database Sync / Workspace Runtime |
+| [Notion Developer Platform Deep Dive: Notion Is Turning the Workspace into an Agent Runtime (EN)](2026-05-13/2026-05-13-notion-developer-platform-agent-workspace-runtime-en.md) | Notion / developer platform / agents / Workers / ntn CLI / database sync / workspace runtime |
 | [CHAI 论文拆解：AI 视频真正缺的不是更大模型，而是一门可训练的“电影语言”](2026-05-13/2026-05-13-chai-precise-video-language-cinematic-control.md) | CHAI / CMU / CVPR 2026 / AI Video / Video Captioning / Cinematic Control / Human-AI Oversight |
 | [CHAI Paper Deep Dive: AI Video Does Not Just Need Bigger Models — It Needs a Trainable Language of Cinema (EN)](2026-05-13/2026-05-13-chai-precise-video-language-cinematic-control-en.md) | CHAI / CMU / CVPR 2026 / AI video / video captioning / cinematic control / human-AI oversight |
 | [Claude Computer / Browser Use 实战指南：真正难的不是“会点鼠标”，而是把 Harness 做稳](2026-05-13/2026-05-13-claude-computer-browser-use-production-playbook.md) | Claude / Computer Use / Browser Use / Agent Harness / UI Automation / Prompt Injection / Context Management |
