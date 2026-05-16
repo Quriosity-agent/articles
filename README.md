@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [OpenClaw 登上 ARC-AGI-3 社区榜：5.2% 背后的 Agent Harness 信号](2026-05-15/2026-05-15-openclaw-arc-agi-3-community-leaderboard.md) | OpenClaw / ARC-AGI-3 / Agent Harness / Long-Term Memory / Code Execution / Evaluation |
+| [OpenClaw on the ARC-AGI-3 Community Leaderboard: What a 5.2% Score Really Signals (EN)](2026-05-15/2026-05-15-openclaw-arc-agi-3-community-leaderboard-en.md) | OpenClaw / ARC-AGI-3 / agent harness / long-term memory / code execution / evaluation |
 | [Suna / Kortix 深度拆解：把 Agent 从聊天框搬进一台会长期工作的公司电脑](2026-05-15/2026-05-15-kortix-suna-autonomous-company-os.md) | Kortix / Suna / Agent OS / OpenCode / Sandbox / Company OS / Agent Infrastructure |
 | [Suna / Kortix Deep Dive: Moving Agents from Chat Boxes into a Company Computer That Keeps Working (EN)](2026-05-15/2026-05-15-kortix-suna-autonomous-company-os-en.md) | Kortix / Suna / Agent OS / OpenCode / sandbox / company OS / agent infrastructure |
 | [lark-cli 更新拆解：飞书官方 CLI 正在变成 Agent-Native 办公控制平面](2026-05-15/2026-05-15-larksuite-cli-agent-native-office-control-plane-update.md) | lark-cli / Feishu / Lark / AI Agent / Agent Skills / Office Automation / Go CLI |

@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧩 OpenClaw 登上 ARC-AGI-3 社区榜：5.2% 背后的 Agent Harness 信号
+- [[2026-05-15/2026-05-15-openclaw-arc-agi-3-community-leaderboard|OpenClaw 登上 ARC-AGI-3 社区榜：5.2% 背后的 Agent Harness 信号]]
+- [[2026-05-15/2026-05-15-openclaw-arc-agi-3-community-leaderboard-en|OpenClaw on the ARC-AGI-3 Community Leaderboard: What a 5.2% Score Really Signals]]
+
 ## 🖥️ Suna / Kortix 深度拆解：把 Agent 从聊天框搬进一台会长期工作的公司电脑
 - [[2026-05-15/2026-05-15-kortix-suna-autonomous-company-os|Suna / Kortix 深度拆解：把 Agent 从聊天框搬进一台会长期工作的公司电脑]]
 - [[2026-05-15/2026-05-15-kortix-suna-autonomous-company-os-en|Suna / Kortix Deep Dive: Moving Agents from Chat Boxes into a Company Computer That Keeps Working]]
