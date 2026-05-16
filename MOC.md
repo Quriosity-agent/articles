@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧰 lark-cli 更新拆解：飞书官方 CLI 正在变成 Agent-Native 办公控制平面
+- [[2026-05-15/2026-05-15-larksuite-cli-agent-native-office-control-plane-update|lark-cli 更新拆解：飞书官方 CLI 正在变成 Agent-Native 办公控制平面]]
+- [[2026-05-15/2026-05-15-larksuite-cli-agent-native-office-control-plane-update-en|lark-cli Update Deep Dive: The Official Feishu CLI Is Becoming an Agent-Native Office Control Plane]]
+
 ## 🎨 Awesome GPT Image 2 Prompts 深度拆解：当 Prompt 仓库变成开放视觉工作流库
 - [[2026-05-15/2026-05-15-gpt-image-2-prompts-open-visual-workflow-library|Awesome GPT Image 2 Prompts 深度拆解：当 Prompt 仓库变成开放视觉工作流库]]
 - [[2026-05-15/2026-05-15-gpt-image-2-prompts-open-visual-workflow-library-en|Awesome GPT Image 2 Prompts Deep Dive: When a Prompt Repo Becomes an Open Visual Workflow Library]]

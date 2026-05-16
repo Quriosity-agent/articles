@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [lark-cli 更新拆解：飞书官方 CLI 正在变成 Agent-Native 办公控制平面](2026-05-15/2026-05-15-larksuite-cli-agent-native-office-control-plane-update.md) | lark-cli / Feishu / Lark / AI Agent / Agent Skills / Office Automation / Go CLI |
+| [lark-cli Update Deep Dive: The Official Feishu CLI Is Becoming an Agent-Native Office Control Plane (EN)](2026-05-15/2026-05-15-larksuite-cli-agent-native-office-control-plane-update-en.md) | lark-cli / Feishu / Lark / AI Agent / Agent Skills / office automation / Go CLI |
 | [Awesome GPT Image 2 Prompts 深度拆解：当 Prompt 仓库变成开放视觉工作流库](2026-05-15/2026-05-15-gpt-image-2-prompts-open-visual-workflow-library.md) | GPT-Image-2 / Prompt Library / Image Generation / Visual Workflow / Evolink / Open Source |
 | [Awesome GPT Image 2 Prompts Deep Dive: When a Prompt Repo Becomes an Open Visual Workflow Library (EN)](2026-05-15/2026-05-15-gpt-image-2-prompts-open-visual-workflow-library-en.md) | GPT-Image-2 / prompt library / image generation / visual workflow / Evolink / open source |
 
