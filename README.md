@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [如果 Tokens 不重要，软件团队会怎么组织？从 OpenClaw 的“100 个 Codex”工作流看 Agent-Native SDLC](2026-05-15/2026-05-15-openclaw-tokens-dont-matter.md) | OpenClaw / Codex / Agent-Native SDLC / Crabbox / Clawpatch / AI Spend / Software Automation |
+| [If Tokens Don’t Matter, How Would Software Teams Organize? OpenClaw’s “100 Codex” Workflow as Agent-Native SDLC (EN)](2026-05-15/2026-05-15-openclaw-tokens-dont-matter-en.md) | OpenClaw / Codex / agent-native SDLC / Crabbox / Clawpatch / AI spend / software automation |
 | [ExploitBench 深度拆解：AI 安全评测正在从“能不能 crash”升级成能力阶梯](2026-05-15/2026-05-15-exploitbench-capability-ladder.md) | ExploitBench / AI Security / Cybersecurity Agents / V8 / Exploit Evaluation / Capability Ladder |
 | [ExploitBench Deep Dive: AI Security Evaluation Is Moving from “Can It Crash?” to a Capability Ladder (EN)](2026-05-15/2026-05-15-exploitbench-capability-ladder-en.md) | ExploitBench / AI security / cybersecurity agents / V8 / exploit evaluation / capability ladder |
 | [OpenClaw 登上 ARC-AGI-3 社区榜：5.2% 背后的 Agent Harness 信号](2026-05-15/2026-05-15-openclaw-arc-agi-3-community-leaderboard.md) | OpenClaw / ARC-AGI-3 / Agent Harness / Long-Term Memory / Code Execution / Evaluation |

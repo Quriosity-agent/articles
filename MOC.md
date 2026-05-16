@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🦞 如果 Tokens 不重要，软件团队会怎么组织？从 OpenClaw 的“100 个 Codex”工作流看 Agent-Native SDLC
+- [[2026-05-15/2026-05-15-openclaw-tokens-dont-matter|如果 Tokens 不重要，软件团队会怎么组织？从 OpenClaw 的“100 个 Codex”工作流看 Agent-Native SDLC]]
+- [[2026-05-15/2026-05-15-openclaw-tokens-dont-matter-en|If Tokens Don’t Matter, How Would Software Teams Organize? OpenClaw’s “100 Codex” Workflow as Agent-Native SDLC]]
+
 ## 🛡️ ExploitBench 深度拆解：AI 安全评测正在从“能不能 crash”升级成能力阶梯
 - [[2026-05-15/2026-05-15-exploitbench-capability-ladder|ExploitBench 深度拆解：AI 安全评测正在从“能不能 crash”升级成能力阶梯]]
 - [[2026-05-15/2026-05-15-exploitbench-capability-ladder-en|ExploitBench Deep Dive: AI Security Evaluation Is Moving from “Can It Crash?” to a Capability Ladder]]
