@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [ExploitBench 深度拆解：AI 安全评测正在从“能不能 crash”升级成能力阶梯](2026-05-15/2026-05-15-exploitbench-capability-ladder.md) | ExploitBench / AI Security / Cybersecurity Agents / V8 / Exploit Evaluation / Capability Ladder |
+| [ExploitBench Deep Dive: AI Security Evaluation Is Moving from “Can It Crash?” to a Capability Ladder (EN)](2026-05-15/2026-05-15-exploitbench-capability-ladder-en.md) | ExploitBench / AI security / cybersecurity agents / V8 / exploit evaluation / capability ladder |
 | [OpenClaw 登上 ARC-AGI-3 社区榜：5.2% 背后的 Agent Harness 信号](2026-05-15/2026-05-15-openclaw-arc-agi-3-community-leaderboard.md) | OpenClaw / ARC-AGI-3 / Agent Harness / Long-Term Memory / Code Execution / Evaluation |
 | [OpenClaw on the ARC-AGI-3 Community Leaderboard: What a 5.2% Score Really Signals (EN)](2026-05-15/2026-05-15-openclaw-arc-agi-3-community-leaderboard-en.md) | OpenClaw / ARC-AGI-3 / agent harness / long-term memory / code execution / evaluation |
 | [Suna / Kortix 深度拆解：把 Agent 从聊天框搬进一台会长期工作的公司电脑](2026-05-15/2026-05-15-kortix-suna-autonomous-company-os.md) | Kortix / Suna / Agent OS / OpenCode / Sandbox / Company OS / Agent Infrastructure |

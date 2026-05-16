@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🛡️ ExploitBench 深度拆解：AI 安全评测正在从“能不能 crash”升级成能力阶梯
+- [[2026-05-15/2026-05-15-exploitbench-capability-ladder|ExploitBench 深度拆解：AI 安全评测正在从“能不能 crash”升级成能力阶梯]]
+- [[2026-05-15/2026-05-15-exploitbench-capability-ladder-en|ExploitBench Deep Dive: AI Security Evaluation Is Moving from “Can It Crash?” to a Capability Ladder]]
+
 ## 🧩 OpenClaw 登上 ARC-AGI-3 社区榜：5.2% 背后的 Agent Harness 信号
 - [[2026-05-15/2026-05-15-openclaw-arc-agi-3-community-leaderboard|OpenClaw 登上 ARC-AGI-3 社区榜：5.2% 背后的 Agent Harness 信号]]
 - [[2026-05-15/2026-05-15-openclaw-arc-agi-3-community-leaderboard-en|OpenClaw on the ARC-AGI-3 Community Leaderboard: What a 5.2% Score Really Signals]]
