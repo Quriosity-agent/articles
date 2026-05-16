@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-05-15
+
+| 文章 | 主题 |
+|------|------|
+| [Awesome GPT Image 2 Prompts 深度拆解：当 Prompt 仓库变成开放视觉工作流库](2026-05-15/2026-05-15-gpt-image-2-prompts-open-visual-workflow-library.md) | GPT-Image-2 / Prompt Library / Image Generation / Visual Workflow / Evolink / Open Source |
+| [Awesome GPT Image 2 Prompts Deep Dive: When a Prompt Repo Becomes an Open Visual Workflow Library (EN)](2026-05-15/2026-05-15-gpt-image-2-prompts-open-visual-workflow-library-en.md) | GPT-Image-2 / prompt library / image generation / visual workflow / Evolink / open source |
+
+---
+
 ## 📅 2026-05-14
 
 | 文章 | 主题 |

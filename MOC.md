@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎨 Awesome GPT Image 2 Prompts 深度拆解：当 Prompt 仓库变成开放视觉工作流库
+- [[2026-05-15/2026-05-15-gpt-image-2-prompts-open-visual-workflow-library|Awesome GPT Image 2 Prompts 深度拆解：当 Prompt 仓库变成开放视觉工作流库]]
+- [[2026-05-15/2026-05-15-gpt-image-2-prompts-open-visual-workflow-library-en|Awesome GPT Image 2 Prompts Deep Dive: When a Prompt Repo Becomes an Open Visual Workflow Library]]
+
 ## 💼 Amino ARM Founder Space：VC CRM 正在从内部工具变成创始人协作界面
 - [[2026-05-14/2026-05-14-amino-arm-founder-space-client|Amino ARM Founder Space：VC CRM 正在从内部工具变成创始人协作界面]]
 - [[2026-05-14/2026-05-14-amino-arm-founder-space-client-en|Amino ARM Founder Space: VC CRM Is Becoming a Founder Collaboration Interface]]
