@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-05-17
+
+| 文章 | 主题 |
+|------|------|
+| [2026 创业加速器申请地图：不要只盯 YC，而要匹配信号、条款和赛道](2026-05-17/2026-05-17-startup-accelerator-application-map-2026.md) | Startup Accelerator / YC / Fundraising / Founder Playbook / Venture Capital / AI Startup / Deep Tech |
+| [The 2026 Startup Accelerator Application Map: Don’t Just Chase YC — Match Signal, Terms, and Category (EN)](2026-05-17/2026-05-17-startup-accelerator-application-map-2026-en.md) | startup accelerator / YC / fundraising / founder playbook / venture capital / AI startup / deep tech |
+
+---
+
 ## 📅 2026-05-16
 
 | 文章 | 主题 |

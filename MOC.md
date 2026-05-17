@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🚀 2026 创业加速器申请地图：不要只盯 YC，而要匹配信号、条款和赛道
+- [[2026-05-17/2026-05-17-startup-accelerator-application-map-2026|2026 创业加速器申请地图：不要只盯 YC，而要匹配信号、条款和赛道]]
+- [[2026-05-17/2026-05-17-startup-accelerator-application-map-2026-en|The 2026 Startup Accelerator Application Map: Don’t Just Chase YC — Match Signal, Terms, and Category]]
+
 ## 🔬 RLVR 与科学发现：为什么“可验证奖励”可能最不擅长真正的科学突破
 - [[2026-05-16/2026-05-16-rlvr-science-verification-loop|RLVR 与科学发现：为什么“可验证奖励”可能最不擅长真正的科学突破]]
 - [[2026-05-16/2026-05-16-rlvr-science-verification-loop-en|RLVR and Scientific Discovery: Why Verifiable Rewards May Be Worst at Real Breakthroughs]]
