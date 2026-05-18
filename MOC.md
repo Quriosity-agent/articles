@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧱 GenCAD 深度拆解：从图像生成可编辑 CAD 程序，而不是只生成 3D 网格
+- [[2026-05-18/2026-05-18-gencad-image-conditioned-cad-programs|GenCAD 深度拆解：从图像生成可编辑 CAD 程序，而不是只生成 3D 网格]]
+- [[2026-05-18/2026-05-18-gencad-image-conditioned-cad-programs-en|GenCAD Deep Dive: Generating Editable CAD Programs from Images, Not Just 3D Meshes]]
+
 ## 🧠 OpenHuman 更新拆解：从桌面控制平面走向多 Agent 运行时
 - [[2026-05-17/2026-05-17-openhuman-update-agent-runtime-hardening|OpenHuman 更新拆解：从桌面控制平面走向多 Agent 运行时]]
 - [[2026-05-17/2026-05-17-openhuman-update-agent-runtime-hardening-en|OpenHuman Update: From Desktop Control Plane to Multi-Agent Runtime]]

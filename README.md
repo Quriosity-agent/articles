@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-05-18
+
+| 文章 | 主题 |
+|------|------|
+| [GenCAD 深度拆解：从图像生成可编辑 CAD 程序，而不是只生成 3D 网格](2026-05-18/2026-05-18-gencad-image-conditioned-cad-programs.md) | GenCAD / CAD / 3D Generation / Diffusion / Contrastive Learning / Engineering AI / Manufacturing |
+| [GenCAD Deep Dive: Generating Editable CAD Programs from Images, Not Just 3D Meshes (EN)](2026-05-18/2026-05-18-gencad-image-conditioned-cad-programs-en.md) | GenCAD / CAD / 3D generation / diffusion / contrastive learning / engineering AI / manufacturing |
+
+---
+
 ## 📅 2026-05-17
 
 | 文章 | 主题 |
