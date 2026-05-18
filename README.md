@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Codex Goals 深度拆解：把“继续做”产品化成可审计的完成契约](2026-05-18/2026-05-18-codex-goals-persistent-objectives.md) | Codex / AI Agent / Goals / Coding Agents / Evidence Loop / Agent Runtime / Developer Tools |
+| [Codex Goals Deep Dive: Productizing “Keep Going” into an Auditable Completion Contract (EN)](2026-05-18/2026-05-18-codex-goals-persistent-objectives-en.md) | Codex / AI agent / goals / coding agents / evidence loop / agent runtime / developer tools |
 | [GenCAD 深度拆解：从图像生成可编辑 CAD 程序，而不是只生成 3D 网格](2026-05-18/2026-05-18-gencad-image-conditioned-cad-programs.md) | GenCAD / CAD / 3D Generation / Diffusion / Contrastive Learning / Engineering AI / Manufacturing |
 | [GenCAD Deep Dive: Generating Editable CAD Programs from Images, Not Just 3D Meshes (EN)](2026-05-18/2026-05-18-gencad-image-conditioned-cad-programs-en.md) | GenCAD / CAD / 3D generation / diffusion / contrastive learning / engineering AI / manufacturing |
 

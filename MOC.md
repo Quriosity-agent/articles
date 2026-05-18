@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎯 Codex Goals 深度拆解：把“继续做”产品化成可审计的完成契约
+- [[2026-05-18/2026-05-18-codex-goals-persistent-objectives|Codex Goals 深度拆解：把“继续做”产品化成可审计的完成契约]]
+- [[2026-05-18/2026-05-18-codex-goals-persistent-objectives-en|Codex Goals Deep Dive: Productizing “Keep Going” into an Auditable Completion Contract]]
+
 ## 🧱 GenCAD 深度拆解：从图像生成可编辑 CAD 程序，而不是只生成 3D 网格
 - [[2026-05-18/2026-05-18-gencad-image-conditioned-cad-programs|GenCAD 深度拆解：从图像生成可编辑 CAD 程序，而不是只生成 3D 网格]]
 - [[2026-05-18/2026-05-18-gencad-image-conditioned-cad-programs-en|GenCAD Deep Dive: Generating Editable CAD Programs from Images, Not Just 3D Meshes]]
