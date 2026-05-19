@@ -711,6 +711,8 @@
 - [[2026-03-14/billtheinvestor-2032244753916707378-analysis-en|AI Hedge Fund Deep Dive: One Person Simulating an Entire Fund with AI Agents]]
 
 ## 🥽 3D / XR / Gaussian Splatting
+- [[2026-05-19/2026-05-19-3dgs-small-object-reconstruction-nerf-comparison|小物体高保真重建：为什么 3DGS 正在把 NeRF 从“研究效果”推向“产品交付”]]
+- [[2026-05-19/2026-05-19-3dgs-small-object-reconstruction-nerf-comparison-en|Small-Object High-Fidelity Reconstruction: Why 3DGS Is Moving NeRF from Research Quality to Product Delivery]]
 - [[2026-03-16/gracia-vr-2032554546086424635-analysis|Gracia 4DGS 流媒体突破：高斯泼溅视频终于能像普通视频一样在浏览器里播放了]]
 - [[2026-03-16/gracia-vr-2032554546086424635-analysis-en|Gracia 4DGS Streaming Breakthrough: Gaussian Splatting Videos Now Play Like Regular Video in the Browser]]
 

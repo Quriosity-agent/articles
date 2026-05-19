@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-05-19
+
+| 文章 | 主题 |
+|------|------|
+| [小物体高保真重建：为什么 3DGS 正在把 NeRF 从“研究效果”推向“产品交付”](2026-05-19/2026-05-19-3dgs-small-object-reconstruction-nerf-comparison.md) | 3DGS / NeRF / 3D Reconstruction / Gaussian Splatting / Mobile Rendering / Digital Twin |
+| [Small-Object High-Fidelity Reconstruction: Why 3DGS Is Moving NeRF from Research Quality to Product Delivery (EN)](2026-05-19/2026-05-19-3dgs-small-object-reconstruction-nerf-comparison-en.md) | 3DGS / NeRF / 3D reconstruction / Gaussian Splatting / mobile rendering / digital twin |
+
+---
+
 ## 📅 2026-05-18
 
 | 文章 | 主题 |
