@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-05-20
+
+| 文章 | 主题 |
+|------|------|
+| [OpenAI 离散几何突破：当 AI 第一次独立推翻 Erdős 单位距离猜想](2026-05-20/2026-05-20-openai-unit-distance-ai-math-discovery.md) | OpenAI / AI for Math / Discrete Geometry / Unit Distance Problem / Erdős / Algebraic Number Theory / Research Automation |
+| [OpenAI’s Discrete Geometry Breakthrough: When AI Independently Refuted Erdős’s Unit Distance Conjecture (EN)](2026-05-20/2026-05-20-openai-unit-distance-ai-math-discovery-en.md) | OpenAI / AI for Math / discrete geometry / unit distance problem / Erdős / algebraic number theory / research automation |
+
+---
+
 ## 📅 2026-05-19
 
 | 文章 | 主题 |
