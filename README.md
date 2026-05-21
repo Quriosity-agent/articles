@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [AI 短剧市场地图：真正的机会不在“生成视频”，而在模型、创作工具和分发平台的三层重组](2026-05-20/2026-05-20-ai-short-drama-market-map.md) | AI Short Drama / AI Video / Microdrama / Seedance / Kling / Hailuo / Vidu / Runway / Veo / 短剧出海 / 创作者工具 / 分发平台 |
+| [AI Short Drama Market Map: The Real Opportunity Is Not “Generating Video,” but Rebuilding the Model–Tool–Distribution Stack (EN)](2026-05-20/2026-05-20-ai-short-drama-market-map-en.md) | AI short drama / AI video / microdrama / creator tools / distribution platforms / short drama export / AI video workflow |
 | [New API 深度拆解：AI 模型网关正在从“转发器”变成企业级模型交换机](2026-05-20/2026-05-20-new-api-ai-gateway.md) | New API / AI Gateway / OpenAI Compatible / Claude / Gemini / Model Routing / Billing / Enterprise AI Infrastructure |
 | [New API Deep Dive: The AI Model Gateway Is Becoming an Enterprise Model Switch (EN)](2026-05-20/2026-05-20-new-api-ai-gateway-en.md) | New API / AI gateway / OpenAI-compatible / Claude / Gemini / model routing / billing / enterprise AI infrastructure |
 | [Oh My OpenAgent 深度拆解：OpenCode 生态里的多模型 Agent Harness 正在变成“开发团队操作系统”](2026-05-20/2026-05-20-oh-my-openagent-agent-harness.md) | OpenCode / Oh My OpenAgent / Agent Harness / Multi-Agent / Multi-Model / Team Mode / Developer Tools / Agent OS |

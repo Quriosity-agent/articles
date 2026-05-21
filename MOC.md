@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 AI 短剧市场地图：真正的机会不在“生成视频”，而在模型、创作工具和分发平台的三层重组
+- [[2026-05-20/2026-05-20-ai-short-drama-market-map|AI 短剧市场地图：真正的机会不在“生成视频”，而在模型、创作工具和分发平台的三层重组]]
+- [[2026-05-20/2026-05-20-ai-short-drama-market-map-en|AI Short Drama Market Map: The Real Opportunity Is Not “Generating Video,” but Rebuilding the Model–Tool–Distribution Stack]]
+
 ## 🧭 New API 深度拆解：AI 模型网关正在从“转发器”变成企业级模型交换机
 - [[2026-05-20/2026-05-20-new-api-ai-gateway|New API 深度拆解：AI 模型网关正在从“转发器”变成企业级模型交换机]]
 - [[2026-05-20/2026-05-20-new-api-ai-gateway-en|New API Deep Dive: The AI Model Gateway Is Becoming an Enterprise Model Switch]]
