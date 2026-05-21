@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.55" stop-color="#15172b"/>
+      <stop offset="1" stop-color="#101827"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1f2a44"/>
+      <stop offset="1" stop-color="#121a2d"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#000" flood-opacity="0.35"/>
+    </filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#7dd3fc"/>
+    </marker>
+    <style>
+      .title{font:700 54px -apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;fill:#f8fafc}
+      .subtitle{font:500 24px -apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;fill:#bae6fd}
+      .label{font:700 24px -apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;fill:#f8fafc}
+      .small{font:500 18px -apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;fill:#cbd5e1}
+      .tiny{font:500 15px -apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;fill:#94a3b8}
+      .pill{fill:#0f172a;stroke:#334155;stroke-width:1.2}
+      .box{fill:url(#card);stroke:#334155;stroke-width:1.5;rx:24;filter:url(#shadow)}
+      .accent{fill:#38bdf8}
+      .green{fill:#34d399}
+      .yellow{fill:#fbbf24}
+      .purple{fill:#a78bfa}
+      .line{stroke:#7dd3fc;stroke-width:3;fill:none;marker-end:url(#arrow);opacity:.85}
+    </style>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1030" cy="80" r="180" fill="#0369a1" opacity="0.18"/>
+  <circle cx="130" cy="560" r="230" fill="#7c3aed" opacity="0.16"/>
+
+  <text x="70" y="85" class="title">New API：AI 模型网关的“交换机”</text>
+  <text x="72" y="125" class="subtitle">OpenAI / Claude / Gemini 格式互转，统一聚合、分发、计费与治理</text>
+
+  <rect x="70" y="185" width="240" height="260" class="box"/>
+  <text x="105" y="235" class="label">Clients</text>
+  <rect x="105" y="265" width="165" height="42" rx="21" class="pill"/><text x="127" y="292" class="small">OpenAI SDK</text>
+  <rect x="105" y="320" width="165" height="42" rx="21" class="pill"/><text x="127" y="347" class="small">Claude SDK</text>
+  <rect x="105" y="375" width="165" height="42" rx="21" class="pill"/><text x="127" y="402" class="small">Gemini API</text>
+
+  <rect x="465" y="160" width="300" height="330" class="box"/>
+  <text x="515" y="213" class="label">New API Gateway</text>
+  <text x="505" y="252" class="small">Token / User / Group</text>
+  <text x="505" y="285" class="small">Channel selection + retry</text>
+  <text x="505" y="318" class="small">Format conversion</text>
+  <text x="505" y="351" class="small">Quota / billing expression</text>
+  <text x="505" y="384" class="small">Logs / dashboard / i18n</text>
+  <rect x="520" y="415" width="190" height="38" rx="19" fill="#082f49" stroke="#38bdf8"/><text x="552" y="440" class="tiny">Go + Gin + GORM</text>
+
+  <rect x="890" y="145" width="240" height="390" class="box"/>
+  <text x="928" y="196" class="label">Providers</text>
+  <rect x="930" y="225" width="160" height="38" rx="19" class="pill"/><text x="962" y="250" class="small">OpenAI</text>
+  <rect x="930" y="277" width="160" height="38" rx="19" class="pill"/><text x="962" y="302" class="small">Azure</text>
+  <rect x="930" y="329" width="160" height="38" rx="19" class="pill"/><text x="962" y="354" class="small">Claude</text>
+  <rect x="930" y="381" width="160" height="38" rx="19" class="pill"/><text x="962" y="406" class="small">Gemini</text>
+  <rect x="930" y="433" width="160" height="38" rx="19" class="pill"/><text x="954" y="458" class="small">37 adaptors</text>
+
+  <path d="M315 315 C365 315 400 315 455 315" class="line"/>
+  <path d="M775 315 C825 315 845 315 880 315" class="line"/>
+  <path d="M880 380 C820 520 385 520 315 395" class="line" opacity="0.45"/>
+
+  <g transform="translate(70 525)">
+    <circle cx="0" cy="0" r="7" class="accent"/><text x="18" y="6" class="tiny">34.5k stars</text>
+    <circle cx="155" cy="0" r="7" class="green"/><text x="173" y="6" class="tiny">7.7k forks</text>
+    <circle cx="300" cy="0" r="7" class="yellow"/><text x="318" y="6" class="tiny">AGPL-3.0</text>
+    <circle cx="455" cy="0" r="7" class="purple"/><text x="473" y="6" class="tiny">React 19 frontend</text>
+  </g>
+</svg>

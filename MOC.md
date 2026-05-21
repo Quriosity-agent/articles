@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧭 New API 深度拆解：AI 模型网关正在从“转发器”变成企业级模型交换机
+- [[2026-05-20/2026-05-20-new-api-ai-gateway|New API 深度拆解：AI 模型网关正在从“转发器”变成企业级模型交换机]]
+- [[2026-05-20/2026-05-20-new-api-ai-gateway-en|New API Deep Dive: The AI Model Gateway Is Becoming an Enterprise Model Switch]]
+
 ## 🧰 Oh My OpenAgent 深度拆解：OpenCode 生态里的多模型 Agent Harness 正在变成“开发团队操作系统”
 - [[2026-05-20/2026-05-20-oh-my-openagent-agent-harness|Oh My OpenAgent 深度拆解：OpenCode 生态里的多模型 Agent Harness 正在变成“开发团队操作系统”]]
 - [[2026-05-20/2026-05-20-oh-my-openagent-agent-harness-en|Oh My OpenAgent Deep Dive: The Multi-Model Agent Harness Turning OpenCode into a Development-Team OS]]
