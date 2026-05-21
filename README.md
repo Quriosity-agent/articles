@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Oh My OpenAgent 深度拆解：OpenCode 生态里的多模型 Agent Harness 正在变成“开发团队操作系统”](2026-05-20/2026-05-20-oh-my-openagent-agent-harness.md) | OpenCode / Oh My OpenAgent / Agent Harness / Multi-Agent / Multi-Model / Team Mode / Developer Tools / Agent OS |
+| [Oh My OpenAgent Deep Dive: The Multi-Model Agent Harness Turning OpenCode into a Development-Team OS (EN)](2026-05-20/2026-05-20-oh-my-openagent-agent-harness-en.md) | OpenCode / Oh My OpenAgent / agent harness / multi-agent / multi-model / Team Mode / developer tools / agent OS |
 | [OpenAI 离散几何突破：当 AI 第一次独立推翻 Erdős 单位距离猜想](2026-05-20/2026-05-20-openai-unit-distance-ai-math-discovery.md) | OpenAI / AI for Math / Discrete Geometry / Unit Distance Problem / Erdős / Algebraic Number Theory / Research Automation |
 | [OpenAI’s Discrete Geometry Breakthrough: When AI Independently Refuted Erdős’s Unit Distance Conjecture (EN)](2026-05-20/2026-05-20-openai-unit-distance-ai-math-discovery-en.md) | OpenAI / AI for Math / discrete geometry / unit distance problem / Erdős / algebraic number theory / research automation |
 

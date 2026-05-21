@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧰 Oh My OpenAgent 深度拆解：OpenCode 生态里的多模型 Agent Harness 正在变成“开发团队操作系统”
+- [[2026-05-20/2026-05-20-oh-my-openagent-agent-harness|Oh My OpenAgent 深度拆解：OpenCode 生态里的多模型 Agent Harness 正在变成“开发团队操作系统”]]
+- [[2026-05-20/2026-05-20-oh-my-openagent-agent-harness-en|Oh My OpenAgent Deep Dive: The Multi-Model Agent Harness Turning OpenCode into a Development-Team OS]]
+
 ## 🧮 OpenAI 离散几何突破：当 AI 第一次独立推翻 Erdős 单位距离猜想
 - [[2026-05-20/2026-05-20-openai-unit-distance-ai-math-discovery|OpenAI 离散几何突破：当 AI 第一次独立推翻 Erdős 单位距离猜想]]
 - [[2026-05-20/2026-05-20-openai-unit-distance-ai-math-discovery-en|OpenAI’s Discrete Geometry Breakthrough: When AI Independently Refuted Erdős’s Unit Distance Conjecture]]
