@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="820" viewBox="0 0 1400 820">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#172554"/></linearGradient>
+    <linearGradient id="box" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1e293b"/><stop offset="1" stop-color="#0f172a"/></linearGradient>
+    <style>
+      text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#e5e7eb} .muted{fill:#93a4b8} .title{font-size:38px;font-weight:800}.sub{font-size:20px}.box{fill:url(#box);stroke:#38bdf8;stroke-width:2;rx:22}.small{font-size:17px}.label{font-size:24px;font-weight:700}.arrow{stroke:#60a5fa;stroke-width:4;fill:none;marker-end:url(#m)}
+    </style>
+    <marker id="m" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#60a5fa"/></marker>
+  </defs>
+  <rect width="1400" height="820" fill="url(#bg)"/>
+  <text x="70" y="70" class="title">Huobao Drama: AI Short-Drama Production Pipeline</text>
+  <text x="70" y="105" class="sub muted">Nuxt 3 frontend · Hono backend · Drizzle SQLite · Mastra agents · media adapters · FFmpeg</text>
+  <rect class="box" x="70" y="170" width="260" height="150"/><text x="100" y="215" class="label">1. Script</text><text x="100" y="255" class="small muted">raw story → rewritten</text><text x="100" y="285" class="small muted">short-drama script</text>
+  <rect class="box" x="390" y="170" width="260" height="150"/><text x="420" y="215" class="label">2. Assets</text><text x="420" y="255" class="small muted">characters · scenes</text><text x="420" y="285" class="small muted">voice assignment</text>
+  <rect class="box" x="710" y="170" width="260" height="150"/><text x="740" y="215" class="label">3. Storyboard</text><text x="740" y="255" class="small muted">shot list · prompts</text><text x="740" y="285" class="small muted">first/last/reference frames</text>
+  <rect class="box" x="1030" y="170" width="260" height="150"/><text x="1060" y="215" class="label">4. Output</text><text x="1060" y="255" class="small muted">TTS · video generation</text><text x="1060" y="285" class="small muted">compose · merge · export</text>
+  <path class="arrow" d="M330 245 H385"/><path class="arrow" d="M650 245 H705"/><path class="arrow" d="M970 245 H1025"/>
+  <rect class="box" x="100" y="430" width="350" height="210"/><text x="130" y="475" class="label">Mastra Agents</text><text x="130" y="520" class="small muted">script_rewriter</text><text x="130" y="550" class="small muted">extractor · storyboard_breaker</text><text x="130" y="580" class="small muted">voice_assigner</text><text x="130" y="610" class="small muted">grid_prompt_generator</text>
+  <rect class="box" x="525" y="430" width="350" height="210"/><text x="555" y="475" class="label">Provider Adapters</text><text x="555" y="520" class="small muted">Image: OpenAI/Gemini/MiniMax</text><text x="555" y="550" class="small muted">Volcengine/Ali/Chatfire</text><text x="555" y="580" class="small muted">Video: MiniMax/Seedance/Vidu/Ali</text><text x="555" y="610" class="small muted">TTS: MiniMax</text>
+  <rect class="box" x="950" y="430" width="350" height="210"/><text x="980" y="475" class="label">State + Files</text><text x="980" y="520" class="small muted">SQLite / Drizzle tables</text><text x="980" y="550" class="small muted">local static storage</text><text x="980" y="580" class="small muted">polling + webhooks</text><text x="980" y="610" class="small muted">FFmpeg compose/merge</text>
+  <path class="arrow" d="M275 320 V425"/><path class="arrow" d="M700 320 V425"/><path class="arrow" d="M1125 320 V425"/>
+  <text x="70" y="760" class="small muted">Repo inspected: chatfire-AI/huobao-drama @ d06eb38 · 94 files · ~32k text lines · 12.2k stars / 2.3k forks at inspection time</text>
+</svg>

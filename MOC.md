@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 火宝短剧深度拆解：AI 短剧工具真正难的是把生成模型接成生产流水线
+- [[2026-05-22/2026-05-22-huobao-drama-ai-short-drama-production-pipeline|火宝短剧深度拆解：AI 短剧工具真正难的是把生成模型接成生产流水线]]
+- [[2026-05-22/2026-05-22-huobao-drama-ai-short-drama-production-pipeline-en|Huobao Drama Deep Dive: The Hard Part of AI Short Drama Is Turning Generative Models into a Production Pipeline]]
+
 ## 🗺️ 63 家 Artificial Intelligence Neolabs 到底在做什么：一家公司一段话
 - [[2026-05-21/2026-05-21-ai-neolabs-63-company-field-guide|63 家 Artificial Intelligence Neolabs 到底在做什么：一家公司一段话]]
 - [[2026-05-21/2026-05-21-ai-neolabs-63-company-field-guide-en|What the 63 Artificial Intelligence Neolabs Actually Do: One Paragraph per Company]]

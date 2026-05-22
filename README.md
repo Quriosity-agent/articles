@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-05-22
+
+| 文章 | 主题 |
+|------|------|
+| [火宝短剧深度拆解：AI 短剧工具真正难的是把生成模型接成生产流水线](2026-05-22/2026-05-22-huobao-drama-ai-short-drama-production-pipeline.md) | Huobao Drama / AI 短剧 / Nuxt 3 / Hono / Mastra / Drizzle / FFmpeg / 多厂商 Adapter |
+| [Huobao Drama Deep Dive: The Hard Part of AI Short Drama Is Turning Generative Models into a Production Pipeline (EN)](2026-05-22/2026-05-22-huobao-drama-ai-short-drama-production-pipeline-en.md) | Huobao Drama / AI short drama / Nuxt 3 / Hono / Mastra / Drizzle / FFmpeg / provider adapters |
+
+---
+
 ## 📅 2026-05-21
 
 | 文章 | 主题 |
