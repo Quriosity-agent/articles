@@ -288,3 +288,73 @@ Chuck Hoover、Yaser Sheikh、Ruslan Salakhutdinov 的预测模型公司，核�
 | Media / Voice / Multimodal | Moonvalley、Kyutai、Reka、Elorian、Decart | 围绕视频、语音、视觉推理和多模态生成建立新的内容生产与理解平台。 |
 | Prediction / Agent Simulation | Isara、Sooth Labs、Aaru、Simile | 用大量 agent 或概率模型模拟市场、组织、社会事件和未来分布。 |
 | Brain-Computer Interface | Merge Labs | 在人脑信号和 AI 系统之间建立新交互接口，争夺人机协作的更高带宽入口。 |
+
+## 按估值 / 融资规模排序
+
+下面按原图 `VAL.` 列从高到低整理。这里的数值更接近“估值 / 市场资本化 / 传闻融资口径”，不等同于所有公司已经公开确认的累计融资额；`~`、`>`、`<` 和 `*` 保留原图中的不确定性标记。
+
+| 排名 | 公司 | 估值 / 融资规模 | 方向 |
+|---:|---|---:|---|
+| 1 | Roze | ~$100B* | Robotics |
+| 2 | Thinking Machines Lab | ~$50B* | Frontier lab |
+| 3 | Project Prometheus | $38B | Robotics |
+| 4 | SSI (Safe Superintelligence) | $32B | Frontier lab |
+| 5 | Reflection AI | $25B* | Frontier lab / Open source |
+| 6 | Skild AI | >$14B | Robotics |
+| 7 | Poolside | $12B | Frontier lab / Coding |
+| 8 | Physical Intelligence | >$11B* | Robotics |
+| 9 | Periodic Labs | ~$7B* | Bio / Materials |
+| 10 | Ineffable Intelligence | $5.1B | Frontier lab |
+| 11 | World Labs | ~$5B | World models |
+| 12 | Recursive Superintelligence | ~$4.5B | Frontier lab / Continual |
+| 13 | AMI Labs | ~$4.5B | World models |
+| 14 | Unconventional AI | $4.5B | Compute |
+| 15 | Humans& | $4.5B | Frontier lab |
+| 16 | Core Automation | >$4B | Frontier lab / Continual |
+| 17 | Inflection AI | ~$4B | Enterprise AI |
+| 18 | Hark | ~$4B* | Enterprise AI |
+| 19 | Recursive | $4B | Hardware / Chip design |
+| 20 | Xaira Therapeutics | ~$2.7-4B | Bio / Drug discovery |
+| 21 | Isomorphic Labs | $3.5B | Bio / Drug discovery |
+| 22 | Decart | $3.1B | World models |
+| 23 | Sakana AI | $2.65B | Frontier lab / Efficient |
+| 24 | General Intuition | ~$2B | World models |
+| 25 | Liquid AI | $2B | Frontier lab / Efficient |
+| 26 | H (The H Company) | $2B | Enterprise AI |
+| 27 | Rhoda AI | $1.7B | Robotics |
+| 28 | Axiom Math | $1.6B | Math |
+| 29 | Flapping Airplanes | $1.5B | Frontier lab |
+| 30 | Magic | $1.5B | Frontier lab / Coding |
+| 31 | Harmonic | $1.45B | Math |
+| 32 | AI21 Labs | $1.4B | Enterprise AI |
+| 33 | Lila Sciences | >$1.3B | Bio / Lab automation |
+| 34 | Chai Discovery | $1.3B | Bio / Drug discovery |
+| 35 | Goodfire | $1.25B | Interpretability |
+| 36 | EvolutionaryScale | >$1B | Bio / Drug discovery |
+| 37 | Moonvalley | $1B | Video |
+| 38 | Aaru | $1B | Simulation |
+| 39 | Simile | $1B | Simulation |
+| 40 | Ndea | <$1B | Frontier lab / Program synthesis |
+| 41 | Imbue | $1B | Enterprise AI |
+| 42 | AAI | >$1B | Frontier lab |
+| 43 | Reka | $1B | Frontier lab / Multimodal |
+| 44 | Kyutai | >$1B | Voice |
+| 45 | Prime Intellect | >$1B | Decentralized AI training |
+| 46 | Arcee AI | $1B | Frontier lab / Open source |
+| 47 | Essential AI | $1B | Frontier lab / Open source |
+| 48 | Zyphra | $1B | Frontier lab / Open source |
+| 49 | Mirendil | $1B | Frontier lab / AI research |
+| 50 | Nous Research | $1B | Agents |
+| 51 | Merge Labs | $850M | Brain-computer interface |
+| 52 | Inferact | $800M | Inference |
+| 53 | Isara | $650M | Frontier lab / Future prediction |
+| 54 | Inception Labs | ~$500M | Frontier lab / Diffusion coding |
+| 55 | Elorian | ~$500M | Frontier lab / Multimodal |
+| 56 | Standard Intelligence | $500M | Frontier lab / Computer Use |
+| 57 | Adaption Labs | ~$500M | Frontier lab / Continual |
+| 58 | Poetiq | <$500M | Agents |
+| 59 | Genesis AI | ~$500M | Robotics |
+| 60 | CuspAI | ~$500M | Bio / Materials |
+| 61 | RadixArk | $400M | Inference |
+| 62 | QuTwo | $380M | Quantum |
+| 63 | Sooth Labs | $335M | Frontier lab / Future prediction |
