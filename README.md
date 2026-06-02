@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-06-02
+
+| 文章 | 主题 |
+|------|------|
+| [MIRA / MPA 深度拆解：AI Scientist 真正重要的不是“发现了一个模型”，而是把材料模型研发做成递归闭环](2026-06-02/2026-06-02-mira-mpa-recursive-ai-scientist-materials-foundation-model.md) | MIRA / MPA / AI Scientist / AI for Science / 材料基座模型 / 递归自我改进 / 实验性质预测 |
+| [MIRA / MPA Deep Dive: The Important Part Is Not “A New Materials Model,” but Turning Model R&D into a Recursive Loop (EN)](2026-06-02/2026-06-02-mira-mpa-recursive-ai-scientist-materials-foundation-model-en.md) | MIRA / MPA / AI Scientist / AI for Science / materials foundation model / recursive self-improvement / experimental property prediction |
+
+---
+
 ## 📅 2026-05-31
 
 | 文章 | 主题 |

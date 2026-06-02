@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🔬 MIRA / MPA 深度拆解：AI Scientist 真正重要的不是“发现了一个模型”，而是把材料模型研发做成递归闭环
+- [[2026-06-02/2026-06-02-mira-mpa-recursive-ai-scientist-materials-foundation-model|MIRA / MPA 深度拆解：AI Scientist 真正重要的不是“发现了一个模型”，而是把材料模型研发做成递归闭环]]
+- [[2026-06-02/2026-06-02-mira-mpa-recursive-ai-scientist-materials-foundation-model-en|MIRA / MPA Deep Dive: The Important Part Is Not “A New Materials Model,” but Turning Model R&D into a Recursive Loop]]
+
 ## 🧠 MiniMax M3 深度拆解：真正的竞争点不是“又一个大模型”，而是把 Coding、长上下文和多模态合成 Agent 底座
 - [[2026-05-31/2026-05-31-minimax-m3-frontier-model-agent-coding-1m-multimodal|MiniMax M3 深度拆解：真正的竞争点不是“又一个大模型”，而是把 Coding、长上下文和多模态合成 Agent 底座]]
 - [[2026-05-31/2026-05-31-minimax-m3-frontier-model-agent-coding-1m-multimodal-en|MiniMax M3 Deep Dive: The Real Contest Is Not “Another Big Model,” but a Unified Agent Substrate for Coding, Long Context, and Multimodality]]
