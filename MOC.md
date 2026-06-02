@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 NVIDIA EAI 深度拆解：视频生成真正的瓶颈正在从模型能力转向基础设施
+- [[2026-05-26/2026-05-26-nvidia-video-generation-infrastructure-problem|NVIDIA EAI 深度拆解：视频生成真正的瓶颈正在从模型能力转向基础设施]]
+- [[2026-05-26/2026-05-26-nvidia-video-generation-infrastructure-problem-en|NVIDIA EAI Deep Dive: Video Generation’s Bottleneck Is Moving from Model Capability to Infrastructure]]
+
 ## 🔬 MIRA / MPA 深度拆解：AI Scientist 真正重要的不是“发现了一个模型”，而是把材料模型研发做成递归闭环
 - [[2026-06-02/2026-06-02-mira-mpa-recursive-ai-scientist-materials-foundation-model|MIRA / MPA 深度拆解：AI Scientist 真正重要的不是“发现了一个模型”，而是把材料模型研发做成递归闭环]]
 - [[2026-06-02/2026-06-02-mira-mpa-recursive-ai-scientist-materials-foundation-model-en|MIRA / MPA Deep Dive: The Important Part Is Not “A New Materials Model,” but Turning Model R&D into a Recursive Loop]]

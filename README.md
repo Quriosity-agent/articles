@@ -24,6 +24,15 @@
 
 ---
 
+## 📅 2026-05-26
+
+| 文章 | 主题 |
+|------|------|
+| [NVIDIA EAI 深度拆解：视频生成真正的瓶颈正在从模型能力转向基础设施](2026-05-26/2026-05-26-nvidia-video-generation-infrastructure-problem.md) | NVIDIA EAI / Video Generation / LongLive 2.0 / AI Video Infrastructure / NVFP4 / KV Cache / VAE Decoding / Long Video |
+| [NVIDIA EAI Deep Dive: Video Generation’s Bottleneck Is Moving from Model Capability to Infrastructure (EN)](2026-05-26/2026-05-26-nvidia-video-generation-infrastructure-problem-en.md) | NVIDIA EAI / video generation / LongLive 2.0 / AI video infrastructure / NVFP4 / KV cache / VAE decoding / long video |
+
+---
+
 ## 📅 2026-05-22
 
 | 文章 | 主题 |
