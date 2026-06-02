@@ -270,3 +270,21 @@ Chuck Hoover、Yaser Sheikh、Ruslan Salakhutdinov 的预测模型公司，核�
 第一，资本正在把“AI lab”从单一前沿模型公司拆成很多垂直研究公司：机器人、材料、药物、数学、视频、语音、芯片、仿真、推理服务都在吸收同一批大实验室人才。第二，这些公司的估值不是由当下收入解释的，而是由“如果某个基础能力突破，谁会控制新平台层”解释的。第三，真正值得跟踪的不是每家公司今天的 demo，而是它们选择的控制面：数据、算力、硬件、模型架构、评测、实验自动化，还是分发渠道。
 
 如果只用一句话概括：这不是 63 家聊天机器人公司，而是 63 个赌注——赌 AI 下一层平台会落在现实世界、科学实验、软件工程、推理基础设施或人机接口中的哪一个。
+
+## 按方向重新分类
+
+下面这个分类不是按公司自我介绍，而是按它们最可能争夺的“控制面”来分。很多公司会横跨多个方向，例如 Periodic Labs 既可以放在 AI for Science，也可以被资本看成“AI scientist / frontier lab”的一种。
+
+| 分类 | 代表公司 | 主要赌注 |
+|---|---|---|
+| 大模型训练 / Frontier Lab | Thinking Machines Lab、SSI、Reflection AI、Ineffable Intelligence、Recursive Superintelligence、Humans&、Core Automation、Sakana AI、Liquid AI、AAI、Reka、Arcee AI、Essential AI、Zyphra、Ndea、Inception Labs、Elorian、Adaption Labs | 继续训练更强、更高效、更可控的基础模型，或在开源、推理、持续学习、多模态、代码生成上形成差异化路线。 |
+| AI 编程 / Software Agent | Poolside、Magic、Inception Labs、Standard Intelligence、Essential AI、Imbue、Nous Research、Poetiq | 把模型能力变成软件工程、电脑操作、企业任务执行和长程 agent 工作流。 |
+| AI for Science / Bio / Materials | Periodic Labs、Xaira Therapeutics、Isomorphic Labs、Lila Sciences、Chai Discovery、EvolutionaryScale、CuspAI、Mirendil | 用模型做药物发现、蛋白质设计、材料搜索、实验规划和科学推理，把科研流程变成可自动化闭环。 |
+| Robotics / Embodied AI | Roze、Project Prometheus、Skild AI、Physical Intelligence、Rhoda AI、Genesis AI | 把 AI 从屏幕和 API 推进物理世界，让机器人学会可迁移的操作、导航、制造和真实环境执行能力。 |
+| World Models / Simulation | World Labs、AMI Labs、Decart、General Intuition、Aaru、Simile | 让模型理解、生成和预测三维世界、动态环境、社会系统或复杂仿真，而不只是处理文本和图片。 |
+| Math / Formal Reasoning | Axiom Math、Harmonic、Mirendil、Ineffable Intelligence | 攻克数学证明、形式化推理、搜索和可验证推理，作为通用智能能力的硬测试场。 |
+| Inference / Compute / Hardware | Unconventional AI、Recursive、Prime Intellect、Inferact、RadixArk、QuTwo | 降低训练和推理成本，重构 GPU 集群、芯片设计、分布式训练、高吞吐推理和下一代计算平台。 |
+| Enterprise AI / AI Worker | Inflection AI、Hark、H、AI21 Labs、Essential AI、Imbue、Adaption Labs | 把模型接进企业流程、知识库、表格、文档、客服和内部操作系统，争夺工作入口。 |
+| Media / Voice / Multimodal | Moonvalley、Kyutai、Reka、Elorian、Decart | 围绕视频、语音、视觉推理和多模态生成建立新的内容生产与理解平台。 |
+| Prediction / Agent Simulation | Isara、Sooth Labs、Aaru、Simile | 用大量 agent 或概率模型模拟市场、组织、社会事件和未来分布。 |
+| Brain-Computer Interface | Merge Labs | 在人脑信号和 AI 系统之间建立新交互接口，争夺人机协作的更高带宽入口。 |
