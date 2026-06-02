@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧠 MiniMax M3 深度拆解：真正的竞争点不是“又一个大模型”，而是把 Coding、长上下文和多模态合成 Agent 底座
+- [[2026-05-31/2026-05-31-minimax-m3-frontier-model-agent-coding-1m-multimodal|MiniMax M3 深度拆解：真正的竞争点不是“又一个大模型”，而是把 Coding、长上下文和多模态合成 Agent 底座]]
+- [[2026-05-31/2026-05-31-minimax-m3-frontier-model-agent-coding-1m-multimodal-en|MiniMax M3 Deep Dive: The Real Contest Is Not “Another Big Model,” but a Unified Agent Substrate for Coding, Long Context, and Multimodality]]
+
 ## 🎬 火宝短剧深度拆解：AI 短剧工具真正难的是把生成模型接成生产流水线
 - [[2026-05-22/2026-05-22-huobao-drama-ai-short-drama-production-pipeline|火宝短剧深度拆解：AI 短剧工具真正难的是把生成模型接成生产流水线]]
 - [[2026-05-22/2026-05-22-huobao-drama-ai-short-drama-production-pipeline-en|Huobao Drama Deep Dive: The Hard Part of AI Short Drama Is Turning Generative Models into a Production Pipeline]]

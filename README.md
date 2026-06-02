@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-05-31
+
+| 文章 | 主题 |
+|------|------|
+| [MiniMax M3 深度拆解：真正的竞争点不是“又一个大模型”，而是把 Coding、长上下文和多模态合成 Agent 底座](2026-05-31/2026-05-31-minimax-m3-frontier-model-agent-coding-1m-multimodal.md) | MiniMax M3 / Frontier Model / Coding Agent / 1M Context / Sparse Attention / Multimodal / MiniMax Code / Agent Harness |
+| [MiniMax M3 Deep Dive: The Real Contest Is Not “Another Big Model,” but a Unified Agent Substrate for Coding, Long Context, and Multimodality (EN)](2026-05-31/2026-05-31-minimax-m3-frontier-model-agent-coding-1m-multimodal-en.md) | MiniMax M3 / frontier model / coding agent / 1M context / sparse attention / multimodal / MiniMax Code / agent harness |
+
+---
+
 ## 📅 2026-05-22
 
 | 文章 | 主题 |
