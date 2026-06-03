@@ -8,6 +8,10 @@
 - [[2026-06-03/2026-06-03-openai-gpt-rosalind-life-sciences-agent|OpenAI GPT-Rosalind 深度拆解：生命科学 Agent 的关键，不是“懂生物”，而是把研究流程产品化]]
 - [[2026-06-03/2026-06-03-openai-gpt-rosalind-life-sciences-agent-en|OpenAI GPT-Rosalind Deep Dive: Life-Sciences Agents Need Productized Research Loops, Not Just Biology Knowledge]]
 
+## 🧩 Reve “The Layout Bet” 深度拆解：图像生成的下一层抽象，可能不是 Prompt，而是 Layout
+- [[2026-06-03/2026-06-03-reve-layout-bet-large-layout-model|Reve “The Layout Bet” 深度拆解：图像生成的下一层抽象，可能不是 Prompt，而是 Layout]]
+- [[2026-06-03/2026-06-03-reve-layout-bet-large-layout-model-en|Reve “The Layout Bet” Deep Dive: The Next Abstraction for Image Generation May Be Layout, Not Prompting]]
+
 ## 🎬 NVIDIA EAI 深度拆解：视频生成真正的瓶颈正在从模型能力转向基础设施
 - [[2026-05-26/2026-05-26-nvidia-video-generation-infrastructure-problem|NVIDIA EAI 深度拆解：视频生成真正的瓶颈正在从模型能力转向基础设施]]
 - [[2026-05-26/2026-05-26-nvidia-video-generation-infrastructure-problem-en|NVIDIA EAI Deep Dive: Video Generation’s Bottleneck Is Moving from Model Capability to Infrastructure]]
