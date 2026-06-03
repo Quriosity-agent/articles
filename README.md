@@ -15,6 +15,15 @@
 
 ---
 
+## 📅 2026-06-03
+
+| 文章 | 主题 |
+|------|------|
+| [OpenAI GPT-Rosalind 深度拆解：生命科学 Agent 的关键，不是“懂生物”，而是把研究流程产品化](2026-06-03/2026-06-03-openai-gpt-rosalind-life-sciences-agent.md) | OpenAI / GPT-Rosalind / Life Sciences / AI for Science / 生物推理 / 药物化学 / 基因组分析 / 实验流程 / 科研 Agent |
+| [OpenAI GPT-Rosalind Deep Dive: Life-Sciences Agents Need Productized Research Loops, Not Just Biology Knowledge (EN)](2026-06-03/2026-06-03-openai-gpt-rosalind-life-sciences-agent-en.md) | OpenAI / GPT-Rosalind / life sciences / AI for Science / biological reasoning / medicinal chemistry / genomics / experimental workflow / research agent |
+
+---
+
 ## 📅 2026-06-02
 
 | 文章 | 主题 |
