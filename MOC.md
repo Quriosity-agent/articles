@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎨 Ideogram 4.0 深度拆解：开源图像模型的竞争点，正在从“会画”转向“可控设计系统”
+- [[2026-06-04/2026-06-04-ideogram-4-open-weight-design-model|Ideogram 4.0 深度拆解：开源图像模型的竞争点，正在从“会画”转向“可控设计系统”]]
+- [[2026-06-04/2026-06-04-ideogram-4-open-weight-design-model-en|Ideogram 4.0 Deep Dive: Open-Weight Image Models Are Moving from “Can Draw” to Controllable Design Systems]]
+
 ## 🎬 NVIDIA EAI 深度拆解：视频生成真正的瓶颈正在从模型能力转向基础设施
 - [[2026-05-26/2026-05-26-nvidia-video-generation-infrastructure-problem|NVIDIA EAI 深度拆解：视频生成真正的瓶颈正在从模型能力转向基础设施]]
 - [[2026-05-26/2026-05-26-nvidia-video-generation-infrastructure-problem-en|NVIDIA EAI Deep Dive: Video Generation’s Bottleneck Is Moving from Model Capability to Infrastructure]]

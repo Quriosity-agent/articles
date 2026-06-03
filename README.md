@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-06-04
+
+| 文章 | 主题 |
+|------|------|
+| [Ideogram 4.0 深度拆解：开源图像模型的竞争点，正在从“会画”转向“可控设计系统”](2026-06-04/2026-06-04-ideogram-4-open-weight-design-model.md) | Ideogram 4.0 / Open-Weight Image Model / DesignArena / 文生图 / 文字渲染 / 版式控制 / JSON Prompting / 企业部署 |
+| [Ideogram 4.0 Deep Dive: Open-Weight Image Models Are Moving from “Can Draw” to Controllable Design Systems (EN)](2026-06-04/2026-06-04-ideogram-4-open-weight-design-model-en.md) | Ideogram 4.0 / open-weight image model / DesignArena / text-to-image / typography / layout control / JSON prompting / enterprise deployment |
+
+---
+
 ## 📅 2026-06-02
 
 | 文章 | 主题 |
