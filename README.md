@@ -21,6 +21,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [01C Amara 深度拆解：3D Agent 的核心，不是生成一个模型，而是把“世界构建”做成可编辑的空间工作流](2026-06-03/2026-06-03-01c-amara-3d-agent-spatial-reasoning.md) | 01C / Amara / 3D Agent / 3D Spatial Reasoning / Text-to-3D World / Unreal / Simulation / Game AI / Embodied AI / AI 视频预演 |
+| [01C Amara Deep Dive: A 3D Agent Is Not About Generating One Model, but Productizing Editable World Building (EN)](2026-06-03/2026-06-03-01c-amara-3d-agent-spatial-reasoning-en.md) | 01C / Amara / 3D agent / 3D spatial reasoning / text-to-3D world / Unreal / simulation / game AI / embodied AI / AI-video previs |
 | [OpenAI GPT-Rosalind 深度拆解：生命科学 Agent 的关键，不是“懂生物”，而是把研究流程产品化](2026-06-03/2026-06-03-openai-gpt-rosalind-life-sciences-agent.md) | OpenAI / GPT-Rosalind / Life Sciences / AI for Science / 生物推理 / 药物化学 / 基因组分析 / 实验流程 / 科研 Agent |
 | [OpenAI GPT-Rosalind Deep Dive: Life-Sciences Agents Need Productized Research Loops, Not Just Biology Knowledge (EN)](2026-06-03/2026-06-03-openai-gpt-rosalind-life-sciences-agent-en.md) | OpenAI / GPT-Rosalind / life sciences / AI for Science / biological reasoning / medicinal chemistry / genomics / experimental workflow / research agent |
 | [Reve “The Layout Bet” 深度拆解：图像生成的下一层抽象，可能不是 Prompt，而是 Layout](2026-06-03/2026-06-03-reve-layout-bet-large-layout-model.md) | Reve 2.0 / Large Layout Model / Image Generation / Layout Representation / Spatial Reasoning / Visual Agents / Program Synthesis / 可控图像生成 |

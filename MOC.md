@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🌐 01C Amara 深度拆解：3D Agent 的核心，不是生成一个模型，而是把“世界构建”做成可编辑的空间工作流
+- [[2026-06-03/2026-06-03-01c-amara-3d-agent-spatial-reasoning|01C Amara 深度拆解：3D Agent 的核心，不是生成一个模型，而是把“世界构建”做成可编辑的空间工作流]]
+- [[2026-06-03/2026-06-03-01c-amara-3d-agent-spatial-reasoning-en|01C Amara Deep Dive: A 3D Agent Is Not About Generating One Model, but Productizing Editable World Building]]
+
 ## 🎨 Ideogram 4.0 深度拆解：开源图像模型的竞争点，正在从“会画”转向“可控设计系统”
 - [[2026-06-04/2026-06-04-ideogram-4-open-weight-design-model|Ideogram 4.0 深度拆解：开源图像模型的竞争点，正在从“会画”转向“可控设计系统”]]
 - [[2026-06-04/2026-06-04-ideogram-4-open-weight-design-model-en|Ideogram 4.0 Deep Dive: Open-Weight Image Models Are Moving from “Can Draw” to Controllable Design Systems]]
