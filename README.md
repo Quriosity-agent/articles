@@ -25,6 +25,8 @@
 | [OpenAI GPT-Rosalind Deep Dive: Life-Sciences Agents Need Productized Research Loops, Not Just Biology Knowledge (EN)](2026-06-03/2026-06-03-openai-gpt-rosalind-life-sciences-agent-en.md) | OpenAI / GPT-Rosalind / life sciences / AI for Science / biological reasoning / medicinal chemistry / genomics / experimental workflow / research agent |
 | [Reve “The Layout Bet” 深度拆解：图像生成的下一层抽象，可能不是 Prompt，而是 Layout](2026-06-03/2026-06-03-reve-layout-bet-large-layout-model.md) | Reve 2.0 / Large Layout Model / Image Generation / Layout Representation / Spatial Reasoning / Visual Agents / Program Synthesis / 可控图像生成 |
 | [Reve “The Layout Bet” Deep Dive: The Next Abstraction for Image Generation May Be Layout, Not Prompting (EN)](2026-06-03/2026-06-03-reve-layout-bet-large-layout-model-en.md) | Reve 2.0 / Large Layout Model / image generation / layout representation / spatial reasoning / visual agents / program synthesis / controllable generation |
+| [AI 视频人物站位控制实战：3D 导演台的价值，不是“更酷的界面”，而是把镜头调度前置成可验证的空间方案](2026-06-03/2026-06-03-ai-video-3d-director-stage-positioning.md) | AI 视频 / 3D 导演台 / 人物站位 / 镜头调度 / Seedance 2.0 / 参考图工作流 / 空间控制 / 分镜预演 |
+| [Practical Control of Character Blocking in AI Video: A 3D Director Stage Is Not a Cooler UI, but a Verifiable Spatial Plan (EN)](2026-06-03/2026-06-03-ai-video-3d-director-stage-positioning-en.md) | AI video / 3D director stage / character blocking / camera planning / Seedance 2.0 / reference-image workflow / spatial control / previs |
 
 ---
 

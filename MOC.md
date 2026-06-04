@@ -8,6 +8,10 @@
 - [[2026-06-04/2026-06-04-nuwa-identity-intelligence-platform|Nuwa 深度拆解：Identity Intelligence 正在把“找人”做成一套搜索、研究和 API 基础设施]]
 - [[2026-06-04/2026-06-04-nuwa-identity-intelligence-platform-en|Nuwa Deep Dive: Identity Intelligence Is Turning “Finding People” into Search, Research, and API Infrastructure]]
 
+## 🎬 AI 视频人物站位控制实战：3D 导演台的价值，不是“更酷的界面”，而是把镜头调度前置成可验证的空间方案
+- [[2026-06-03/2026-06-03-ai-video-3d-director-stage-positioning|AI 视频人物站位控制实战：3D 导演台的价值，不是“更酷的界面”，而是把镜头调度前置成可验证的空间方案]]
+- [[2026-06-03/2026-06-03-ai-video-3d-director-stage-positioning-en|Practical Control of Character Blocking in AI Video: A 3D Director Stage Is Not a Cooler UI, but a Verifiable Spatial Plan]]
+
 ## 🧬 OpenAI GPT-Rosalind 深度拆解：生命科学 Agent 的关键，不是“懂生物”，而是把研究流程产品化
 - [[2026-06-03/2026-06-03-openai-gpt-rosalind-life-sciences-agent|OpenAI GPT-Rosalind 深度拆解：生命科学 Agent 的关键，不是“懂生物”，而是把研究流程产品化]]
 - [[2026-06-03/2026-06-03-openai-gpt-rosalind-life-sciences-agent-en|OpenAI GPT-Rosalind Deep Dive: Life-Sciences Agents Need Productized Research Loops, Not Just Biology Knowledge]]
