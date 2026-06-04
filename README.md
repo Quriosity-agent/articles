@@ -12,6 +12,8 @@
 |------|------|
 | [Ideogram 4.0 深度拆解：开源图像模型的竞争点，正在从“会画”转向“可控设计系统”](2026-06-04/2026-06-04-ideogram-4-open-weight-design-model.md) | Ideogram 4.0 / Open-Weight Image Model / DesignArena / 文生图 / 文字渲染 / 版式控制 / JSON Prompting / 企业部署 |
 | [Ideogram 4.0 Deep Dive: Open-Weight Image Models Are Moving from “Can Draw” to Controllable Design Systems (EN)](2026-06-04/2026-06-04-ideogram-4-open-weight-design-model-en.md) | Ideogram 4.0 / open-weight image model / DesignArena / text-to-image / typography / layout control / JSON prompting / enterprise deployment |
+| [Nuwa 深度拆解：Identity Intelligence 正在把“找人”做成一套搜索、研究和 API 基础设施](2026-06-04/2026-06-04-nuwa-identity-intelligence-platform.md) | Nuwa / Identity Intelligence / Face Search / Semantic Search / Deep Research / OSINT / API / KYC / Due Diligence / Privacy / Safety |
+| [Nuwa Deep Dive: Identity Intelligence Is Turning “Finding People” into Search, Research, and API Infrastructure (EN)](2026-06-04/2026-06-04-nuwa-identity-intelligence-platform-en.md) | Nuwa / identity intelligence / face search / semantic search / deep research / OSINT / API / KYC / due diligence / privacy / safety |
 
 ---
 

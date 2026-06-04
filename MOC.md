@@ -4,6 +4,10 @@
 - [[2026-06-04/2026-06-04-ideogram-4-open-weight-design-model|Ideogram 4.0 深度拆解：开源图像模型的竞争点，正在从“会画”转向“可控设计系统”]]
 - [[2026-06-04/2026-06-04-ideogram-4-open-weight-design-model-en|Ideogram 4.0 Deep Dive: Open-Weight Image Models Are Moving from “Can Draw” to Controllable Design Systems]]
 
+## 🕵️ Nuwa 深度拆解：Identity Intelligence 正在把“找人”做成一套搜索、研究和 API 基础设施
+- [[2026-06-04/2026-06-04-nuwa-identity-intelligence-platform|Nuwa 深度拆解：Identity Intelligence 正在把“找人”做成一套搜索、研究和 API 基础设施]]
+- [[2026-06-04/2026-06-04-nuwa-identity-intelligence-platform-en|Nuwa Deep Dive: Identity Intelligence Is Turning “Finding People” into Search, Research, and API Infrastructure]]
+
 ## 🧬 OpenAI GPT-Rosalind 深度拆解：生命科学 Agent 的关键，不是“懂生物”，而是把研究流程产品化
 - [[2026-06-03/2026-06-03-openai-gpt-rosalind-life-sciences-agent|OpenAI GPT-Rosalind 深度拆解：生命科学 Agent 的关键，不是“懂生物”，而是把研究流程产品化]]
 - [[2026-06-03/2026-06-03-openai-gpt-rosalind-life-sciences-agent-en|OpenAI GPT-Rosalind Deep Dive: Life-Sciences Agents Need Productized Research Loops, Not Just Biology Knowledge]]
