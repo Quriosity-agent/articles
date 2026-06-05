@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧠 Yann Dubois 访谈拆解：AI 进展突然变“真实”，不是因为智能跃迁，而是可靠性过线
+- [[2026-05-21/2026-05-21-openai-yann-dubois-reliability-threshold|Yann Dubois 访谈拆解：AI 进展突然变“真实”，不是因为智能跃迁，而是可靠性过线]]
+- [[2026-05-21/2026-05-21-openai-yann-dubois-reliability-threshold-en|Yann Dubois Interview Deep Dive: AI Suddenly Feels Real Not Because Intelligence Jumped, but Because Reliability Crossed a Threshold]]
+
 ## 🌐 01C Amara 深度拆解：3D Agent 的核心，不是生成一个模型，而是把“世界构建”做成可编辑的空间工作流
 - [[2026-06-03/2026-06-03-01c-amara-3d-agent-spatial-reasoning|01C Amara 深度拆解：3D Agent 的核心，不是生成一个模型，而是把“世界构建”做成可编辑的空间工作流]]
 - [[2026-06-03/2026-06-03-01c-amara-3d-agent-spatial-reasoning-en|01C Amara Deep Dive: A 3D Agent Is Not About Generating One Model, but Productizing Editable World Building]]

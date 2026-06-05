@@ -72,6 +72,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Yann Dubois 访谈拆解：AI 进展突然变“真实”，不是因为智能跃迁，而是可靠性过线](2026-05-21/2026-05-21-openai-yann-dubois-reliability-threshold.md) | OpenAI / Yann Dubois / GPT-5.5 / Reliability Threshold / Post-training / RL / Evals / Agent Harness / Continual Learning |
+| [Yann Dubois Interview Deep Dive: AI Suddenly Feels Real Not Because Intelligence Jumped, but Because Reliability Crossed a Threshold (EN)](2026-05-21/2026-05-21-openai-yann-dubois-reliability-threshold-en.md) | OpenAI / Yann Dubois / GPT-5.5 / reliability threshold / post-training / RL / evals / agent harness / continual learning |
 | [63 家 Artificial Intelligence Neolabs 到底在做什么：一家公司一段话](2026-05-21/2026-05-21-ai-neolabs-63-company-field-guide.md) | AI Neolabs / Frontier Labs / Robotics / World Models / AI for Science / Inference / Agents |
 | [What the 63 Artificial Intelligence Neolabs Actually Do: One Paragraph per Company (EN)](2026-05-21/2026-05-21-ai-neolabs-63-company-field-guide-en.md) | AI neolabs / frontier labs / robotics / world models / AI for science / inference / agents |
 
