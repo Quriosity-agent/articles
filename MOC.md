@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 html-video 深度拆解：Open Design 把“HTML 生成视频”做成 Agent 原生创作流水线
+- [[2026-06-07/2026-06-07-html-video-open-design-agentic-video-pipeline|html-video 深度拆解：Open Design 把“HTML 生成视频”做成 Agent 原生创作流水线]]
+- [[2026-06-07/2026-06-07-html-video-open-design-agentic-video-pipeline-en|html-video Deep Dive: Open Design Turns HTML-to-Video into an Agent-Native Production Pipeline]]
+
 ## 🧠 Yann Dubois 访谈拆解：AI 进展突然变“真实”，不是因为智能跃迁，而是可靠性过线
 - [[2026-05-21/2026-05-21-openai-yann-dubois-reliability-threshold|Yann Dubois 访谈拆解：AI 进展突然变“真实”，不是因为智能跃迁，而是可靠性过线]]
 - [[2026-05-21/2026-05-21-openai-yann-dubois-reliability-threshold-en|Yann Dubois Interview Deep Dive: AI Suddenly Feels Real Not Because Intelligence Jumped, but Because Reliability Crossed a Threshold]]

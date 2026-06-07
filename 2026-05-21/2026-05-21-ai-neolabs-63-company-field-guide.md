@@ -2,6 +2,8 @@
 
 > Source: NotionHQ / Deedy Das “Artificial Intelligence Neolabs” map  
 > Source URL: https://x.com/NotionHQ/status/2054625030970220834?s=20  
+> Additional source: 十字路口Crossing《硅谷大佬集体下场做 Neo Labs | 盘点估值最高的20家》  
+> Additional source URL: https://mp.weixin.qq.com/s/4qlxgz1wFSA6yxBhFA9Z2A  
 > Screenshot date in source: Last updated May 6, 2026  
 > Tags: AI Neolabs / Frontier Labs / Robotics / World Models / AI for Science / Inference / Agents
 
@@ -81,13 +83,13 @@ Eric Zelikman 与 Georges Harik 的研究型实验室，结合早期 Google 组�
 
 Mustafa Suleyman、Karen Simonyan、Reid Hoffman 创立的企业 AI 公司；Pi 助手之后，团队和技术大量转向 Microsoft，留下的是面向企业助手和模型服务的路线。
 
-### 18. Hark（Enterprise AI）
+### 18. Hark（Enterprise AI / Personal AI hardware）
 
-Figure AI/Archer 创始人 Brett Adcock 个人资金支持的企业 AI 项目，可能把机器人、航空和企业自动化经验结合到面向公司流程的 AI 系统。
+Figure AI/Archer 创始人 Brett Adcock 个人资金支持的新 AI 项目。原图把它放在 enterprise AI 附近，但十字路口的补充信息更强调它面向消费端和个人 AI 的硬件 / 通用交互界面，是这批 Neo Labs 里少见的直接押注 C 端入口的公司。
 
-### 19. Recursive（Hardware / Chip design）
+### 19. Ricursive Intelligence（Hardware / Chip design）
 
-Anna Goldie 与 Azalia Mirhoseini 创办，做 AI 芯片设计：用机器学习自动探索布局、架构和优化，让芯片研发本身被 AI 加速。
+Anna Goldie 与 Azalia Mirhoseini 创办，做 AI 芯片设计：用机器学习自动探索布局、架构和优化，让芯片研发本身被 AI 加速。注意它是 Ricursive Intelligence，不是 Richard Socher 的 Recursive Superintelligence；前者押注芯片设计飞轮，后者押注递归自我改进 AI。
 
 ### 20. Xaira Therapeutics（Bio / Drug discovery）
 
@@ -271,6 +273,43 @@ Chuck Hoover、Yaser Sheikh、Ruslan Salakhutdinov 的预测模型公司，核�
 
 如果只用一句话概括：这不是 63 家聊天机器人公司，而是 63 个赌注——赌 AI 下一层平台会落在现实世界、科学实验、软件工程、推理基础设施或人机接口中的哪一个。
 
+## 十字路口补充：估值最高 20 家 Neo Labs 的另一种读法
+
+十字路口的文章没有覆盖 63 家全量名单，而是按“硅谷最贵的 20 家实验室”重新切了一刀。它补充的重点不是公司数量，而是 Neo Labs 这个新物种为什么会在 2025-2026 年集中出现：研究产出正在直接变成代码、分子、材料方案或企业运营规划；大模型工具链让研究员可以更快把想法跑起来；资本也开始在产品和收入出现之前，直接押注研究方向本身。
+
+这个口径下，最值得补进本文的是三点：
+
+1. **Project Prometheus 是典型样本。** 它还没有公开产品，却已经拿到约 62 亿美元启动资金，并被报道接近约 100 亿美元新融资、投后估值约 380 亿美元。它的关键词不是聊天，而是 engineering / manufacturing / physical economy。
+2. **Hark 的定位更偏 C 端入口。** 如果只看原图，很容易把 Hark 放进 enterprise AI；十字路口更强调它可能是个人 AI 硬件和通用交互界面。
+3. **Ricursive Intelligence 需要和 Recursive Superintelligence 分开。** 前者来自 Anna Goldie / Azalia Mirhoseini 的 AI 芯片设计路线，后者来自 Richard Socher 的递归自我改进 AI 路线，名字相近但控制面完全不同。
+
+按十字路口文章的估值 / 融资口径，Top 20 更像下面这张表。它和上面 63 家地图里的 `VAL.` 列并不完全一致，所以这里保留为“另一种口径”，不直接覆盖原表。
+
+| 排名 | 公司 | 十字路口口径 | 核心方向 |
+|---:|---|---:|---|
+| 1 | Project Prometheus | 约 $38B | AI for engineering / manufacturing / physical economy |
+| 2 | Safe Superintelligence / SSI | 约 $32B | 安全超级智能 |
+| 3 | Skild AI | 约 $14B+ | 机器人基础模型 |
+| 4 | Thinking Machines Lab | 约 $12B | 多模态、协作式通用智能 |
+| 5 | Reflection AI | 约 $8B | 开放前沿 AI / coding agents 起步 |
+| 6 | Hark | 约 $6B | 个人 AI 硬件 / 通用交互界面 |
+| 7 | Physical Intelligence | 约 $5.6B | 跨具身机器人基础模型 |
+| 8 | World Labs | 约 $5B | 空间智能 / 3D world models |
+| 9 | Unconventional AI | 约 $4.5B | AI compute / hardware |
+| 10 | Recursive Superintelligence | 约 $4B | 递归自我改进 AI |
+| 11 | Decart | 约 $4B | 实时视频 / world models |
+| 12 | Ricursive Intelligence | 约 $4B | AI chip design |
+| 13 | AMI Labs | 约 $3.5B pre-money | JEPA / world models |
+| 14 | Isomorphic Labs | 累计融资约 $2.7B，估值未披露 | AI drug design |
+| 15 | Poolside | 约 $3B | coding models / software agents |
+| 16 | Xaira Therapeutics | 约 $2.7B | AI-first drug discovery |
+| 17 | Liquid AI | 约 $2B | 高效模型 / edge inference |
+| 18 | Magic | 约 $1.5B | long-context coding agents |
+| 19 | Flapping Airplanes | 约 $1.5B | data-efficient AI research |
+| 20 | Harmonic | 约 $1.45B | math superintelligence / formal reasoning |
+
+这篇补充文章最后提出的风险也很重要：Neo Labs 真正的考验不是发布 demo，而是能不能熬过“沉默期”。药物管线、芯片流片、机器人基础模型和世界模型都需要多年验证；同时，Meta、Google、OpenAI 等大厂会用极高薪酬和加速 vesting 抢回研究员。也就是说，Neo Labs 的估值叙事押的是十年级别的突破，但人才和资本市场会每几个月重新定价一次。
+
 ## 按方向重新分类
 
 下面这个分类不是按公司自我介绍，而是按它们最可能争夺的“控制面”来分。很多公司会横跨多个方向，例如 Periodic Labs 既可以放在 AI for Science，也可以被资本看成“AI scientist / frontier lab”的一种。
@@ -283,7 +322,7 @@ Chuck Hoover、Yaser Sheikh、Ruslan Salakhutdinov 的预测模型公司，核�
 | Robotics / Embodied AI | Roze、Project Prometheus、Skild AI、Physical Intelligence、Rhoda AI、Genesis AI | 把 AI 从屏幕和 API 推进物理世界，让机器人学会可迁移的操作、导航、制造和真实环境执行能力。 |
 | World Models / Simulation | World Labs、AMI Labs、Decart、General Intuition、Aaru、Simile | 让模型理解、生成和预测三维世界、动态环境、社会系统或复杂仿真，而不只是处理文本和图片。 |
 | Math / Formal Reasoning | Axiom Math、Harmonic、Mirendil、Ineffable Intelligence | 攻克数学证明、形式化推理、搜索和可验证推理，作为通用智能能力的硬测试场。 |
-| Inference / Compute / Hardware | Unconventional AI、Recursive、Prime Intellect、Inferact、RadixArk、QuTwo | 降低训练和推理成本，重构 GPU 集群、芯片设计、分布式训练、高吞吐推理和下一代计算平台。 |
+| Inference / Compute / Hardware | Unconventional AI、Ricursive Intelligence、Prime Intellect、Inferact、RadixArk、QuTwo | 降低训练和推理成本，重构 GPU 集群、芯片设计、分布式训练、高吞吐推理和下一代计算平台。 |
 | Enterprise AI / AI Worker | Inflection AI、Hark、H、AI21 Labs、Essential AI、Imbue、Adaption Labs | 把模型接进企业流程、知识库、表格、文档、客服和内部操作系统，争夺工作入口。 |
 | Media / Voice / Multimodal | Moonvalley、Kyutai、Reka、Elorian、Decart | 围绕视频、语音、视觉推理和多模态生成建立新的内容生产与理解平台。 |
 | Prediction / Agent Simulation | Isara、Sooth Labs、Aaru、Simile | 用大量 agent 或概率模型模拟市场、组织、社会事件和未来分布。 |
@@ -313,7 +352,7 @@ Chuck Hoover、Yaser Sheikh、Ruslan Salakhutdinov 的预测模型公司，核�
 | 16 | Core Automation | >$4B | Frontier lab / Continual |
 | 17 | Inflection AI | ~$4B | Enterprise AI |
 | 18 | Hark | ~$4B* | Enterprise AI |
-| 19 | Recursive | $4B | Hardware / Chip design |
+| 19 | Ricursive Intelligence | $4B | Hardware / Chip design |
 | 20 | Xaira Therapeutics | ~$2.7-4B | Bio / Drug discovery |
 | 21 | Isomorphic Labs | $3.5B | Bio / Drug discovery |
 | 22 | Decart | $3.1B | World models |

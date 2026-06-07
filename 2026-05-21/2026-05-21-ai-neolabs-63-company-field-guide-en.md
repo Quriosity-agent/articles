@@ -2,6 +2,8 @@
 
 > Source: NotionHQ / Deedy Das “Artificial Intelligence Neolabs” map  
 > Source URL: https://x.com/NotionHQ/status/2054625030970220834?s=20  
+> Additional source: Crossing / 十字路口, “硅谷大佬集体下场做 Neo Labs | 盘点估值最高的20家”  
+> Additional source URL: https://mp.weixin.qq.com/s/4qlxgz1wFSA6yxBhFA9Z2A  
 > Source screenshot date: Last updated May 6, 2026  
 > Tags: AI neolabs / frontier labs / robotics / world models / AI for science / inference / agents
 
@@ -81,13 +83,13 @@ Former OpenAI VP Jerry Tworek’s “most automated AI lab,” focused on automa
 
 An enterprise-AI company founded by Mustafa Suleyman, Karen Simonyan, and Reid Hoffman; after Pi, much of the team and technology shifted toward Microsoft, leaving an enterprise-assistant/model-service trajectory.
 
-### 18. Hark (Enterprise AI)
+### 18. Hark (Enterprise AI / Personal AI hardware)
 
-A Brett Adcock-funded enterprise-AI effort, likely combining lessons from robotics, aviation, and business automation into AI systems for company workflows.
+A Brett Adcock-funded AI effort. The original map places it near enterprise AI, but the Crossing article adds a more consumer-facing read: Hark appears aimed at personal-AI hardware and a general interaction interface, making it one of the rarer Neo Labs pointed directly at a consumer entry point.
 
-### 19. Recursive (Hardware / Chip design)
+### 19. Ricursive Intelligence (Hardware / Chip design)
 
-Founded by Anna Goldie and Azalia Mirhoseini, Recursive applies AI to chip design—automating layout, architecture search, and optimization so semiconductor R&D itself is accelerated.
+Founded by Anna Goldie and Azalia Mirhoseini, Ricursive Intelligence applies AI to chip design by automating layout, architecture search, and optimization. It should not be confused with Richard Socher’s Recursive Superintelligence: Ricursive is about an AI-designed-chip feedback loop, while Recursive Superintelligence is about recursively self-improving AI.
 
 ### 20. Xaira Therapeutics (Bio / Drug discovery)
 
@@ -270,3 +272,40 @@ A probabilistic-forecasting lab from Chuck Hoover, Yaser Sheikh, and Ruslan Sala
 First, capital is splitting the “AI lab” template into many vertical research companies: robotics, materials, drug discovery, math, video, voice, chip design, simulation, and inference are all absorbing talent from the major labs. Second, these valuations are not justified by current revenue; they are bets on who will control a new platform layer if a foundational capability breaks through. Third, the key question is not which company has the best demo today, but which control surface it owns: data, compute, hardware, architecture, evaluation, lab automation, or distribution.
 
 In one sentence: these are not 63 chatbot startups; they are 63 bets on where the next AI platform layer will land—physical reality, scientific experimentation, software engineering, inference infrastructure, or human-computer interfaces.
+
+## Crossing update: another read on the 20 most valuable Neo Labs
+
+The Crossing article does not cover the full 63-company map. Instead, it cuts the category by the 20 most valuable Silicon Valley-style Neo Labs and adds a useful thesis for why this company type is emerging in 2025-2026: research outputs can now become code, molecules, materials designs, or operating plans directly; large-model tooling lets researchers prototype without waiting for large engineering teams; and capital is increasingly willing to fund research directions before products or revenue appear.
+
+Three additions are especially worth folding into this field guide:
+
+1. **Project Prometheus is the clearest archetype.** It has no public product yet, but reportedly started with roughly $6.2B in capital and was later reported to be nearing a roughly $10B round at around a $38B post-money valuation. The center of gravity is not chat; it is engineering, manufacturing, and the physical economy.
+2. **Hark may be more consumer-facing than the map suggests.** The Crossing article frames it around personal-AI hardware and a general interaction interface, not just enterprise automation.
+3. **Ricursive Intelligence and Recursive Superintelligence are different companies.** Ricursive is the Anna Goldie / Azalia Mirhoseini AI-chip-design company; Recursive Superintelligence is Richard Socher’s self-improving-AI company.
+
+Using Crossing’s valuation/funding lens, the top 20 looks like this. The numbers do not fully match the `VAL.` column in the 63-company map, so this table is best treated as a second source lens rather than a replacement.
+
+| Rank | Company | Crossing lens | Core direction |
+|---:|---|---:|---|
+| 1 | Project Prometheus | ~$38B | AI for engineering / manufacturing / physical economy |
+| 2 | Safe Superintelligence / SSI | ~$32B | Safe superintelligence |
+| 3 | Skild AI | ~$14B+ | Robotics foundation models |
+| 4 | Thinking Machines Lab | ~$12B | Multimodal, collaborative general intelligence |
+| 5 | Reflection AI | ~$8B | Open frontier AI / coding-agent roots |
+| 6 | Hark | ~$6B | Personal-AI hardware / general interaction interface |
+| 7 | Physical Intelligence | ~$5.6B | Cross-embodiment robot foundation models |
+| 8 | World Labs | ~$5B | Spatial intelligence / 3D world models |
+| 9 | Unconventional AI | ~$4.5B | AI compute / hardware |
+| 10 | Recursive Superintelligence | ~$4B | Recursively self-improving AI |
+| 11 | Decart | ~$4B | Realtime video / world models |
+| 12 | Ricursive Intelligence | ~$4B | AI chip design |
+| 13 | AMI Labs | ~$3.5B pre-money | JEPA / world models |
+| 14 | Isomorphic Labs | ~$2.7B raised, valuation undisclosed | AI drug design |
+| 15 | Poolside | ~$3B | Coding models / software agents |
+| 16 | Xaira Therapeutics | ~$2.7B | AI-first drug discovery |
+| 17 | Liquid AI | ~$2B | Efficient models / edge inference |
+| 18 | Magic | ~$1.5B | Long-context coding agents |
+| 19 | Flapping Airplanes | ~$1.5B | Data-efficient AI research |
+| 20 | Harmonic | ~$1.45B | Math superintelligence / formal reasoning |
+
+The article’s risk framing is also important: the real test is whether these companies survive the silent period. Drug pipelines, chip tape-outs, robotics foundation models, and world models take years to validate; meanwhile, Meta, Google, OpenAI, and other incumbents can pull researchers back with extraordinary compensation and accelerated vesting. Neo Lab valuations are betting on decade-scale breakthroughs, but talent and capital markets reprice the category every few months.

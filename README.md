@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-06-07
+
+| 文章 | 主题 |
+|------|------|
+| [html-video 深度拆解：Open Design 把“HTML 生成视频”做成 Agent 原生创作流水线](2026-06-07/2026-06-07-html-video-open-design-agentic-video-pipeline.md) | html-video / Open Design / Hyperframes / HTML-to-Video / Agentic Video / Local Rendering / Templates / MiniMax / CLI / Studio |
+| [html-video Deep Dive: Open Design Turns HTML-to-Video into an Agent-Native Production Pipeline](2026-06-07/2026-06-07-html-video-open-design-agentic-video-pipeline-en.md) | html-video / Open Design / Hyperframes / HTML-to-Video / Agentic Video / Local Rendering / Templates / MiniMax / CLI / Studio |
+
+---
+
 ## 📅 2026-06-04
 
 | 文章 | 主题 |
