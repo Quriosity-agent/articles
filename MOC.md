@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎥 红线运镜深度拆解：AI 视频控制的关键，可能不是更长 Prompt，而是一条可见路径
+- [[2026-06-07/2026-06-07-red-line-ai-fpv-camera-control-seedance-workflow|红线运镜深度拆解：AI 视频控制的关键，可能不是更长 Prompt，而是一条可见路径]]
+- [[2026-06-07/2026-06-07-red-line-ai-fpv-camera-control-seedance-workflow-en|Red-Line Camera Control Deep Dive: AI Video May Need Visible Paths More Than Longer Prompts]]
+
 ## 🎬 html-video 深度拆解：Open Design 把“HTML 生成视频”做成 Agent 原生创作流水线
 - [[2026-06-07/2026-06-07-html-video-open-design-agentic-video-pipeline|html-video 深度拆解：Open Design 把“HTML 生成视频”做成 Agent 原生创作流水线]]
 - [[2026-06-07/2026-06-07-html-video-open-design-agentic-video-pipeline-en|html-video Deep Dive: Open Design Turns HTML-to-Video into an Agent-Native Production Pipeline]]
