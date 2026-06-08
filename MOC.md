@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 JoyAI-Echo 深度拆解：长视频生成的难点，正在从“单次出片”变成跨镜头记忆工程
+- [[2026-06-08/2026-06-08-joyai-echo-long-video|JoyAI-Echo 深度拆解：长视频生成的难点，正在从“单次出片”变成跨镜头记忆工程]]
+- [[2026-06-08/2026-06-08-joyai-echo-long-video-en|JoyAI-Echo Deep Dive: Long-Video Generation Is Becoming Cross-Shot Memory Engineering]]
+
 ## 🎥 红线运镜深度拆解：AI 视频控制的关键，可能不是更长 Prompt，而是一条可见路径
 - [[2026-06-07/2026-06-07-red-line-ai-fpv-camera-control-seedance-workflow|红线运镜深度拆解：AI 视频控制的关键，可能不是更长 Prompt，而是一条可见路径]]
 - [[2026-06-07/2026-06-07-red-line-ai-fpv-camera-control-seedance-workflow-en|Red-Line Camera Control Deep Dive: AI Video May Need Visible Paths More Than Longer Prompts]]

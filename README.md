@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-06-08
+
+| 文章 | 主题 |
+|------|------|
+| [JoyAI-Echo 深度拆解：长视频生成的难点，正在从“单次出片”变成跨镜头记忆工程](2026-06-08/2026-06-08-joyai-echo-long-video.md) | JoyAI-Echo / AI Video / Long Video Generation / Audio-Visual Memory / DMD / LTX / Gemma / ComfyUI |
+| [JoyAI-Echo Deep Dive: Long-Video Generation Is Becoming Cross-Shot Memory Engineering](2026-06-08/2026-06-08-joyai-echo-long-video-en.md) | JoyAI-Echo / AI Video / Long Video Generation / Audio-Visual Memory / DMD / LTX / Gemma / ComfyUI |
+
+---
+
 ## 📅 2026-06-07
 
 | 文章 | 主题 |
