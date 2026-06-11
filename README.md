@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-06-11
+
+| 文章 | 主题 |
+|------|------|
+| [Claude Fable 5 系统提示词样本拆解：真正暴露的不是模型，而是 Agent Harness 的产品形态](2026-06-11/2026-06-11-claude-fable-5-system-prompt-agent-harness.md) | Claude / System Prompt / Agent Harness / Safety Policy / Tools / MCP / Artifacts |
+| [Claude Fable 5 System Prompt Sample: What It Really Reveals Is the Product Shape of an Agent Harness](2026-06-11/2026-06-11-claude-fable-5-system-prompt-agent-harness-en.md) | Claude / system prompt / agent harness / safety policy / tools / MCP / artifacts |
+
+---
+
 ## 📅 2026-06-08
 
 | 文章 | 主题 |

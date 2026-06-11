@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧠 Claude Fable 5 系统提示词样本拆解：真正暴露的不是模型，而是 Agent Harness 的产品形态
+- [[2026-06-11/2026-06-11-claude-fable-5-system-prompt-agent-harness|Claude Fable 5 系统提示词样本拆解：真正暴露的不是模型，而是 Agent Harness 的产品形态]]
+- [[2026-06-11/2026-06-11-claude-fable-5-system-prompt-agent-harness-en|Claude Fable 5 System Prompt Sample: What It Really Reveals Is the Product Shape of an Agent Harness]]
+
 ## 🎬 JoyAI-Echo 深度拆解：长视频生成的难点，正在从“单次出片”变成跨镜头记忆工程
 - [[2026-06-08/2026-06-08-joyai-echo-long-video|JoyAI-Echo 深度拆解：长视频生成的难点，正在从“单次出片”变成跨镜头记忆工程]]
 - [[2026-06-08/2026-06-08-joyai-echo-long-video-en|JoyAI-Echo Deep Dive: Long-Video Generation Is Becoming Cross-Shot Memory Engineering]]
