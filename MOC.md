@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎙️ Gemini 3.5 Live Translate 深度拆解：实时语音翻译正在从“字幕功能”变成音频 Agent Runtime
+- [[2026-06-09/2026-06-09-gemini-3-5-live-translate-audio-agent-runtime|Gemini 3.5 Live Translate 深度拆解：实时语音翻译正在从“字幕功能”变成音频 Agent Runtime]]
+- [[2026-06-09/2026-06-09-gemini-3-5-live-translate-audio-agent-runtime-en|Gemini 3.5 Live Translate Deep Dive: Real-Time Voice Translation Is Becoming an Audio Agent Runtime]]
+
 ## 🧠 Claude Fable 5 系统提示词样本拆解：真正暴露的不是模型，而是 Agent Harness 的产品形态
 - [[2026-06-11/2026-06-11-claude-fable-5-system-prompt-agent-harness|Claude Fable 5 系统提示词样本拆解：真正暴露的不是模型，而是 Agent Harness 的产品形态]]
 - [[2026-06-11/2026-06-11-claude-fable-5-system-prompt-agent-harness-en|Claude Fable 5 System Prompt Sample: What It Really Reveals Is the Product Shape of an Agent Harness]]

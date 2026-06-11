@@ -15,6 +15,15 @@
 
 ---
 
+## 📅 2026-06-09
+
+| 文章 | 主题 |
+|------|------|
+| [Gemini 3.5 Live Translate 深度拆解：实时语音翻译正在从“字幕功能”变成音频 Agent Runtime](2026-06-09/2026-06-09-gemini-3-5-live-translate-audio-agent-runtime.md) | Gemini 3.5 Live Translate / Gemini Live API / Speech-to-Speech / Google Meet / Google Translate / Audio AI / Real-Time Media |
+| [Gemini 3.5 Live Translate Deep Dive: Real-Time Voice Translation Is Becoming an Audio Agent Runtime](2026-06-09/2026-06-09-gemini-3-5-live-translate-audio-agent-runtime-en.md) | Gemini 3.5 Live Translate / Gemini Live API / speech-to-speech / Google Meet / Google Translate / audio AI / real-time media |
+
+---
+
 ## 📅 2026-06-08
 
 | 文章 | 主题 |
