@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-06-13
+
+| 文章 | 主题 |
+|------|------|
+| [Shotblock 深度拆解：AI 视频真正缺的不是 Prompt 模板，而是可验证的镜头预演层](2026-06-13/2026-06-13-shotblock-ai-film-previs-tool.md) | Shotblock / AI Video / 3D Previs / Storyboard / Shot Planning / Lens Math / 180° Rule / Prompt Export |
+| [Shotblock Deep Dive: AI Video Does Not Just Need Better Prompt Templates — It Needs a Verifiable Previs Layer](2026-06-13/2026-06-13-shotblock-ai-film-previs-tool-en.md) | Shotblock / AI video / 3D previs / storyboard / shot planning / lens math / 180-degree rule / prompt export |
+
+---
+
 ## 📅 2026-06-11
 
 | 文章 | 主题 |

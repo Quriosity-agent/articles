@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 Shotblock 深度拆解：AI 视频真正缺的不是 Prompt 模板，而是可验证的镜头预演层
+- [[2026-06-13/2026-06-13-shotblock-ai-film-previs-tool|Shotblock 深度拆解：AI 视频真正缺的不是 Prompt 模板，而是可验证的镜头预演层]]
+- [[2026-06-13/2026-06-13-shotblock-ai-film-previs-tool-en|Shotblock Deep Dive: AI Video Does Not Just Need Better Prompt Templates — It Needs a Verifiable Previs Layer]]
+
 ## 🎙️ Gemini 3.5 Live Translate 深度拆解：实时语音翻译正在从“字幕功能”变成音频 Agent Runtime
 - [[2026-06-09/2026-06-09-gemini-3-5-live-translate-audio-agent-runtime|Gemini 3.5 Live Translate 深度拆解：实时语音翻译正在从“字幕功能”变成音频 Agent Runtime]]
 - [[2026-06-09/2026-06-09-gemini-3-5-live-translate-audio-agent-runtime-en|Gemini 3.5 Live Translate Deep Dive: Real-Time Voice Translation Is Becoming an Audio Agent Runtime]]
