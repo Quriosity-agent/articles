@@ -37,6 +37,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [True Grit 深度拆解：AI Agent 重写 Git 的意义，不是“99.3% 测试通过”，而是把版本控制改造成可嵌入运行时](2026-06-09/2026-06-09-true-grit-rust-git-agent-rewrite.md) | Grit / GitButler / Git / Rust / AI Agents / Version Control / WASM / Jujutsu / Agentic Coding |
+| [True Grit Deep Dive: The Point of Rewriting Git with Agents Is Not 99.3% Test Passes, but Turning Version Control into an Embeddable Runtime](2026-06-09/2026-06-09-true-grit-rust-git-agent-rewrite-en.md) | Grit / GitButler / Git / Rust / AI agents / version control / WASM / Jujutsu / agentic coding |
 | [Gemini 3.5 Live Translate 深度拆解：实时语音翻译正在从“字幕功能”变成音频 Agent Runtime](2026-06-09/2026-06-09-gemini-3-5-live-translate-audio-agent-runtime.md) | Gemini 3.5 Live Translate / Gemini Live API / Speech-to-Speech / Google Meet / Google Translate / Audio AI / Real-Time Media |
 | [Gemini 3.5 Live Translate Deep Dive: Real-Time Voice Translation Is Becoming an Audio Agent Runtime](2026-06-09/2026-06-09-gemini-3-5-live-translate-audio-agent-runtime-en.md) | Gemini 3.5 Live Translate / Gemini Live API / speech-to-speech / Google Meet / Google Translate / audio AI / real-time media |
 

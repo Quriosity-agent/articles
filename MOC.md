@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧰 True Grit 深度拆解：AI Agent 重写 Git 的意义，不是“99.3% 测试通过”，而是把版本控制改造成可嵌入运行时
+- [[2026-06-09/2026-06-09-true-grit-rust-git-agent-rewrite|True Grit 深度拆解：AI Agent 重写 Git 的意义，不是“99.3% 测试通过”，而是把版本控制改造成可嵌入运行时]]
+- [[2026-06-09/2026-06-09-true-grit-rust-git-agent-rewrite-en|True Grit Deep Dive: The Point of Rewriting Git with Agents Is Not 99.3% Test Passes, but Turning Version Control into an Embeddable Runtime]]
+
 ## 🎬 ZJT / 智剧通深度拆解：AI 短剧工具真正难的，是把 Agent、画布、算力和生成供应商接成生产系统
 - [[2026-06-14/2026-06-14-zjt-ai-short-drama-production-platform|ZJT / 智剧通深度拆解：AI 短剧工具真正难的，是把 Agent、画布、算力和生成供应商接成生产系统]]
 - [[2026-06-14/2026-06-14-zjt-ai-short-drama-production-platform-en|ZJT / ZhiJuTong Deep Dive: The Hard Part of AI Short Drama Is Turning Agents, Canvas, Compute, and Media Providers into a Production System]]
