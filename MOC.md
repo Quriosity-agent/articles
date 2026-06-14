@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 ZJT / 智剧通深度拆解：AI 短剧工具真正难的，是把 Agent、画布、算力和生成供应商接成生产系统
+- [[2026-06-14/2026-06-14-zjt-ai-short-drama-production-platform|ZJT / 智剧通深度拆解：AI 短剧工具真正难的，是把 Agent、画布、算力和生成供应商接成生产系统]]
+- [[2026-06-14/2026-06-14-zjt-ai-short-drama-production-platform-en|ZJT / ZhiJuTong Deep Dive: The Hard Part of AI Short Drama Is Turning Agents, Canvas, Compute, and Media Providers into a Production System]]
+
 ## 🎬 Shotblock 深度拆解：AI 视频真正缺的不是 Prompt 模板，而是可验证的镜头预演层
 - [[2026-06-13/2026-06-13-shotblock-ai-film-previs-tool|Shotblock 深度拆解：AI 视频真正缺的不是 Prompt 模板，而是可验证的镜头预演层]]
 - [[2026-06-13/2026-06-13-shotblock-ai-film-previs-tool-en|Shotblock Deep Dive: AI Video Does Not Just Need Better Prompt Templates — It Needs a Verifiable Previs Layer]]

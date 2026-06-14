@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-06-14
+
+| 文章 | 主题 |
+|------|------|
+| [ZJT / 智剧通深度拆解：AI 短剧工具真正难的，是把 Agent、画布、算力和生成供应商接成生产系统](2026-06-14/2026-06-14-zjt-ai-short-drama-production-platform.md) | ZJT / 智剧通 / AI 短剧 / Multi-Agent / Storyboard / Production Pipeline / FastAPI / 多供应商 / 算力账户 |
+| [ZJT / ZhiJuTong Deep Dive: The Hard Part of AI Short Drama Is Turning Agents, Canvas, Compute, and Media Providers into a Production System](2026-06-14/2026-06-14-zjt-ai-short-drama-production-platform-en.md) | ZJT / ZhiJuTong / AI short drama / multi-agent / storyboard / production pipeline / FastAPI / multi-provider / compute accounts |
+
+---
+
 ## 📅 2026-06-13
 
 | 文章 | 主题 |
