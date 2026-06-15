@@ -44,6 +44,15 @@
 
 ---
 
+## 📅 2026-06-10
+
+| 文章 | 主题 |
+|------|------|
+| [0xCodez Loop Engineering 14 步路线图拆解：不是人人都需要 Loop，但每个团队都需要先学会验收条件](2026-06-10/2026-06-10-loop-engineering-14-step-roadmap.md) | Loop Engineering / 14-step roadmap / AI Agents / Claude Code / Codex / Automation / Verification / State File |
+| [0xCodez Loop Engineering 14-Step Roadmap: Not Everyone Needs a Loop, but Every Team Needs Acceptance Gates First](2026-06-10/2026-06-10-loop-engineering-14-step-roadmap-en.md) | Loop Engineering / 14-step roadmap / AI agents / Claude Code / Codex / automation / verification / state file |
+
+---
+
 ## 📅 2026-06-09
 
 | 文章 | 主题 |

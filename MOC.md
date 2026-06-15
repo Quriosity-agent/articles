@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🔁 0xCodez Loop Engineering 14 步路线图拆解：不是人人都需要 Loop，但每个团队都需要先学会验收条件
+- [[2026-06-10/2026-06-10-loop-engineering-14-step-roadmap|0xCodez Loop Engineering 14 步路线图拆解：不是人人都需要 Loop，但每个团队都需要先学会验收条件]]
+- [[2026-06-10/2026-06-10-loop-engineering-14-step-roadmap-en|0xCodez Loop Engineering 14-Step Roadmap: Not Everyone Needs a Loop, but Every Team Needs Acceptance Gates First]]
+
 ## 🎬 seedance2-skill 深度拆解：视频 Prompt 正在从“写词”变成 Agent 可执行的导演操作系统
 - [[2026-06-15/2026-06-15-seedance2-skill-agent-video-prompt-ops|seedance2-skill 深度拆解：视频 Prompt 正在从“写词”变成 Agent 可执行的导演操作系统]]
 - [[2026-06-15/2026-06-15-seedance2-skill-agent-video-prompt-ops-en|seedance2-skill Deep Dive: Video Prompting Is Becoming an Agent-Executable Directing Operating System]]
