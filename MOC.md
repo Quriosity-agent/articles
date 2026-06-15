@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 seedance2-skill 深度拆解：视频 Prompt 正在从“写词”变成 Agent 可执行的导演操作系统
+- [[2026-06-15/2026-06-15-seedance2-skill-agent-video-prompt-ops|seedance2-skill 深度拆解：视频 Prompt 正在从“写词”变成 Agent 可执行的导演操作系统]]
+- [[2026-06-15/2026-06-15-seedance2-skill-agent-video-prompt-ops-en|seedance2-skill Deep Dive: Video Prompting Is Becoming an Agent-Executable Directing Operating System]]
+
 ## 🎬 小咸鱼抖音视频提示词拆解：真正可复用的不是金句 Prompt，而是短视频生成的“素材—风格—动作—约束”流水线
 - [[2026-06-14/2026-06-14-xiaoxianyu-douyin-video-prompt-playbook|小咸鱼抖音视频提示词拆解：真正可复用的不是金句 Prompt，而是短视频生成的“素材—风格—动作—约束”流水线]]
 - [[2026-06-14/2026-06-14-xiaoxianyu-douyin-video-prompt-playbook-en|Xiao Xian Yu Douyin Video Prompt Playbook: The Reusable Part Is Not Magic Prompts but a Material–Style–Motion–Constraint Pipeline]]

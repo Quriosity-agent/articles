@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-06-15
+
+| 文章 | 主题 |
+|------|------|
+| [seedance2-skill 深度拆解：视频 Prompt 正在从“写词”变成 Agent 可执行的导演操作系统](2026-06-15/2026-06-15-seedance2-skill-agent-video-prompt-ops.md) | Seedance 2.0 / Agent Skills / AI Video / Prompt Ops / Jimeng / QCut / Creator Workflow |
+| [seedance2-skill Deep Dive: Video Prompting Is Becoming an Agent-Executable Directing Operating System](2026-06-15/2026-06-15-seedance2-skill-agent-video-prompt-ops-en.md) | Seedance 2.0 / Agent Skills / AI video / Prompt Ops / Jimeng / QCut / creator workflow |
+
+---
+
 ## 📅 2026-06-14
 
 | 文章 | 主题 |
