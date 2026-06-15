@@ -57,6 +57,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Loop Engineering 深度拆解：Agent 时代真正要设计的不是 Prompt，而是会自我推进的控制系统](2026-06-07/2026-06-07-loop-engineering-agent-control-system.md) | Loop Engineering / AI Agents / Coding Agents / Codex / Claude Code / Agent Harness / Agentic Software Engineering |
+| [Loop Engineering Deep Dive: In the Agent Era, the Real Design Target Is Not the Prompt but the Self-Driving Control System](2026-06-07/2026-06-07-loop-engineering-agent-control-system-en.md) | Loop Engineering / AI agents / coding agents / Codex / Claude Code / agent harness / agentic software engineering |
 | [红线运镜深度拆解：AI 视频控制的关键，可能不是更长 Prompt，而是一条可见路径](2026-06-07/2026-06-07-red-line-ai-fpv-camera-control-seedance-workflow.md) | AI Video / Seedance 2.0 / GPT Image 2 / FPV / Camera Control / Red Line Prompting / Apple Park / WWDC / Visual Prompting / AI Filmmaking |
 | [Red-Line Camera Control Deep Dive: AI Video May Need Visible Paths More Than Longer Prompts](2026-06-07/2026-06-07-red-line-ai-fpv-camera-control-seedance-workflow-en.md) | AI Video / Seedance 2.0 / GPT Image 2 / FPV / Camera Control / Red Line Prompting / Apple Park / WWDC / Visual Prompting / AI Filmmaking |
 | [html-video 深度拆解：Open Design 把“HTML 生成视频”做成 Agent 原生创作流水线](2026-06-07/2026-06-07-html-video-open-design-agentic-video-pipeline.md) | html-video / Open Design / Hyperframes / HTML-to-Video / Agentic Video / Local Rendering / Templates / MiniMax / CLI / Studio |

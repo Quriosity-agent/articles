@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🔁 Loop Engineering 深度拆解：Agent 时代真正要设计的不是 Prompt，而是会自我推进的控制系统
+- [[2026-06-07/2026-06-07-loop-engineering-agent-control-system|Loop Engineering 深度拆解：Agent 时代真正要设计的不是 Prompt，而是会自我推进的控制系统]]
+- [[2026-06-07/2026-06-07-loop-engineering-agent-control-system-en|Loop Engineering Deep Dive: In the Agent Era, the Real Design Target Is Not the Prompt but the Self-Driving Control System]]
+
 ## 🧰 True Grit 深度拆解：AI Agent 重写 Git 的意义，不是“99.3% 测试通过”，而是把版本控制改造成可嵌入运行时
 - [[2026-06-09/2026-06-09-true-grit-rust-git-agent-rewrite|True Grit 深度拆解：AI Agent 重写 Git 的意义，不是“99.3% 测试通过”，而是把版本控制改造成可嵌入运行时]]
 - [[2026-06-09/2026-06-09-true-grit-rust-git-agent-rewrite-en|True Grit Deep Dive: The Point of Rewriting Git with Agents Is Not 99.3% Test Passes, but Turning Version Control into an Embeddable Runtime]]
