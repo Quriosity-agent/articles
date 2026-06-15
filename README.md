@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [小咸鱼抖音视频提示词拆解：真正可复用的不是金句 Prompt，而是短视频生成的“素材—风格—动作—约束”流水线](2026-06-14/2026-06-14-xiaoxianyu-douyin-video-prompt-playbook.md) | 小咸鱼 / 抖音视频提示词 / AI Video / Doubao / Image-to-Video / Creator Workflow / QCut |
+| [Xiao Xian Yu Douyin Video Prompt Playbook: The Reusable Part Is Not Magic Prompts but a Material–Style–Motion–Constraint Pipeline](2026-06-14/2026-06-14-xiaoxianyu-douyin-video-prompt-playbook-en.md) | Xiao Xian Yu / Douyin video prompts / AI video / Doubao / image-to-video / creator workflow / QCut |
 | [ZJT / 智剧通深度拆解：AI 短剧工具真正难的，是把 Agent、画布、算力和生成供应商接成生产系统](2026-06-14/2026-06-14-zjt-ai-short-drama-production-platform.md) | ZJT / 智剧通 / AI 短剧 / Multi-Agent / Storyboard / Production Pipeline / FastAPI / 多供应商 / 算力账户 |
 | [ZJT / ZhiJuTong Deep Dive: The Hard Part of AI Short Drama Is Turning Agents, Canvas, Compute, and Media Providers into a Production System](2026-06-14/2026-06-14-zjt-ai-short-drama-production-platform-en.md) | ZJT / ZhiJuTong / AI short drama / multi-agent / storyboard / production pipeline / FastAPI / multi-provider / compute accounts |
 

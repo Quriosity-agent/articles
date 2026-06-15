@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 小咸鱼抖音视频提示词拆解：真正可复用的不是金句 Prompt，而是短视频生成的“素材—风格—动作—约束”流水线
+- [[2026-06-14/2026-06-14-xiaoxianyu-douyin-video-prompt-playbook|小咸鱼抖音视频提示词拆解：真正可复用的不是金句 Prompt，而是短视频生成的“素材—风格—动作—约束”流水线]]
+- [[2026-06-14/2026-06-14-xiaoxianyu-douyin-video-prompt-playbook-en|Xiao Xian Yu Douyin Video Prompt Playbook: The Reusable Part Is Not Magic Prompts but a Material–Style–Motion–Constraint Pipeline]]
+
 ## 🔁 Loop Engineering 深度拆解：Agent 时代真正要设计的不是 Prompt，而是会自我推进的控制系统
 - [[2026-06-07/2026-06-07-loop-engineering-agent-control-system|Loop Engineering 深度拆解：Agent 时代真正要设计的不是 Prompt，而是会自我推进的控制系统]]
 - [[2026-06-07/2026-06-07-loop-engineering-agent-control-system-en|Loop Engineering Deep Dive: In the Agent Era, the Real Design Target Is Not the Prompt but the Self-Driving Control System]]
