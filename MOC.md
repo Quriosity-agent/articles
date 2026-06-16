@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎙️ Cartesia Sonic 3.5 / Ink 2 深度拆解：实时语音 Agent 的竞争点，正在从单模型榜单变成听说一体的延迟预算
+- [[2026-06-16/2026-06-16-cartesia-sonic-35-ink-2-voice-agent-stack|Cartesia Sonic 3.5 / Ink 2 深度拆解：实时语音 Agent 的竞争点，正在从单模型榜单变成听说一体的延迟预算]]
+- [[2026-06-16/2026-06-16-cartesia-sonic-35-ink-2-voice-agent-stack-en|Cartesia Sonic 3.5 / Ink 2 Deep Dive: Real-Time Voice Agents Are Moving from Single-Model Leaderboards to an End-to-End Listen-and-Speak Latency Budget]]
+
 ## 🔁 0xCodez Loop Engineering 14 步路线图拆解：不是人人都需要 Loop，但每个团队都需要先学会验收条件
 - [[2026-06-10/2026-06-10-loop-engineering-14-step-roadmap|0xCodez Loop Engineering 14 步路线图拆解：不是人人都需要 Loop，但每个团队都需要先学会验收条件]]
 - [[2026-06-10/2026-06-10-loop-engineering-14-step-roadmap-en|0xCodez Loop Engineering 14-Step Roadmap: Not Everyone Needs a Loop, but Every Team Needs Acceptance Gates First]]

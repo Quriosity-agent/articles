@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-06-16
+
+| 文章 | 主题 |
+|------|------|
+| [Cartesia Sonic 3.5 / Ink 2 深度拆解：实时语音 Agent 的竞争点，正在从单模型榜单变成听说一体的延迟预算](2026-06-16/2026-06-16-cartesia-sonic-35-ink-2-voice-agent-stack.md) | Cartesia / Sonic 3.5 / Ink 2 / Voice Agent / STT / TTS / Realtime AI / Artificial Analysis / Turn Detection |
+| [Cartesia Sonic 3.5 / Ink 2 Deep Dive: Real-Time Voice Agents Are Moving from Single-Model Leaderboards to an End-to-End Listen-and-Speak Latency Budget](2026-06-16/2026-06-16-cartesia-sonic-35-ink-2-voice-agent-stack-en.md) | Cartesia / Sonic 3.5 / Ink 2 / voice agents / STT / TTS / realtime AI / Artificial Analysis / turn detection |
+
+---
+
 ## 📅 2026-06-15
 
 | 文章 | 主题 |
