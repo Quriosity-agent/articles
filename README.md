@@ -21,6 +21,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Grok Imagine Video 1.5 深度拆解：xAI 正在把视频生成从“出片按钮”推进到创作队列 Runtime](2026-06-16/2026-06-16-grok-imagine-video-15-creative-runtime.md) | xAI / Grok Imagine / Video 1.5 / AI Video / Image-to-Video / Creative Workflow / Parallel Agents / Imagine API |
+| [Grok Imagine Video 1.5 Deep Dive: xAI Is Moving Video Generation from a Generate Button to a Creative Queue Runtime](2026-06-16/2026-06-16-grok-imagine-video-15-creative-runtime-en.md) | xAI / Grok Imagine / Video 1.5 / AI video / image-to-video / creative workflow / parallel agents / Imagine API |
 | [Cartesia Sonic 3.5 / Ink 2 深度拆解：实时语音 Agent 的竞争点，正在从单模型榜单变成听说一体的延迟预算](2026-06-16/2026-06-16-cartesia-sonic-35-ink-2-voice-agent-stack.md) | Cartesia / Sonic 3.5 / Ink 2 / Voice Agent / STT / TTS / Realtime AI / Artificial Analysis / Turn Detection |
 | [Cartesia Sonic 3.5 / Ink 2 Deep Dive: Real-Time Voice Agents Are Moving from Single-Model Leaderboards to an End-to-End Listen-and-Speak Latency Budget](2026-06-16/2026-06-16-cartesia-sonic-35-ink-2-voice-agent-stack-en.md) | Cartesia / Sonic 3.5 / Ink 2 / voice agents / STT / TTS / realtime AI / Artificial Analysis / turn detection |
 

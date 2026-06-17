@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 Grok Imagine Video 1.5 深度拆解：xAI 正在把视频生成从“出片按钮”推进到创作队列 Runtime
+- [[2026-06-16/2026-06-16-grok-imagine-video-15-creative-runtime|Grok Imagine Video 1.5 深度拆解：xAI 正在把视频生成从“出片按钮”推进到创作队列 Runtime]]
+- [[2026-06-16/2026-06-16-grok-imagine-video-15-creative-runtime-en|Grok Imagine Video 1.5 Deep Dive: xAI Is Moving Video Generation from a Generate Button to a Creative Queue Runtime]]
+
 ## 🧠 GLM-5.2 深度拆解：1M Context 真正要解决的，不是塞更多 Token，而是让 Agent 长时间工作不散架
 - [[2026-06-17/2026-06-17-glm-52-long-horizon-agent-model|GLM-5.2 深度拆解：1M Context 真正要解决的，不是塞更多 Token，而是让 Agent 长时间工作不散架]]
 - [[2026-06-17/2026-06-17-glm-52-long-horizon-agent-model-en|GLM-5.2 Deep Dive: 1M Context Is Not About Stuffing More Tokens, but Keeping Agents Stable Over Long Work]]
