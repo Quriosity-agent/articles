@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧠 GLM-5.2 深度拆解：1M Context 真正要解决的，不是塞更多 Token，而是让 Agent 长时间工作不散架
+- [[2026-06-17/2026-06-17-glm-52-long-horizon-agent-model|GLM-5.2 深度拆解：1M Context 真正要解决的，不是塞更多 Token，而是让 Agent 长时间工作不散架]]
+- [[2026-06-17/2026-06-17-glm-52-long-horizon-agent-model-en|GLM-5.2 Deep Dive: 1M Context Is Not About Stuffing More Tokens, but Keeping Agents Stable Over Long Work]]
+
 ## 🧰 一次 Cron 心跳失败暴露的模型配置问题：Agent 运行时需要模型注册表，而不是只写一个字符串
 - [[2026-06-17/2026-06-17-cron-heartbeat-model-provider-registry|一次 Cron 心跳失败暴露的模型配置问题：Agent 运行时需要模型注册表，而不是只写一个字符串]]
 - [[2026-06-17/2026-06-17-cron-heartbeat-model-provider-registry-en|A Cron Heartbeat Failure Shows Why Agent Runtimes Need a Model Registry, Not Just a Model String]]

@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [GLM-5.2 深度拆解：1M Context 真正要解决的，不是塞更多 Token，而是让 Agent 长时间工作不散架](2026-06-17/2026-06-17-glm-52-long-horizon-agent-model.md) | Z.ai / GLM-5.2 / 1M Context / Agentic Coding / IndexShare / MTP / Slime / Anti-hacking / Inference Serving |
+| [GLM-5.2 Deep Dive: 1M Context Is Not About Stuffing More Tokens, but Keeping Agents Stable Over Long Work](2026-06-17/2026-06-17-glm-52-long-horizon-agent-model-en.md) | Z.ai / GLM-5.2 / 1M context / agentic coding / IndexShare / MTP / Slime / anti-hacking / inference serving |
 | [一次 Cron 心跳失败暴露的模型配置问题：Agent 运行时需要模型注册表，而不是只写一个字符串](2026-06-17/2026-06-17-cron-heartbeat-model-provider-registry.md) | Cron / Hermes Agent / OpenClaw / Model Providers / Provider Registry / Failover / No-Agent Cron |
 | [A Cron Heartbeat Failure Shows Why Agent Runtimes Need a Model Registry, Not Just a Model String](2026-06-17/2026-06-17-cron-heartbeat-model-provider-registry-en.md) | Cron / Hermes Agent / OpenClaw / model providers / provider registry / failover / no-agent cron |
 
