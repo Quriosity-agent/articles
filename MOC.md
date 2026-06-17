@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧰 一次 Cron 心跳失败暴露的模型配置问题：Agent 运行时需要模型注册表，而不是只写一个字符串
+- [[2026-06-17/2026-06-17-cron-heartbeat-model-provider-registry|一次 Cron 心跳失败暴露的模型配置问题：Agent 运行时需要模型注册表，而不是只写一个字符串]]
+- [[2026-06-17/2026-06-17-cron-heartbeat-model-provider-registry-en|A Cron Heartbeat Failure Shows Why Agent Runtimes Need a Model Registry, Not Just a Model String]]
+
 ## 🎙️ Cartesia Sonic 3.5 / Ink 2 深度拆解：实时语音 Agent 的竞争点，正在从单模型榜单变成听说一体的延迟预算
 - [[2026-06-16/2026-06-16-cartesia-sonic-35-ink-2-voice-agent-stack|Cartesia Sonic 3.5 / Ink 2 深度拆解：实时语音 Agent 的竞争点，正在从单模型榜单变成听说一体的延迟预算]]
 - [[2026-06-16/2026-06-16-cartesia-sonic-35-ink-2-voice-agent-stack-en|Cartesia Sonic 3.5 / Ink 2 Deep Dive: Real-Time Voice Agents Are Moving from Single-Model Leaderboards to an End-to-End Listen-and-Speak Latency Budget]]

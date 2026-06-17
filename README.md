@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-06-17
+
+| 文章 | 主题 |
+|------|------|
+| [一次 Cron 心跳失败暴露的模型配置问题：Agent 运行时需要模型注册表，而不是只写一个字符串](2026-06-17/2026-06-17-cron-heartbeat-model-provider-registry.md) | Cron / Hermes Agent / OpenClaw / Model Providers / Provider Registry / Failover / No-Agent Cron |
+| [A Cron Heartbeat Failure Shows Why Agent Runtimes Need a Model Registry, Not Just a Model String](2026-06-17/2026-06-17-cron-heartbeat-model-provider-registry-en.md) | Cron / Hermes Agent / OpenClaw / model providers / provider registry / failover / no-agent cron |
+
+---
+
 ## 📅 2026-06-16
 
 | 文章 | 主题 |
