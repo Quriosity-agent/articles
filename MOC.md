@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧩 Unreal Engine 5.8 MCP 深度拆解：游戏引擎正在从创作工具变成 Agent 可操作的世界运行时
+- [[2026-06-17/2026-06-17-unreal-engine-58-mcp-pcg-agentic-worldbuilding|Unreal Engine 5.8 MCP 深度拆解：游戏引擎正在从创作工具变成 Agent 可操作的世界运行时]]
+- [[2026-06-17/2026-06-17-unreal-engine-58-mcp-pcg-agentic-worldbuilding-en|Unreal Engine 5.8 MCP Deep Dive: Game Engines Are Becoming Agent-Operable World Runtimes]]
+
 ## 🎬 Grok Imagine Video 1.5 深度拆解：xAI 正在把视频生成从“出片按钮”推进到创作队列 Runtime
 - [[2026-06-16/2026-06-16-grok-imagine-video-15-creative-runtime|Grok Imagine Video 1.5 深度拆解：xAI 正在把视频生成从“出片按钮”推进到创作队列 Runtime]]
 - [[2026-06-16/2026-06-16-grok-imagine-video-15-creative-runtime-en|Grok Imagine Video 1.5 Deep Dive: xAI Is Moving Video Generation from a Generate Button to a Creative Queue Runtime]]

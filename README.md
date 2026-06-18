@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Unreal Engine 5.8 MCP 深度拆解：游戏引擎正在从创作工具变成 Agent 可操作的世界运行时](2026-06-17/2026-06-17-unreal-engine-58-mcp-pcg-agentic-worldbuilding.md) | Unreal Engine / UE 5.8 / MCP / Agentic Worldbuilding / PCG / Toolset Registry / Game Tools |
+| [Unreal Engine 5.8 MCP Deep Dive: Game Engines Are Becoming Agent-Operable World Runtimes](2026-06-17/2026-06-17-unreal-engine-58-mcp-pcg-agentic-worldbuilding-en.md) | Unreal Engine / UE 5.8 / MCP / agentic worldbuilding / PCG / Toolset Registry / game tools |
 | [GLM-5.2 深度拆解：1M Context 真正要解决的，不是塞更多 Token，而是让 Agent 长时间工作不散架](2026-06-17/2026-06-17-glm-52-long-horizon-agent-model.md) | Z.ai / GLM-5.2 / 1M Context / Agentic Coding / IndexShare / MTP / Slime / Anti-hacking / Inference Serving |
 | [GLM-5.2 Deep Dive: 1M Context Is Not About Stuffing More Tokens, but Keeping Agents Stable Over Long Work](2026-06-17/2026-06-17-glm-52-long-horizon-agent-model-en.md) | Z.ai / GLM-5.2 / 1M context / agentic coding / IndexShare / MTP / Slime / anti-hacking / inference serving |
 | [一次 Cron 心跳失败暴露的模型配置问题：Agent 运行时需要模型注册表，而不是只写一个字符串](2026-06-17/2026-06-17-cron-heartbeat-model-provider-registry.md) | Cron / Hermes Agent / OpenClaw / Model Providers / Provider Registry / Failover / No-Agent Cron |
