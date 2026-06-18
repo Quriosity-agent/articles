@@ -1,0 +1,4 @@
+interface:
+  display_name: "Articles Repo Maintenance"
+  short_description: "Publish bilingual articles with assets"
+  default_prompt: "Use $articles-repo-maintenance to add this source as a bilingual article, preserve images, update indexes, push, and return public links."
