@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [GrayNoteLab 破卷视频提示词拆解：AI 视频 Prompt 的关键不是唯美，而是把“画里画外”写成可执行镜头状态](2026-06-17/2026-06-17-graynotelab-scroll-break-fantasy-prompt.md) | GrayNoteLab / AI Video / Prompt Engineering / Image-to-Video / Chinese Fantasy / Shot Design / Creator Workflow |
+| [GrayNoteLab Scroll-Break Prompt Breakdown: The Key Is Turning “Inside and Outside the Painting” into Executable Shot State](2026-06-17/2026-06-17-graynotelab-scroll-break-fantasy-prompt-en.md) | GrayNoteLab / AI video / prompt engineering / image-to-video / Chinese fantasy / shot design / creator workflow |
 | [Unreal Engine 5.8 MCP 深度拆解：游戏引擎正在从创作工具变成 Agent 可操作的世界运行时](2026-06-17/2026-06-17-unreal-engine-58-mcp-pcg-agentic-worldbuilding.md) | Unreal Engine / UE 5.8 / MCP / Agentic Worldbuilding / PCG / Toolset Registry / Game Tools |
 | [Unreal Engine 5.8 MCP Deep Dive: Game Engines Are Becoming Agent-Operable World Runtimes](2026-06-17/2026-06-17-unreal-engine-58-mcp-pcg-agentic-worldbuilding-en.md) | Unreal Engine / UE 5.8 / MCP / agentic worldbuilding / PCG / Toolset Registry / game tools |
 | [GLM-5.2 深度拆解：1M Context 真正要解决的，不是塞更多 Token，而是让 Agent 长时间工作不散架](2026-06-17/2026-06-17-glm-52-long-horizon-agent-model.md) | Z.ai / GLM-5.2 / 1M Context / Agentic Coding / IndexShare / MTP / Slime / Anti-hacking / Inference Serving |

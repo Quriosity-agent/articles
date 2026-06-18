@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 GrayNoteLab 破卷视频提示词拆解：AI 视频 Prompt 的关键不是唯美，而是把“画里画外”写成可执行镜头状态
+- [[2026-06-17/2026-06-17-graynotelab-scroll-break-fantasy-prompt|GrayNoteLab 破卷视频提示词拆解：AI 视频 Prompt 的关键不是唯美，而是把“画里画外”写成可执行镜头状态]]
+- [[2026-06-17/2026-06-17-graynotelab-scroll-break-fantasy-prompt-en|GrayNoteLab Scroll-Break Prompt Breakdown: The Key Is Turning “Inside and Outside the Painting” into Executable Shot State]]
+
 ## 🧩 Unreal Engine 5.8 MCP 深度拆解：游戏引擎正在从创作工具变成 Agent 可操作的世界运行时
 - [[2026-06-17/2026-06-17-unreal-engine-58-mcp-pcg-agentic-worldbuilding|Unreal Engine 5.8 MCP 深度拆解：游戏引擎正在从创作工具变成 Agent 可操作的世界运行时]]
 - [[2026-06-17/2026-06-17-unreal-engine-58-mcp-pcg-agentic-worldbuilding-en|Unreal Engine 5.8 MCP Deep Dive: Game Engines Are Becoming Agent-Operable World Runtimes]]
