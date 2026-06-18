@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 StoryPlay AI 深度拆解：短剧创作的难点，不是写一集剧本，而是把拉片、评估、策划和正文接成工作台
+- [[2026-06-18/2026-06-18-storyplay-ai-short-drama-writing-platform|StoryPlay AI 深度拆解：短剧创作的难点，不是写一集剧本，而是把拉片、评估、策划和正文接成工作台]]
+- [[2026-06-18/2026-06-18-storyplay-ai-short-drama-writing-platform-en|StoryPlay AI Deep Dive: Short-Drama Creation Needs a Writing Workbench, Not Just a Script Generator]]
+
 ## 🎬 GrayNoteLab 破卷视频提示词拆解：AI 视频 Prompt 的关键不是唯美，而是把“画里画外”写成可执行镜头状态
 - [[2026-06-17/2026-06-17-graynotelab-scroll-break-fantasy-prompt|GrayNoteLab 破卷视频提示词拆解：AI 视频 Prompt 的关键不是唯美，而是把“画里画外”写成可执行镜头状态]]
 - [[2026-06-17/2026-06-17-graynotelab-scroll-break-fantasy-prompt-en|GrayNoteLab Scroll-Break Prompt Breakdown: The Key Is Turning “Inside and Outside the Painting” into Executable Shot State]]
