@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [GrayNoteLab 唐宋古风人物形象卡提示词拆解：AI 角色一致性的关键，是把审美写成四视图规格](2026-06-18/2026-06-18-graynotelab-tang-song-character-card-prompt.md) | GrayNoteLab / AI Image / Prompt Engineering / Character Sheet / Chinese Fantasy / Creator Workflow |
+| [GrayNoteLab Tang-Song Character Card Prompt: Character Consistency Comes from Turning Taste into a Four-View Spec](2026-06-18/2026-06-18-graynotelab-tang-song-character-card-prompt-en.md) | GrayNoteLab / AI image / prompt engineering / character sheet / Chinese fantasy / creator workflow |
 | [StoryPlay AI 深度拆解：短剧创作的难点，不是写一集剧本，而是把拉片、评估、策划和正文接成工作台](2026-06-18/2026-06-18-storyplay-ai-short-drama-writing-platform.md) | StoryPlay AI / AI Short Drama / Script Writing / Creator Workflow / AI Screenwriting / Production Platform |
 | [StoryPlay AI Deep Dive: Short-Drama Creation Needs a Writing Workbench, Not Just a Script Generator](2026-06-18/2026-06-18-storyplay-ai-short-drama-writing-platform-en.md) | StoryPlay AI / AI short drama / script writing / creator workflow / AI screenwriting / production platform |
 
