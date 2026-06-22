@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-06-22
+
+| 文章 | 主题 |
+|------|------|
+| [Sakana Fugu 深度拆解：下一代模型竞争点，可能不是更大的单体模型，而是会调度模型的模型](2026-06-22/2026-06-22-sakana-fugu-model-orchestration-runtime.md) | Sakana AI / Sakana Fugu / Fugu Ultra / Model Orchestration / Multi-Agent / Agent Runtime / OpenAI-Compatible API |
+| [Sakana Fugu Deep Dive: The Next Model Race May Be About Models That Orchestrate Models](2026-06-22/2026-06-22-sakana-fugu-model-orchestration-runtime-en.md) | Sakana AI / Sakana Fugu / Fugu Ultra / model orchestration / multi-agent / agent runtime / OpenAI-compatible API |
+
+---
+
 ## 📅 2026-06-18
 
 | 文章 | 主题 |

@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧠 Sakana Fugu 深度拆解：下一代模型竞争点，可能不是更大的单体模型，而是会调度模型的模型
+- [[2026-06-22/2026-06-22-sakana-fugu-model-orchestration-runtime|Sakana Fugu 深度拆解：下一代模型竞争点，可能不是更大的单体模型，而是会调度模型的模型]]
+- [[2026-06-22/2026-06-22-sakana-fugu-model-orchestration-runtime-en|Sakana Fugu Deep Dive: The Next Model Race May Be About Models That Orchestrate Models]]
+
 ## 🎨 GrayNoteLab 唐宋古风人物形象卡提示词拆解：AI 角色一致性的关键，是把审美写成四视图规格
 - [[2026-06-18/2026-06-18-graynotelab-tang-song-character-card-prompt|GrayNoteLab 唐宋古风人物形象卡提示词拆解：AI 角色一致性的关键，是把审美写成四视图规格]]
 - [[2026-06-18/2026-06-18-graynotelab-tang-song-character-card-prompt-en|GrayNoteLab Tang-Song Character Card Prompt: Character Consistency Comes from Turning Taste into a Four-View Spec]]
