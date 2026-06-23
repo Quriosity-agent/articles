@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-06-23
+
+| 文章 | 主题 |
+|------|------|
+| [ByteDance Seed2.1 深度拆解：AI 生产力模型的竞争点，正在从答题能力转向稳定交付](2026-06-23/2026-06-23-bytedance-seed21-agent-coding-productivity.md) | ByteDance Seed / Seed2.1 / Doubao / Agent / Coding Agent / Computer Use / Multimodal / AI Productivity |
+| [ByteDance Seed2.1 Deep Dive: Productivity Models Are Moving From Answers to Reliable Delivery](2026-06-23/2026-06-23-bytedance-seed21-agent-coding-productivity-en.md) | ByteDance Seed / Seed2.1 / Doubao / agent / coding agent / computer use / multimodal / AI productivity |
+
+---
+
 ## 📅 2026-06-22
 
 | 文章 | 主题 |

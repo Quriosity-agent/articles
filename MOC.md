@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧠 ByteDance Seed2.1 深度拆解：AI 生产力模型的竞争点，正在从答题能力转向稳定交付
+- [[2026-06-23/2026-06-23-bytedance-seed21-agent-coding-productivity|ByteDance Seed2.1 深度拆解：AI 生产力模型的竞争点，正在从答题能力转向稳定交付]]
+- [[2026-06-23/2026-06-23-bytedance-seed21-agent-coding-productivity-en|ByteDance Seed2.1 Deep Dive: Productivity Models Are Moving From Answers to Reliable Delivery]]
+
 ## 🧠 Sakana Fugu 深度拆解：下一代模型竞争点，可能不是更大的单体模型，而是会调度模型的模型
 - [[2026-06-22/2026-06-22-sakana-fugu-model-orchestration-runtime|Sakana Fugu 深度拆解：下一代模型竞争点，可能不是更大的单体模型，而是会调度模型的模型]]
 - [[2026-06-22/2026-06-22-sakana-fugu-model-orchestration-runtime-en|Sakana Fugu Deep Dive: The Next Model Race May Be About Models That Orchestrate Models]]
