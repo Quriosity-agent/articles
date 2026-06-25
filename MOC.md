@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 AIWarper Seedance Ref Video 工作流拆解：AI 视频动作控制，正在从写 Prompt 变成制作动作参考
+- [[2026-06-25/2026-06-25-aiwarper-seedance-ref-video-animation-workflow|AIWarper Seedance Ref Video 工作流拆解：AI 视频动作控制，正在从写 Prompt 变成制作动作参考]]
+- [[2026-06-25/2026-06-25-aiwarper-seedance-ref-video-animation-workflow-en|AIWarper Seedance Ref-Video Workflow: AI Video Motion Control Is Moving From Prompts to Action References]]
+
 ## 🧠 ByteDance Seed2.1 深度拆解：AI 生产力模型的竞争点，正在从答题能力转向稳定交付
 - [[2026-06-23/2026-06-23-bytedance-seed21-agent-coding-productivity|ByteDance Seed2.1 深度拆解：AI 生产力模型的竞争点，正在从答题能力转向稳定交付]]
 - [[2026-06-23/2026-06-23-bytedance-seed21-agent-coding-productivity-en|ByteDance Seed2.1 Deep Dive: Productivity Models Are Moving From Answers to Reliable Delivery]]

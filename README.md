@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-06-25
+
+| 文章 | 主题 |
+|------|------|
+| [AIWarper Seedance Ref Video 工作流拆解：AI 视频动作控制，正在从写 Prompt 变成制作动作参考](2026-06-25/2026-06-25-aiwarper-seedance-ref-video-animation-workflow.md) | AIWarper / Seedance / Seedance 2.0 / AI Video / Reference Video / Motion Control / Animation Workflow / Creator Workflow |
+| [AIWarper Seedance Ref-Video Workflow: AI Video Motion Control Is Moving From Prompts to Action References](2026-06-25/2026-06-25-aiwarper-seedance-ref-video-animation-workflow-en.md) | AIWarper / Seedance / Seedance 2.0 / AI video / reference video / motion control / animation workflow / creator workflow |
+
+---
+
 ## 📅 2026-06-23
 
 | 文章 | 主题 |
