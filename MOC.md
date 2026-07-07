@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧠 Anthropic J-space 深度拆解：Claude 不是被证明有意识，而是“可报告思维”第一次变成可读工作区
+- [[2026-07-07/2026-07-07-anthropic-jspace-global-workspace|Anthropic J-space 深度拆解：Claude 不是被证明有意识，而是“可报告思维”第一次变成可读工作区]]
+- [[2026-07-07/2026-07-07-anthropic-jspace-global-workspace-en|Anthropic J-space Deep Dive: Claude Was Not Proven Conscious, but Reportable Thought Became a Readable Workspace]]
+
 ## 🎬 AIWarper Seedance Ref Video 工作流拆解：AI 视频动作控制，正在从写 Prompt 变成制作动作参考
 - [[2026-06-25/2026-06-25-aiwarper-seedance-ref-video-animation-workflow|AIWarper Seedance Ref Video 工作流拆解：AI 视频动作控制，正在从写 Prompt 变成制作动作参考]]
 - [[2026-06-25/2026-06-25-aiwarper-seedance-ref-video-animation-workflow-en|AIWarper Seedance Ref-Video Workflow: AI Video Motion Control Is Moving From Prompts to Action References]]

@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-07-07
+
+| 文章 | 主题 |
+|------|------|
+| [Anthropic J-space 深度拆解：Claude 不是被证明有意识，而是“可报告思维”第一次变成可读工作区](2026-07-07/2026-07-07-anthropic-jspace-global-workspace.md) | Anthropic / Claude / J-space / Jacobian Lens / Interpretability / Global Workspace / AI Safety |
+| [Anthropic J-space Deep Dive: Claude Was Not Proven Conscious, but Reportable Thought Became a Readable Workspace](2026-07-07/2026-07-07-anthropic-jspace-global-workspace-en.md) | Anthropic / Claude / J-space / Jacobian Lens / interpretability / global workspace / AI safety |
+
+---
+
 ## 📅 2026-06-25
 
 | 文章 | 主题 |
