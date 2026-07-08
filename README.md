@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-07-08
+
+| 文章 | 主题 |
+|------|------|
+| [FrameThrower 深度拆解：AI 视频时代，电影参考搜索正在从找图变成镜头语言数据库](2026-07-08/2026-07-08-framethrower-cinematography-search-engine.md) | FrameThrower / Cinematography / Film Stills / AI Video / Moodboard / Lookbook / Creator Workflow |
+| [FrameThrower Deep Dive: Cinematography Search Is Moving from Image Hunting to Shot-Language Databases](2026-07-08/2026-07-08-framethrower-cinematography-search-engine-en.md) | FrameThrower / cinematography / film stills / AI video / moodboard / lookbook / creator workflow |
+
+---
+
 ## 📅 2026-07-07
 
 | 文章 | 主题 |

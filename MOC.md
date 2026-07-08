@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 FrameThrower 深度拆解：AI 视频时代，电影参考搜索正在从找图变成镜头语言数据库
+- [[2026-07-08/2026-07-08-framethrower-cinematography-search-engine|FrameThrower 深度拆解：AI 视频时代，电影参考搜索正在从找图变成镜头语言数据库]]
+- [[2026-07-08/2026-07-08-framethrower-cinematography-search-engine-en|FrameThrower Deep Dive: Cinematography Search Is Moving from Image Hunting to Shot-Language Databases]]
+
 ## 🧠 Anthropic J-space 深度拆解：Claude 不是被证明有意识，而是“可报告思维”第一次变成可读工作区
 - [[2026-07-07/2026-07-07-anthropic-jspace-global-workspace|Anthropic J-space 深度拆解：Claude 不是被证明有意识，而是“可报告思维”第一次变成可读工作区]]
 - [[2026-07-07/2026-07-07-anthropic-jspace-global-workspace-en|Anthropic J-space Deep Dive: Claude Was Not Proven Conscious, but Reportable Thought Became a Readable Workspace]]
