@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 电影镜头参考库工作流拆解：ShotDeck、Shot.Cafe、Flim、Film Vibes、Frame Set 如何从找图变成 AI 视频前期栈
+- [[2026-07-08/2026-07-08-cinematic-reference-stack-ai-video-preproduction|电影镜头参考库工作流拆解：ShotDeck、Shot.Cafe、Flim、Film Vibes、Frame Set 如何从找图变成 AI 视频前期栈]]
+- [[2026-07-08/2026-07-08-cinematic-reference-stack-ai-video-preproduction-en|Cinematic Reference Stack: How ShotDeck, Shot.Cafe, Flim, Film Vibes, and Frame Set Turn Image Hunting Into AI Video Pre-Production]]
+
 ## 🎬 FrameThrower 深度拆解：AI 视频时代，电影参考搜索正在从找图变成镜头语言数据库
 - [[2026-07-08/2026-07-08-framethrower-cinematography-search-engine|FrameThrower 深度拆解：AI 视频时代，电影参考搜索正在从找图变成镜头语言数据库]]
 - [[2026-07-08/2026-07-08-framethrower-cinematography-search-engine-en|FrameThrower Deep Dive: Cinematography Search Is Moving from Image Hunting to Shot-Language Databases]]
