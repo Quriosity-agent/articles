@@ -16,6 +16,10 @@
 - [[2026-07-07/2026-07-07-anthropic-jspace-global-workspace|Anthropic J-space 深度拆解：Claude 不是被证明有意识，而是“可报告思维”第一次变成可读工作区]]
 - [[2026-07-07/2026-07-07-anthropic-jspace-global-workspace-en|Anthropic J-space Deep Dive: Claude Was Not Proven Conscious, but Reportable Thought Became a Readable Workspace]]
 
+## 🧠 Lilian Weng Harness Engineering 拆解：Agent 的下一层竞争，不是 Prompt，而是可进化的 Harness
+- [[2026-07-04/2026-07-04-lilian-weng-harness-evolutionary-search|Lilian Weng Harness Engineering 拆解：Agent 的下一层竞争，不是 Prompt，而是可进化的 Harness]]
+- [[2026-07-04/2026-07-04-lilian-weng-harness-evolutionary-search-en|Lilian Weng's Harness Engineering: The Next Agent Competition Is Not Prompts, but Evolvable Harnesses]]
+
 ## 🎬 AIWarper Seedance Ref Video 工作流拆解：AI 视频动作控制，正在从写 Prompt 变成制作动作参考
 - [[2026-06-25/2026-06-25-aiwarper-seedance-ref-video-animation-workflow|AIWarper Seedance Ref Video 工作流拆解：AI 视频动作控制，正在从写 Prompt 变成制作动作参考]]
 - [[2026-06-25/2026-06-25-aiwarper-seedance-ref-video-animation-workflow-en|AIWarper Seedance Ref-Video Workflow: AI Video Motion Control Is Moving From Prompts to Action References]]

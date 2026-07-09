@@ -35,6 +35,15 @@
 
 ---
 
+## 📅 2026-07-04
+
+| 文章 | 主题 |
+|------|------|
+| [Lilian Weng Harness Engineering 拆解：Agent 的下一层竞争，不是 Prompt，而是可进化的 Harness](2026-07-04/2026-07-04-lilian-weng-harness-evolutionary-search.md) | Lilian Weng / Harness Engineering / Evolutionary Search / Agent / Self-Improvement / AlphaEvolve / DGM |
+| [Lilian Weng's Harness Engineering: The Next Agent Competition Is Not Prompts, but Evolvable Harnesses](2026-07-04/2026-07-04-lilian-weng-harness-evolutionary-search-en.md) | Lilian Weng / harness engineering / evolutionary search / agent / self-improvement / AlphaEvolve / DGM |
+
+---
+
 ## 📅 2026-06-25
 
 | 文章 | 主题 |
