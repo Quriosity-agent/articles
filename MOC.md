@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 拉片笔记深度拆解：AI 电影学习工具的关键，不是替你看电影，而是把观看变成可编辑结构
+- [[2026-07-09/2026-07-09-lapian-notes-ai-film-analysis-workbench|拉片笔记深度拆解：AI 电影学习工具的关键，不是替你看电影，而是把观看变成可编辑结构]]
+- [[2026-07-09/2026-07-09-lapian-notes-ai-film-analysis-workbench-en|Lapian Notes Deep Dive: AI Film Study Works Best When Viewing Becomes an Editable Structure]]
+
 ## 🎬 电影镜头参考库工作流拆解：ShotDeck、Shot.Cafe、Flim、Film Vibes、Frame Set 如何从找图变成 AI 视频前期栈
 - [[2026-07-08/2026-07-08-cinematic-reference-stack-ai-video-preproduction|电影镜头参考库工作流拆解：ShotDeck、Shot.Cafe、Flim、Film Vibes、Frame Set 如何从找图变成 AI 视频前期栈]]
 - [[2026-07-08/2026-07-08-cinematic-reference-stack-ai-video-preproduction-en|Cinematic Reference Stack: How ShotDeck, Shot.Cafe, Flim, Film Vibes, and Frame Set Turn Image Hunting Into AI Video Pre-Production]]

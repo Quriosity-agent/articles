@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-07-09
+
+| 文章 | 主题 |
+|------|------|
+| [拉片笔记深度拆解：AI 电影学习工具的关键，不是替你看电影，而是把观看变成可编辑结构](2026-07-09/2026-07-09-lapian-notes-ai-film-analysis-workbench.md) | Lapian Notes / 拉片 / Film Analysis / AI Film Study / Creator Workflow / Local-First / Screenwriting |
+| [Lapian Notes Deep Dive: AI Film Study Works Best When Viewing Becomes an Editable Structure](2026-07-09/2026-07-09-lapian-notes-ai-film-analysis-workbench-en.md) | Lapian Notes / film analysis / AI film study / creator workflow / local-first / screenwriting |
+
+---
+
 ## 📅 2026-07-08
 
 | 文章 | 主题 |
