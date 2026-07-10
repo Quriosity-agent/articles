@@ -12,6 +12,10 @@
 - [[2026-07-09/2026-07-09-lapian-notes-ai-film-analysis-workbench|拉片笔记深度拆解：AI 电影学习工具的关键，不是替你看电影，而是把观看变成可编辑结构]]
 - [[2026-07-09/2026-07-09-lapian-notes-ai-film-analysis-workbench-en|Lapian Notes Deep Dive: AI Film Study Works Best When Viewing Becomes an Editable Structure]]
 
+## 🎙️ OpenAI GPT-Live 深度拆解：语音 Agent 的关键，正在从低延迟变成持续交互与后台委派
+- [[2026-07-08/2026-07-08-openai-gpt-live-full-duplex-voice-agent-runtime|OpenAI GPT-Live 深度拆解：语音 Agent 的关键，正在从低延迟变成持续交互与后台委派]]
+- [[2026-07-08/2026-07-08-openai-gpt-live-full-duplex-voice-agent-runtime-en|OpenAI GPT-Live Deep Dive: Voice Agents Are Moving from Low Latency to Continuous Interaction and Background Delegation]]
+
 ## 🧠 Fable 5 vs GPT-5.6 Sol：真正的问题不是谁更聪明，而是谁更适合交付
 - [[2026-07-08/2026-07-08-fable5-gpt56-sol-model-selection-workflow|Fable 5 vs GPT-5.6 Sol：真正的问题不是谁更聪明，而是谁更适合交付]]
 - [[2026-07-08/2026-07-08-fable5-gpt56-sol-model-selection-workflow-en|Fable 5 vs GPT-5.6 Sol: The Real Question Is Not Which Model Is Smarter, but Which One Ships]]

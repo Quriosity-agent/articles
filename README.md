@@ -23,6 +23,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [OpenAI GPT-Live 深度拆解：语音 Agent 的关键，正在从低延迟变成持续交互与后台委派](2026-07-08/2026-07-08-openai-gpt-live-full-duplex-voice-agent-runtime.md) | OpenAI / GPT-Live / ChatGPT Voice / Voice Agent / Full Duplex / Speech-to-Speech / Agent Runtime |
+| [OpenAI GPT-Live Deep Dive: Voice Agents Are Moving from Low Latency to Continuous Interaction and Background Delegation](2026-07-08/2026-07-08-openai-gpt-live-full-duplex-voice-agent-runtime-en.md) | OpenAI / GPT-Live / ChatGPT Voice / voice agent / full duplex / speech-to-speech / agent runtime |
 | [Cursor × SpaceXAI Grok 4.5：AI IDE 的竞争点，正在从调用模型变成训练模型](2026-07-08/2026-07-08-cursor-spacexai-grok45-model-training.md) | Cursor / SpaceXAI / Grok 4.5 / AI Coding / Agentic Coding / Model Training / AI IDE |
 | [Cursor x SpaceXAI Grok 4.5: AI IDE Competition Is Moving from Calling Models to Training Them](2026-07-08/2026-07-08-cursor-spacexai-grok45-model-training-en.md) | Cursor / SpaceXAI / Grok 4.5 / AI coding / agentic coding / model training / AI IDE |
 | [Seedream 5.0 Pro 深度拆解：图像模型正在从出图工具变成设计生产接口](2026-07-08/2026-07-08-seedream5-pro-design-production-model.md) | ByteDance Seed / Seedream 5.0 Pro / AI Image / Image Editing / Multimodal Generation / Creative Workflow / Design Production |
