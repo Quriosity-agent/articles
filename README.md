@@ -23,6 +23,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Seedream 5.0 Pro 深度拆解：图像模型正在从出图工具变成设计生产接口](2026-07-08/2026-07-08-seedream5-pro-design-production-model.md) | ByteDance Seed / Seedream 5.0 Pro / AI Image / Image Editing / Multimodal Generation / Creative Workflow / Design Production |
+| [Seedream 5.0 Pro Deep Dive: Image Models Are Becoming Design Production Interfaces](2026-07-08/2026-07-08-seedream5-pro-design-production-model-en.md) | ByteDance Seed / Seedream 5.0 Pro / AI image / image editing / multimodal generation / creative workflow / design production |
 | [Fable 5 vs GPT-5.6 Sol：真正的问题不是谁更聪明，而是谁更适合交付](2026-07-08/2026-07-08-fable5-gpt56-sol-model-selection-workflow.md) | Fable 5 / GPT-5.6 Sol / Model Selection / Agent Workflow / Coding Agent / AI Productivity / Evaluation |
 | [Fable 5 vs GPT-5.6 Sol: The Real Question Is Not Which Model Is Smarter, but Which One Ships](2026-07-08/2026-07-08-fable5-gpt56-sol-model-selection-workflow-en.md) | Fable 5 / GPT-5.6 Sol / model selection / agent workflow / coding agent / AI productivity / evaluation |
 | [电影镜头参考库工作流拆解：ShotDeck、Shot.Cafe、Flim、Film Vibes、Frame Set 如何从找图变成 AI 视频前期栈](2026-07-08/2026-07-08-cinematic-reference-stack-ai-video-preproduction.md) | ShotDeck / Shot.Cafe / Flim / Film Vibes / Frame Set / Cinematography / AI Video / Creator Workflow |
