@@ -23,6 +23,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Fable 5 vs GPT-5.6 Sol：真正的问题不是谁更聪明，而是谁更适合交付](2026-07-08/2026-07-08-fable5-gpt56-sol-model-selection-workflow.md) | Fable 5 / GPT-5.6 Sol / Model Selection / Agent Workflow / Coding Agent / AI Productivity / Evaluation |
+| [Fable 5 vs GPT-5.6 Sol: The Real Question Is Not Which Model Is Smarter, but Which One Ships](2026-07-08/2026-07-08-fable5-gpt56-sol-model-selection-workflow-en.md) | Fable 5 / GPT-5.6 Sol / model selection / agent workflow / coding agent / AI productivity / evaluation |
 | [电影镜头参考库工作流拆解：ShotDeck、Shot.Cafe、Flim、Film Vibes、Frame Set 如何从找图变成 AI 视频前期栈](2026-07-08/2026-07-08-cinematic-reference-stack-ai-video-preproduction.md) | ShotDeck / Shot.Cafe / Flim / Film Vibes / Frame Set / Cinematography / AI Video / Creator Workflow |
 | [Cinematic Reference Stack: How ShotDeck, Shot.Cafe, Flim, Film Vibes, and Frame Set Turn Image Hunting Into AI Video Pre-Production](2026-07-08/2026-07-08-cinematic-reference-stack-ai-video-preproduction-en.md) | ShotDeck / Shot.Cafe / Flim / Film Vibes / Frame Set / cinematography / AI video / creator workflow |
 | [FrameThrower 深度拆解：AI 视频时代，电影参考搜索正在从找图变成镜头语言数据库](2026-07-08/2026-07-08-framethrower-cinematography-search-engine.md) | FrameThrower / Cinematography / Film Stills / AI Video / Moodboard / Lookbook / Creator Workflow |
