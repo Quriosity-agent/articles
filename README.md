@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [GPT-5.6 Sol 打通 Pokémon FireRed：Vision-only 长程 Agent 测试，真正测的不是游戏水平](2026-07-09/2026-07-09-gpt-56-sol-pokemon-firered-vision-agent-benchmark.md) | GPT-5.6 Sol / Pokémon FireRed / Vision Agent / Long-Horizon Agent / Computer Use / Benchmark |
+| [GPT-5.6 Sol Beats Pokémon FireRed: What a Vision-Only Long-Horizon Agent Test Really Measures](2026-07-09/2026-07-09-gpt-56-sol-pokemon-firered-vision-agent-benchmark-en.md) | GPT-5.6 Sol / Pokémon FireRed / vision agent / long-horizon agent / computer use / benchmark |
 | [Quriosity-agent/lapian-notes 仓库拆解：真正难的是把 AI 拉片做成本地可启动的创作者工具](2026-07-09/2026-07-09-quriosity-lapian-notes-local-first-film-workbench.md) | Quriosity-agent / Lapian Notes / Film Analysis / AI Film Study / Local-First / Creator Workflow / Vite |
 | [Quriosity-agent/lapian-notes Deep Dive: The Hard Part Is Turning AI Film Analysis Into a Local-First Creator Tool](2026-07-09/2026-07-09-quriosity-lapian-notes-local-first-film-workbench-en.md) | Quriosity-agent / Lapian Notes / film analysis / AI film study / local-first / creator workflow / Vite |
 | [拉片笔记深度拆解：AI 电影学习工具的关键，不是替你看电影，而是把观看变成可编辑结构](2026-07-09/2026-07-09-lapian-notes-ai-film-analysis-workbench.md) | Lapian Notes / 拉片 / Film Analysis / AI Film Study / Creator Workflow / Local-First / Screenwriting |

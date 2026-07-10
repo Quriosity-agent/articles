@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧠 GPT-5.6 Sol 打通 Pokémon FireRed：Vision-only 长程 Agent 测试，真正测的不是游戏水平
+- [[2026-07-09/2026-07-09-gpt-56-sol-pokemon-firered-vision-agent-benchmark|GPT-5.6 Sol 打通 Pokémon FireRed：Vision-only 长程 Agent 测试，真正测的不是游戏水平]]
+- [[2026-07-09/2026-07-09-gpt-56-sol-pokemon-firered-vision-agent-benchmark-en|GPT-5.6 Sol Beats Pokémon FireRed: What a Vision-Only Long-Horizon Agent Test Really Measures]]
+
 ## 🎬 Quriosity-agent/lapian-notes 仓库拆解：真正难的是把 AI 拉片做成本地可启动的创作者工具
 - [[2026-07-09/2026-07-09-quriosity-lapian-notes-local-first-film-workbench|Quriosity-agent/lapian-notes 仓库拆解：真正难的是把 AI 拉片做成本地可启动的创作者工具]]
 - [[2026-07-09/2026-07-09-quriosity-lapian-notes-local-first-film-workbench-en|Quriosity-agent/lapian-notes Deep Dive: The Hard Part Is Turning AI Film Analysis Into a Local-First Creator Tool]]
