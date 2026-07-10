@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Meta Muse Spark 1.1 深度拆解：模型 API 的竞争点，正在从推理调用变成 Agent Runtime 兼容层](2026-07-09/2026-07-09-meta-muse-spark-11-agent-model-api-runtime.md) | Meta / Muse Spark 1.1 / Meta Model API / Agent / Computer Use / Multimodal / Model API |
+| [Meta Muse Spark 1.1 Deep Dive: Model APIs Are Becoming Compatibility Layers for Agent Runtimes](2026-07-09/2026-07-09-meta-muse-spark-11-agent-model-api-runtime-en.md) | Meta / Muse Spark 1.1 / Meta Model API / agent / computer use / multimodal / model API |
 | [GPT-5.6 Sol 打通 Pokémon FireRed：Vision-only 长程 Agent 测试，真正测的不是游戏水平](2026-07-09/2026-07-09-gpt-56-sol-pokemon-firered-vision-agent-benchmark.md) | GPT-5.6 Sol / Pokémon FireRed / Vision Agent / Long-Horizon Agent / Computer Use / Benchmark |
 | [GPT-5.6 Sol Beats Pokémon FireRed: What a Vision-Only Long-Horizon Agent Test Really Measures](2026-07-09/2026-07-09-gpt-56-sol-pokemon-firered-vision-agent-benchmark-en.md) | GPT-5.6 Sol / Pokémon FireRed / vision agent / long-horizon agent / computer use / benchmark |
 | [Quriosity-agent/lapian-notes 仓库拆解：真正难的是把 AI 拉片做成本地可启动的创作者工具](2026-07-09/2026-07-09-quriosity-lapian-notes-local-first-film-workbench.md) | Quriosity-agent / Lapian Notes / Film Analysis / AI Film Study / Local-First / Creator Workflow / Vite |

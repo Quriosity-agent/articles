@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧠 Meta Muse Spark 1.1 深度拆解：模型 API 的竞争点，正在从推理调用变成 Agent Runtime 兼容层
+- [[2026-07-09/2026-07-09-meta-muse-spark-11-agent-model-api-runtime|Meta Muse Spark 1.1 深度拆解：模型 API 的竞争点，正在从推理调用变成 Agent Runtime 兼容层]]
+- [[2026-07-09/2026-07-09-meta-muse-spark-11-agent-model-api-runtime-en|Meta Muse Spark 1.1 Deep Dive: Model APIs Are Becoming Compatibility Layers for Agent Runtimes]]
+
 ## 🧠 GPT-5.6 Sol 打通 Pokémon FireRed：Vision-only 长程 Agent 测试，真正测的不是游戏水平
 - [[2026-07-09/2026-07-09-gpt-56-sol-pokemon-firered-vision-agent-benchmark|GPT-5.6 Sol 打通 Pokémon FireRed：Vision-only 长程 Agent 测试，真正测的不是游戏水平]]
 - [[2026-07-09/2026-07-09-gpt-56-sol-pokemon-firered-vision-agent-benchmark-en|GPT-5.6 Sol Beats Pokémon FireRed: What a Vision-Only Long-Horizon Agent Test Really Measures]]
