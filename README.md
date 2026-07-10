@@ -23,6 +23,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Cursor × SpaceXAI Grok 4.5：AI IDE 的竞争点，正在从调用模型变成训练模型](2026-07-08/2026-07-08-cursor-spacexai-grok45-model-training.md) | Cursor / SpaceXAI / Grok 4.5 / AI Coding / Agentic Coding / Model Training / AI IDE |
+| [Cursor x SpaceXAI Grok 4.5: AI IDE Competition Is Moving from Calling Models to Training Them](2026-07-08/2026-07-08-cursor-spacexai-grok45-model-training-en.md) | Cursor / SpaceXAI / Grok 4.5 / AI coding / agentic coding / model training / AI IDE |
 | [Seedream 5.0 Pro 深度拆解：图像模型正在从出图工具变成设计生产接口](2026-07-08/2026-07-08-seedream5-pro-design-production-model.md) | ByteDance Seed / Seedream 5.0 Pro / AI Image / Image Editing / Multimodal Generation / Creative Workflow / Design Production |
 | [Seedream 5.0 Pro Deep Dive: Image Models Are Becoming Design Production Interfaces](2026-07-08/2026-07-08-seedream5-pro-design-production-model-en.md) | ByteDance Seed / Seedream 5.0 Pro / AI image / image editing / multimodal generation / creative workflow / design production |
 | [Fable 5 vs GPT-5.6 Sol：真正的问题不是谁更聪明，而是谁更适合交付](2026-07-08/2026-07-08-fable5-gpt56-sol-model-selection-workflow.md) | Fable 5 / GPT-5.6 Sol / Model Selection / Agent Workflow / Coding Agent / AI Productivity / Evaluation |

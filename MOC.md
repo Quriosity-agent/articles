@@ -16,6 +16,10 @@
 - [[2026-07-08/2026-07-08-fable5-gpt56-sol-model-selection-workflow|Fable 5 vs GPT-5.6 Sol：真正的问题不是谁更聪明，而是谁更适合交付]]
 - [[2026-07-08/2026-07-08-fable5-gpt56-sol-model-selection-workflow-en|Fable 5 vs GPT-5.6 Sol: The Real Question Is Not Which Model Is Smarter, but Which One Ships]]
 
+## 🧠 Cursor × SpaceXAI Grok 4.5：AI IDE 的竞争点，正在从调用模型变成训练模型
+- [[2026-07-08/2026-07-08-cursor-spacexai-grok45-model-training|Cursor × SpaceXAI Grok 4.5：AI IDE 的竞争点，正在从调用模型变成训练模型]]
+- [[2026-07-08/2026-07-08-cursor-spacexai-grok45-model-training-en|Cursor x SpaceXAI Grok 4.5: AI IDE Competition Is Moving from Calling Models to Training Them]]
+
 ## 🎨 Seedream 5.0 Pro 深度拆解：图像模型正在从出图工具变成设计生产接口
 - [[2026-07-08/2026-07-08-seedream5-pro-design-production-model|Seedream 5.0 Pro 深度拆解：图像模型正在从出图工具变成设计生产接口]]
 - [[2026-07-08/2026-07-08-seedream5-pro-design-production-model-en|Seedream 5.0 Pro Deep Dive: Image Models Are Becoming Design Production Interfaces]]
