@@ -44,6 +44,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [webnovel-writer 深度拆解：AI 长篇写作真正缺的不是文笔，而是一套故事提交系统](2026-07-07/2026-07-07-webnovel-writer-story-commit-system.md) | webnovel-writer / Claude Code / AI Writing / Web Novel / Story System / Long-Term Memory / Agent Skills |
+| [webnovel-writer Deep Dive: Long-Form AI Writing Needs a Story Commit System, Not Just Better Prose](2026-07-07/2026-07-07-webnovel-writer-story-commit-system-en.md) | webnovel-writer / Claude Code / AI writing / web novel / Story System / long-term memory / agent skills |
 | [Anthropic J-space 深度拆解：Claude 不是被证明有意识，而是“可报告思维”第一次变成可读工作区](2026-07-07/2026-07-07-anthropic-jspace-global-workspace.md) | Anthropic / Claude / J-space / Jacobian Lens / Interpretability / Global Workspace / AI Safety |
 | [Anthropic J-space Deep Dive: Claude Was Not Proven Conscious, but Reportable Thought Became a Readable Workspace](2026-07-07/2026-07-07-anthropic-jspace-global-workspace-en.md) | Anthropic / Claude / J-space / Jacobian Lens / interpretability / global workspace / AI safety |
 
