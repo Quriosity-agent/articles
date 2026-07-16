@@ -891,6 +891,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [NVIDIA Kimodo 深度拆解：700 小时 mocap 如何把动作生成变成可编程运动数据引擎](2026-03-16/2026-03-16-nvidia-kimodo-controllable-motion-data-engine.md) | NVIDIA / Kimodo / Human Motion Generation / Motion Capture / 3D Animation / Humanoid Robotics / Diffusion / Physical AI |
+| [NVIDIA Kimodo Deep Dive: How 700 Hours of MoCap Turn Motion Generation Into a Programmable Data Engine](2026-03-16/2026-03-16-nvidia-kimodo-controllable-motion-data-engine-en.md) | NVIDIA / Kimodo / human motion generation / motion capture / 3D animation / humanoid robotics / diffusion / Physical AI |
 | [ArgusBot：让 Codex CLI 不再"干到一半就停"的 Python 监督插件](2026-03-16/argusbot-analysis.md) | - |
 | [ArgusBot: A Python Supervisor Plugin That Stops Codex CLI From Quitting Early](2026-03-16/argusbot-analysis-en.md) | - |
 | [在 Transformer 里造了一台计算机：Percepta AI 让 LLM 跑程序](2026-03-16/christostzamos-2031845139526652236-analysis.md) | - |

@@ -4,6 +4,10 @@
 - [[2026-07-14/2026-07-14-nvidia-ardy-realtime-interactive-motion-control|NVIDIA ARDY 深度拆解：AI 角色动画正在从生成片段变成实时可重规划的运动控制层]]
 - [[2026-07-14/2026-07-14-nvidia-ardy-realtime-interactive-motion-control-en|NVIDIA ARDY Deep Dive: AI Character Animation Is Becoming a Real-Time, Replannable Motion-Control Layer]]
 
+## 🎬 NVIDIA Kimodo 深度拆解：700 小时 mocap 如何把动作生成变成可编程运动数据引擎
+- [[2026-03-16/2026-03-16-nvidia-kimodo-controllable-motion-data-engine|NVIDIA Kimodo 深度拆解：700 小时 mocap 如何把动作生成变成可编程运动数据引擎]]
+- [[2026-03-16/2026-03-16-nvidia-kimodo-controllable-motion-data-engine-en|NVIDIA Kimodo Deep Dive: How 700 Hours of MoCap Turn Motion Generation Into a Programmable Data Engine]]
+
 ## 🧠 Meta Muse Spark 1.1 深度拆解：模型 API 的竞争点，正在从推理调用变成 Agent Runtime 兼容层
 - [[2026-07-09/2026-07-09-meta-muse-spark-11-agent-model-api-runtime|Meta Muse Spark 1.1 深度拆解：模型 API 的竞争点，正在从推理调用变成 Agent Runtime 兼容层]]
 - [[2026-07-09/2026-07-09-meta-muse-spark-11-agent-model-api-runtime-en|Meta Muse Spark 1.1 Deep Dive: Model APIs Are Becoming Compatibility Layers for Agent Runtimes]]
