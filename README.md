@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-07-14
+
+| 文章 | 主题 |
+|------|------|
+| [NVIDIA ARDY 深度拆解：AI 角色动画正在从生成片段变成实时可重规划的运动控制层](2026-07-14/2026-07-14-nvidia-ardy-realtime-interactive-motion-control.md) | NVIDIA / ARDY / Human Motion Generation / 3D Animation / Humanoid Robotics / Diffusion / Physical AI |
+| [NVIDIA ARDY Deep Dive: AI Character Animation Is Becoming a Real-Time, Replannable Motion-Control Layer](2026-07-14/2026-07-14-nvidia-ardy-realtime-interactive-motion-control-en.md) | NVIDIA / ARDY / human motion generation / 3D animation / humanoid robotics / diffusion / Physical AI |
+
+---
+
 ## 📅 2026-07-09
 
 | 文章 | 主题 |
