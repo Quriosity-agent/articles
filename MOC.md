@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧠 Kimi K3 深度拆解：开源 3T 模型的真正变量，是长程 Agent 的运行成本与控制面
+- [[2026-07-17/2026-07-17-kimi-k3-open-frontier-intelligence|Kimi K3 深度拆解：开源 3T 模型的真正变量，是长程 Agent 的运行成本与控制面]]
+- [[2026-07-17/2026-07-17-kimi-k3-open-frontier-intelligence-en|Kimi K3 Deep Dive: The Real Variable in an Open 3T Model Is Agent Runtime Cost and Control]]
+
 ## 🎨 PoseMy.Art 深度拆解：AI 创作真正需要的不是姿势图库，而是可导出的参考场景状态
 - [[2026-07-18/2026-07-18-posemy-art-feature-workflow|PoseMy.Art 深度拆解：AI 创作真正需要的不是姿势图库，而是可导出的参考场景状态]]
 - [[2026-07-18/2026-07-18-posemy-art-feature-workflow-en|PoseMy.Art Deep Dive: AI Creative Workflows Need Exportable Reference State, Not Just Pose Libraries]]

@@ -15,6 +15,15 @@
 
 ---
 
+## 📅 2026-07-17
+
+| 文章 | 主题 |
+|------|------|
+| [Kimi K3 深度拆解：开源 3T 模型的真正变量，是长程 Agent 的运行成本与控制面](2026-07-17/2026-07-17-kimi-k3-open-frontier-intelligence.md) | Kimi K3 / Moonshot AI / Open Weight / 3T Model / Agent Runtime / Long Context / Coding Agent |
+| [Kimi K3 Deep Dive: The Real Variable in an Open 3T Model Is Agent Runtime Cost and Control](2026-07-17/2026-07-17-kimi-k3-open-frontier-intelligence-en.md) | Kimi K3 / Moonshot AI / open weight / 3T model / agent runtime / long context / coding agent |
+
+---
+
 ## 📅 2026-07-14
 
 | 文章 | 主题 |
