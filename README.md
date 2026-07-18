@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-07-18
+
+| 文章 | 主题 |
+|------|------|
+| [PoseMy.Art 深度拆解：AI 创作真正需要的不是姿势图库，而是可导出的参考场景状态](2026-07-18/2026-07-18-posemy-art-feature-workflow.md) | PoseMy.Art / Pose Reference / AI Image / AI Video / OpenPose / ControlNet / Creator Workflow |
+| [PoseMy.Art Deep Dive: AI Creative Workflows Need Exportable Reference State, Not Just Pose Libraries](2026-07-18/2026-07-18-posemy-art-feature-workflow-en.md) | PoseMy.Art / pose reference / AI image / AI video / OpenPose / ControlNet / creator workflow |
+
+---
+
 ## 📅 2026-07-14
 
 | 文章 | 主题 |

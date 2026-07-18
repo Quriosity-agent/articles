@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎨 PoseMy.Art 深度拆解：AI 创作真正需要的不是姿势图库，而是可导出的参考场景状态
+- [[2026-07-18/2026-07-18-posemy-art-feature-workflow|PoseMy.Art 深度拆解：AI 创作真正需要的不是姿势图库，而是可导出的参考场景状态]]
+- [[2026-07-18/2026-07-18-posemy-art-feature-workflow-en|PoseMy.Art Deep Dive: AI Creative Workflows Need Exportable Reference State, Not Just Pose Libraries]]
+
 ## 🎬 NVIDIA ARDY 深度拆解：AI 角色动画正在从生成片段变成实时可重规划的运动控制层
 - [[2026-07-14/2026-07-14-nvidia-ardy-realtime-interactive-motion-control|NVIDIA ARDY 深度拆解：AI 角色动画正在从生成片段变成实时可重规划的运动控制层]]
 - [[2026-07-14/2026-07-14-nvidia-ardy-realtime-interactive-motion-control-en|NVIDIA ARDY Deep Dive: AI Character Animation Is Becoming a Real-Time, Replannable Motion-Control Layer]]
