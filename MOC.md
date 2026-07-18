@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🖼️ Pexels 深度拆解：免费图库正在从素材搜索变成创作供应链和 API 基础设施
+- [[2026-07-18/2026-07-18-pexels-creative-media-api-infrastructure|Pexels 深度拆解：免费图库正在从素材搜索变成创作供应链和 API 基础设施]]
+- [[2026-07-18/2026-07-18-pexels-creative-media-api-infrastructure-en|Pexels Deep Dive: Free Stock Media Is Becoming Creative Supply Chain and API Infrastructure]]
+
 ## 🧠 Kimi K3 深度拆解：开源 3T 模型的真正变量，是长程 Agent 的运行成本与控制面
 - [[2026-07-17/2026-07-17-kimi-k3-open-frontier-intelligence|Kimi K3 深度拆解：开源 3T 模型的真正变量，是长程 Agent 的运行成本与控制面]]
 - [[2026-07-17/2026-07-17-kimi-k3-open-frontier-intelligence-en|Kimi K3 Deep Dive: The Real Variable in an Open 3T Model Is Agent Runtime Cost and Control]]

@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Pexels 深度拆解：免费图库正在从素材搜索变成创作供应链和 API 基础设施](2026-07-18/2026-07-18-pexels-creative-media-api-infrastructure.md) | Pexels / Stock Media / Creative Workflow / Image API / Video API / Licensing / Creator Workflow |
+| [Pexels Deep Dive: Free Stock Media Is Becoming Creative Supply Chain and API Infrastructure](2026-07-18/2026-07-18-pexels-creative-media-api-infrastructure-en.md) | Pexels / stock media / creative workflow / Image API / Video API / licensing / creator workflow |
 | [PoseMy.Art 深度拆解：AI 创作真正需要的不是姿势图库，而是可导出的参考场景状态](2026-07-18/2026-07-18-posemy-art-feature-workflow.md) | PoseMy.Art / Pose Reference / AI Image / AI Video / OpenPose / ControlNet / Creator Workflow |
 | [PoseMy.Art Deep Dive: AI Creative Workflows Need Exportable Reference State, Not Just Pose Libraries](2026-07-18/2026-07-18-posemy-art-feature-workflow-en.md) | PoseMy.Art / pose reference / AI image / AI video / OpenPose / ControlNet / creator workflow |
 
