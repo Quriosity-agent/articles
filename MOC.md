@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎮 Matrix-Game 3.5 深度拆解：长期世界模型的记忆，正在从历史帧变成可重投影的 3D Patch
+- [[2026-07-18/2026-07-18-matrix-game-35-geometry-aware-patch-memory-world-model|Matrix-Game 3.5 深度拆解：长期世界模型的记忆，正在从历史帧变成可重投影的 3D Patch]]
+- [[2026-07-18/2026-07-18-matrix-game-35-geometry-aware-patch-memory-world-model-en|Matrix-Game 3.5 Deep Dive: Long-Horizon World Memory Is Becoming Reprojectable 3D Patches]]
+
 ## 🖼️ Pexels 深度拆解：免费图库正在从素材搜索变成创作供应链和 API 基础设施
 - [[2026-07-18/2026-07-18-pexels-creative-media-api-infrastructure|Pexels 深度拆解：免费图库正在从素材搜索变成创作供应链和 API 基础设施]]
 - [[2026-07-18/2026-07-18-pexels-creative-media-api-infrastructure-en|Pexels Deep Dive: Free Stock Media Is Becoming Creative Supply Chain and API Infrastructure]]

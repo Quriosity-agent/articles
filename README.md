@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Matrix-Game 3.5 深度拆解：长期世界模型的记忆，正在从历史帧变成可重投影的 3D Patch](2026-07-18/2026-07-18-matrix-game-35-geometry-aware-patch-memory-world-model.md) | Matrix-Game 3.5 / World Model / Patch Memory / Warped PRoPE / Video Generation / Camera Control / Interactive World |
+| [Matrix-Game 3.5 Deep Dive: Long-Horizon World Memory Is Becoming Reprojectable 3D Patches](2026-07-18/2026-07-18-matrix-game-35-geometry-aware-patch-memory-world-model-en.md) | Matrix-Game 3.5 / world model / Patch Memory / Warped PRoPE / video generation / camera control / interactive world |
 | [Pexels 深度拆解：免费图库正在从素材搜索变成创作供应链和 API 基础设施](2026-07-18/2026-07-18-pexels-creative-media-api-infrastructure.md) | Pexels / Stock Media / Creative Workflow / Image API / Video API / Licensing / Creator Workflow |
 | [Pexels Deep Dive: Free Stock Media Is Becoming Creative Supply Chain and API Infrastructure](2026-07-18/2026-07-18-pexels-creative-media-api-infrastructure-en.md) | Pexels / stock media / creative workflow / Image API / Video API / licensing / creator workflow |
 | [PoseMy.Art 深度拆解：AI 创作真正需要的不是姿势图库，而是可导出的参考场景状态](2026-07-18/2026-07-18-posemy-art-feature-workflow.md) | PoseMy.Art / Pose Reference / AI Image / AI Video / OpenPose / ControlNet / Creator Workflow |
