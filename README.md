@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-07-25
+
+| 文章 | 主题 |
+|------|------|
+| [MotionSites 深度拆解：AI 建站的下一层竞争，不是生成按钮，而是可复用的设计 Prompt 库](2026-07-25/2026-07-25-motionsites-ai-prompt-gallery.md) | MotionSites / AI Website Builder / Prompt Library / Lovable / Bolt / Cursor / Claude / Creator Workflow |
+| [MotionSites Deep Dive: The Next AI Website Race Is Reusable Design Prompt Libraries](2026-07-25/2026-07-25-motionsites-ai-prompt-gallery-en.md) | MotionSites / AI website builder / prompt library / Lovable / Bolt / Cursor / Claude / creator workflow |
+
+---
+
 ## 📅 2026-07-18
 
 | 文章 | 主题 |
