@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 video-shotcraft 深度拆解：AI 视频真正缺的不是生成按钮，而是可执行的镜头工艺库
+- [[2026-07-27/2026-07-27-video-shotcraft-agent-skill-remotion-product-video|video-shotcraft 深度拆解：AI 视频真正缺的不是生成按钮，而是可执行的镜头工艺库]]
+- [[2026-07-27/2026-07-27-video-shotcraft-agent-skill-remotion-product-video-en|video-shotcraft Deep Dive: AI Video Needs an Executable Shotcraft Library, Not Just a Generate Button]]
+
 ## 🧩 MotionSites 深度拆解：AI 建站的下一层竞争，不是生成按钮，而是可复用的设计 Prompt 库
 - [[2026-07-25/2026-07-25-motionsites-ai-prompt-gallery|MotionSites 深度拆解：AI 建站的下一层竞争，不是生成按钮，而是可复用的设计 Prompt 库]]
 - [[2026-07-25/2026-07-25-motionsites-ai-prompt-gallery-en|MotionSites Deep Dive: The Next AI Website Race Is Reusable Design Prompt Libraries]]

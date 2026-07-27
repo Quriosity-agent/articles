@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-07-27
+
+| 文章 | 主题 |
+|------|------|
+| [video-shotcraft 深度拆解：AI 视频真正缺的不是生成按钮，而是可执行的镜头工艺库](2026-07-27/2026-07-27-video-shotcraft-agent-skill-remotion-product-video.md) | video-shotcraft / AI Video / Agent Skill / Remotion / Product Video / Motion Design / Claude Code / Codex |
+| [video-shotcraft Deep Dive: AI Video Needs an Executable Shotcraft Library, Not Just a Generate Button](2026-07-27/2026-07-27-video-shotcraft-agent-skill-remotion-product-video-en.md) | video-shotcraft / AI video / agent skill / Remotion / product video / motion design / Claude Code / Codex |
+
+---
+
 ## 📅 2026-07-25
 
 | 文章 | 主题 |
