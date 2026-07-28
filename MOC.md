@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧠 Kimi K3 权重发布审计：1.56TB 开放之后，真正的门槛是 Agent 状态与集群系统
+- [[2026-07-27/2026-07-27-kimi-k3-open-weight-release-agent-state-infrastructure|Kimi K3 权重发布审计：1.56TB 开放之后，真正的门槛是 Agent 状态与集群系统]]
+- [[2026-07-27/2026-07-27-kimi-k3-open-weight-release-agent-state-infrastructure-en|Kimi K3 Open-Weight Release Audit: After 1.56TB of Weights, the Real Barrier Is Agent State Infrastructure]]
+
 ## 🎬 video-shotcraft 深度拆解：AI 视频真正缺的不是生成按钮，而是可执行的镜头工艺库
 - [[2026-07-27/2026-07-27-video-shotcraft-agent-skill-remotion-product-video|video-shotcraft 深度拆解：AI 视频真正缺的不是生成按钮，而是可执行的镜头工艺库]]
 - [[2026-07-27/2026-07-27-video-shotcraft-agent-skill-remotion-product-video-en|video-shotcraft Deep Dive: AI Video Needs an Executable Shotcraft Library, Not Just a Generate Button]]

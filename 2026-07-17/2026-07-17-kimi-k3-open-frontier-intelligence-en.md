@@ -2,6 +2,8 @@
 
 > **TL;DR:** The most important part of Kimi K3 is not the headline number, 2.8T parameters. It is that Moonshot is putting open weights, a 1M-token context window, native vision, Kimi Code, Kimi Work, the Kimi API, and automatic caching into one long-horizon agent runtime. Moonshot still says the overall user experience trails Claude Fable 5 and GPT-5.6 Sol; the full weights are promised by July 27, 2026; and the technical report is still pending. Even so, K3 moves the open-model conversation from “can it answer hard questions?” toward “can it run repositories, documents, spreadsheets, visual feedback, and toolchains for hours?”
 
+> **Update (2026-07-27):** The full weights and technical report are now public. See the [Kimi K3 open-weight release audit](../2026-07-27/2026-07-27-kimi-k3-open-weight-release-agent-state-infrastructure-en.md) for deployment and license analysis. This article preserves the launch-day product and runtime assessment.
+
 - **Source:** [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3)
 - **API docs:** [Kimi K3 Quickstart](https://platform.kimi.ai/docs/guide/kimi-k3-quickstart)
 - **Model list:** [Kimi API Model List](https://platform.kimi.ai/docs/models)

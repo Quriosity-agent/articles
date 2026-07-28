@@ -2,6 +2,8 @@
 
 > **TL;DR:** Kimi K3 最值得关注的不是“2.8T 参数”这个最大模型叙事，而是 Moonshot 把开源权重、1M 上下文、原生视觉、Kimi Code / Kimi Work / API 和自动缓存放进同一个长程 Agent 运行时里。它官方承认整体体验仍落后于 Claude Fable 5 和 GPT-5.6 Sol，完整权重要到 2026-07-27 才释放，技术报告也还没发；但它已经把开源模型的竞争点从“能不能做题”推到“能不能连续跑仓库、文档、表格、视觉反馈和工具链”。
 
+> **更新（2026-07-27）：** 完整权重和技术报告已经发布，部署与许可证审计见 [Kimi K3 权重发布审计](../2026-07-27/2026-07-27-kimi-k3-open-weight-release-agent-state-infrastructure.md)。本文保留首发时点的产品与运行时判断。
+
 - **Source:** [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3)
 - **API docs:** [Kimi K3 Quickstart](https://platform.kimi.ai/docs/guide/kimi-k3-quickstart)
 - **Model list:** [Kimi API Model List](https://platform.kimi.ai/docs/models)
