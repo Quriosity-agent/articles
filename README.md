@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-07-28
+
+| 文章 | 主题 |
+|------|------|
+| [img2threejs 深度拆解：单图转 3D 的另一条路线，是把模型写成可审查的代码](2026-07-28/2026-07-28-img2threejs-code-first-image-to-3d-pipeline.md) | img2threejs / Three.js / Image to 3D / Agent Skill / Procedural Modeling / Visual Regression / Code Generation |
+| [img2threejs Deep Dive: Another Path from One Image to 3D Is Auditable Code](2026-07-28/2026-07-28-img2threejs-code-first-image-to-3d-pipeline-en.md) | img2threejs / Three.js / image to 3D / agent skill / procedural modeling / visual regression / code generation |
+
+---
+
 ## 📅 2026-07-27
 
 | 文章 | 主题 |

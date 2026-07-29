@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧊 img2threejs 深度拆解：单图转 3D 的另一条路线，是把模型写成可审查的代码
+- [[2026-07-28/2026-07-28-img2threejs-code-first-image-to-3d-pipeline|img2threejs 深度拆解：单图转 3D 的另一条路线，是把模型写成可审查的代码]]
+- [[2026-07-28/2026-07-28-img2threejs-code-first-image-to-3d-pipeline-en|img2threejs Deep Dive: Another Path from One Image to 3D Is Auditable Code]]
+
 ## 🧠 Kimi K3 权重发布审计：1.56TB 开放之后，真正的门槛是 Agent 状态与集群系统
 - [[2026-07-27/2026-07-27-kimi-k3-open-weight-release-agent-state-infrastructure|Kimi K3 权重发布审计：1.56TB 开放之后，真正的门槛是 Agent 状态与集群系统]]
 - [[2026-07-27/2026-07-27-kimi-k3-open-weight-release-agent-state-infrastructure-en|Kimi K3 Open-Weight Release Audit: After 1.56TB of Weights, the Real Barrier Is Agent State Infrastructure]]
