@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎙️ Fish Audio S2.1 Pro 深度拆解：5200 万美元融资背后，TTS 正在变成推理基础设施生意
+- [[2026-07-28/2026-07-28-fish-audio-s21-pro-funding-inference-economics|Fish Audio S2.1 Pro 深度拆解：5200 万美元融资背后，TTS 正在变成推理基础设施生意]]
+- [[2026-07-28/2026-07-28-fish-audio-s21-pro-funding-inference-economics-en|Fish Audio S2.1 Pro Deep Dive: Behind the $52M Seed, TTS Is Becoming an Inference Infrastructure Business]]
+
 ## 🧊 img2threejs 深度拆解：单图转 3D 的另一条路线，是把模型写成可审查的代码
 - [[2026-07-28/2026-07-28-img2threejs-code-first-image-to-3d-pipeline|img2threejs 深度拆解：单图转 3D 的另一条路线，是把模型写成可审查的代码]]
 - [[2026-07-28/2026-07-28-img2threejs-code-first-image-to-3d-pipeline-en|img2threejs Deep Dive: Another Path from One Image to 3D Is Auditable Code]]
