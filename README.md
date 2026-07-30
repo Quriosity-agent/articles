@@ -37,6 +37,15 @@
 
 ---
 
+## 📅 2026-07-22
+
+| 文章 | 主题 |
+|------|------|
+| [SpacetimeDB 2.7 深度拆解：把数据库、后端与实时同步折叠成一个 Agent 运行时](2026-07-22/2026-07-22-spacetimedb-agent-backend-runtime.md) | SpacetimeDB / Database / Backend Runtime / Realtime Sync / AI Agent / Rust / TypeScript / Game Server |
+| [SpacetimeDB 2.7 Deep Dive: Folding the Database, Backend, and Realtime Sync into One Agent Runtime](2026-07-22/2026-07-22-spacetimedb-agent-backend-runtime-en.md) | SpacetimeDB / database / backend runtime / realtime sync / AI agent / Rust / TypeScript / game server |
+
+---
+
 ## 📅 2026-07-18
 
 | 文章 | 主题 |

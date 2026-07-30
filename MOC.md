@@ -20,6 +20,10 @@
 - [[2026-07-25/2026-07-25-motionsites-ai-prompt-gallery|MotionSites 深度拆解：AI 建站的下一层竞争，不是生成按钮，而是可复用的设计 Prompt 库]]
 - [[2026-07-25/2026-07-25-motionsites-ai-prompt-gallery-en|MotionSites Deep Dive: The Next AI Website Race Is Reusable Design Prompt Libraries]]
 
+## 🗄️ SpacetimeDB 2.7 深度拆解：把数据库、后端与实时同步折叠成一个 Agent 运行时
+- [[2026-07-22/2026-07-22-spacetimedb-agent-backend-runtime|SpacetimeDB 2.7 深度拆解：把数据库、后端与实时同步折叠成一个 Agent 运行时]]
+- [[2026-07-22/2026-07-22-spacetimedb-agent-backend-runtime-en|SpacetimeDB 2.7 Deep Dive: Folding the Database, Backend, and Realtime Sync into One Agent Runtime]]
+
 ## 🎮 Matrix-Game 3.5 深度拆解：长期世界模型的记忆，正在从历史帧变成可重投影的 3D Patch
 - [[2026-07-18/2026-07-18-matrix-game-35-geometry-aware-patch-memory-world-model|Matrix-Game 3.5 深度拆解：长期世界模型的记忆，正在从历史帧变成可重投影的 3D Patch]]
 - [[2026-07-18/2026-07-18-matrix-game-35-geometry-aware-patch-memory-world-model-en|Matrix-Game 3.5 Deep Dive: Long-Horizon World Memory Is Becoming Reprojectable 3D Patches]]
