@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-08-01
+
+| 文章 | 主题 |
+|------|------|
+| [OpenAI 十项数学与理论计算机科学进展：Astra 把 AI 数学从单点突破推向批量研究管线](2026-08-01/2026-08-01-openai-ten-advances-mathematics-tcs-astra.md) | OpenAI / Astra / AI for Math / Theoretical Computer Science / Lean / Research Automation / Mathematical Discovery |
+| [OpenAI’s Ten Math and TCS Advances: Astra Moves AI Math from One-Off Breakthroughs to a Research Pipeline](2026-08-01/2026-08-01-openai-ten-advances-mathematics-tcs-astra-en.md) | OpenAI / Astra / AI for Math / theoretical computer science / Lean / research automation / mathematical discovery |
+
+---
+
 ## 📅 2026-07-28
 
 | 文章 | 主题 |

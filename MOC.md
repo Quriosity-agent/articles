@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧠 OpenAI 十项数学与理论计算机科学进展：Astra 把 AI 数学从单点突破推向批量研究管线
+- [[2026-08-01/2026-08-01-openai-ten-advances-mathematics-tcs-astra|OpenAI 十项数学与理论计算机科学进展：Astra 把 AI 数学从单点突破推向批量研究管线]]
+- [[2026-08-01/2026-08-01-openai-ten-advances-mathematics-tcs-astra-en|OpenAI’s Ten Math and TCS Advances: Astra Moves AI Math from One-Off Breakthroughs to a Research Pipeline]]
+
 ## 🎙️ Fish Audio S2.1 Pro 深度拆解：5200 万美元融资背后，TTS 正在变成推理基础设施生意
 - [[2026-07-28/2026-07-28-fish-audio-s21-pro-funding-inference-economics|Fish Audio S2.1 Pro 深度拆解：5200 万美元融资背后，TTS 正在变成推理基础设施生意]]
 - [[2026-07-28/2026-07-28-fish-audio-s21-pro-funding-inference-economics-en|Fish Audio S2.1 Pro Deep Dive: Behind the $52M Seed, TTS Is Becoming an Inference Infrastructure Business]]
