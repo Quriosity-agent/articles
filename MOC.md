@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧩 GenOffice 深度拆解：Genspark 开源 AI Office，真正的竞争点是文件保真与 Agent 原生编辑
+- [[2026-08-03/2026-08-03-genspark-genoffice-open-source-ai-office|GenOffice 深度拆解：Genspark 开源 AI Office，真正的竞争点是文件保真与 Agent 原生编辑]]
+- [[2026-08-03/2026-08-03-genspark-genoffice-open-source-ai-office-en|GenOffice Deep Dive: Genspark’s Open-Source AI Office Competes on File Fidelity and Agent-Native Editing]]
+
 ## 🧠 OpenAI 十项数学与理论计算机科学进展：Astra 把 AI 数学从单点突破推向批量研究管线
 - [[2026-08-01/2026-08-01-openai-ten-advances-mathematics-tcs-astra|OpenAI 十项数学与理论计算机科学进展：Astra 把 AI 数学从单点突破推向批量研究管线]]
 - [[2026-08-01/2026-08-01-openai-ten-advances-mathematics-tcs-astra-en|OpenAI’s Ten Math and TCS Advances: Astra Moves AI Math from One-Off Breakthroughs to a Research Pipeline]]

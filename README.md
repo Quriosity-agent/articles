@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-08-03
+
+| 文章 | 主题 |
+|------|------|
+| [GenOffice 深度拆解：Genspark 开源 AI Office，真正的竞争点是文件保真与 Agent 原生编辑](2026-08-03/2026-08-03-genspark-genoffice-open-source-ai-office.md) | Genspark / GenOffice / AI Office / Open Source / Electron / DOCX / XLSX / PPTX / PDF |
+| [GenOffice Deep Dive: Genspark’s Open-Source AI Office Competes on File Fidelity and Agent-Native Editing](2026-08-03/2026-08-03-genspark-genoffice-open-source-ai-office-en.md) | Genspark / GenOffice / AI Office / open source / Electron / DOCX / XLSX / PPTX / PDF |
+
+---
+
 ## 📅 2026-08-01
 
 | 文章 | 主题 |
