@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎙️ SeedRealtime 深度拆解：实时语音 Agent 的下一层，不是更快回复，而是音视频全双工
+- [[2026-08-05/2026-08-05-bytedance-seedrealtime-full-duplex-audio-video|SeedRealtime 深度拆解：实时语音 Agent 的下一层，不是更快回复，而是音视频全双工]]
+- [[2026-08-05/2026-08-05-bytedance-seedrealtime-full-duplex-audio-video-en|SeedRealtime Deep Dive: The Next Layer of Real-Time Voice Agents Is Audio-Visual Full Duplex]]
+
 ## 🧩 GenOffice 深度拆解：Genspark 开源 AI Office，真正的竞争点是文件保真与 Agent 原生编辑
 - [[2026-08-03/2026-08-03-genspark-genoffice-open-source-ai-office|GenOffice 深度拆解：Genspark 开源 AI Office，真正的竞争点是文件保真与 Agent 原生编辑]]
 - [[2026-08-03/2026-08-03-genspark-genoffice-open-source-ai-office-en|GenOffice Deep Dive: Genspark’s Open-Source AI Office Competes on File Fidelity and Agent-Native Editing]]

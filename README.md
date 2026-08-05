@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-08-05
+
+| 文章 | 主题 |
+|------|------|
+| [SeedRealtime 深度拆解：实时语音 Agent 的下一层，不是更快回复，而是音视频全双工](2026-08-05/2026-08-05-bytedance-seedrealtime-full-duplex-audio-video.md) | ByteDance Seed / SeedRealtime / Audio-Visual Full Duplex / Real-Time Voice Agent / Doubao / Multimodal Interaction |
+| [SeedRealtime Deep Dive: The Next Layer of Real-Time Voice Agents Is Audio-Visual Full Duplex](2026-08-05/2026-08-05-bytedance-seedrealtime-full-duplex-audio-video-en.md) | ByteDance Seed / SeedRealtime / audio-visual full duplex / real-time voice agent / Doubao / multimodal interaction |
+
+---
+
 ## 📅 2026-08-03
 
 | 文章 | 主题 |
