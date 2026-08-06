@@ -94,6 +94,8 @@ Treating every "real-time AI that sees your camera" as one category misses what 
 
 The third is the one most easily mistaken for a solved problem. VAD (voice activity detection) is a separate, audio-only module with one job: decide whether someone is speaking right now, then infer from silence duration whether the user is finished. Guess early and you cut the user off; guess late and you leave dead air. It cannot see, so it cannot tell whether the user is addressing the camera or has turned to talk to someone standing next to them.
 
+This dividing line isn't an outside reading — ByteDance draws it in the launch post itself: many end-to-end approaches still rely on an external VAD to decide turns and therefore remain, in substance, half-duplex question-and-answer; SeedRealtime instead decides turn-taking continuously from multimodal information rather than handing it to external VAD rules. **Removing the VAD is presented as the headline of the release, not as an implementation detail.**
+
 This isn't hypothetical. Google's Gemini Live does support camera and screen sharing, and LiveKit's integration documentation states plainly that the Gemini Live API includes built-in VAD-based turn detection, enabled by default. The same document gives the default video sampling cadence: one frame per second while the user speaks, one frame every three seconds otherwise. (That sampling rate is a LiveKit framework default, adjustable via a `video_sampler` parameter, not a ceiling on Gemini. The VAD-based turn detection, however, is a property of the Gemini Live API itself.)
 
 So the substantive change in SeedRealtime is precisely here: **turn-taking moves from an external rule to a decision the model makes continuously — and that decision can see.** The bolted-on VAD stops being necessary. "Full duplex is not just interruption handling," stated earlier, comes down architecturally to this one sentence.
@@ -214,6 +216,19 @@ Real-time audio-video agents are difficult to summarize with one number. A usefu
 - subjective experience: whether users feel the system is natural, controllable, and non-intrusive.
 
 That evaluation infrastructure will become part of the real-time agent stack itself.
+
+## The Official Roadmap Points at an Agent Front End
+
+The launch post closes with four directions, and they say more about where this line is heading than the model description does:
+
+1. **Lower latency and more natural timing** — keep compressing end-to-end hear-understand-respond latency, with the goal of reproducing the micro-rhythms of real conversation (interrupting, jumping in, backchanneling, pausing), not merely being faster.
+2. **More proactive perception and decision-making** — move from speaking when appropriate to *acting* when appropriate, judging on its own when to remind and when to add information.
+3. **Robustness in complex multi-person scenes** — reliably determine who is speaking, what they are looking at, and who to answer, in noisy rooms with several people in frame.
+4. **From "able to converse" to "able to act"** — connect tool calls to the real world so the model can complete lookups, bookings, and tasks.
+
+The fourth deserves its own marker. Tool calling isn't a distant roadmap item: the capability section already states the model can weave tool calls into its responses, and the airport demo has it going online for a baggage-carousel location. In other words, **the destination of this line isn't a better voice assistant but an agent front end that watches a live scene and decides when to act** — the real-time interaction layer is its I/O surface.
+
+The airport clip carries one more easily-missed detail. ByteDance's framing is that a noisy environment is no longer only interference to filter out: key information from bystander chatter is retained and drawn on when needed. That is a stricter requirement than noise robustness — the model has to decide a line shouldn't trigger a reply while still committing it to memory.
 
 ## What It Means for Product Teams
 
