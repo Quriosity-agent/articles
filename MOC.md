@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧰 Prime Agent 深度拆解：Agent Harness 的下一层，是让模型用代码操作自己的上下文和脚手架
+- [[2026-08-05/2026-08-05-prime-intellect-prime-agent-rlm-continual-harness|Prime Agent 深度拆解：Agent Harness 的下一层，是让模型用代码操作自己的上下文和脚手架]]
+- [[2026-08-05/2026-08-05-prime-intellect-prime-agent-rlm-continual-harness-en|Prime Agent Deep Dive: The Next Layer of Agent Harnesses Lets the Model Program Its Own Context and Scaffolding]]
+
 ## 🎙️ SeedRealtime 深度拆解：实时语音 Agent 的下一层，不是更快回复，而是音视频全双工
 - [[2026-08-05/2026-08-05-bytedance-seedrealtime-full-duplex-audio-video|SeedRealtime 深度拆解：实时语音 Agent 的下一层，不是更快回复，而是音视频全双工]]
 - [[2026-08-05/2026-08-05-bytedance-seedrealtime-full-duplex-audio-video-en|SeedRealtime Deep Dive: The Next Layer of Real-Time Voice Agents Is Audio-Visual Full Duplex]]
