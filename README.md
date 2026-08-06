@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-08-06
+
+| 文章 | 主题 |
+|------|------|
+| [字节 Seed 官网拆解：实验室主页已经变成产品目录，真正的研究信号藏在 Seed Edge](2026-08-06/2026-08-06-bytedance-seed-official-site-lab-map.md) | ByteDance Seed / Seed Edge / AI 实验室 / 模型矩阵 / 组织结构 / EdgeBench / Seed STEM Fellows |
+| [Reading ByteDance Seed's Website: The Lab Homepage Is Now a Product Catalog, and the Research Signal Lives in Seed Edge](2026-08-06/2026-08-06-bytedance-seed-official-site-lab-map-en.md) | ByteDance Seed / Seed Edge / AI lab / model portfolio / org structure / EdgeBench / Seed STEM Fellows |
+
+---
+
 ## 📅 2026-08-05
 
 | 文章 | 主题 |

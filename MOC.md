@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🌱 字节 Seed 官网拆解：实验室主页已经变成产品目录，真正的研究信号藏在 Seed Edge
+- [[2026-08-06/2026-08-06-bytedance-seed-official-site-lab-map|字节 Seed 官网拆解：实验室主页已经变成产品目录，真正的研究信号藏在 Seed Edge]]
+- [[2026-08-06/2026-08-06-bytedance-seed-official-site-lab-map-en|Reading ByteDance Seed's Website: The Lab Homepage Is Now a Product Catalog, and the Research Signal Lives in Seed Edge]]
+
 ## 🧰 Prime Agent 深度拆解：Agent Harness 的下一层，是让模型用代码操作自己的上下文和脚手架
 - [[2026-08-05/2026-08-05-prime-intellect-prime-agent-rlm-continual-harness|Prime Agent 深度拆解：Agent Harness 的下一层，是让模型用代码操作自己的上下文和脚手架]]
 - [[2026-08-05/2026-08-05-prime-intellect-prime-agent-rlm-continual-harness-en|Prime Agent Deep Dive: The Next Layer of Agent Harnesses Lets the Model Program Its Own Context and Scaffolding]]
