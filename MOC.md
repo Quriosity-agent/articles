@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 Seedance 2.5 提示词指南拆解：AI 视频 Prompt 正在从一句咒语变成生产 Brief
+- [[2026-08-07/2026-08-07-bytedance-seedance25-prompt-guide-production-brief|Seedance 2.5 提示词指南拆解：AI 视频 Prompt 正在从一句咒语变成生产 Brief]]
+- [[2026-08-07/2026-08-07-bytedance-seedance25-prompt-guide-production-brief-en|Seedance 2.5 Prompt Guide Deep Dive: AI Video Prompts Are Becoming Production Briefs]]
+
 ## 🌱 字节 Seed 官网拆解：实验室主页已经变成产品目录，真正的研究信号藏在 Seed Edge
 - [[2026-08-06/2026-08-06-bytedance-seed-official-site-lab-map|字节 Seed 官网拆解：实验室主页已经变成产品目录，真正的研究信号藏在 Seed Edge]]
 - [[2026-08-06/2026-08-06-bytedance-seed-official-site-lab-map-en|Reading ByteDance Seed's Website: The Lab Homepage Is Now a Product Catalog, and the Research Signal Lives in Seed Edge]]

@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-08-07
+
+| 文章 | 主题 |
+|------|------|
+| [Seedance 2.5 提示词指南拆解：AI 视频 Prompt 正在从一句咒语变成生产 Brief](2026-08-07/2026-08-07-bytedance-seedance25-prompt-guide-production-brief.md) | ByteDance Seed / Seedance 2.5 / AI Video / Prompt Engineering / Agent Skill / Creative Workflow / Volcengine |
+| [Seedance 2.5 Prompt Guide Deep Dive: AI Video Prompts Are Becoming Production Briefs](2026-08-07/2026-08-07-bytedance-seedance25-prompt-guide-production-brief-en.md) | ByteDance Seed / Seedance 2.5 / AI video / prompt engineering / agent skill / creative workflow / BytePlus |
+
+---
+
 ## 📅 2026-08-06
 
 | 文章 | 主题 |
