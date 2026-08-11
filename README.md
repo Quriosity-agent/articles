@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-08-11
+
+| 文章 | 主题 |
+|------|------|
+| [腾讯混元 WorldClaw 深度拆解：AI 生成开放世界，关键不是视频感，而是可编辑的显式 3D 资产](2026-08-11/2026-08-11-tencent-hunyuan-worldclaw-agentic-3d-open-world.md) | Tencent Hunyuan / Hunyuan3D / WorldClaw / 3D Generation / Open World / Agentic Workflow / Blender / Game Assets |
+| [Tencent Hunyuan WorldClaw Deep Dive: AI Open-World Generation Is About Editable 3D Assets, Not Video-Like Illusion](2026-08-11/2026-08-11-tencent-hunyuan-worldclaw-agentic-3d-open-world-en.md) | Tencent Hunyuan / Hunyuan3D / WorldClaw / 3D generation / open world / agentic workflow / Blender / game assets |
+
+---
+
 ## 📅 2026-08-10
 
 | 文章 | 主题 |

@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🌍 腾讯混元 WorldClaw 深度拆解：AI 生成开放世界，关键不是视频感，而是可编辑的显式 3D 资产
+- [[2026-08-11/2026-08-11-tencent-hunyuan-worldclaw-agentic-3d-open-world|腾讯混元 WorldClaw 深度拆解：AI 生成开放世界，关键不是视频感，而是可编辑的显式 3D 资产]]
+- [[2026-08-11/2026-08-11-tencent-hunyuan-worldclaw-agentic-3d-open-world-en|Tencent Hunyuan WorldClaw Deep Dive: AI Open-World Generation Is About Editable 3D Assets, Not Video-Like Illusion]]
+
 ## 🧮 Anthropic Riemann zeta 结果拆解：Claude 没证明黎曼猜想，但把 AI 数学发现做成了可验证流水线
 - [[2026-08-10/2026-08-10-anthropic-claude-riemann-zeta-math-discovery|Anthropic Riemann zeta 结果拆解：Claude 没证明黎曼猜想，但把 AI 数学发现做成了可验证流水线]]
 - [[2026-08-10/2026-08-10-anthropic-claude-riemann-zeta-math-discovery-en|Anthropic's Riemann Zeta Result: Claude Did Not Prove RH, but It Made AI Math Discovery Verifiable]]
