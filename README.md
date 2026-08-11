@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-08-10
+
+| 文章 | 主题 |
+|------|------|
+| [Anthropic Riemann zeta 结果拆解：Claude 没证明黎曼猜想，但把 AI 数学发现做成了可验证流水线](2026-08-10/2026-08-10-anthropic-claude-riemann-zeta-math-discovery.md) | Anthropic / Claude / Riemann Hypothesis / Riemann Zeta Function / AI for Math / Lean / Claude Code / Multi-Agent Research |
+| [Anthropic's Riemann Zeta Result: Claude Did Not Prove RH, but It Made AI Math Discovery Verifiable](2026-08-10/2026-08-10-anthropic-claude-riemann-zeta-math-discovery-en.md) | Anthropic / Claude / Riemann hypothesis / Riemann zeta function / AI for math / Lean / Claude Code / multi-agent research |
+
+---
+
 ## 📅 2026-08-07
 
 | 文章 | 主题 |

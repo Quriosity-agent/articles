@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧮 Anthropic Riemann zeta 结果拆解：Claude 没证明黎曼猜想，但把 AI 数学发现做成了可验证流水线
+- [[2026-08-10/2026-08-10-anthropic-claude-riemann-zeta-math-discovery|Anthropic Riemann zeta 结果拆解：Claude 没证明黎曼猜想，但把 AI 数学发现做成了可验证流水线]]
+- [[2026-08-10/2026-08-10-anthropic-claude-riemann-zeta-math-discovery-en|Anthropic's Riemann Zeta Result: Claude Did Not Prove RH, but It Made AI Math Discovery Verifiable]]
+
 ## 🎬 Seedance 2.5 提示词指南拆解：AI 视频 Prompt 正在从一句咒语变成生产 Brief
 - [[2026-08-07/2026-08-07-bytedance-seedance25-prompt-guide-production-brief|Seedance 2.5 提示词指南拆解：AI 视频 Prompt 正在从一句咒语变成生产 Brief]]
 - [[2026-08-07/2026-08-07-bytedance-seedance25-prompt-guide-production-brief-en|Seedance 2.5 Prompt Guide Deep Dive: AI Video Prompts Are Becoming Production Briefs]]
