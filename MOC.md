@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🛡️ GLM-5.3 深度拆解：同一个 743B 基座，Z.ai 把后训练扩展推向 Coding Agent 和网络安全
+- [[2026-08-14/2026-08-14-zai-glm-53-post-training-cyber-coding-agent|GLM-5.3 深度拆解：同一个 743B 基座，Z.ai 把后训练扩展推向 Coding Agent 和网络安全]]
+- [[2026-08-14/2026-08-14-zai-glm-53-post-training-cyber-coding-agent-en|GLM-5.3 Deep Dive: Z.ai Pushes the Same 743B Base Toward Coding Agents and Cyber Defense Through Post-Training]]
+
 ## 🌍 腾讯混元 WorldClaw 深度拆解：AI 生成开放世界，关键不是视频感，而是可编辑的显式 3D 资产
 - [[2026-08-11/2026-08-11-tencent-hunyuan-worldclaw-agentic-3d-open-world|腾讯混元 WorldClaw 深度拆解：AI 生成开放世界，关键不是视频感，而是可编辑的显式 3D 资产]]
 - [[2026-08-11/2026-08-11-tencent-hunyuan-worldclaw-agentic-3d-open-world-en|Tencent Hunyuan WorldClaw Deep Dive: AI Open-World Generation Is About Editable 3D Assets, Not Video-Like Illusion]]

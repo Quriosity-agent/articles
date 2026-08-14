@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-08-14
+
+| 文章 | 主题 |
+|------|------|
+| [GLM-5.3 深度拆解：同一个 743B 基座，Z.ai 把后训练扩展推向 Coding Agent 和网络安全](2026-08-14/2026-08-14-zai-glm-53-post-training-cyber-coding-agent.md) | Z.ai / GLM-5.3 / Coding Agent / Cybersecurity / Post-training / Long-horizon RL / Slime / Open Weights |
+| [GLM-5.3 Deep Dive: Z.ai Pushes the Same 743B Base Toward Coding Agents and Cyber Defense Through Post-Training](2026-08-14/2026-08-14-zai-glm-53-post-training-cyber-coding-agent-en.md) | Z.ai / GLM-5.3 / coding agent / cybersecurity / post-training / long-horizon RL / Slime / open weights |
+
+---
+
 ## 📅 2026-08-11
 
 | 文章 | 主题 |
