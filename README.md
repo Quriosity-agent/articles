@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-08-15
+
+| 文章 | 主题 |
+|------|------|
+| [MiniMax Music 3 深度拆解：AI 音乐从短片段生成，走向五分钟完整歌曲工程](2026-08-15/2026-08-15-minimax-music3-open-music-model.md) | MiniMax Music 3 / AI Music / Open Model / Hybrid-LM / Flow Matching / Flow-VAE / Music Prompt Engineering / Agent Skill |
+| [MiniMax Music 3 Deep Dive: AI Music Is Moving From Short Clips to Five-Minute Song Engineering](2026-08-15/2026-08-15-minimax-music3-open-music-model-en.md) | MiniMax Music 3 / AI music / open model / Hybrid-LM / Flow Matching / Flow-VAE / music prompt engineering / agent skill |
+
+---
+
 ## 📅 2026-08-14
 
 | 文章 | 主题 |
