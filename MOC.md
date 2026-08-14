@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 BytePlus Seedance 2.5 1080P 深度拆解：AI 视频开始从模型演示进入交付规格
+- [[2026-08-14/2026-08-14-byteplus-seedance25-native-1080p-production-output|BytePlus Seedance 2.5 1080P 深度拆解：AI 视频开始从模型演示进入交付规格]]
+- [[2026-08-14/2026-08-14-byteplus-seedance25-native-1080p-production-output-en|BytePlus Seedance 2.5 1080P Deep Dive: AI Video Is Moving From Model Demos to Delivery Specs]]
+
 ## 🛡️ GLM-5.3 深度拆解：同一个 743B 基座，Z.ai 把后训练扩展推向 Coding Agent 和网络安全
 - [[2026-08-14/2026-08-14-zai-glm-53-post-training-cyber-coding-agent|GLM-5.3 深度拆解：同一个 743B 基座，Z.ai 把后训练扩展推向 Coding Agent 和网络安全]]
 - [[2026-08-14/2026-08-14-zai-glm-53-post-training-cyber-coding-agent-en|GLM-5.3 Deep Dive: Z.ai Pushes the Same 743B Base Toward Coding Agents and Cyber Defense Through Post-Training]]
