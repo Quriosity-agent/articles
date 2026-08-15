@@ -4,6 +4,10 @@
 - [[2026-08-15/2026-08-15-minimax-music3-open-music-model|MiniMax Music 3 深度拆解：AI 音乐从短片段生成，走向五分钟完整歌曲工程]]
 - [[2026-08-15/2026-08-15-minimax-music3-open-music-model-en|MiniMax Music 3 Deep Dive: AI Music Is Moving From Short Clips to Five-Minute Song Engineering]]
 
+## 🛡️ GLM-5.3 再拆解：真正的问题不是“开源更安全”，而是防守方能不能拿到同等级工具
+- [[2026-08-14/2026-08-14-glm-53-open-security-shield-cvd-workflow|GLM-5.3 再拆解：真正的问题不是“开源更安全”，而是防守方能不能拿到同等级工具]]
+- [[2026-08-14/2026-08-14-glm-53-open-security-shield-cvd-workflow-en|GLM-5.3 Follow-Up: The Real Issue Is Not 'Open Is Safer,' but Whether Defenders Can Access Equal-Grade Tools]]
+
 ## 🎬 BytePlus Seedance 2.5 1080P 深度拆解：AI 视频开始从模型演示进入交付规格
 - [[2026-08-14/2026-08-14-byteplus-seedance25-native-1080p-production-output|BytePlus Seedance 2.5 1080P 深度拆解：AI 视频开始从模型演示进入交付规格]]
 - [[2026-08-14/2026-08-14-byteplus-seedance25-native-1080p-production-output-en|BytePlus Seedance 2.5 1080P Deep Dive: AI Video Is Moving From Model Demos to Delivery Specs]]
