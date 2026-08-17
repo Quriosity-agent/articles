@@ -19,6 +19,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Prime Intellect 自主研究评测拆解：真正拉开模型差距的，是实验纪律而不是点子数量](2026-08-14/2026-08-14-prime-intellect-autonomous-research-experimental-discipline.md) | Prime Intellect / Autonomous Research / AI Scientist / nanoGPT / Agent Harness / Prime Agent / Experimental Design / Benchmark |
+| [Prime Intellect's Autonomous Research Eval: Experimental Discipline, Not Idea Count, Separates Frontier Models](2026-08-14/2026-08-14-prime-intellect-autonomous-research-experimental-discipline-en.md) | Prime Intellect / autonomous research / AI scientist / nanoGPT / agent harness / Prime Agent / experimental design / benchmark |
 | [BytePlus Seedance 2.5 1080P 深度拆解：AI 视频开始从模型演示进入交付规格](2026-08-14/2026-08-14-byteplus-seedance25-native-1080p-production-output.md) | BytePlus / Seedance 2.5 / Dreamina / AI Video / 1080P / 10-bit Color / ModelArk / Video API |
 | [BytePlus Seedance 2.5 1080P Deep Dive: AI Video Is Moving From Model Demos to Delivery Specs](2026-08-14/2026-08-14-byteplus-seedance25-native-1080p-production-output-en.md) | BytePlus / Seedance 2.5 / Dreamina / AI video / 1080P / 10-bit color / ModelArk / video API |
 | [GLM-5.3 再拆解：真正的问题不是“开源更安全”，而是防守方能不能拿到同等级工具](2026-08-14/2026-08-14-glm-53-open-security-shield-cvd-workflow.md) | GLM-5.3 / Z.ai / Cybersecurity / Open Security / Coordinated Vulnerability Disclosure / AI Security Agent / Coding Agent |

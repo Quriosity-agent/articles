@@ -4,6 +4,10 @@
 - [[2026-08-15/2026-08-15-minimax-music3-open-music-model|MiniMax Music 3 深度拆解：AI 音乐从短片段生成，走向五分钟完整歌曲工程]]
 - [[2026-08-15/2026-08-15-minimax-music3-open-music-model-en|MiniMax Music 3 Deep Dive: AI Music Is Moving From Short Clips to Five-Minute Song Engineering]]
 
+## 🧪 Prime Intellect 自主研究评测拆解：真正拉开模型差距的，是实验纪律而不是点子数量
+- [[2026-08-14/2026-08-14-prime-intellect-autonomous-research-experimental-discipline|Prime Intellect 自主研究评测拆解：真正拉开模型差距的，是实验纪律而不是点子数量]]
+- [[2026-08-14/2026-08-14-prime-intellect-autonomous-research-experimental-discipline-en|Prime Intellect's Autonomous Research Eval: Experimental Discipline, Not Idea Count, Separates Frontier Models]]
+
 ## 🛡️ GLM-5.3 再拆解：真正的问题不是“开源更安全”，而是防守方能不能拿到同等级工具
 - [[2026-08-14/2026-08-14-glm-53-open-security-shield-cvd-workflow|GLM-5.3 再拆解：真正的问题不是“开源更安全”，而是防守方能不能拿到同等级工具]]
 - [[2026-08-14/2026-08-14-glm-53-open-security-shield-cvd-workflow-en|GLM-5.3 Follow-Up: The Real Issue Is Not 'Open Is Safer,' but Whether Defenders Can Access Equal-Grade Tools]]
