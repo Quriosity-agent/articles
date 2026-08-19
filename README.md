@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-08-18
+
+| 文章 | 主题 |
+|------|------|
+| [Anthropic Claude 生物化学结果拆解：真正的突破不是“AI 发明药物”，而是 Agent 开始跑湿实验前的科研流水线](2026-08-18/2026-08-18-anthropic-claude-protein-design-analytical-chemistry.md) | Anthropic / Claude / AI for Science / Protein Design / Analytical Chemistry / Claude Science / Drug Discovery / Biosecurity |
+| [Anthropic Claude Biology and Chemistry Result: The Breakthrough Is Not 'AI Invented a Drug,' but Agents Running Pre-Lab Research Workflows](2026-08-18/2026-08-18-anthropic-claude-protein-design-analytical-chemistry-en.md) | Anthropic / Claude / AI for Science / protein design / analytical chemistry / Claude Science / drug discovery / biosecurity |
+
+---
+
 ## 📅 2026-08-15
 
 | 文章 | 主题 |

@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧬 Anthropic Claude 生物化学结果拆解：真正的突破不是“AI 发明药物”，而是 Agent 开始跑湿实验前的科研流水线
+- [[2026-08-18/2026-08-18-anthropic-claude-protein-design-analytical-chemistry|Anthropic Claude 生物化学结果拆解：真正的突破不是“AI 发明药物”，而是 Agent 开始跑湿实验前的科研流水线]]
+- [[2026-08-18/2026-08-18-anthropic-claude-protein-design-analytical-chemistry-en|Anthropic Claude Biology and Chemistry Result: The Breakthrough Is Not 'AI Invented a Drug,' but Agents Running Pre-Lab Research Workflows]]
+
 ## 🎵 MiniMax Music 3 深度拆解：AI 音乐从短片段生成，走向五分钟完整歌曲工程
 - [[2026-08-15/2026-08-15-minimax-music3-open-music-model|MiniMax Music 3 深度拆解：AI 音乐从短片段生成，走向五分钟完整歌曲工程]]
 - [[2026-08-15/2026-08-15-minimax-music3-open-music-model-en|MiniMax Music 3 Deep Dive: AI Music Is Moving From Short Clips to Five-Minute Song Engineering]]
