@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-08-23
+
+| 文章 | 主题 |
+|------|------|
+| [Grok Bot 0.18 重建项目拆解：真正有价值的不是“泄露源码”，而是把二进制产品变成可审计的 Agent 运行时](2026-08-23/2026-08-23-grok-bot-018-reconstructed-agent-runtime.md) | Grok Bot / Cursor / Anysphere / Electron / Agent Runtime / MCP / Codex / Claude Code / Reverse Engineering |
+| [Grok Bot 0.18 Reconstructed: The Signal Is Not 'Leaked Source,' but an Auditable Agent Runtime From a Binary App](2026-08-23/2026-08-23-grok-bot-018-reconstructed-agent-runtime-en.md) | Grok Bot / Cursor / Anysphere / Electron / agent runtime / MCP / Codex / Claude Code / reverse engineering |
+
+---
+
 ## 📅 2026-08-18
 
 | 文章 | 主题 |
