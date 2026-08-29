@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-08-27
+
+| 文章 | 主题 |
+|------|------|
+| [Factory Droid 大任务实验拆解：Coding Agent 真正缺的不是能力，而是可执行的完成标准](2026-08-27/2026-08-27-factory-droid-completion-standard-programbench.md) | Factory / Droid / Coding Agent / ProgramBench / Software Engineering / Agent Evaluation / Validation / Multi-Agent |
+| [Factory Droid on Large Software Tasks: Coding Agents Need an Executable Standard of Completion](2026-08-27/2026-08-27-factory-droid-completion-standard-programbench-en.md) | Factory / Droid / coding agent / ProgramBench / software engineering / agent evaluation / validation / multi-agent |
+
+---
+
 ## 📅 2026-08-23
 
 | 文章 | 主题 |

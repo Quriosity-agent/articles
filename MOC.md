@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧪 Factory Droid 大任务实验拆解：Coding Agent 真正缺的不是能力，而是可执行的完成标准
+- [[2026-08-27/2026-08-27-factory-droid-completion-standard-programbench|Factory Droid 大任务实验拆解：Coding Agent 真正缺的不是能力，而是可执行的完成标准]]
+- [[2026-08-27/2026-08-27-factory-droid-completion-standard-programbench-en|Factory Droid on Large Software Tasks: Coding Agents Need an Executable Standard of Completion]]
+
 ## 🧩 Grok Bot 0.18 重建项目拆解：真正有价值的不是“泄露源码”，而是把二进制产品变成可审计的 Agent 运行时
 - [[2026-08-23/2026-08-23-grok-bot-018-reconstructed-agent-runtime|Grok Bot 0.18 重建项目拆解：真正有价值的不是“泄露源码”，而是把二进制产品变成可审计的 Agent 运行时]]
 - [[2026-08-23/2026-08-23-grok-bot-018-reconstructed-agent-runtime-en|Grok Bot 0.18 Reconstructed: The Signal Is Not 'Leaked Source,' but an Auditable Agent Runtime From a Binary App]]
