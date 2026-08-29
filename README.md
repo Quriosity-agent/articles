@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-08-28
+
+| 文章 | 主题 |
+|------|------|
+| [Anthropic AAR 研究拆解：AI 开始自动修对齐问题，但真正关键仍是人定义的反馈边界](2026-08-28/2026-08-28-anthropic-automated-alignment-researchers.md) | Anthropic / Claude / AI Alignment / Automated Researcher / Post-training / Safety Evaluation / Agent Harness / Recursive Self-improvement |
+| [Anthropic AAR Study: AI Can Automate Alignment Iteration, but the Feedback Boundary Still Defines the Work](2026-08-28/2026-08-28-anthropic-automated-alignment-researchers-en.md) | Anthropic / Claude / AI alignment / automated researcher / post-training / safety evaluation / agent harness / recursive self-improvement |
+
+---
+
 ## 📅 2026-08-27
 
 | 文章 | 主题 |

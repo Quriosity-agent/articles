@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🛡️ Anthropic AAR 研究拆解：AI 开始自动修对齐问题，但真正关键仍是人定义的反馈边界
+- [[2026-08-28/2026-08-28-anthropic-automated-alignment-researchers|Anthropic AAR 研究拆解：AI 开始自动修对齐问题，但真正关键仍是人定义的反馈边界]]
+- [[2026-08-28/2026-08-28-anthropic-automated-alignment-researchers-en|Anthropic AAR Study: AI Can Automate Alignment Iteration, but the Feedback Boundary Still Defines the Work]]
+
 ## 🧪 Factory Droid 大任务实验拆解：Coding Agent 真正缺的不是能力，而是可执行的完成标准
 - [[2026-08-27/2026-08-27-factory-droid-completion-standard-programbench|Factory Droid 大任务实验拆解：Coding Agent 真正缺的不是能力，而是可执行的完成标准]]
 - [[2026-08-27/2026-08-27-factory-droid-completion-standard-programbench-en|Factory Droid on Large Software Tasks: Coding Agents Need an Executable Standard of Completion]]
