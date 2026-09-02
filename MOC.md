@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🔐 Claude Fable 5.1 / Mythos 5.1 深度拆解：同一模型开始按安全权限、缓存经济与数据主权分层
+- [[2026-09-01/2026-09-01-anthropic-fable-51-mythos-51-safeguard-economics|Claude Fable 5.1 / Mythos 5.1 深度拆解：同一模型开始按安全权限、缓存经济与数据主权分层]]
+- [[2026-09-01/2026-09-01-anthropic-fable-51-mythos-51-safeguard-economics-en|Claude Fable 5.1 and Mythos 5.1: One Model, Segmented by Safeguards, Cache Economics, and Data Sovereignty]]
+
 ## 🌍 World Labs Atlas 深度拆解：AI 视频的下一层不是更会动，而是可控的空间上下文
 - [[2026-09-01/2026-09-01-worldlabs-atlas-spatial-intelligence-world-model|World Labs Atlas 深度拆解：AI 视频的下一层不是更会动，而是可控的空间上下文]]
 - [[2026-09-01/2026-09-01-worldlabs-atlas-spatial-intelligence-world-model-en|World Labs Atlas Deep Dive: The Next Layer of AI Video Is Controllable Spatial Context]]
