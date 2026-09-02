@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [OpenAI Astra 发布前安全报告拆解：首个 Critical 网络模型，把训练暂停、行为监控与分级访问写进发布流程](2026-09-01/2026-09-01-openai-astra-critical-cyber-safeguards.md) | OpenAI / Astra / Cybersecurity / Preparedness Framework / Agent Safety / Chain-of-Thought Monitoring / Daybreak Blue / Frontier Model Governance |
+| [OpenAI's Path to Astra: The First Critical Cyber Model Turns Training Pauses, Behavioral Monitoring, and Tiered Access Into Release Requirements](2026-09-01/2026-09-01-openai-astra-critical-cyber-safeguards-en.md) | OpenAI / Astra / cybersecurity / Preparedness Framework / agent safety / chain-of-thought monitoring / Daybreak Blue / frontier model governance |
 | [Claude Fable 5.1 / Mythos 5.1 深度拆解：同一模型开始按安全权限、缓存经济与数据主权分层](2026-09-01/2026-09-01-anthropic-fable-51-mythos-51-safeguard-economics.md) | Anthropic / Claude Fable 5.1 / Claude Mythos 5.1 / Agent Economics / Prompt Caching / Enterprise AI / Data Retention / AI Safety |
 | [Claude Fable 5.1 and Mythos 5.1: One Model, Segmented by Safeguards, Cache Economics, and Data Sovereignty](2026-09-01/2026-09-01-anthropic-fable-51-mythos-51-safeguard-economics-en.md) | Anthropic / Claude Fable 5.1 / Claude Mythos 5.1 / agent economics / prompt caching / enterprise AI / data retention / AI safety |
 | [World Labs Atlas 深度拆解：AI 视频的下一层不是更会动，而是可控的空间上下文](2026-09-01/2026-09-01-worldlabs-atlas-spatial-intelligence-world-model.md) | World Labs / Atlas / Spatial Intelligence / World Model / 3D Reconstruction / Camera Control / Real-to-Sim / Robotics |

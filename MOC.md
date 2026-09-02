@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🛡️ OpenAI Astra 发布前安全报告拆解：首个 Critical 网络模型，把训练暂停、行为监控与分级访问写进发布流程
+- [[2026-09-01/2026-09-01-openai-astra-critical-cyber-safeguards|OpenAI Astra 发布前安全报告拆解：首个 Critical 网络模型，把训练暂停、行为监控与分级访问写进发布流程]]
+- [[2026-09-01/2026-09-01-openai-astra-critical-cyber-safeguards-en|OpenAI's Path to Astra: The First Critical Cyber Model Turns Training Pauses, Behavioral Monitoring, and Tiered Access Into Release Requirements]]
+
 ## 🔐 Claude Fable 5.1 / Mythos 5.1 深度拆解：同一模型开始按安全权限、缓存经济与数据主权分层
 - [[2026-09-01/2026-09-01-anthropic-fable-51-mythos-51-safeguard-economics|Claude Fable 5.1 / Mythos 5.1 深度拆解：同一模型开始按安全权限、缓存经济与数据主权分层]]
 - [[2026-09-01/2026-09-01-anthropic-fable-51-mythos-51-safeguard-economics-en|Claude Fable 5.1 and Mythos 5.1: One Model, Segmented by Safeguards, Cache Economics, and Data Sovereignty]]
