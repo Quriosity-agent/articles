@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-09-01
+
+| 文章 | 主题 |
+|------|------|
+| [World Labs Atlas 深度拆解：AI 视频的下一层不是更会动，而是可控的空间上下文](2026-09-01/2026-09-01-worldlabs-atlas-spatial-intelligence-world-model.md) | World Labs / Atlas / Spatial Intelligence / World Model / 3D Reconstruction / Camera Control / Real-to-Sim / Robotics |
+| [World Labs Atlas Deep Dive: The Next Layer of AI Video Is Controllable Spatial Context](2026-09-01/2026-09-01-worldlabs-atlas-spatial-intelligence-world-model-en.md) | World Labs / Atlas / spatial intelligence / world model / 3D reconstruction / camera control / real-to-sim / robotics |
+
+---
+
 ## 📅 2026-08-28
 
 | 文章 | 主题 |

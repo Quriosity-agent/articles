@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🌍 World Labs Atlas 深度拆解：AI 视频的下一层不是更会动，而是可控的空间上下文
+- [[2026-09-01/2026-09-01-worldlabs-atlas-spatial-intelligence-world-model|World Labs Atlas 深度拆解：AI 视频的下一层不是更会动，而是可控的空间上下文]]
+- [[2026-09-01/2026-09-01-worldlabs-atlas-spatial-intelligence-world-model-en|World Labs Atlas Deep Dive: The Next Layer of AI Video Is Controllable Spatial Context]]
+
 ## 🛡️ Anthropic AAR 研究拆解：AI 开始自动修对齐问题，但真正关键仍是人定义的反馈边界
 - [[2026-08-28/2026-08-28-anthropic-automated-alignment-researchers|Anthropic AAR 研究拆解：AI 开始自动修对齐问题，但真正关键仍是人定义的反馈边界]]
 - [[2026-08-28/2026-08-28-anthropic-automated-alignment-researchers-en|Anthropic AAR Study: AI Can Automate Alignment Iteration, but the Feedback Boundary Still Defines the Work]]
