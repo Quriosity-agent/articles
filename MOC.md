@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🤖 Grok Bot 设计拆解：当 Agent 不再随会话消失，界面要做的是减法而不是加法
+- [[2026-09-03/2026-09-03-xai-grok-bot-persistent-agent-design|Grok Bot 设计拆解：当 Agent 不再随会话消失，界面要做的是减法而不是加法]]
+- [[2026-09-03/2026-09-03-xai-grok-bot-persistent-agent-design-en|Designing Grok Bot: When Agents Outlive the Session, the Interface Work Is Subtraction]]
+
 ## 🧠 GPT-6 Astra 深度拆解：异步工具、中途转向与跨窗口记忆，开始组成长任务运行时
 - [[2026-09-03/2026-09-03-openai-gpt6-astra-steerable-long-task-runtime|GPT-6 Astra 深度拆解：异步工具、中途转向与跨窗口记忆，开始组成长任务运行时]]
 - [[2026-09-03/2026-09-03-openai-gpt6-astra-steerable-long-task-runtime-en|GPT-6 Astra Deep Dive: Async Tools, Mid-Turn Steering, and Cross-Window Memory Form a Long-Task Runtime]]

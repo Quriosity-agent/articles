@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Grok Bot 设计拆解：当 Agent 不再随会话消失，界面要做的是减法而不是加法](2026-09-03/2026-09-03-xai-grok-bot-persistent-agent-design.md) | SpaceXAI / Grok Bot / Persistent Agents / Agent UX / Presence / Routines / Interface Design / Delegation |
+| [Designing Grok Bot: When Agents Outlive the Session, the Interface Work Is Subtraction](2026-09-03/2026-09-03-xai-grok-bot-persistent-agent-design-en.md) | SpaceXAI / Grok Bot / persistent agents / agent UX / presence / routines / interface design / delegation |
 | [GPT-6 Astra 深度拆解：异步工具、中途转向与跨窗口记忆，开始组成长任务运行时](2026-09-03/2026-09-03-openai-gpt6-astra-steerable-long-task-runtime.md) | OpenAI / GPT-6 Astra / Agent Runtime / Async Tool Calling / Mid-turn Steering / Long-horizon Agents / Computer Use / Model Economics / AI Safety |
 | [GPT-6 Astra Deep Dive: Async Tools, Mid-Turn Steering, and Cross-Window Memory Form a Long-Task Runtime](2026-09-03/2026-09-03-openai-gpt6-astra-steerable-long-task-runtime-en.md) | OpenAI / GPT-6 Astra / agent runtime / async tool calling / mid-turn steering / long-horizon agents / computer use / model economics / AI safety |
 
