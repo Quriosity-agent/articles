@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-09-03
+
+| 文章 | 主题 |
+|------|------|
+| [GPT-6 Astra 深度拆解：异步工具、中途转向与跨窗口记忆，开始组成长任务运行时](2026-09-03/2026-09-03-openai-gpt6-astra-steerable-long-task-runtime.md) | OpenAI / GPT-6 Astra / Agent Runtime / Async Tool Calling / Mid-turn Steering / Long-horizon Agents / Computer Use / Model Economics / AI Safety |
+| [GPT-6 Astra Deep Dive: Async Tools, Mid-Turn Steering, and Cross-Window Memory Form a Long-Task Runtime](2026-09-03/2026-09-03-openai-gpt6-astra-steerable-long-task-runtime-en.md) | OpenAI / GPT-6 Astra / agent runtime / async tool calling / mid-turn steering / long-horizon agents / computer use / model economics / AI safety |
+
+---
+
 ## 📅 2026-09-01
 
 | 文章 | 主题 |

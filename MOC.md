@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧠 GPT-6 Astra 深度拆解：异步工具、中途转向与跨窗口记忆，开始组成长任务运行时
+- [[2026-09-03/2026-09-03-openai-gpt6-astra-steerable-long-task-runtime|GPT-6 Astra 深度拆解：异步工具、中途转向与跨窗口记忆，开始组成长任务运行时]]
+- [[2026-09-03/2026-09-03-openai-gpt6-astra-steerable-long-task-runtime-en|GPT-6 Astra Deep Dive: Async Tools, Mid-Turn Steering, and Cross-Window Memory Form a Long-Task Runtime]]
+
 ## 🛡️ OpenAI Astra 发布前安全报告拆解：首个 Critical 网络模型，把训练暂停、行为监控与分级访问写进发布流程
 - [[2026-09-01/2026-09-01-openai-astra-critical-cyber-safeguards|OpenAI Astra 发布前安全报告拆解：首个 Critical 网络模型，把训练暂停、行为监控与分级访问写进发布流程]]
 - [[2026-09-01/2026-09-01-openai-astra-critical-cyber-safeguards-en|OpenAI's Path to Astra: The First Critical Cyber Model Turns Training Pauses, Behavioral Monitoring, and Tiered Access Into Release Requirements]]
