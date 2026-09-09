@@ -124,6 +124,10 @@
 - [[2026-07-17/2026-07-17-kimi-k3-open-frontier-intelligence|Kimi K3 深度拆解：开源 3T 模型的真正变量，是长程 Agent 的运行成本与控制面]]
 - [[2026-07-17/2026-07-17-kimi-k3-open-frontier-intelligence-en|Kimi K3 Deep Dive: The Real Variable in an Open 3T Model Is Agent Runtime Cost and Control]]
 
+## 🎬 Cinematique 深度拆解：把电影术语编译成可执行 Prompt 的 150 项镜头语法库
+- [[2026-07-16/2026-07-16-vvsvs-cinematique-film-grammar-prompt-library|Cinematique 深度拆解：把电影术语编译成可执行 Prompt 的 150 项镜头语法库]]
+- [[2026-07-16/2026-07-16-vvsvs-cinematique-film-grammar-prompt-library-en|Cinematique Deep Dive: A 150-Technique Film-Grammar Compiler for AI Prompts]]
+
 ## 🎨 PoseMy.Art 深度拆解：AI 创作真正需要的不是姿势图库，而是可导出的参考场景状态
 - [[2026-07-18/2026-07-18-posemy-art-feature-workflow|PoseMy.Art 深度拆解：AI 创作真正需要的不是姿势图库，而是可导出的参考场景状态]]
 - [[2026-07-18/2026-07-18-posemy-art-feature-workflow-en|PoseMy.Art Deep Dive: AI Creative Workflows Need Exportable Reference State, Not Just Pose Libraries]]

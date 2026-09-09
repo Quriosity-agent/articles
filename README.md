@@ -217,6 +217,15 @@
 
 ---
 
+## 📅 2026-07-16
+
+| 文章 | 主题 |
+|------|------|
+| [Cinematique 深度拆解：把电影术语编译成可执行 Prompt 的 150 项镜头语法库](2026-07-16/2026-07-16-vvsvs-cinematique-film-grammar-prompt-library.md) | Cinematique / VVSVS / AI Video / AI Image / Cinematography / Prompt Engineering / Film Grammar / Creative Workflow |
+| [Cinematique Deep Dive: A 150-Technique Film-Grammar Compiler for AI Prompts](2026-07-16/2026-07-16-vvsvs-cinematique-film-grammar-prompt-library-en.md) | Cinematique / VVSVS / AI video / AI image / cinematography / prompt engineering / film grammar / creative workflow |
+
+---
+
 ## 📅 2026-07-14
 
 | 文章 | 主题 |
