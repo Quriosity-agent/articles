@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-09-10
+
+| 文章 | 主题 |
+|------|------|
+| [MotionClone 源码拆解：它不是 Remotion Skill，而是把参考视频编译成可编辑 HyperFrames 图层的 Agent 流水线](2026-09-10/2026-09-10-motionclone-reference-video-editable-hyperframes.md) | MotionClone / HyperFrames / Remotion / Codex / Motion Graphics / Video Reconstruction / Agent Workflow / Computer Vision |
+| [MotionClone Deep Dive: Not a Remotion Skill, but an Agent Pipeline That Compiles Reference Video Into Editable HyperFrames Layers](2026-09-10/2026-09-10-motionclone-reference-video-editable-hyperframes-en.md) | MotionClone / HyperFrames / Remotion / Codex / motion graphics / video reconstruction / agent workflow / computer vision |
+
+---
+
 ## 📅 2026-09-03
 
 | 文章 | 主题 |

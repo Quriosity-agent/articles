@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎞️ MotionClone 源码拆解：它不是 Remotion Skill，而是把参考视频编译成可编辑 HyperFrames 图层的 Agent 流水线
+- [[2026-09-10/2026-09-10-motionclone-reference-video-editable-hyperframes|MotionClone 源码拆解：它不是 Remotion Skill，而是把参考视频编译成可编辑 HyperFrames 图层的 Agent 流水线]]
+- [[2026-09-10/2026-09-10-motionclone-reference-video-editable-hyperframes-en|MotionClone Deep Dive: Not a Remotion Skill, but an Agent Pipeline That Compiles Reference Video Into Editable HyperFrames Layers]]
+
 ## 🤖 Grok Bot 设计拆解：当 Agent 不再随会话消失，界面要做的是减法而不是加法
 - [[2026-09-03/2026-09-03-xai-grok-bot-persistent-agent-design|Grok Bot 设计拆解：当 Agent 不再随会话消失，界面要做的是减法而不是加法]]
 - [[2026-09-03/2026-09-03-xai-grok-bot-persistent-agent-design-en|Designing Grok Bot: When Agents Outlive the Session, the Interface Work Is Subtraction]]
