@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 reelbench-skills 源码拆解：AI 拉片真正需要的不是会看视频，而是把测量、判断与验收分开
+- [[2026-09-14/2026-09-14-reelbench-skills-measured-shot-analysis|reelbench-skills 源码拆解：AI 拉片真正需要的不是会看视频，而是把测量、判断与验收分开]]
+- [[2026-09-14/2026-09-14-reelbench-skills-measured-shot-analysis-en|reelbench-skills Deep Dive: Reliable AI Shot Analysis Separates Measurement, Judgment, and Validation]]
+
 ## 🎞️ MotionClone 源码拆解：它不是 Remotion Skill，而是把参考视频编译成可编辑 HyperFrames 图层的 Agent 流水线
 - [[2026-09-10/2026-09-10-motionclone-reference-video-editable-hyperframes|MotionClone 源码拆解：它不是 Remotion Skill，而是把参考视频编译成可编辑 HyperFrames 图层的 Agent 流水线]]
 - [[2026-09-10/2026-09-10-motionclone-reference-video-editable-hyperframes-en|MotionClone Deep Dive: Not a Remotion Skill, but an Agent Pipeline That Compiles Reference Video Into Editable HyperFrames Layers]]

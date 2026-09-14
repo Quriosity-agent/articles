@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-09-14
+
+| 文章 | 主题 |
+|------|------|
+| [reelbench-skills 源码拆解：AI 拉片真正需要的不是会看视频，而是把测量、判断与验收分开](2026-09-14/2026-09-14-reelbench-skills-measured-shot-analysis.md) | reelbench-skills / video-shots / video-sync / AI Video / Shot Analysis / Codex Skills / FFmpeg / Video QA |
+| [reelbench-skills Deep Dive: Reliable AI Shot Analysis Separates Measurement, Judgment, and Validation](2026-09-14/2026-09-14-reelbench-skills-measured-shot-analysis-en.md) | reelbench-skills / video-shots / video-sync / AI video / shot analysis / Codex Skills / FFmpeg / video QA |
+
+---
+
 ## 📅 2026-09-10
 
 | 文章 | 主题 |
