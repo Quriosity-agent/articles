@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## ⚙️ TypeSafe Jev 深度拆解：放弃生成文本，AI 才能成为软件里的概率型 if 语句
+- [[2026-09-15/2026-09-15-typesafe-jev-system-one-models|TypeSafe Jev 深度拆解：放弃生成文本，AI 才能成为软件里的概率型 if 语句]]
+- [[2026-09-15/2026-09-15-typesafe-jev-system-one-models-en|TypeSafe Jev Deep Dive: Giving Up Text Generation to Become a Probabilistic If-Statement for Software]]
+
 ## 🎬 reelbench-skills 源码拆解：AI 拉片真正需要的不是会看视频，而是把测量、判断与验收分开
 - [[2026-09-14/2026-09-14-reelbench-skills-measured-shot-analysis|reelbench-skills 源码拆解：AI 拉片真正需要的不是会看视频，而是把测量、判断与验收分开]]
 - [[2026-09-14/2026-09-14-reelbench-skills-measured-shot-analysis-en|reelbench-skills Deep Dive: Reliable AI Shot Analysis Separates Measurement, Judgment, and Validation]]

@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-09-15
+
+| 文章 | 主题 |
+|------|------|
+| [TypeSafe Jev 深度拆解：放弃生成文本，AI 才能成为软件里的概率型 if 语句](2026-09-15/2026-09-15-typesafe-jev-system-one-models.md) | TypeSafe AI / Jev / System One Models / RLCD / Structured Outputs / Calibrated Decisions / AI Automation / Probabilistic Software |
+| [TypeSafe Jev Deep Dive: Giving Up Text Generation to Become a Probabilistic If-Statement for Software](2026-09-15/2026-09-15-typesafe-jev-system-one-models-en.md) | TypeSafe AI / Jev / System One Models / RLCD / structured outputs / calibrated decisions / AI automation / probabilistic software |
+
+---
+
 ## 📅 2026-09-14
 
 | 文章 | 主题 |
