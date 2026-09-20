@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-09-20
+
+| 文章 | 主题 |
+|------|------|
+| [Qwen-Image-2.1 深度拆解：7B 不是重点，原生 RGBA 与多图编辑正在把模型变成设计工作台](2026-09-20/2026-09-20-qwen-image-21-unified-rgba-editing.md) | Qwen / Qwen-Image-2.1 / Image Generation / Image Editing / RGBA / Multi-Reference Editing / Diffusers / KV Cache |
+| [Qwen-Image-2.1 Deep Dive: Native RGBA and Multi-Image Editing Matter More Than the 7B Headline](2026-09-20/2026-09-20-qwen-image-21-unified-rgba-editing-en.md) | Qwen / Qwen-Image-2.1 / image generation / image editing / RGBA / multi-reference editing / Diffusers / KV cache |
+
+---
+
 ## 📅 2026-09-15
 
 | 文章 | 主题 |
