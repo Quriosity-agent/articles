@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## Anthropic ART 发现拆解：Claude 没发现“CRISPR 2.0”，真正突破是从原始 DNA 中识别异常
+- [[2026-09-23/2026-09-23-anthropic-claude-art-enzyme-discovery|Anthropic ART 发现拆解：Claude 没发现“CRISPR 2.0”，真正突破是从原始 DNA 中识别异常]]
+- [[2026-09-23/2026-09-23-anthropic-claude-art-enzyme-discovery-en|Anthropic's ART Discovery: Claude Did Not Find 'CRISPR 2.0,' but It Did Recognize an Anomaly in Raw DNA]]
+
 ## Qwen-Image-2.1 深度拆解：7B 不是重点，原生 RGBA 与多图编辑正在把模型变成设计工作台
 - [[2026-09-20/2026-09-20-qwen-image-21-unified-rgba-editing|Qwen-Image-2.1 深度拆解：7B 不是重点，原生 RGBA 与多图编辑正在把模型变成设计工作台]]
 - [[2026-09-20/2026-09-20-qwen-image-21-unified-rgba-editing-en|Qwen-Image-2.1 Deep Dive: Native RGBA and Multi-Image Editing Matter More Than the 7B Headline]]

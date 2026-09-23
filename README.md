@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-09-23
+
+| 文章 | 主题 |
+|------|------|
+| [Anthropic ART 发现拆解：Claude 没发现“CRISPR 2.0”，真正突破是从原始 DNA 中识别异常](2026-09-23/2026-09-23-anthropic-claude-art-enzyme-discovery.md) | Anthropic / Claude / AI for Science / Autonomous Agents / Genome Mining / Reverse Transcriptase / CRISPR / Molecular Biology |
+| [Anthropic's ART Discovery: Claude Did Not Find 'CRISPR 2.0,' but It Did Recognize an Anomaly in Raw DNA](2026-09-23/2026-09-23-anthropic-claude-art-enzyme-discovery-en.md) | Anthropic / Claude / AI for Science / autonomous agents / genome mining / reverse transcriptase / CRISPR / molecular biology |
+
+---
+
 ## 📅 2026-09-20
 
 | 文章 | 主题 |
