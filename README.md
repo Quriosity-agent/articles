@@ -15,6 +15,15 @@
 
 ---
 
+## 📅 2026-09-19
+
+| 文章 | 主题 |
+|------|------|
+| [Brood War Bench 深度拆解：171 场星际循环赛，暴露实时 Agent 的思考延迟与协作断层](2026-09-19/2026-09-19-brood-war-bench-realtime-agent-control.md) | Brood War Bench / Realtime Agents / Agent Evaluation / Codex / Claude / Grok / Multi-Agent Systems / Inference Latency |
+| [Brood War Bench Deep Dive: 171 StarCraft Matches Expose Agent Latency and Coordination Gaps](2026-09-19/2026-09-19-brood-war-bench-realtime-agent-control-en.md) | Brood War Bench / realtime agents / agent evaluation / Codex / Claude / Grok / multi-agent systems / inference latency |
+
+---
+
 ## 📅 2026-09-15
 
 | 文章 | 主题 |

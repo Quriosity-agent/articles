@@ -4,6 +4,10 @@
 - [[2026-09-20/2026-09-20-qwen-image-21-unified-rgba-editing|Qwen-Image-2.1 深度拆解：7B 不是重点，原生 RGBA 与多图编辑正在把模型变成设计工作台]]
 - [[2026-09-20/2026-09-20-qwen-image-21-unified-rgba-editing-en|Qwen-Image-2.1 Deep Dive: Native RGBA and Multi-Image Editing Matter More Than the 7B Headline]]
 
+## Brood War Bench 深度拆解：171 场星际循环赛，暴露实时 Agent 的思考延迟与协作断层
+- [[2026-09-19/2026-09-19-brood-war-bench-realtime-agent-control|Brood War Bench 深度拆解：171 场星际循环赛，暴露实时 Agent 的思考延迟与协作断层]]
+- [[2026-09-19/2026-09-19-brood-war-bench-realtime-agent-control-en|Brood War Bench Deep Dive: 171 StarCraft Matches Expose Agent Latency and Coordination Gaps]]
+
 ## ⚙️ TypeSafe Jev 深度拆解：放弃生成文本，AI 才能成为软件里的概率型 if 语句
 - [[2026-09-15/2026-09-15-typesafe-jev-system-one-models|TypeSafe Jev 深度拆解：放弃生成文本，AI 才能成为软件里的概率型 if 语句]]
 - [[2026-09-15/2026-09-15-typesafe-jev-system-one-models-en|TypeSafe Jev Deep Dive: Giving Up Text Generation to Become a Probabilistic If-Statement for Software]]
