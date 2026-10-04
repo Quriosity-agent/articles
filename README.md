@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-10-04
+
+| 文章 | 主题 |
+|------|------|
+| [VISTA 论文拆解：Claude 满分不是“AGI 被打穿”，而是视觉 Agent 终于能回看原始证据](2026-10-04/2026-10-04-vista-visual-harness-lossless-memory-arc-agi-3.md) | VISTA / ARC-AGI-3 / Multimodal Agents / Visual Memory / Agent Harness / Claude Opus 5 / GPT-5.6 Sol / Computer Use |
+| [VISTA Deep Dive: Claude's Perfect Score Is Not AGI, but a Visual Agent That Can Revisit Raw Evidence](2026-10-04/2026-10-04-vista-visual-harness-lossless-memory-arc-agi-3-en.md) | VISTA / ARC-AGI-3 / multimodal agents / visual memory / agent harness / Claude Opus 5 / GPT-5.6 Sol / computer use |
+
+---
+
 ## 📅 2026-09-23
 
 | 文章 | 主题 |

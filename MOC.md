@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 👁️ VISTA 论文拆解：Claude 满分不是“AGI 被打穿”，而是视觉 Agent 终于能回看原始证据
+- [[2026-10-04/2026-10-04-vista-visual-harness-lossless-memory-arc-agi-3|VISTA 论文拆解：Claude 满分不是“AGI 被打穿”，而是视觉 Agent 终于能回看原始证据]]
+- [[2026-10-04/2026-10-04-vista-visual-harness-lossless-memory-arc-agi-3-en|VISTA Deep Dive: Claude's Perfect Score Is Not AGI, but a Visual Agent That Can Revisit Raw Evidence]]
+
 ## Anthropic ART 发现拆解：Claude 没发现“CRISPR 2.0”，真正突破是从原始 DNA 中识别异常
 - [[2026-09-23/2026-09-23-anthropic-claude-art-enzyme-discovery|Anthropic ART 发现拆解：Claude 没发现“CRISPR 2.0”，真正突破是从原始 DNA 中识别异常]]
 - [[2026-09-23/2026-09-23-anthropic-claude-art-enzyme-discovery-en|Anthropic's ART Discovery: Claude Did Not Find 'CRISPR 2.0,' but It Did Recognize an Anomaly in Raw DNA]]
