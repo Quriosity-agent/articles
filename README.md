@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [x64DbgMCPServer 源码审计：AI 真能直接操控 x64dbg，但默认安全边界还没跟上工具权限](2026-10-07/2026-10-07-x64dbg-mcpserver-ai-debugger-source-audit.md) | x64DbgMCPServer / x64dbg / MCP / AI Debugger / Reverse Engineering / Source Audit / Agent Security / Windows |
+| [x64DbgMCPServer Source Audit: AI Can Really Drive x64dbg, but the Default Security Boundary Lags Behind Its Power](2026-10-07/2026-10-07-x64dbg-mcpserver-ai-debugger-source-audit-en.md) | x64DbgMCPServer / x64dbg / MCP / AI debugger / reverse engineering / source audit / Agent security / Windows |
 | [PhotoCraft 源码审计：24 万行 Rust 编辑器是真的，“反编译 Photoshop”与“Adobe 被核爆”没有证据](2026-10-07/2026-10-07-photocraft-ai-clean-room-photoshop-reimplementation.md) | PhotoCraft / Photoshop / Rust / Claude Opus 5.5 / Clean-room / PSD / MCP / AI Coding / Creative Tools |
 | [PhotoCraft Source Audit: The 244K-Line Rust Editor Is Real; Claims of “Decompiled Photoshop” and “Adobe Nuked” Are Unsupported](2026-10-07/2026-10-07-photocraft-ai-clean-room-photoshop-reimplementation-en.md) | PhotoCraft / Photoshop / Rust / Claude Opus 5.5 / clean-room / PSD / MCP / AI coding / creative tools |
 | [Mirage Tesseract 深度拆解：Claude 不是直接生成 AEP，而是通过可编辑中间层接入 Adobe 工作流](2026-10-07/2026-10-07-mirage-tesseract-adobe-editable-project-ir.md) | Mirage Tesseract / Adobe Premiere Pro / After Effects / Claude / ChatGPT / Agent Skills / Editable Video / Intermediate Representation |

@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🛡️ x64DbgMCPServer 源码审计：AI 真能直接操控 x64dbg，但默认安全边界还没跟上工具权限
+- [[2026-10-07/2026-10-07-x64dbg-mcpserver-ai-debugger-source-audit|x64DbgMCPServer 源码审计：AI 真能直接操控 x64dbg，但默认安全边界还没跟上工具权限]]
+- [[2026-10-07/2026-10-07-x64dbg-mcpserver-ai-debugger-source-audit-en|x64DbgMCPServer Source Audit: AI Can Really Drive x64dbg, but the Default Security Boundary Lags Behind Its Power]]
+
 ## 🖼️ PhotoCraft 源码审计：24 万行 Rust 编辑器是真的，“反编译 Photoshop”与“Adobe 被核爆”没有证据
 - [[2026-10-07/2026-10-07-photocraft-ai-clean-room-photoshop-reimplementation|PhotoCraft 源码审计：24 万行 Rust 编辑器是真的，“反编译 Photoshop”与“Adobe 被核爆”没有证据]]
 - [[2026-10-07/2026-10-07-photocraft-ai-clean-room-photoshop-reimplementation-en|PhotoCraft Source Audit: The 244K-Line Rust Editor Is Real; Claims of “Decompiled Photoshop” and “Adobe Nuked” Are Unsupported]]
