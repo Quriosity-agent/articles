@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Mirage Tesseract 深度拆解：Claude 不是直接生成 AEP，而是通过可编辑中间层接入 Adobe 工作流](2026-10-07/2026-10-07-mirage-tesseract-adobe-editable-project-ir.md) | Mirage Tesseract / Adobe Premiere Pro / After Effects / Claude / ChatGPT / Agent Skills / Editable Video / Intermediate Representation |
+| [Mirage Tesseract Deep Dive: Claude Does Not Directly Generate AEP; It Enters Adobe Workflows Through an Editable IR](2026-10-07/2026-10-07-mirage-tesseract-adobe-editable-project-ir-en.md) | Mirage Tesseract / Adobe Premiere Pro / After Effects / Claude / ChatGPT / agent skills / editable video / intermediate representation |
 | [Prompt Motion 深度拆解：它不是视频生成器，而是 Claude 动效作品的 Prompt 与 Skill 证据库](2026-10-07/2026-10-07-prompt-motion-claude-motion-prompt-skill-gallery.md) | Prompt Motion / Claude Opus 5.5 / Motion Design / Agent Skills / Remotion / HyperFrames / Cinetic / Generative Video |
 | [Prompt Motion Deep Dive: Not a Video Generator, but an Evidence Library for Claude Motion Prompts and Skills](2026-10-07/2026-10-07-prompt-motion-claude-motion-prompt-skill-gallery-en.md) | Prompt Motion / Claude Opus 5.5 / motion design / agent skills / Remotion / HyperFrames / Cinetic / generative video |
 

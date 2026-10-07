@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 Mirage Tesseract 深度拆解：Claude 不是直接生成 AEP，而是通过可编辑中间层接入 Adobe 工作流
+- [[2026-10-07/2026-10-07-mirage-tesseract-adobe-editable-project-ir|Mirage Tesseract 深度拆解：Claude 不是直接生成 AEP，而是通过可编辑中间层接入 Adobe 工作流]]
+- [[2026-10-07/2026-10-07-mirage-tesseract-adobe-editable-project-ir-en|Mirage Tesseract Deep Dive: Claude Does Not Directly Generate AEP; It Enters Adobe Workflows Through an Editable IR]]
+
 ## 🎞️ Prompt Motion 深度拆解：它不是视频生成器，而是 Claude 动效作品的 Prompt 与 Skill 证据库
 - [[2026-10-07/2026-10-07-prompt-motion-claude-motion-prompt-skill-gallery|Prompt Motion 深度拆解：它不是视频生成器，而是 Claude 动效作品的 Prompt 与 Skill 证据库]]
 - [[2026-10-07/2026-10-07-prompt-motion-claude-motion-prompt-skill-gallery-en|Prompt Motion Deep Dive: Not a Video Generator, but an Evidence Library for Claude Motion Prompts and Skills]]
