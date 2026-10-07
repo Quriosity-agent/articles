@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🖼️ PhotoCraft 源码审计：24 万行 Rust 编辑器是真的，“反编译 Photoshop”与“Adobe 被核爆”没有证据
+- [[2026-10-07/2026-10-07-photocraft-ai-clean-room-photoshop-reimplementation|PhotoCraft 源码审计：24 万行 Rust 编辑器是真的，“反编译 Photoshop”与“Adobe 被核爆”没有证据]]
+- [[2026-10-07/2026-10-07-photocraft-ai-clean-room-photoshop-reimplementation-en|PhotoCraft Source Audit: The 244K-Line Rust Editor Is Real; Claims of “Decompiled Photoshop” and “Adobe Nuked” Are Unsupported]]
+
 ## 🎬 Mirage Tesseract 深度拆解：Claude 不是直接生成 AEP，而是通过可编辑中间层接入 Adobe 工作流
 - [[2026-10-07/2026-10-07-mirage-tesseract-adobe-editable-project-ir|Mirage Tesseract 深度拆解：Claude 不是直接生成 AEP，而是通过可编辑中间层接入 Adobe 工作流]]
 - [[2026-10-07/2026-10-07-mirage-tesseract-adobe-editable-project-ir-en|Mirage Tesseract Deep Dive: Claude Does Not Directly Generate AEP; It Enters Adobe Workflows Through an Editable IR]]
