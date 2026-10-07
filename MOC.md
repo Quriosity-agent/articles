@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎞️ Prompt Motion 深度拆解：它不是视频生成器，而是 Claude 动效作品的 Prompt 与 Skill 证据库
+- [[2026-10-07/2026-10-07-prompt-motion-claude-motion-prompt-skill-gallery|Prompt Motion 深度拆解：它不是视频生成器，而是 Claude 动效作品的 Prompt 与 Skill 证据库]]
+- [[2026-10-07/2026-10-07-prompt-motion-claude-motion-prompt-skill-gallery-en|Prompt Motion Deep Dive: Not a Video Generator, but an Evidence Library for Claude Motion Prompts and Skills]]
+
 ## 👁️ VISTA 论文拆解：Claude 满分不是“AGI 被打穿”，而是视觉 Agent 终于能回看原始证据
 - [[2026-10-04/2026-10-04-vista-visual-harness-lossless-memory-arc-agi-3|VISTA 论文拆解：Claude 满分不是“AGI 被打穿”，而是视觉 Agent 终于能回看原始证据]]
 - [[2026-10-04/2026-10-04-vista-visual-harness-lossless-memory-arc-agi-3-en|VISTA Deep Dive: Claude's Perfect Score Is Not AGI, but a Visual Agent That Can Revisit Raw Evidence]]

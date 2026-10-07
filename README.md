@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-10-07
+
+| 文章 | 主题 |
+|------|------|
+| [Prompt Motion 深度拆解：它不是视频生成器，而是 Claude 动效作品的 Prompt 与 Skill 证据库](2026-10-07/2026-10-07-prompt-motion-claude-motion-prompt-skill-gallery.md) | Prompt Motion / Claude Opus 5.5 / Motion Design / Agent Skills / Remotion / HyperFrames / Cinetic / Generative Video |
+| [Prompt Motion Deep Dive: Not a Video Generator, but an Evidence Library for Claude Motion Prompts and Skills](2026-10-07/2026-10-07-prompt-motion-claude-motion-prompt-skill-gallery-en.md) | Prompt Motion / Claude Opus 5.5 / motion design / agent skills / Remotion / HyperFrames / Cinetic / generative video |
+
+---
+
 ## 📅 2026-10-04
 
 | 文章 | 主题 |
