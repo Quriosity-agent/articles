@@ -12,6 +12,10 @@
 - [[2026-10-07/2026-10-07-prompt-motion-claude-motion-prompt-skill-gallery|Prompt Motion 深度拆解：它不是视频生成器，而是 Claude 动效作品的 Prompt 与 Skill 证据库]]
 - [[2026-10-07/2026-10-07-prompt-motion-claude-motion-prompt-skill-gallery-en|Prompt Motion Deep Dive: Not a Video Generator, but an Evidence Library for Claude Motion Prompts and Skills]]
 
+## 🎬 岚叔讲解视频 Skill 源码拆解：九种风格不是九个模型，而是同一条时间轴上的九套视觉语言
+- [[2026-10-06/2026-10-06-lanshu-explainer-skill-nine-hyperframes-styles|岚叔讲解视频 Skill 源码拆解：九种风格不是九个模型，而是同一条时间轴上的九套视觉语言]]
+- [[2026-10-06/2026-10-06-lanshu-explainer-skill-nine-hyperframes-styles-en|Inside Lanshu's Explainer Video Skill: Nine Styles Are Nine Visual Languages on One Timeline, Not Nine Models]]
+
 ## 🖼️ ImageFlow 深度拆解：不是“网页版 Photoshop 已完成”，而是 WebGPU 正把专业图像编辑搬回浏览器
 - [[2026-10-06/2026-10-06-imageflow-webgpu-browser-photoshop-editor|ImageFlow 深度拆解：不是“网页版 Photoshop 已完成”，而是 WebGPU 正把专业图像编辑搬回浏览器]]
 - [[2026-10-06/2026-10-06-imageflow-webgpu-browser-photoshop-editor-en|ImageFlow Deep Dive: Not “Photoshop Rebuilt,” but WebGPU Moving Professional Image Editing Into the Browser]]

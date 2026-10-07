@@ -23,6 +23,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [岚叔讲解视频 Skill 源码拆解：九种风格不是九个模型，而是同一条时间轴上的九套视觉语言](2026-10-06/2026-10-06-lanshu-explainer-skill-nine-hyperframes-styles.md) | Lanshu / Agent Skills / HyperFrames / Claude Opus 5.5 / Explainer Video / Motion Design / Three.js / Video QA |
+| [Inside Lanshu's Explainer Video Skill: Nine Styles Are Nine Visual Languages on One Timeline, Not Nine Models](2026-10-06/2026-10-06-lanshu-explainer-skill-nine-hyperframes-styles-en.md) | Lanshu / Agent Skills / HyperFrames / Claude Opus 5.5 / explainer video / motion design / Three.js / video QA |
 | [ImageFlow 深度拆解：不是“网页版 Photoshop 已完成”，而是 WebGPU 正把专业图像编辑搬回浏览器](2026-10-06/2026-10-06-imageflow-webgpu-browser-photoshop-editor.md) | ImageFlow / WebGPU / Browser Image Editor / Photoshop / PSD / On-device AI / Color Management / Creative Tools |
 | [ImageFlow Deep Dive: Not “Photoshop Rebuilt,” but WebGPU Moving Professional Image Editing Into the Browser](2026-10-06/2026-10-06-imageflow-webgpu-browser-photoshop-editor-en.md) | ImageFlow / WebGPU / browser image editor / Photoshop / PSD / on-device AI / color management / creative tools |
 
