@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## darktable 5.6 源码拆解：它不是“免费 Lightroom”，而是把 RAW、色彩与本地 AI 做成可审计摄影管线
+- [[2026-10-08/2026-10-08-darktable-56-raw-local-ai-pipeline|darktable 5.6 源码拆解：它不是“免费 Lightroom”，而是把 RAW、色彩与本地 AI 做成可审计摄影管线]]
+- [[2026-10-08/2026-10-08-darktable-56-raw-local-ai-pipeline-en|Inside darktable 5.6: Not “Free Lightroom,” but an Auditable RAW, Color, and Local-AI Pipeline]]
+
 ## 🛡️ x64DbgMCPServer 源码审计：AI 真能直接操控 x64dbg，但默认安全边界还没跟上工具权限
 - [[2026-10-07/2026-10-07-x64dbg-mcpserver-ai-debugger-source-audit|x64DbgMCPServer 源码审计：AI 真能直接操控 x64dbg，但默认安全边界还没跟上工具权限]]
 - [[2026-10-07/2026-10-07-x64dbg-mcpserver-ai-debugger-source-audit-en|x64DbgMCPServer Source Audit: AI Can Really Drive x64dbg, but the Default Security Boundary Lags Behind Its Power]]
