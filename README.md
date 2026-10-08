@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Shaders 4.0 源码拆解：它不是特效素材库，而是把 WebGPU 编译成跨框架组件树](2026-10-08/2026-10-08-shaders-webgpu-component-compiler.md) | Shaders / WebGPU / WGSL / React / Vue / Svelte / Solid / GPU Composition / Agent Skill / MCP |
+| [Inside Shaders 4.0: Not an Effects Pack, but a Cross-Framework WebGPU Component Compiler](2026-10-08/2026-10-08-shaders-webgpu-component-compiler-en.md) | Shaders / WebGPU / WGSL / React / Vue / Svelte / Solid / GPU composition / Agent Skill / MCP |
 | [darktable 5.6 源码拆解：它不是“免费 Lightroom”，而是把 RAW、色彩与本地 AI 做成可审计摄影管线](2026-10-08/2026-10-08-darktable-56-raw-local-ai-pipeline.md) | darktable / RAW / Scene-referred Color / Pixelpipe / Local AI / ONNX Runtime / OpenCL / Photography Workflow |
 | [Inside darktable 5.6: Not “Free Lightroom,” but an Auditable RAW, Color, and Local-AI Pipeline](2026-10-08/2026-10-08-darktable-56-raw-local-ai-pipeline-en.md) | darktable / RAW / scene-referred color / pixelpipe / local AI / ONNX Runtime / OpenCL / photography workflow |
 

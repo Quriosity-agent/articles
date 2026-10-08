@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## Shaders 4.0 源码拆解：它不是特效素材库，而是把 WebGPU 编译成跨框架组件树
+- [[2026-10-08/2026-10-08-shaders-webgpu-component-compiler|Shaders 4.0 源码拆解：它不是特效素材库，而是把 WebGPU 编译成跨框架组件树]]
+- [[2026-10-08/2026-10-08-shaders-webgpu-component-compiler-en|Inside Shaders 4.0: Not an Effects Pack, but a Cross-Framework WebGPU Component Compiler]]
+
 ## darktable 5.6 源码拆解：它不是“免费 Lightroom”，而是把 RAW、色彩与本地 AI 做成可审计摄影管线
 - [[2026-10-08/2026-10-08-darktable-56-raw-local-ai-pipeline|darktable 5.6 源码拆解：它不是“免费 Lightroom”，而是把 RAW、色彩与本地 AI 做成可审计摄影管线]]
 - [[2026-10-08/2026-10-08-darktable-56-raw-local-ai-pipeline-en|Inside darktable 5.6: Not “Free Lightroom,” but an Auditable RAW, Color, and Local-AI Pipeline]]
