@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## Anthropic 网络安全验证计划拆解：不是取消安全限制，而是把前沿能力做成分级许可
+- [[2026-10-06/2026-10-06-anthropic-cyber-verification-tiered-access|Anthropic 网络安全验证计划拆解：不是取消安全限制，而是把前沿能力做成分级许可]]
+- [[2026-10-06/2026-10-06-anthropic-cyber-verification-tiered-access-en|Anthropic's Cyber Verification Program: Not Removing Safeguards, but Turning Frontier Cyber Capability Into Tiered Access]]
+
 ## lanshu AI Presenter 源码审计：它不是数字人模型，而是一条证据驱动的视频生产线
 - [[2026-08-20/2026-08-20-lanshu-ai-presenter-evidence-gated-video-pipeline|lanshu AI Presenter 源码审计：它不是数字人模型，而是一条证据驱动的视频生产线]]
 - [[2026-08-20/2026-08-20-lanshu-ai-presenter-evidence-gated-video-pipeline-en|lanshu AI Presenter Source Audit: Not a Digital-Human Model, but an Evidence-Gated Video Production Pipeline]]

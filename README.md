@@ -53,6 +53,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Anthropic 网络安全验证计划拆解：不是取消安全限制，而是把前沿能力做成分级许可](2026-10-06/2026-10-06-anthropic-cyber-verification-tiered-access.md) | Anthropic / Cyber Verification Program / Claude Mythos 5.1 / Claude Opus 5.5 / Cybersecurity / Tiered Access / AI Safety / Project Glasswing |
+| [Anthropic's Cyber Verification Program: Not Removing Safeguards, but Turning Frontier Cyber Capability Into Tiered Access](2026-10-06/2026-10-06-anthropic-cyber-verification-tiered-access-en.md) | Anthropic / Cyber Verification Program / Claude Mythos 5.1 / Claude Opus 5.5 / cybersecurity / tiered access / AI safety / Project Glasswing |
 | [岗位经验被写进 Markdown：Anthropic Knowledge Work Plugins 开源了什么，又没有开源什么](2026-10-06/2026-10-06-anthropic-knowledge-work-plugins-job-experience.md) | Anthropic / Claude Cowork / Knowledge Work Plugins / Agent Skills / MCP / Future of Work / Open Source / Source Audit |
 | [Job Experience in Markdown: What Anthropic's Knowledge Work Plugins Open Source, and What They Do Not](2026-10-06/2026-10-06-anthropic-knowledge-work-plugins-job-experience-en.md) | Anthropic / Claude Cowork / Knowledge Work Plugins / Agent Skills / MCP / future of work / open source / source audit |
 | [从“Fable 5.5”传闻到动画 Skill：huashu-art-motion 真正可复制的是生产方法](2026-10-06/2026-10-06-huashu-art-motion-rumor-to-reusable-workflow.md) | huashu-art-motion / Fable 5.5 / Agent Skill / Animation Workflow / Evidence / Canvas 2D / Video QA / Institutional Memory |
