@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Ablation, REA, and x64DbgMCPServer tool boundaries</title>
+  <desc id="desc">A comparison of a static analysis toolkit, an evidence-ledger runtime, and a live debugger bridge, all orchestrated by a coding agent.</desc>
+  <rect width="1600" height="900" fill="#f6f7f9"/>
+  <text x="800" y="74" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#171a1f">Three different ways to give a coding agent reverse-engineering tools</text>
+  <rect x="515" y="115" width="570" height="108" rx="8" fill="#171a1f"/>
+  <text x="800" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#ffffff">Claude Code / Codex / MCP client</text>
+  <text x="800" y="196" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#cbd2dc">chooses the next action and interprets evidence</text>
+  <path d="M800 223 V285 M800 255 H270 V285 M800 255 H1330 V285" fill="none" stroke="#586270" stroke-width="4"/>
+
+  <rect x="70" y="285" width="400" height="470" rx="8" fill="#ffffff" stroke="#cf3158" stroke-width="4"/>
+  <rect x="70" y="285" width="400" height="88" rx="8" fill="#cf3158"/>
+  <text x="270" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#ffffff">Ablation</text>
+  <text x="270" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#171a1f">Local Python CLI toolkit</text>
+  <text x="110" y="472" font-family="Arial, sans-serif" font-size="21" fill="#343a43">• Static binary context</text>
+  <text x="110" y="512" font-family="Arial, sans-serif" font-size="21" fill="#343a43">• Search, CFG, taint, scanners</text>
+  <text x="110" y="552" font-family="Arial, sans-serif" font-size="21" fill="#343a43">• Many ISA-specific modules</text>
+  <text x="110" y="592" font-family="Arial, sans-serif" font-size="21" fill="#343a43">• Shell and file interaction</text>
+  <line x1="110" y1="625" x2="430" y2="625" stroke="#d9dde3" stroke-width="2"/>
+  <text x="110" y="670" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#9f2342">Boundary</text>
+  <text x="110" y="707" font-family="Arial, sans-serif" font-size="19" fill="#343a43">Candidates and heuristics still</text>
+  <text x="110" y="735" font-family="Arial, sans-serif" font-size="19" fill="#343a43">need independent validation.</text>
+
+  <rect x="600" y="285" width="400" height="470" rx="8" fill="#ffffff" stroke="#297d65" stroke-width="4"/>
+  <rect x="600" y="285" width="400" height="88" rx="8" fill="#297d65"/>
+  <text x="800" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#ffffff">REA</text>
+  <text x="800" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#171a1f">Agent runtime + evidence ledger</text>
+  <text x="640" y="472" font-family="Arial, sans-serif" font-size="21" fill="#343a43">• Orchestrates external tools</text>
+  <text x="640" y="512" font-family="Arial, sans-serif" font-size="21" fill="#343a43">• CLI and MCP contracts</text>
+  <text x="640" y="552" font-family="Arial, sans-serif" font-size="21" fill="#343a43">• Provenance and confidence</text>
+  <text x="640" y="592" font-family="Arial, sans-serif" font-size="21" fill="#343a43">• Preserves residual unknowns</text>
+  <line x1="640" y1="625" x2="960" y2="625" stroke="#d9dde3" stroke-width="2"/>
+  <text x="640" y="670" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#1e6652">Boundary</text>
+  <text x="640" y="707" font-family="Arial, sans-serif" font-size="19" fill="#343a43">Depends on installed providers;</text>
+  <text x="640" y="735" font-family="Arial, sans-serif" font-size="19" fill="#343a43">not itself a decompiler.</text>
+
+  <rect x="1130" y="285" width="400" height="470" rx="8" fill="#ffffff" stroke="#3369a8" stroke-width="4"/>
+  <rect x="1130" y="285" width="400" height="88" rx="8" fill="#3369a8"/>
+  <text x="1330" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#ffffff">x64DbgMCPServer</text>
+  <text x="1330" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#171a1f">Live debugger bridge</text>
+  <text x="1170" y="472" font-family="Arial, sans-serif" font-size="21" fill="#343a43">• Runs inside x64dbg</text>
+  <text x="1170" y="512" font-family="Arial, sans-serif" font-size="21" fill="#343a43">• Registers, memory, breakpoints</text>
+  <text x="1170" y="552" font-family="Arial, sans-serif" font-size="21" fill="#343a43">• Dynamic execution control</text>
+  <text x="1170" y="592" font-family="Arial, sans-serif" font-size="21" fill="#343a43">• Windows-focused MCP surface</text>
+  <line x1="1170" y1="625" x2="1490" y2="625" stroke="#d9dde3" stroke-width="2"/>
+  <text x="1170" y="670" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#285887">Boundary</text>
+  <text x="1170" y="707" font-family="Arial, sans-serif" font-size="19" fill="#343a43">High-privilege live control;</text>
+  <text x="1170" y="735" font-family="Arial, sans-serif" font-size="19" fill="#343a43">narrower platform and trust zone.</text>
+
+  <rect x="185" y="808" width="1230" height="54" rx="6" fill="#e7eaf0"/>
+  <text x="800" y="843" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#343a43">Automation comes from the agent loop; trustworthy conclusions come from preserved evidence and independent verification.</text>
+</svg>

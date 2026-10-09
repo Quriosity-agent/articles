@@ -53,6 +53,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Ablation 源码审计：它不是“全自动逆向工程”，而是给 Coding Agent 的多架构静态分析工具箱](2026-10-06/2026-10-06-ablation-coding-agent-static-analysis-toolkit.md) | Ablation / Reverse Engineering / Coding Agent / Static Analysis / Firmware / Taint Analysis / Source Audit / CI |
+| [Ablation Source Audit: Not Fully Autonomous Reverse Engineering, but a Multi-Architecture Static-Analysis Toolkit for Coding Agents](2026-10-06/2026-10-06-ablation-coding-agent-static-analysis-toolkit-en.md) | Ablation / reverse engineering / Coding Agent / static analysis / firmware / taint analysis / source audit / CI |
 | [Anthropic 网络安全验证计划拆解：不是取消安全限制，而是把前沿能力做成分级许可](2026-10-06/2026-10-06-anthropic-cyber-verification-tiered-access.md) | Anthropic / Cyber Verification Program / Claude Mythos 5.1 / Claude Opus 5.5 / Cybersecurity / Tiered Access / AI Safety / Project Glasswing |
 | [Anthropic's Cyber Verification Program: Not Removing Safeguards, but Turning Frontier Cyber Capability Into Tiered Access](2026-10-06/2026-10-06-anthropic-cyber-verification-tiered-access-en.md) | Anthropic / Cyber Verification Program / Claude Mythos 5.1 / Claude Opus 5.5 / cybersecurity / tiered access / AI safety / Project Glasswing |
 | [岗位经验被写进 Markdown：Anthropic Knowledge Work Plugins 开源了什么，又没有开源什么](2026-10-06/2026-10-06-anthropic-knowledge-work-plugins-job-experience.md) | Anthropic / Claude Cowork / Knowledge Work Plugins / Agent Skills / MCP / Future of Work / Open Source / Source Audit |

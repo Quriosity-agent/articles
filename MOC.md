@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## Ablation 源码审计：它不是“全自动逆向工程”，而是给 Coding Agent 的多架构静态分析工具箱
+- [[2026-10-06/2026-10-06-ablation-coding-agent-static-analysis-toolkit|Ablation 源码审计：它不是“全自动逆向工程”，而是给 Coding Agent 的多架构静态分析工具箱]]
+- [[2026-10-06/2026-10-06-ablation-coding-agent-static-analysis-toolkit-en|Ablation Source Audit: Not Fully Autonomous Reverse Engineering, but a Multi-Architecture Static-Analysis Toolkit for Coding Agents]]
+
 ## Anthropic 网络安全验证计划拆解：不是取消安全限制，而是把前沿能力做成分级许可
 - [[2026-10-06/2026-10-06-anthropic-cyber-verification-tiered-access|Anthropic 网络安全验证计划拆解：不是取消安全限制，而是把前沿能力做成分级许可]]
 - [[2026-10-06/2026-10-06-anthropic-cyber-verification-tiered-access-en|Anthropic's Cyber Verification Program: Not Removing Safeguards, but Turning Frontier Cyber Capability Into Tiered Access]]
