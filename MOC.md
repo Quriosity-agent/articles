@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## gpt-instruct 源码审计：它不是“解锁新模型”，而是给 Codex 注入一套可回归测试的行为指令
+- [[2026-10-09/2026-10-09-gpt-instruct-codex-instruction-eval-audit|gpt-instruct 源码审计：它不是“解锁新模型”，而是给 Codex 注入一套可回归测试的行为指令]]
+- [[2026-10-09/2026-10-09-gpt-instruct-codex-instruction-eval-audit-en|gpt-instruct Source Audit: Not a New Model, but a Regression-Tested Behavior Layer for Codex]]
+
 ## FutureTechPilot 深度拆解：它不是提示词库，而是把 Midjourney 个性化 Profile 做成风格商店
 - [[2026-10-09/2026-10-09-futuretechpilot-midjourney-profile-code-storefront|FutureTechPilot 深度拆解：它不是提示词库，而是把 Midjourney 个性化 Profile 做成风格商店]]
 - [[2026-10-09/2026-10-09-futuretechpilot-midjourney-profile-code-storefront-en|FutureTechPilot Deep Dive: Not a Prompt Library, but a Storefront for Midjourney Personalization Profiles]]
