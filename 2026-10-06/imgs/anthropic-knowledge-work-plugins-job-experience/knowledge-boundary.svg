@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#f6f7f8"/>
+  <text x="90" y="92" font-family="Georgia, serif" font-size="34" fill="#17212b">What becomes cheaper when job know-how is encoded</text>
+  <text x="90" y="137" font-family="Arial, sans-serif" font-size="20" fill="#596573">Explicit procedure moves toward a shared commodity. Tacit judgment and accountable decisions do not.</text>
+  <g font-family="Arial, sans-serif">
+    <text x="90" y="205" font-size="18" font-weight="700" fill="#d24a3d">MORE PORTABLE</text>
+    <line x1="90" y1="225" x2="1510" y2="225" stroke="#cdd4da" stroke-width="3"/>
+    <rect x="90" y="280" width="310" height="340" rx="6" fill="#ffffff" stroke="#d24a3d" stroke-width="3"/>
+    <text x="120" y="330" font-size="23" font-weight="700" fill="#17212b">Procedure</text>
+    <text x="120" y="375" font-size="18" fill="#4d5966">Task sequence</text>
+    <text x="120" y="410" font-size="18" fill="#4d5966">Checklists</text>
+    <text x="120" y="445" font-size="18" fill="#4d5966">Output templates</text>
+    <text x="120" y="480" font-size="18" fill="#4d5966">Common failure modes</text>
+    <rect x="120" y="535" width="240" height="46" rx="4" fill="#fbe9e7"/>
+    <text x="145" y="565" font-size="17" fill="#a7352c">Easy to inspect and fork</text>
+
+    <rect x="460" y="280" width="310" height="340" rx="6" fill="#ffffff" stroke="#dd9a1b" stroke-width="3"/>
+    <text x="490" y="330" font-size="23" font-weight="700" fill="#17212b">Context</text>
+    <text x="490" y="375" font-size="18" fill="#4d5966">Company vocabulary</text>
+    <text x="490" y="410" font-size="18" fill="#4d5966">Customer history</text>
+    <text x="490" y="445" font-size="18" fill="#4d5966">Live schemas and records</text>
+    <text x="490" y="480" font-size="18" fill="#4d5966">Current constraints</text>
+    <rect x="490" y="535" width="240" height="46" rx="4" fill="#fff2d9"/>
+    <text x="516" y="565" font-size="17" fill="#8f6111">Must be supplied locally</text>
+
+    <rect x="830" y="280" width="310" height="340" rx="6" fill="#ffffff" stroke="#3f6eb0" stroke-width="3"/>
+    <text x="860" y="330" font-size="23" font-weight="700" fill="#17212b">Judgment</text>
+    <text x="860" y="375" font-size="18" fill="#4d5966">Ambiguous trade-offs</text>
+    <text x="860" y="410" font-size="18" fill="#4d5966">Exception handling</text>
+    <text x="860" y="445" font-size="18" fill="#4d5966">Quality thresholds</text>
+    <text x="860" y="480" font-size="18" fill="#4d5966">Knowing when to stop</text>
+    <rect x="860" y="535" width="240" height="46" rx="4" fill="#edf3fb"/>
+    <text x="892" y="565" font-size="17" fill="#315b94">Learned through practice</text>
+
+    <rect x="1200" y="280" width="310" height="340" rx="6" fill="#ffffff" stroke="#2e8b78" stroke-width="3"/>
+    <text x="1230" y="330" font-size="23" font-weight="700" fill="#17212b">Accountability</text>
+    <text x="1230" y="375" font-size="18" fill="#4d5966">Authority to approve</text>
+    <text x="1230" y="410" font-size="18" fill="#4d5966">Regulatory duty</text>
+    <text x="1230" y="445" font-size="18" fill="#4d5966">Ownership of outcomes</text>
+    <text x="1230" y="480" font-size="18" fill="#4d5966">Trust and relationships</text>
+    <rect x="1230" y="535" width="240" height="46" rx="4" fill="#e6f3ef"/>
+    <text x="1260" y="565" font-size="17" fill="#246f61">Cannot be downloaded</text>
+
+    <path d="M90 690 H1510" stroke="#7c8894" stroke-width="5"/>
+    <polygon points="1510,690 1486,676 1486,704" fill="#7c8894"/>
+    <text x="90" y="742" font-size="18" fill="#596573">GENERIC AND COPYABLE</text>
+    <text x="1250" y="742" font-size="18" font-weight="700" fill="#2e8b78">LOCAL AND ACCOUNTABLE</text>
+  </g>
+  <text x="90" y="820" font-family="Georgia, serif" font-size="25" fill="#17212b">The moat moves from remembering the steps to configuring, judging, and owning the work.</text>
+</svg>

@@ -53,6 +53,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [岗位经验被写进 Markdown：Anthropic Knowledge Work Plugins 开源了什么，又没有开源什么](2026-10-06/2026-10-06-anthropic-knowledge-work-plugins-job-experience.md) | Anthropic / Claude Cowork / Knowledge Work Plugins / Agent Skills / MCP / Future of Work / Open Source / Source Audit |
+| [Job Experience in Markdown: What Anthropic's Knowledge Work Plugins Open Source, and What They Do Not](2026-10-06/2026-10-06-anthropic-knowledge-work-plugins-job-experience-en.md) | Anthropic / Claude Cowork / Knowledge Work Plugins / Agent Skills / MCP / future of work / open source / source audit |
 | [从“Fable 5.5”传闻到动画 Skill：huashu-art-motion 真正可复制的是生产方法](2026-10-06/2026-10-06-huashu-art-motion-rumor-to-reusable-workflow.md) | huashu-art-motion / Fable 5.5 / Agent Skill / Animation Workflow / Evidence / Canvas 2D / Video QA / Institutional Memory |
 | [From the “Fable 5.5” Rumor to an Animation Skill: huashu-art-motion Makes the Production Method Reusable](2026-10-06/2026-10-06-huashu-art-motion-rumor-to-reusable-workflow-en.md) | huashu-art-motion / Fable 5.5 / Agent Skill / animation workflow / evidence / Canvas 2D / video QA / institutional memory |
 | [岚叔讲解视频 Skill 源码拆解：九种风格不是九个模型，而是同一条时间轴上的九套视觉语言](2026-10-06/2026-10-06-lanshu-explainer-skill-nine-hyperframes-styles.md) | Lanshu / Agent Skills / HyperFrames / Claude Opus 5.5 / Explainer Video / Motion Design / Three.js / Video QA |

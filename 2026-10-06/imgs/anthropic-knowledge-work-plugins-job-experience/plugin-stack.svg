@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#f5f7f8"/>
+  <text x="90" y="92" font-family="Georgia, serif" font-size="34" fill="#18212b">A plugin is an operating stack, not a downloaded employee</text>
+  <text x="90" y="137" font-family="Arial, sans-serif" font-size="20" fill="#5a6673">The public files provide reusable procedure; the organization still supplies context, access, and accountability.</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="90" y="205" width="320" height="480" rx="6" fill="#ffffff" stroke="#d34b3f" stroke-width="3"/>
+    <rect x="90" y="205" width="320" height="70" rx="6" fill="#d34b3f"/>
+    <text x="120" y="250" font-size="23" font-weight="700" fill="#ffffff">OPEN PLUGIN FILES</text>
+    <text x="120" y="325" font-size="21" font-weight="700" fill="#18212b">Skills</text>
+    <text x="120" y="359" font-size="18" fill="#4d5966">Steps, checks, output formats</text>
+    <line x1="120" y1="392" x2="380" y2="392" stroke="#d9dee3"/>
+    <text x="120" y="437" font-size="21" font-weight="700" fill="#18212b">Manifest</text>
+    <text x="120" y="471" font-size="18" fill="#4d5966">Identity and activation metadata</text>
+    <line x1="120" y1="504" x2="380" y2="504" stroke="#d9dee3"/>
+    <text x="120" y="549" font-size="21" font-weight="700" fill="#18212b">Connector map</text>
+    <text x="120" y="583" font-size="18" fill="#4d5966">Which tools the workflow expects</text>
+    <text x="120" y="638" font-size="16" fill="#7a465f">Portable and inspectable</text>
+
+    <path d="M430 445 H500" stroke="#7b8794" stroke-width="4"/>
+    <polygon points="500,445 480,433 480,457" fill="#7b8794"/>
+
+    <rect x="520" y="205" width="480" height="480" rx="6" fill="#ffffff" stroke="#3f6eb0" stroke-width="3"/>
+    <rect x="520" y="205" width="480" height="70" rx="6" fill="#3f6eb0"/>
+    <text x="550" y="250" font-size="23" font-weight="700" fill="#ffffff">ORGANIZATION LAYER</text>
+    <rect x="560" y="315" width="400" height="62" rx="4" fill="#edf3fb"/>
+    <text x="585" y="354" font-size="19" fill="#18212b">Company terminology and operating model</text>
+    <rect x="560" y="397" width="400" height="62" rx="4" fill="#edf3fb"/>
+    <text x="585" y="436" font-size="19" fill="#18212b">Playbooks, thresholds, and templates</text>
+    <rect x="560" y="479" width="400" height="62" rx="4" fill="#edf3fb"/>
+    <text x="585" y="518" font-size="19" fill="#18212b">Credentials, permissions, and live records</text>
+    <rect x="560" y="561" width="400" height="62" rx="4" fill="#edf3fb"/>
+    <text x="585" y="600" font-size="19" fill="#18212b">Risk ownership and escalation policy</text>
+    <text x="560" y="658" font-size="16" fill="#3f6eb0">Private, changing, and company-specific</text>
+
+    <path d="M1020 445 H1090" stroke="#7b8794" stroke-width="4"/>
+    <polygon points="1090,445 1070,433 1070,457" fill="#7b8794"/>
+
+    <rect x="1110" y="205" width="400" height="480" rx="6" fill="#ffffff" stroke="#2e8b78" stroke-width="3"/>
+    <rect x="1110" y="205" width="400" height="70" rx="6" fill="#2e8b78"/>
+    <text x="1140" y="250" font-size="23" font-weight="700" fill="#ffffff">CONTROLLED EXECUTION</text>
+    <circle cx="1180" cy="350" r="30" fill="#e6f3ef" stroke="#2e8b78" stroke-width="2"/>
+    <text x="1170" y="359" font-size="25" font-weight="700" fill="#2e8b78">1</text>
+    <text x="1230" y="358" font-size="20" fill="#18212b">Claude plans and drafts</text>
+    <circle cx="1180" cy="450" r="30" fill="#fff2d9" stroke="#dc9b1d" stroke-width="2"/>
+    <text x="1170" y="459" font-size="25" font-weight="700" fill="#9b6710">2</text>
+    <text x="1230" y="458" font-size="20" fill="#18212b">Connectors read or act</text>
+    <circle cx="1180" cy="550" r="30" fill="#fbe9e7" stroke="#d34b3f" stroke-width="2"/>
+    <text x="1170" y="559" font-size="25" font-weight="700" fill="#b43a31">3</text>
+    <text x="1230" y="558" font-size="20" fill="#18212b">A human accepts risk</text>
+    <text x="1140" y="638" font-size="16" fill="#2e8b78">The result depends on all three layers</text>
+  </g>
+  <text x="90" y="790" font-family="Georgia, serif" font-size="25" fill="#18212b">Open source can standardize the route. It cannot supply your destination, authority, or judgment.</text>
+</svg>
