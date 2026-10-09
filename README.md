@@ -23,6 +23,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [huashu-art-motion 源码拆解：它不是文生视频模型，而是给 Coding Agent 的 Canvas 动画制作系统](2026-10-08/2026-10-08-huashu-art-motion-coding-agent-canvas-animation-system.md) | huashu-art-motion / Agent Skill / Canvas 2D / Playwright / FFmpeg / Motion Graphics / Programmatic Video / Video QA |
+| [Inside huashu-art-motion: Not a Text-to-Video Model, but a Canvas Animation Production System for Coding Agents](2026-10-08/2026-10-08-huashu-art-motion-coding-agent-canvas-animation-system-en.md) | huashu-art-motion / Agent Skill / Canvas 2D / Playwright / FFmpeg / motion graphics / programmatic video / video QA |
 | [AA-Music v1.1 基准拆解：Suno v6 双榜第一，但“完整歌曲质量”不能只靠 10 秒盲听](2026-10-08/2026-10-08-artificial-analysis-aa-music-v11-blind-listening-benchmark.md) | Artificial Analysis / AA-Music v1.1 / Suno v6 / Music Generation / Human Preference / Bradley-Terry / Elo / Benchmark Design / Blind Listening |
 | [AA-Music v1.1 Deep Dive: Suno v6 Leads Both Boards, but Ten Seconds of Listening Cannot Prove Full-Song Quality](2026-10-08/2026-10-08-artificial-analysis-aa-music-v11-blind-listening-benchmark-en.md) | Artificial Analysis / AA-Music v1.1 / Suno v6 / music generation / human preference / Bradley-Terry / Elo / benchmark design / blind listening |
 | [Shaders 4.0 源码拆解：它不是特效素材库，而是把 WebGPU 编译成跨框架组件树](2026-10-08/2026-10-08-shaders-webgpu-component-compiler.md) | Shaders / WebGPU / WGSL / React / Vue / Svelte / Solid / GPU Composition / Agent Skill / MCP |

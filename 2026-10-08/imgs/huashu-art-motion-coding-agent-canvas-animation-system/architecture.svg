@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">huashu-art-motion production architecture</title>
+  <desc id="desc">A coding agent turns a brief or reference into Canvas scene code or a JSON clip specification, renders deterministic frames in Chromium, encodes them with FFmpeg, and checks them with automated QA plus an independent review.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#5b6675"/>
+    </marker>
+    <style>
+      .title { font: 700 44px Inter, Arial, sans-serif; fill: #171a1f; }
+      .subtitle { font: 400 22px Inter, Arial, sans-serif; fill: #5b6675; }
+      .label { font: 700 24px Inter, Arial, sans-serif; fill: #171a1f; }
+      .copy { font: 400 18px Inter, Arial, sans-serif; fill: #3f4854; }
+      .small { font: 600 16px Inter, Arial, sans-serif; fill: #5b6675; }
+      .line { stroke: #5b6675; stroke-width: 4; fill: none; marker-end: url(#arrow); }
+    </style>
+  </defs>
+  <rect width="1600" height="900" fill="#f5f7f8"/>
+  <text x="80" y="92" class="title">huashu-art-motion: from brief to verified video</text>
+  <text x="80" y="132" class="subtitle">The agent authors the motion; the runtime makes it deterministic and deliverable.</text>
+
+  <rect x="80" y="230" width="250" height="210" rx="8" fill="#ffffff" stroke="#c7ced6" stroke-width="2"/>
+  <rect x="80" y="230" width="250" height="14" fill="#e14d3a"/>
+  <text x="110" y="292" class="label">Brief / reference</text>
+  <text x="110" y="332" class="copy">Narration, visual target,</text>
+  <text x="110" y="362" class="copy">existing media, or video</text>
+  <text x="110" y="407" class="small">Optional: breakdown.py</text>
+
+  <rect x="400" y="230" width="260" height="210" rx="8" fill="#ffffff" stroke="#c7ced6" stroke-width="2"/>
+  <rect x="400" y="230" width="260" height="14" fill="#e0a428"/>
+  <text x="430" y="292" class="label">Coding agent</text>
+  <text x="430" y="332" class="copy">Reads SKILL routing,</text>
+  <text x="430" y="362" class="copy">style cards, grammar cards,</text>
+  <text x="430" y="392" class="copy">and production constraints</text>
+
+  <rect x="730" y="190" width="300" height="125" rx="8" fill="#e9f5f2" stroke="#2b8978" stroke-width="2"/>
+  <text x="760" y="245" class="label">Canvas scene code</text>
+  <text x="760" y="279" class="copy">35 styles + custom scenes</text>
+  <rect x="730" y="345" width="300" height="125" rx="8" fill="#edf1fb" stroke="#3c66a5" stroke-width="2"/>
+  <text x="760" y="400" class="label">JSON clip spec</text>
+  <text x="760" y="434" class="copy">8 parameterized grammars</text>
+
+  <rect x="1100" y="230" width="260" height="210" rx="8" fill="#ffffff" stroke="#c7ced6" stroke-width="2"/>
+  <rect x="1100" y="230" width="260" height="14" fill="#2b8978"/>
+  <text x="1130" y="292" class="label">Chromium + Canvas</text>
+  <text x="1130" y="332" class="copy">renderFrame(t)</text>
+  <text x="1130" y="362" class="copy">at explicit timestamps</text>
+  <text x="1130" y="407" class="small">Playwright captures PNG</text>
+
+  <path d="M330 335 L390 335" class="line"/>
+  <path d="M660 300 L718 265" class="line"/>
+  <path d="M660 370 L718 405" class="line"/>
+  <path d="M1030 265 L1088 315" class="line"/>
+  <path d="M1030 405 L1088 350" class="line"/>
+
+  <rect x="260" y="600" width="270" height="170" rx="8" fill="#ffffff" stroke="#c7ced6" stroke-width="2"/>
+  <rect x="260" y="600" width="270" height="14" fill="#3c66a5"/>
+  <text x="290" y="660" class="label">FFmpeg delivery</text>
+  <text x="290" y="700" class="copy">H.264 MP4, audio mux,</text>
+  <text x="290" y="730" class="copy">or alpha ProRes 4444</text>
+
+  <rect x="665" y="565" width="350" height="240" rx="8" fill="#ffffff" stroke="#c7ced6" stroke-width="2"/>
+  <rect x="665" y="565" width="350" height="14" fill="#e14d3a"/>
+  <text x="695" y="625" class="label">Automated QA</text>
+  <text x="695" y="665" class="copy">Determinism, frame cost,</text>
+  <text x="695" y="695" class="copy">motion, spikes, blank frames,</text>
+  <text x="695" y="725" class="copy">text clipping and subtitle zones</text>
+  <text x="695" y="770" class="small">Produces qa.json + qa.md</text>
+
+  <rect x="1150" y="600" width="280" height="170" rx="8" fill="#fff6df" stroke="#e0a428" stroke-width="2"/>
+  <rect x="1150" y="600" width="280" height="14" fill="#e0a428"/>
+  <text x="1180" y="660" class="label">Human acceptance</text>
+  <text x="1180" y="700" class="copy">Independent agent review</text>
+  <text x="1180" y="730" class="copy">and final visual judgment</text>
+
+  <path d="M1230 450 C1230 525 530 500 500 588" class="line"/>
+  <path d="M530 685 L653 685" class="line"/>
+  <path d="M1015 685 L1138 685" class="line"/>
+</svg>
