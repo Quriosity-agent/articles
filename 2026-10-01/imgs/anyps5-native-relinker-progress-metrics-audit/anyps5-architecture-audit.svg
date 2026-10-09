@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760" role="img" aria-labelledby="title desc">
+  <title id="title">AnyPS5 audited execution architecture</title>
+  <desc id="desc">A PS5 ELF and PRX files are relinked into a native Linux ELF or Windows PE. Replacement system libraries provide imports, while RDNA shaders are decoded, recompiled to SPIR-V, and executed through Vulkan.</desc>
+  <rect width="1400" height="760" fill="#f7f7f4"/>
+  <text x="70" y="78" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#17191c">What "native" means in AnyPS5</text>
+  <text x="70" y="116" font-family="Arial, sans-serif" font-size="20" fill="#565b63">One host process, but with ahead-of-time binary rewriting, API reimplementation, and GPU translation.</text>
+
+  <rect x="70" y="180" width="270" height="160" rx="8" fill="#ffffff" stroke="#2e343b" stroke-width="2"/>
+  <text x="100" y="224" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#17191c">Input owned by user</text>
+  <text x="100" y="266" font-family="Arial, sans-serif" font-size="19" fill="#3b4047">PS5 x86-64 ELF</text>
+  <text x="100" y="299" font-family="Arial, sans-serif" font-size="19" fill="#3b4047">Bundled PRX modules</text>
+
+  <path d="M340 260 H440" stroke="#17191c" stroke-width="4" fill="none"/>
+  <path d="M440 260 l-18 -10 v20 z" fill="#17191c"/>
+
+  <rect x="440" y="170" width="340" height="180" rx="8" fill="#e8f0ff" stroke="#2f5aa8" stroke-width="2"/>
+  <text x="475" y="216" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#173766">Relinker</text>
+  <text x="475" y="258" font-family="Arial, sans-serif" font-size="18" fill="#29405f">Rebuild ELF/PE container</text>
+  <text x="475" y="290" font-family="Arial, sans-serif" font-size="18" fill="#29405f">Rewrite imports by NID</text>
+  <text x="475" y="322" font-family="Arial, sans-serif" font-size="18" fill="#29405f">Optionally lower AMD-only CPU ops</text>
+
+  <path d="M780 260 H880" stroke="#17191c" stroke-width="4" fill="none"/>
+  <path d="M880 260 l-18 -10 v20 z" fill="#17191c"/>
+
+  <rect x="880" y="180" width="450" height="160" rx="8" fill="#e8f7ed" stroke="#237a43" stroke-width="2"/>
+  <text x="915" y="224" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#14552e">Native host executable</text>
+  <text x="915" y="266" font-family="Arial, sans-serif" font-size="19" fill="#28533a">Linux ELF or Windows PE</text>
+  <text x="915" y="299" font-family="Arial, sans-serif" font-size="19" fill="#28533a">Loaded by the operating system</text>
+
+  <path d="M1105 340 V430" stroke="#17191c" stroke-width="4" fill="none"/>
+  <path d="M1105 430 l-10 -18 h20 z" fill="#17191c"/>
+
+  <rect x="790" y="430" width="540" height="190" rx="8" fill="#fff3d9" stroke="#a96c00" stroke-width="2"/>
+  <text x="825" y="476" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#704600">Replacement PS5 system libraries</text>
+  <text x="825" y="510" font-family="Arial, sans-serif" font-size="18" fill="#654f2a">Host libraries export the expected NIDs</text>
+  <text x="825" y="540" font-family="Arial, sans-serif" font-size="18" fill="#654f2a">Reimplement kernel, input, audio, graphics,</text>
+  <text x="825" y="570" font-family="Arial, sans-serif" font-size="18" fill="#654f2a">UI, and network behavior</text>
+  <text x="825" y="600" font-family="Arial, sans-serif" font-size="18" fill="#654f2a">Missing paths can throw at runtime</text>
+
+  <path d="M790 525 H690" stroke="#17191c" stroke-width="4" fill="none"/>
+  <path d="M690 525 l18 -10 v20 z" fill="#17191c"/>
+
+  <rect x="70" y="430" width="620" height="190" rx="8" fill="#f2eaff" stroke="#6d45a8" stroke-width="2"/>
+  <text x="105" y="476" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#482876">GPU compatibility path</text>
+  <text x="105" y="518" font-family="Arial, sans-serif" font-size="18" fill="#513b69">PS5 RDNA shader + PM4 commands</text>
+  <text x="105" y="550" font-family="Arial, sans-serif" font-size="18" fill="#513b69">Decode -> control-flow IR -> optimization -> SPIR-V</text>
+  <text x="105" y="582" font-family="Arial, sans-serif" font-size="18" fill="#513b69">Vulkan executes the translated graphics work</text>
+
+  <rect x="70" y="670" width="1260" height="54" rx="8" fill="#17191c"/>
+  <text x="700" y="705" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff">Accurate label: ahead-of-time relinking plus a compatibility layer, not an unchanged PS5 binary running directly.</text>
+</svg>

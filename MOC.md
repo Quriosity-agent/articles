@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎮 AnyPS5 源码审计：“原生运行”不是零转换，52% 与 76% 也不是游戏完成度
+- [[2026-10-01/2026-10-01-anyps5-native-relinker-progress-metrics-audit|AnyPS5 源码审计：“原生运行”不是零转换，52% 与 76% 也不是游戏完成度]]
+- [[2026-10-01/2026-10-01-anyps5-native-relinker-progress-metrics-audit-en|AnyPS5 Source Audit: “Native” Does Not Mean Zero Translation, and 52%/76% Are Not Game Completion]]
+
 ## Prompt Motion 首发帖拆解：百万曝光背后，真正被产品化的是可追溯的灵感
 - [[2026-10-05/2026-10-05-prompt-motion-viral-launch-traceable-inspiration|Prompt Motion 首发帖拆解：百万曝光背后，真正被产品化的是可追溯的灵感]]
 - [[2026-10-05/2026-10-05-prompt-motion-viral-launch-traceable-inspiration-en|Prompt Motion's Viral Launch: The Product Is Traceable Inspiration, Not the Prompt Itself]]
