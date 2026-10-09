@@ -16,6 +16,10 @@
 - [[2026-10-08/2026-10-08-huashu-art-motion-coding-agent-canvas-animation-system|huashu-art-motion 源码拆解：它不是文生视频模型，而是给 Coding Agent 的 Canvas 动画制作系统]]
 - [[2026-10-08/2026-10-08-huashu-art-motion-coding-agent-canvas-animation-system-en|Inside huashu-art-motion: Not a Text-to-Video Model, but a Canvas Animation Production System for Coding Agents]]
 
+## 从“Fable 5.5”传闻到动画 Skill：huashu-art-motion 真正可复制的是生产方法
+- [[2026-10-06/2026-10-06-huashu-art-motion-rumor-to-reusable-workflow|从“Fable 5.5”传闻到动画 Skill：huashu-art-motion 真正可复制的是生产方法]]
+- [[2026-10-06/2026-10-06-huashu-art-motion-rumor-to-reusable-workflow-en|From the “Fable 5.5” Rumor to an Animation Skill: huashu-art-motion Makes the Production Method Reusable]]
+
 ## AA-Music v1.1 基准拆解：Suno v6 双榜第一，但“完整歌曲质量”不能只靠 10 秒盲听
 - [[2026-10-08/2026-10-08-artificial-analysis-aa-music-v11-blind-listening-benchmark|AA-Music v1.1 基准拆解：Suno v6 双榜第一，但“完整歌曲质量”不能只靠 10 秒盲听]]
 - [[2026-10-08/2026-10-08-artificial-analysis-aa-music-v11-blind-listening-benchmark-en|AA-Music v1.1 Deep Dive: Suno v6 Leads Both Boards, but Ten Seconds of Listening Cannot Prove Full-Song Quality]]

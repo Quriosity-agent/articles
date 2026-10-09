@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">From viral demo to reusable animation workflow</title>
+  <desc id="desc">A measured workflow turns a viral reference into evidence, an original test, coded animation components, quality checks, and reusable skill memory.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0 0L12 6 0 12Z" fill="#606b78"/></marker>
+    <style>
+      .h1{font:700 42px Inter,Arial,sans-serif;fill:#171a1f}.sub{font:400 21px Inter,Arial,sans-serif;fill:#606b78}
+      .n{font:700 18px Inter,Arial,sans-serif;fill:#fff}.t{font:700 23px Inter,Arial,sans-serif;fill:#171a1f}.c{font:400 17px Inter,Arial,sans-serif;fill:#46505c}
+      .a{stroke:#606b78;stroke-width:4;fill:none;marker-end:url(#arrow)}
+    </style>
+  </defs>
+  <rect width="1600" height="900" fill="#f5f7f8"/>
+  <text x="80" y="90" class="h1">The reusable asset is the workflow, not the rumored model name</text>
+  <text x="80" y="130" class="sub">huashu-art-motion turns one reference-driven experiment into a portable production loop.</text>
+
+  <g transform="translate(80 225)"><rect width="250" height="190" rx="8" fill="#fff" stroke="#c8cfd6" stroke-width="2"/><circle cx="34" cy="34" r="22" fill="#d94b3d"/><text x="28" y="41" class="n">1</text><text x="32" y="90" class="t">Viral reference</text><text x="32" y="126" class="c">Treat model identity</text><text x="32" y="154" class="c">as a hypothesis</text></g>
+  <g transform="translate(405 225)"><rect width="250" height="190" rx="8" fill="#fff" stroke="#c8cfd6" stroke-width="2"/><circle cx="34" cy="34" r="22" fill="#d99a25"/><text x="28" y="41" class="n">2</text><text x="32" y="90" class="t">Measure the artifact</text><text x="32" y="126" class="c">Cuts, beat grid,</text><text x="32" y="154" class="c">motion heatmaps</text></g>
+  <g transform="translate(730 225)"><rect width="250" height="190" rx="8" fill="#fff" stroke="#c8cfd6" stroke-width="2"/><circle cx="34" cy="34" r="22" fill="#2b8978"/><text x="28" y="41" class="n">3</text><text x="32" y="90" class="t">One-frame gate</text><text x="32" y="126" class="c">Prove composition</text><text x="32" y="154" class="c">before animation</text></g>
+  <g transform="translate(1055 225)"><rect width="250" height="190" rx="8" fill="#fff" stroke="#c8cfd6" stroke-width="2"/><circle cx="34" cy="34" r="22" fill="#3d67a5"/><text x="28" y="41" class="n">4</text><text x="32" y="90" class="t">Code the motion</text><text x="32" y="126" class="c">Canvas scenes, cues,</text><text x="32" y="154" class="c">sprites, synthesized audio</text></g>
+  <path d="M330 320H393" class="a"/><path d="M655 320H718" class="a"/><path d="M980 320H1043" class="a"/>
+
+  <g transform="translate(242 575)"><rect width="280" height="190" rx="8" fill="#fff" stroke="#c8cfd6" stroke-width="2"/><circle cx="34" cy="34" r="22" fill="#3d67a5"/><text x="28" y="41" class="n">5</text><text x="32" y="90" class="t">Deterministic render</text><text x="32" y="126" class="c">Explicit timestamps,</text><text x="32" y="154" class="c">browser frames, FFmpeg</text></g>
+  <g transform="translate(660 575)"><rect width="280" height="190" rx="8" fill="#fff" stroke="#c8cfd6" stroke-width="2"/><circle cx="34" cy="34" r="22" fill="#d94b3d"/><text x="28" y="41" class="n">6</text><text x="32" y="90" class="t">QA + independent review</text><text x="32" y="126" class="c">Metrics find defects;</text><text x="32" y="154" class="c">a fresh reviewer judges the film</text></g>
+  <g transform="translate(1078 575)"><rect width="280" height="190" rx="8" fill="#fff7df" stroke="#d99a25" stroke-width="2"/><circle cx="34" cy="34" r="22" fill="#d99a25"/><text x="28" y="41" class="n">7</text><text x="32" y="90" class="t">Skill memory</text><text x="32" y="126" class="c">Keep methods, evidence,</text><text x="32" y="154" class="c">limits, and failure notes</text></g>
+  <path d="M1180 430C1170 505 485 475 420 563" class="a"/><path d="M522 670H648" class="a"/><path d="M940 670H1066" class="a"/>
+</svg>
