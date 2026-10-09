@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 📱 iphone-use 源码审计：它不是 iPhone 镜像脚本，而是一套懂得“不要重试”的真机 Agent 控制栈
+- [[2026-10-09/2026-10-09-iphone-use-xctest-real-device-agent-stack-audit|iphone-use 源码审计：它不是 iPhone 镜像脚本，而是一套懂得“不要重试”的真机 Agent 控制栈]]
+- [[2026-10-09/2026-10-09-iphone-use-xctest-real-device-agent-stack-audit-en|iphone-use Source Audit: Not an iPhone Mirroring Script, but a Real-Device Agent Stack That Knows When Not to Retry]]
+
 ## 🖥️ Mr. Mak Workspace 源码审计：它不是新的 Agent，而是把 CLI、项目证据与手机入口连成一间本地工作室
 - [[2026-10-08/2026-10-08-mr-mak-workspace-local-agent-control-room-audit|Mr. Mak Workspace 源码审计：它不是新的 Agent，而是把 CLI、项目证据与手机入口连成一间本地工作室]]
 - [[2026-10-08/2026-10-08-mr-mak-workspace-local-agent-control-room-audit-en|Mr. Mak Workspace Source Audit: Not a New Agent, but a Local Studio Joining CLIs, Project Evidence, and Mobile Access]]

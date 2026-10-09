@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [iphone-use 源码审计：它不是 iPhone 镜像脚本，而是一套懂得“不要重试”的真机 Agent 控制栈](2026-10-09/2026-10-09-iphone-use-xctest-real-device-agent-stack-audit.md) | iphone-use / iPhone Automation / XCTest / MCP / Accessibility / Agent Safety / Real-device Testing / Source Audit |
+| [iphone-use Source Audit: Not an iPhone Mirroring Script, but a Real-Device Agent Stack That Knows When Not to Retry](2026-10-09/2026-10-09-iphone-use-xctest-real-device-agent-stack-audit-en.md) | iphone-use / iPhone automation / XCTest / MCP / accessibility / Agent safety / real-device testing / source audit |
 | [REA 源码审计：它不是“AI 自动克隆 App”，而是给逆向工程加上证据账本的 Agent 运行时](2026-10-09/2026-10-09-rea-evidence-ledger-agentic-reverse-engineering-runtime.md) | REA / Reverse Engineering / MCP / Agent Runtime / Evidence Ledger / Hopper / Ghidra / IDA / Source Audit |
 | [REA Source Audit: Not an AI App Cloner, but an Agent Runtime with an Evidence Ledger for Reverse Engineering](2026-10-09/2026-10-09-rea-evidence-ledger-agentic-reverse-engineering-runtime-en.md) | REA / reverse engineering / MCP / Agent runtime / Evidence ledger / Hopper / Ghidra / IDA / source audit |
 | [gpt-instruct 源码审计：它不是“解锁新模型”，而是给 Codex 注入一套可回归测试的行为指令](2026-10-09/2026-10-09-gpt-instruct-codex-instruction-eval-audit.md) | gpt-instruct / Codex / model_instructions_file / Prompt Engineering / Agent Evaluation / JailbreakBench / Artifact Verification / Source Audit |
