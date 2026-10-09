@@ -68,6 +68,15 @@
 
 ---
 
+## 📅 2026-10-05
+
+| 文章 | 主题 |
+|------|------|
+| [Prompt Motion 首发帖拆解：百万曝光背后，真正被产品化的是可追溯的灵感](2026-10-05/2026-10-05-prompt-motion-viral-launch-traceable-inspiration.md) | Prompt Motion / Claude Opus 5.5 / Motion Design / Creative Provenance / X Launch / Agent Skills / Curation |
+| [Prompt Motion's Viral Launch: The Product Is Traceable Inspiration, Not the Prompt Itself](2026-10-05/2026-10-05-prompt-motion-viral-launch-traceable-inspiration-en.md) | Prompt Motion / Claude Opus 5.5 / motion design / creative provenance / X launch / Agent Skills / curation |
+
+---
+
 ## 📅 2026-10-04
 
 | 文章 | 主题 |

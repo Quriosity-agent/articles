@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Prompt Motion launch and provenance loop</title>
+  <desc id="desc">Three measured gallery snapshots and a loop connecting an X launch post, gallery browsing, evidence cards, original creators, and new submissions.</desc>
+  <rect width="1600" height="900" fill="#f7f8fa"/>
+  <text x="800" y="64" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#17191d">Prompt Motion turns social posts into a traceable discovery loop</text>
+  <text x="800" y="104" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#59616d">Measured snapshots, not a continuous growth curve</text>
+
+  <line x1="245" y1="210" x2="1355" y2="210" stroke="#9ba3af" stroke-width="5"/>
+  <circle cx="310" cy="210" r="18" fill="#e5484d"/>
+  <circle cx="800" cy="210" r="18" fill="#2e7d66"/>
+  <circle cx="1290" cy="210" r="18" fill="#3468ad"/>
+  <text x="310" y="166" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#17191d">226</text>
+  <text x="310" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" fill="#454c56">Oct 5 launch claim</text>
+  <text x="800" y="166" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#17191d">230</text>
+  <text x="800" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" fill="#454c56">Oct 7 site audit</text>
+  <text x="1290" y="166" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#17191d">233</text>
+  <text x="1290" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" fill="#454c56">Oct 9 page data</text>
+
+  <rect x="75" y="360" width="260" height="180" rx="8" fill="#ffffff" stroke="#e5484d" stroke-width="4"/>
+  <text x="205" y="414" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#9d252a">X launch post</text>
+  <text x="205" y="456" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#454c56">12.9-second demo</text>
+  <text x="205" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#454c56">social reach</text>
+
+  <rect x="405" y="360" width="260" height="180" rx="8" fill="#ffffff" stroke="#d28d25" stroke-width="4"/>
+  <text x="535" y="414" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#8b5b16">Gallery</text>
+  <text x="535" y="456" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#454c56">browse previews</text>
+  <text x="535" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#454c56">filter prompt / skill</text>
+
+  <rect x="735" y="360" width="260" height="180" rx="8" fill="#ffffff" stroke="#2e7d66" stroke-width="4"/>
+  <text x="865" y="414" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#22614f">Evidence card</text>
+  <text x="865" y="456" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#454c56">creator + post</text>
+  <text x="865" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#454c56">prompt / skill + metadata</text>
+
+  <rect x="1065" y="360" width="260" height="180" rx="8" fill="#ffffff" stroke="#3468ad" stroke-width="4"/>
+  <text x="1195" y="414" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#28558f">Original source</text>
+  <text x="1195" y="456" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#454c56">creator context</text>
+  <text x="1195" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#454c56">rights and discussion</text>
+
+  <path d="M335 450 H390" stroke="#707784" stroke-width="4" fill="none"/>
+  <polygon points="390,450 374,440 374,460" fill="#707784"/>
+  <path d="M665 450 H720" stroke="#707784" stroke-width="4" fill="none"/>
+  <polygon points="720,450 704,440 704,460" fill="#707784"/>
+  <path d="M995 450 H1050" stroke="#707784" stroke-width="4" fill="none"/>
+  <polygon points="1050,450 1034,440 1034,460" fill="#707784"/>
+
+  <path d="M1195 540 V665 H205 V555" fill="none" stroke="#7e8692" stroke-width="4" stroke-dasharray="12 10"/>
+  <polygon points="205,555 195,573 215,573" fill="#7e8692"/>
+  <rect x="568" y="620" width="464" height="92" rx="8" fill="#17191d"/>
+  <text x="800" y="658" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#ffffff">New creators submit sourced work</text>
+  <text x="800" y="688" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#cdd2da">curation feeds the next round of discovery</text>
+
+  <rect x="190" y="785" width="1220" height="64" rx="8" fill="#e8ebf0"/>
+  <text x="800" y="825" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" fill="#353b44">The loop preserves attribution, but reproducibility still needs source, dependencies, assets, versions, and render evidence.</text>
+</svg>

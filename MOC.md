@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## Prompt Motion 首发帖拆解：百万曝光背后，真正被产品化的是可追溯的灵感
+- [[2026-10-05/2026-10-05-prompt-motion-viral-launch-traceable-inspiration|Prompt Motion 首发帖拆解：百万曝光背后，真正被产品化的是可追溯的灵感]]
+- [[2026-10-05/2026-10-05-prompt-motion-viral-launch-traceable-inspiration-en|Prompt Motion's Viral Launch: The Product Is Traceable Inspiration, Not the Prompt Itself]]
+
 ## Ablation 源码审计：它不是“全自动逆向工程”，而是给 Coding Agent 的多架构静态分析工具箱
 - [[2026-10-06/2026-10-06-ablation-coding-agent-static-analysis-toolkit|Ablation 源码审计：它不是“全自动逆向工程”，而是给 Coding Agent 的多架构静态分析工具箱]]
 - [[2026-10-06/2026-10-06-ablation-coding-agent-static-analysis-toolkit-en|Ablation Source Audit: Not Fully Autonomous Reverse Engineering, but a Multi-Architecture Static-Analysis Toolkit for Coding Agents]]
