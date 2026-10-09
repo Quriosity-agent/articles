@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## FutureTechPilot 深度拆解：它不是提示词库，而是把 Midjourney 个性化 Profile 做成风格商店
+- [[2026-10-09/2026-10-09-futuretechpilot-midjourney-profile-code-storefront|FutureTechPilot 深度拆解：它不是提示词库，而是把 Midjourney 个性化 Profile 做成风格商店]]
+- [[2026-10-09/2026-10-09-futuretechpilot-midjourney-profile-code-storefront-en|FutureTechPilot Deep Dive: Not a Prompt Library, but a Storefront for Midjourney Personalization Profiles]]
+
 ## Shaders 4.0 源码拆解：它不是特效素材库，而是把 WebGPU 编译成跨框架组件树
 - [[2026-10-08/2026-10-08-shaders-webgpu-component-compiler|Shaders 4.0 源码拆解：它不是特效素材库，而是把 WebGPU 编译成跨框架组件树]]
 - [[2026-10-08/2026-10-08-shaders-webgpu-component-compiler-en|Inside Shaders 4.0: Not an Effects Pack, but a Cross-Framework WebGPU Component Compiler]]

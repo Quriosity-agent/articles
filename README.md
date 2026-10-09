@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-10-09
+
+| 文章 | 主题 |
+|------|------|
+| [FutureTechPilot 深度拆解：它不是提示词库，而是把 Midjourney 个性化 Profile 做成风格商店](2026-10-09/2026-10-09-futuretechpilot-midjourney-profile-code-storefront.md) | FutureTechPilot / Midjourney / Personalization Profiles / Style Codes / Aesthetic Curation / Creator Commerce / Thinkific / Generative Art |
+| [FutureTechPilot Deep Dive: Not a Prompt Library, but a Storefront for Midjourney Personalization Profiles](2026-10-09/2026-10-09-futuretechpilot-midjourney-profile-code-storefront-en.md) | FutureTechPilot / Midjourney / Personalization Profiles / style codes / aesthetic curation / creator commerce / Thinkific / generative art |
+
+---
+
 ## 📅 2026-10-08
 
 | 文章 | 主题 |
