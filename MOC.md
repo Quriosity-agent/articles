@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🖥️ Mr. Mak Workspace 源码审计：它不是新的 Agent，而是把 CLI、项目证据与手机入口连成一间本地工作室
+- [[2026-10-08/2026-10-08-mr-mak-workspace-local-agent-control-room-audit|Mr. Mak Workspace 源码审计：它不是新的 Agent，而是把 CLI、项目证据与手机入口连成一间本地工作室]]
+- [[2026-10-08/2026-10-08-mr-mak-workspace-local-agent-control-room-audit-en|Mr. Mak Workspace Source Audit: Not a New Agent, but a Local Studio Joining CLIs, Project Evidence, and Mobile Access]]
+
 ## 🎮 AnyPS5 源码审计：“原生运行”不是零转换，52% 与 76% 也不是游戏完成度
 - [[2026-10-01/2026-10-01-anyps5-native-relinker-progress-metrics-audit|AnyPS5 源码审计：“原生运行”不是零转换，52% 与 76% 也不是游戏完成度]]
 - [[2026-10-01/2026-10-01-anyps5-native-relinker-progress-metrics-audit-en|AnyPS5 Source Audit: “Native” Does Not Mean Zero Translation, and 52%/76% Are Not Game Completion]]

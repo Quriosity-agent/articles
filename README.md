@@ -23,6 +23,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Mr. Mak Workspace 源码审计：它不是新的 Agent，而是把 CLI、项目证据与手机入口连成一间本地工作室](2026-10-08/2026-10-08-mr-mak-workspace-local-agent-control-room-audit.md) | Mr. Mak Workspace / Codex CLI / Claude Code / OpenCode / Tauri / Local Agent Control Plane / Mobile Access / Tailscale / Source Audit |
+| [Mr. Mak Workspace Source Audit: Not a New Agent, but a Local Studio Joining CLIs, Project Evidence, and Mobile Access](2026-10-08/2026-10-08-mr-mak-workspace-local-agent-control-room-audit-en.md) | Mr. Mak Workspace / Codex CLI / Claude Code / OpenCode / Tauri / local Agent control plane / mobile access / Tailscale / source audit |
 | [huashu-art-motion 源码拆解：它不是文生视频模型，而是给 Coding Agent 的 Canvas 动画制作系统](2026-10-08/2026-10-08-huashu-art-motion-coding-agent-canvas-animation-system.md) | huashu-art-motion / Agent Skill / Canvas 2D / Playwright / FFmpeg / Motion Graphics / Programmatic Video / Video QA |
 | [Inside huashu-art-motion: Not a Text-to-Video Model, but a Canvas Animation Production System for Coding Agents](2026-10-08/2026-10-08-huashu-art-motion-coding-agent-canvas-animation-system-en.md) | huashu-art-motion / Agent Skill / Canvas 2D / Playwright / FFmpeg / motion graphics / programmatic video / video QA |
 | [AA-Music v1.1 基准拆解：Suno v6 双榜第一，但“完整歌曲质量”不能只靠 10 秒盲听](2026-10-08/2026-10-08-artificial-analysis-aa-music-v11-blind-listening-benchmark.md) | Artificial Analysis / AA-Music v1.1 / Suno v6 / Music Generation / Human Preference / Bradley-Terry / Elo / Benchmark Design / Blind Listening |

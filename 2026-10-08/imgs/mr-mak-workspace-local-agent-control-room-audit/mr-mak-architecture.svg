@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="820" viewBox="0 0 1400 820" role="img" aria-labelledby="title desc">
+  <title id="title">Mr. Mak Workspace audited architecture</title>
+  <desc id="desc">A Tauri shell opens Chats and Workspace webviews. Both authenticate to a loopback Node service that manages real CLI terminals, repository files, reports, skills, and local state. A paired phone reaches a limited mobile gateway through private Tailscale Serve.</desc>
+  <rect width="1400" height="820" fill="#f7f7f4"/>
+  <text x="70" y="72" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#191a1d">Mr. Mak is a local control plane around existing agents</text>
+  <text x="70" y="110" font-family="Arial, sans-serif" font-size="20" fill="#565b63">The models and accounts remain inside Codex, Claude Code, OpenCode, and optional API providers.</text>
+
+  <rect x="70" y="165" width="300" height="210" rx="8" fill="#fff0f5" stroke="#a83e6b" stroke-width="2"/>
+  <text x="105" y="211" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#722444">Tauri desktop shell</text>
+  <text x="105" y="253" font-family="Arial, sans-serif" font-size="19" fill="#633b4c">Chats webview</text>
+  <text x="105" y="286" font-family="Arial, sans-serif" font-size="19" fill="#633b4c">Workspace webview</text>
+  <text x="105" y="319" font-family="Arial, sans-serif" font-size="19" fill="#633b4c">Native windows and file actions</text>
+  <text x="105" y="352" font-family="Arial, sans-serif" font-size="19" fill="#633b4c">Private startup credential</text>
+
+  <path d="M370 270 H475" stroke="#1d1f23" stroke-width="4" fill="none"/>
+  <path d="M475 270 l-18 -10 v20 z" fill="#1d1f23"/>
+
+  <rect x="475" y="145" width="450" height="250" rx="8" fill="#e8f0ff" stroke="#2d5eac" stroke-width="2"/>
+  <text x="510" y="192" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#183c70">Loopback Node service</text>
+  <text x="510" y="234" font-family="Arial, sans-serif" font-size="18" fill="#294663">Bearer-authenticated HTTP and WebSocket</text>
+  <text x="510" y="266" font-family="Arial, sans-serif" font-size="18" fill="#294663">PTY sessions, resume, history, delivery receipts</text>
+  <text x="510" y="298" font-family="Arial, sans-serif" font-size="18" fill="#294663">Scoped file, report, Skill, and MCP inventory</text>
+  <text x="510" y="330" font-family="Arial, sans-serif" font-size="18" fill="#294663">Ignored runtime state under .mrmak</text>
+  <text x="510" y="362" font-family="Arial, sans-serif" font-size="18" fill="#294663">Permission bypass defaults to off</text>
+
+  <path d="M925 270 H1030" stroke="#1d1f23" stroke-width="4" fill="none"/>
+  <path d="M1030 270 l-18 -10 v20 z" fill="#1d1f23"/>
+
+  <rect x="1030" y="165" width="300" height="210" rx="8" fill="#e8f7ed" stroke="#247a43" stroke-width="2"/>
+  <text x="1065" y="211" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#15552f">Real agent CLIs</text>
+  <text x="1065" y="253" font-family="Arial, sans-serif" font-size="19" fill="#28533a">Codex CLI</text>
+  <text x="1065" y="286" font-family="Arial, sans-serif" font-size="19" fill="#28533a">Claude Code CLI</text>
+  <text x="1065" y="319" font-family="Arial, sans-serif" font-size="19" fill="#28533a">OpenCode CLI</text>
+  <text x="1065" y="352" font-family="Arial, sans-serif" font-size="17" fill="#28533a">Existing logins and permissions</text>
+
+  <path d="M700 395 V485" stroke="#1d1f23" stroke-width="4" fill="none"/>
+  <path d="M700 485 l-10 -18 h20 z" fill="#1d1f23"/>
+
+  <rect x="475" y="485" width="450" height="210" rx="8" fill="#fff3d9" stroke="#a96c00" stroke-width="2"/>
+  <text x="510" y="531" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#704600">Repository-backed Workspace</text>
+  <text x="510" y="573" font-family="Arial, sans-serif" font-size="18" fill="#654f2a">workspace.json card registry</text>
+  <text x="510" y="605" font-family="Arial, sans-serif" font-size="18" fill="#654f2a">HTML and Markdown reports plus media</text>
+  <text x="510" y="637" font-family="Arial, sans-serif" font-size="18" fill="#654f2a">context, knowledge, processes, and 20 Skills</text>
+  <text x="510" y="669" font-family="Arial, sans-serif" font-size="18" fill="#654f2a">Git can version the durable work artifacts</text>
+
+  <rect x="70" y="485" width="300" height="210" rx="8" fill="#f2eaff" stroke="#6d45a8" stroke-width="2"/>
+  <text x="105" y="531" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#482876">Paired phone</text>
+  <text x="105" y="573" font-family="Arial, sans-serif" font-size="18" fill="#513b69">Private Tailscale Serve</text>
+  <text x="105" y="605" font-family="Arial, sans-serif" font-size="18" fill="#513b69">Desktop-approved device</text>
+  <text x="105" y="637" font-family="Arial, sans-serif" font-size="18" fill="#513b69">Limited chat, terminal, image,</text>
+  <text x="105" y="669" font-family="Arial, sans-serif" font-size="18" fill="#513b69">report, and dictation routes</text>
+
+  <path d="M370 590 H475" stroke="#1d1f23" stroke-width="4" fill="none"/>
+  <path d="M475 590 l-18 -10 v20 z" fill="#1d1f23"/>
+
+  <rect x="1030" y="485" width="300" height="210" rx="8" fill="#edf0f2" stroke="#59616a" stroke-width="2"/>
+  <text x="1065" y="531" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#343a40">Optional providers</text>
+  <text x="1065" y="573" font-family="Arial, sans-serif" font-size="18" fill="#454c54">OpenAI Live voice</text>
+  <text x="1065" y="605" font-family="Arial, sans-serif" font-size="18" fill="#454c54">OpenAI/OpenRouter dictation</text>
+  <text x="1065" y="637" font-family="Arial, sans-serif" font-size="18" fill="#454c54">fal.ai, Higgsfield, MCP tools</text>
+  <text x="1065" y="669" font-family="Arial, sans-serif" font-size="18" fill="#454c54">User-owned keys and billing</text>
+
+  <path d="M1030 590 H925" stroke="#1d1f23" stroke-width="4" fill="none"/>
+  <path d="M925 590 l18 -10 v20 z" fill="#1d1f23"/>
+
+  <rect x="70" y="750" width="1260" height="48" rx="8" fill="#191a1d"/>
+  <text x="700" y="781" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#ffffff">Local-first does not mean model-free, cloud-free, or sandboxed: agent permissions and provider policies still apply.</text>
+</svg>
