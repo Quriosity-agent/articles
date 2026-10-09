@@ -178,6 +178,15 @@
 
 ---
 
+## 📅 2026-08-20
+
+| 文章 | 主题 |
+|------|------|
+| [lanshu AI Presenter 源码审计：它不是数字人模型，而是一条证据驱动的视频生产线](2026-08-20/2026-08-20-lanshu-ai-presenter-evidence-gated-video-pipeline.md) | Lanshu / AI Presenter / Agent Skill / Digital Human / Evidence Gates / State Machine / Video QA / Cost Control |
+| [lanshu AI Presenter Source Audit: Not a Digital-Human Model, but an Evidence-Gated Video Production Pipeline](2026-08-20/2026-08-20-lanshu-ai-presenter-evidence-gated-video-pipeline-en.md) | Lanshu / AI presenter / Agent Skill / digital human / evidence gates / state machine / video QA / cost control |
+
+---
+
 ## 📅 2026-08-18
 
 | 文章 | 主题 |

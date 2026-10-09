@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Evidence-gated AI presenter production pipeline</title>
+  <desc id="desc">Eight production states advance only when their required artifacts and checks exist.</desc>
+  <rect width="1600" height="900" fill="#f7f8f5"/>
+  <rect x="70" y="62" width="1460" height="776" rx="22" fill="#ffffff" stroke="#d9ded7" stroke-width="2"/>
+  <text x="120" y="135" fill="#16241d" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700">AI Presenter is a state machine, not one generation call</text>
+  <text x="120" y="181" fill="#536159" font-family="Arial, Helvetica, sans-serif" font-size="23">Every transition is backed by files, approvals, media probes, or human review.</text>
+  <line x1="210" y1="338" x2="1390" y2="338" stroke="#b8c2bc" stroke-width="7" stroke-linecap="round"/>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <g transform="translate(190 338)"><circle r="48" fill="#187a62"/><text y="9" fill="#fff" font-size="26" font-weight="700">01</text><text y="91" fill="#16241d" font-size="21" font-weight="700">intake</text><text y="124" fill="#65736b" font-size="17">rights + inputs</text></g>
+    <g transform="translate(365 338)"><circle r="48" fill="#187a62"/><text y="9" fill="#fff" font-size="26" font-weight="700">02</text><text y="91" fill="#16241d" font-size="21" font-weight="700">content locked</text><text y="124" fill="#65736b" font-size="17">script approved</text></g>
+    <g transform="translate(540 338)"><circle r="48" fill="#136fb0"/><text y="9" fill="#fff" font-size="26" font-weight="700">03</text><text y="91" fill="#16241d" font-size="21" font-weight="700">audio locked</text><text y="124" fill="#65736b" font-size="17">narration + ASR</text></g>
+    <g transform="translate(715 338)"><circle r="48" fill="#136fb0"/><text y="9" fill="#fff" font-size="26" font-weight="700">04</text><text y="91" fill="#16241d" font-size="21" font-weight="700">visual plan</text><text y="124" fill="#65736b" font-size="17">timing + segments</text></g>
+    <g transform="translate(890 338)"><circle r="48" fill="#8a5d16"/><text y="9" fill="#fff" font-size="26" font-weight="700">05</text><text y="91" fill="#16241d" font-size="21" font-weight="700">presenter made</text><text y="124" fill="#65736b" font-size="17">accepted candidate</text></g>
+    <g transform="translate(1065 338)"><circle r="48" fill="#8a5d16"/><text y="9" fill="#fff" font-size="26" font-weight="700">06</text><text y="91" fill="#16241d" font-size="21" font-weight="700">composition</text><text y="124" fill="#65736b" font-size="17">visual review</text></g>
+    <g transform="translate(1240 338)"><circle r="48" fill="#9f4138"/><text y="9" fill="#fff" font-size="26" font-weight="700">07</text><text y="91" fill="#16241d" font-size="21" font-weight="700">rendered</text><text y="124" fill="#65736b" font-size="17">master + share</text></g>
+    <g transform="translate(1410 338)"><circle r="48" fill="#9f4138"/><text y="9" fill="#fff" font-size="26" font-weight="700">08</text><text y="91" fill="#16241d" font-size="21" font-weight="700">verified</text><text y="124" fill="#65736b" font-size="17">delivery report</text></g>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="120" y="560" width="310" height="176" rx="10" fill="#e7f3ee" stroke="#9bc8b8"/><text x="150" y="604" fill="#155b4a" font-size="21" font-weight="700">CONSENT GATES</text><text x="150" y="644" fill="#2d4439" font-size="19">Authorized adult portrait</text><text x="150" y="677" fill="#2d4439" font-size="19">Remote upload approval</text><text x="150" y="710" fill="#2d4439" font-size="19">Voice-clone approval</text>
+    <rect x="465" y="560" width="310" height="176" rx="10" fill="#e7f0f7" stroke="#9dbed7"/><text x="495" y="604" fill="#17567f" font-size="21" font-weight="700">COST GATES</text><text x="495" y="644" fill="#2d3d48" font-size="19">Pilot before full run</text><text x="495" y="677" fill="#2d3d48" font-size="19">Estimated billable seconds</text><text x="495" y="710" fill="#2d3d48" font-size="19">Three rejected tries max</text>
+    <rect x="810" y="560" width="310" height="176" rx="10" fill="#f5eedf" stroke="#d4b979"/><text x="840" y="604" fill="#71501a" font-size="21" font-weight="700">MEDIA EVIDENCE</text><text x="840" y="644" fill="#473b29" font-size="19">Decodable audio and video</text><text x="840" y="677" fill="#473b29" font-size="19">Pause-safe segment plan</text><text x="840" y="710" fill="#473b29" font-size="19">Task IDs and artifacts</text>
+    <rect x="1155" y="560" width="325" height="176" rx="10" fill="#f7e9e7" stroke="#d6a39d"/><text x="1185" y="604" fill="#7f3029" font-size="21" font-weight="700">DELIVERY EVIDENCE</text><text x="1185" y="644" fill="#4d322f" font-size="19">Loudness + full decode</text><text x="1185" y="677" fill="#4d322f" font-size="19">Black/freeze detection</text><text x="1185" y="710" fill="#4d322f" font-size="19">Contact sheet + review</text>
+  </g>
+  <text x="800" y="798" text-anchor="middle" fill="#536159" font-family="Arial, Helvetica, sans-serif" font-size="19">A state name is a claim. check_state.py accepts the claim only when the evidence exists.</text>
+</svg>

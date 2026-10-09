@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## lanshu AI Presenter 源码审计：它不是数字人模型，而是一条证据驱动的视频生产线
+- [[2026-08-20/2026-08-20-lanshu-ai-presenter-evidence-gated-video-pipeline|lanshu AI Presenter 源码审计：它不是数字人模型，而是一条证据驱动的视频生产线]]
+- [[2026-08-20/2026-08-20-lanshu-ai-presenter-evidence-gated-video-pipeline-en|lanshu AI Presenter Source Audit: Not a Digital-Human Model, but an Evidence-Gated Video Production Pipeline]]
+
 ## REA 源码审计：它不是“AI 自动克隆 App”，而是给逆向工程加上证据账本的 Agent 运行时
 - [[2026-10-09/2026-10-09-rea-evidence-ledger-agentic-reverse-engineering-runtime|REA 源码审计：它不是“AI 自动克隆 App”，而是给逆向工程加上证据账本的 Agent 运行时]]
 - [[2026-10-09/2026-10-09-rea-evidence-ledger-agentic-reverse-engineering-runtime-en|REA Source Audit: Not an AI App Cloner, but an Agent Runtime with an Evidence Ledger for Reverse Engineering]]
