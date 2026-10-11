@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-10-11
+
+| 文章 | 主题 |
+|------|------|
+| [Vibe Shot Club 产品拆解：它不是 Prompt 仓库，而是把审美资产、创作者身份与交易连成闭环的 AIGC 社区](2026-10-11/2026-10-11-vibeshot-club-aesthetic-infrastructure-creator-economy.md) | Vibe Shot Club / AIGC Community / Style Atlas / Prompt Library / Motion Reference / Creator Economy / Membership / Visual Workflows |
+| [Inside Vibe Shot Club: Not a Prompt Vault, but an AIGC Community Connecting Aesthetic Assets, Creator Identity, and Commerce](2026-10-11/2026-10-11-vibeshot-club-aesthetic-infrastructure-creator-economy-en.md) | Vibe Shot Club / AIGC community / Style Atlas / prompt library / motion reference / creator economy / membership / visual workflows |
+
+---
+
 ## 📅 2026-10-09
 
 | 文章 | 主题 |
