@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## ARTEX 源码审计：它不是“自动黑客”，而是用双图、流量证据与审批门组织多 Agent 安全研究
+- [[2026-10-08/2026-10-08-artex-dual-graph-autonomous-pentest-agent-audit|ARTEX 源码审计：它不是“自动黑客”，而是用双图、流量证据与审批门组织多 Agent 安全研究]]
+- [[2026-10-08/2026-10-08-artex-dual-graph-autonomous-pentest-agent-audit-en|ARTEX Source Audit: Not an “Autonomous Hacker,” but a Multi-Agent Security Workbench Built on Dual Graphs, Traffic Evidence, and Approval Gates]]
+
 ## 📱 iphone-use 源码审计：它不是 iPhone 镜像脚本，而是一套懂得“不要重试”的真机 Agent 控制栈
 - [[2026-10-09/2026-10-09-iphone-use-xctest-real-device-agent-stack-audit|iphone-use 源码审计：它不是 iPhone 镜像脚本，而是一套懂得“不要重试”的真机 Agent 控制栈]]
 - [[2026-10-09/2026-10-09-iphone-use-xctest-real-device-agent-stack-audit-en|iphone-use Source Audit: Not an iPhone Mirroring Script, but a Real-Device Agent Stack That Knows When Not to Retry]]

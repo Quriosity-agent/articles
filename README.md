@@ -25,6 +25,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [ARTEX 源码审计：它不是“自动黑客”，而是用双图、流量证据与审批门组织多 Agent 安全研究](2026-10-08/2026-10-08-artex-dual-graph-autonomous-pentest-agent-audit.md) | ARTEX / Multi-Agent Systems / Cybersecurity / Asset Graph / Exploration Graph / Evidence Ledger / Human-in-the-loop / Source Audit |
+| [ARTEX Source Audit: Not an “Autonomous Hacker,” but a Multi-Agent Security Workbench Built on Dual Graphs, Traffic Evidence, and Approval Gates](2026-10-08/2026-10-08-artex-dual-graph-autonomous-pentest-agent-audit-en.md) | ARTEX / multi-agent systems / cybersecurity / Asset Graph / Exploration Graph / evidence ledger / human-in-the-loop / source audit |
 | [Mr. Mak Workspace 源码审计：它不是新的 Agent，而是把 CLI、项目证据与手机入口连成一间本地工作室](2026-10-08/2026-10-08-mr-mak-workspace-local-agent-control-room-audit.md) | Mr. Mak Workspace / Codex CLI / Claude Code / OpenCode / Tauri / Local Agent Control Plane / Mobile Access / Tailscale / Source Audit |
 | [Mr. Mak Workspace Source Audit: Not a New Agent, but a Local Studio Joining CLIs, Project Evidence, and Mobile Access](2026-10-08/2026-10-08-mr-mak-workspace-local-agent-control-room-audit-en.md) | Mr. Mak Workspace / Codex CLI / Claude Code / OpenCode / Tauri / local Agent control plane / mobile access / Tailscale / source audit |
 | [huashu-art-motion 源码拆解：它不是文生视频模型，而是给 Coding Agent 的 Canvas 动画制作系统](2026-10-08/2026-10-08-huashu-art-motion-coding-agent-canvas-animation-system.md) | huashu-art-motion / Agent Skill / Canvas 2D / Playwright / FFmpeg / Motion Graphics / Programmatic Video / Video QA |
