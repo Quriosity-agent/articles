@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 影策 open-ai-canvas 源码审计：它不是 AI 生图白板，而是把影视资产、生成任务与 Agent 接成生产图
+- [[2026-10-13/2026-10-13-open-ai-canvas-ai-film-production-graph|影策 open-ai-canvas 源码审计：它不是 AI 生图白板，而是把影视资产、生成任务与 Agent 接成生产图]]
+- [[2026-10-13/2026-10-13-open-ai-canvas-ai-film-production-graph-en|Yingce open-ai-canvas Source Audit: Not an AI Image Whiteboard, but a Production Graph for Film Assets, Generation Jobs, and Agents]]
+
 ## 🎬 Lemo-Opuscar 源码拆解：它不是 43 个提示词，而是把 Claude Code 组织成逐帧电影工作室
 - [[2026-10-12/2026-10-12-lemo-opuscar-claude-code-frame-by-frame-film-studio|Lemo-Opuscar 源码拆解：它不是 43 个提示词，而是把 Claude Code 组织成逐帧电影工作室]]
 - [[2026-10-12/2026-10-12-lemo-opuscar-claude-code-frame-by-frame-film-studio-en|Inside Lemo-Opuscar: Not 43 Prompts, but a Frame-by-Frame Film Studio for Claude Code]]

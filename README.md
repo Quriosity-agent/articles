@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-10-13
+
+| 文章 | 主题 |
+|------|------|
+| [影策 open-ai-canvas 源码审计：它不是 AI 生图白板，而是把影视资产、生成任务与 Agent 接成生产图](2026-10-13/2026-10-13-open-ai-canvas-ai-film-production-graph.md) | open-ai-canvas / Yingce / AI Film Production / Infinite Canvas / Multimodal Generation / Agent Approvals / 3D Previs / Timeline Editing / Self-hosting / Source Audit |
+| [Yingce open-ai-canvas Source Audit: Not an AI Image Whiteboard, but a Production Graph for Film Assets, Generation Jobs, and Agents](2026-10-13/2026-10-13-open-ai-canvas-ai-film-production-graph-en.md) | open-ai-canvas / Yingce / AI film production / infinite canvas / multimodal generation / Agent approvals / 3D previs / timeline editing / self-hosting / source audit |
+
+---
+
 ## 📅 2026-10-12
 
 | 文章 | 主题 |
