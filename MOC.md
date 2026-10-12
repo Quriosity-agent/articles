@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎮 D2R Mobile 源码审计：它不是模拟器，而是把 Switch ARM64 程序接进 iOS 与 Metal
+- [[2026-10-12/2026-10-12-d2r-mobile-switch-arm64-ios-compatibility-layer|D2R Mobile 源码审计：它不是模拟器，而是把 Switch ARM64 程序接进 iOS 与 Metal]]
+- [[2026-10-12/2026-10-12-d2r-mobile-switch-arm64-ios-compatibility-layer-en|D2R Mobile Source Audit: Not an Emulator, but a Switch ARM64 Compatibility Layer for iOS and Metal]]
+
 ## Vibe Shot Club 产品拆解：它不是 Prompt 仓库，而是把审美资产、创作者身份与交易连成闭环的 AIGC 社区
 - [[2026-10-11/2026-10-11-vibeshot-club-aesthetic-infrastructure-creator-economy|Vibe Shot Club 产品拆解：它不是 Prompt 仓库，而是把审美资产、创作者身份与交易连成闭环的 AIGC 社区]]
 - [[2026-10-11/2026-10-11-vibeshot-club-aesthetic-infrastructure-creator-economy-en|Inside Vibe Shot Club: Not a Prompt Vault, but an AIGC Community Connecting Aesthetic Assets, Creator Identity, and Commerce]]

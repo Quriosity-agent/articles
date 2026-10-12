@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-10-12
+
+| 文章 | 主题 |
+|------|------|
+| [D2R Mobile 源码审计：它不是模拟器，而是把 Switch ARM64 程序接进 iOS 与 Metal](2026-10-12/2026-10-12-d2r-mobile-switch-arm64-ios-compatibility-layer.md) | D2R Mobile / iOS Compatibility Layer / Nintendo Switch / ARM64 / NVN / Metal / Binary Translation / Touch Controls / Source Audit |
+| [D2R Mobile Source Audit: Not an Emulator, but a Switch ARM64 Compatibility Layer for iOS and Metal](2026-10-12/2026-10-12-d2r-mobile-switch-arm64-ios-compatibility-layer-en.md) | D2R Mobile / iOS compatibility layer / Nintendo Switch / ARM64 / NVN / Metal / binary translation / touch controls / source audit |
+
+---
+
 ## 📅 2026-10-11
 
 | 文章 | 主题 |
