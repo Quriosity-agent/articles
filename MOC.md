@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 Lemo-Opuscar 源码拆解：它不是 43 个提示词，而是把 Claude Code 组织成逐帧电影工作室
+- [[2026-10-12/2026-10-12-lemo-opuscar-claude-code-frame-by-frame-film-studio|Lemo-Opuscar 源码拆解：它不是 43 个提示词，而是把 Claude Code 组织成逐帧电影工作室]]
+- [[2026-10-12/2026-10-12-lemo-opuscar-claude-code-frame-by-frame-film-studio-en|Inside Lemo-Opuscar: Not 43 Prompts, but a Frame-by-Frame Film Studio for Claude Code]]
+
 ## 🎮 D2R Mobile 源码审计：它不是模拟器，而是把 Switch ARM64 程序接进 iOS 与 Metal
 - [[2026-10-12/2026-10-12-d2r-mobile-switch-arm64-ios-compatibility-layer|D2R Mobile 源码审计：它不是模拟器，而是把 Switch ARM64 程序接进 iOS 与 Metal]]
 - [[2026-10-12/2026-10-12-d2r-mobile-switch-arm64-ios-compatibility-layer-en|D2R Mobile Source Audit: Not an Emulator, but a Switch ARM64 Compatibility Layer for iOS and Metal]]

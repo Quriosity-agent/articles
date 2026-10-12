@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Lemo-Opuscar 源码拆解：它不是 43 个提示词，而是把 Claude Code 组织成逐帧电影工作室](2026-10-12/2026-10-12-lemo-opuscar-claude-code-frame-by-frame-film-studio.md) | Lemo-Opuscar / Claude Code / Agent Skills / Creative Coding / Frame-by-frame Rendering / Canvas / Three.js / WebGL / FFmpeg / Film Production |
+| [Inside Lemo-Opuscar: Not 43 Prompts, but a Frame-by-Frame Film Studio for Claude Code](2026-10-12/2026-10-12-lemo-opuscar-claude-code-frame-by-frame-film-studio-en.md) | Lemo-Opuscar / Claude Code / Agent Skills / creative coding / frame-by-frame rendering / Canvas / Three.js / WebGL / FFmpeg / film production |
 | [D2R Mobile 源码审计：它不是模拟器，而是把 Switch ARM64 程序接进 iOS 与 Metal](2026-10-12/2026-10-12-d2r-mobile-switch-arm64-ios-compatibility-layer.md) | D2R Mobile / iOS Compatibility Layer / Nintendo Switch / ARM64 / NVN / Metal / Binary Translation / Touch Controls / Source Audit |
 | [D2R Mobile Source Audit: Not an Emulator, but a Switch ARM64 Compatibility Layer for iOS and Metal](2026-10-12/2026-10-12-d2r-mobile-switch-arm64-ios-compatibility-layer-en.md) | D2R Mobile / iOS compatibility layer / Nintendo Switch / ARM64 / NVN / Metal / binary translation / touch controls / source audit |
 
