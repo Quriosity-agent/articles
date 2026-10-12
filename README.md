@@ -53,6 +53,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Utopai Studios 商业模式拆解：1.1 亿美元不是收入，2027 年才是 AI 原生制片厂的交付考](2026-10-07/2026-10-07-utopai-studios-2027-delivery-test.md) | Utopai Studios / Utopai X / PAI / AI-native Studio / Film Production / Presales / ARR / Artificial Analysis / Long-form Video |
+| [Utopai Studios Business Model: $110M Is Not Revenue, and 2027 Is the Delivery Test for an AI-Native Studio](2026-10-07/2026-10-07-utopai-studios-2027-delivery-test-en.md) | Utopai Studios / Utopai X / PAI / AI-native studio / film production / presales / ARR / Artificial Analysis / long-form video |
 | [x64DbgMCPServer 源码审计：AI 真能直接操控 x64dbg，但默认安全边界还没跟上工具权限](2026-10-07/2026-10-07-x64dbg-mcpserver-ai-debugger-source-audit.md) | x64DbgMCPServer / x64dbg / MCP / AI Debugger / Reverse Engineering / Source Audit / Agent Security / Windows |
 | [x64DbgMCPServer Source Audit: AI Can Really Drive x64dbg, but the Default Security Boundary Lags Behind Its Power](2026-10-07/2026-10-07-x64dbg-mcpserver-ai-debugger-source-audit-en.md) | x64DbgMCPServer / x64dbg / MCP / AI debugger / reverse engineering / source audit / Agent security / Windows |
 | [PhotoCraft 源码审计：24 万行 Rust 编辑器是真的，“反编译 Photoshop”与“Adobe 被核爆”没有证据](2026-10-07/2026-10-07-photocraft-ai-clean-room-photoshop-reimplementation.md) | PhotoCraft / Photoshop / Rust / Claude Opus 5.5 / Clean-room / PSD / MCP / AI Coding / Creative Tools |

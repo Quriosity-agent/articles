@@ -4,6 +4,10 @@
 - [[2026-10-11/2026-10-11-vibeshot-club-aesthetic-infrastructure-creator-economy|Vibe Shot Club 产品拆解：它不是 Prompt 仓库，而是把审美资产、创作者身份与交易连成闭环的 AIGC 社区]]
 - [[2026-10-11/2026-10-11-vibeshot-club-aesthetic-infrastructure-creator-economy-en|Inside Vibe Shot Club: Not a Prompt Vault, but an AIGC Community Connecting Aesthetic Assets, Creator Identity, and Commerce]]
 
+## 🎬 Utopai Studios 商业模式拆解：1.1 亿美元不是收入，2027 年才是 AI 原生制片厂的交付考
+- [[2026-10-07/2026-10-07-utopai-studios-2027-delivery-test|Utopai Studios 商业模式拆解：1.1 亿美元不是收入，2027 年才是 AI 原生制片厂的交付考]]
+- [[2026-10-07/2026-10-07-utopai-studios-2027-delivery-test-en|Utopai Studios Business Model: $110M Is Not Revenue, and 2027 Is the Delivery Test for an AI-Native Studio]]
+
 ## ARTEX 源码审计：它不是“自动黑客”，而是用双图、流量证据与审批门组织多 Agent 安全研究
 - [[2026-10-08/2026-10-08-artex-dual-graph-autonomous-pentest-agent-audit|ARTEX 源码审计：它不是“自动黑客”，而是用双图、流量证据与审批门组织多 Agent 安全研究]]
 - [[2026-10-08/2026-10-08-artex-dual-graph-autonomous-pentest-agent-audit-en|ARTEX Source Audit: Not an “Autonomous Hacker,” but a Multi-Agent Security Workbench Built on Dual Graphs, Traffic Evidence, and Approval Gates]]
