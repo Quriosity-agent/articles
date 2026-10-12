@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🖼️ Compositor 源码审计：它不是“AI Photoshop”，而是把图层工程开放成文件系统协议的原生 Mac 编辑器
+- [[2026-10-13/2026-10-13-compositor-agent-native-image-editor|Compositor 源码审计：它不是“AI Photoshop”，而是把图层工程开放成文件系统协议的原生 Mac 编辑器]]
+- [[2026-10-13/2026-10-13-compositor-agent-native-image-editor-en|Compositor Source Audit: Not “AI Photoshop,” but a Native Mac Editor That Opens Layered Projects as a Filesystem Protocol]]
+
 ## 🎬 影策 open-ai-canvas 源码审计：它不是 AI 生图白板，而是把影视资产、生成任务与 Agent 接成生产图
 - [[2026-10-13/2026-10-13-open-ai-canvas-ai-film-production-graph|影策 open-ai-canvas 源码审计：它不是 AI 生图白板，而是把影视资产、生成任务与 Agent 接成生产图]]
 - [[2026-10-13/2026-10-13-open-ai-canvas-ai-film-production-graph-en|Yingce open-ai-canvas Source Audit: Not an AI Image Whiteboard, but a Production Graph for Film Assets, Generation Jobs, and Agents]]
