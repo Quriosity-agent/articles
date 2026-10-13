@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧭 Anatomy 源码拆解：它不是插画 Prompt，而是给 Agent 配了一套可验收的等距机器制图系统
+- [[2026-10-13/2026-10-13-anatomy-agent-isometric-machine-system|Anatomy 源码拆解：它不是插画 Prompt，而是给 Agent 配了一套可验收的等距机器制图系统]]
+- [[2026-10-13/2026-10-13-anatomy-agent-isometric-machine-system-en|Inside Anatomy: Not an Illustration Prompt, but a Verifiable Isometric Machine-Drawing System for Agents]]
+
 ## 🖼️ Compositor 源码审计：它不是“AI Photoshop”，而是把图层工程开放成文件系统协议的原生 Mac 编辑器
 - [[2026-10-13/2026-10-13-compositor-agent-native-image-editor|Compositor 源码审计：它不是“AI Photoshop”，而是把图层工程开放成文件系统协议的原生 Mac 编辑器]]
 - [[2026-10-13/2026-10-13-compositor-agent-native-image-editor-en|Compositor Source Audit: Not “AI Photoshop,” but a Native Mac Editor That Opens Layered Projects as a Filesystem Protocol]]

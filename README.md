@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Anatomy 源码拆解：它不是插画 Prompt，而是给 Agent 配了一套可验收的等距机器制图系统](2026-10-13/2026-10-13-anatomy-agent-isometric-machine-system.md) | Anatomy / Agent Skill / Isometric Illustration / SVG / WebGL / 3D / Geometry Audit / Browser Verification / Codex / Source Audit |
+| [Inside Anatomy: Not an Illustration Prompt, but a Verifiable Isometric Machine-Drawing System for Agents](2026-10-13/2026-10-13-anatomy-agent-isometric-machine-system-en.md) | Anatomy / Agent Skill / isometric illustration / SVG / WebGL / 3D / geometry audit / browser verification / Codex / source audit |
 | [Compositor 源码审计：它不是“AI Photoshop”，而是把图层工程开放成文件系统协议的原生 Mac 编辑器](2026-10-13/2026-10-13-compositor-agent-native-image-editor.md) | Compositor / Native Mac Image Editor / Layered Project Format / Coding Agents / Filesystem Protocol / PSD / RAW / HDR / Metal / Source Audit |
 | [Compositor Source Audit: Not “AI Photoshop,” but a Native Mac Editor That Opens Layered Projects as a Filesystem Protocol](2026-10-13/2026-10-13-compositor-agent-native-image-editor-en.md) | Compositor / native Mac image editor / layered project format / coding agents / filesystem protocol / PSD / RAW / HDR / Metal / source audit |
 | [影策 open-ai-canvas 源码审计：它不是 AI 生图白板，而是把影视资产、生成任务与 Agent 接成生产图](2026-10-13/2026-10-13-open-ai-canvas-ai-film-production-graph.md) | open-ai-canvas / Yingce / AI Film Production / Infinite Canvas / Multimodal Generation / Agent Approvals / 3D Previs / Timeline Editing / Self-hosting / Source Audit |
