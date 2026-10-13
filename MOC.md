@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 影策 UI 深度拆解：AI 影视工具需要的不是更多按钮，而是一张可推进的生产地图
+- [[2026-10-13/2026-10-13-yingce-ui-ai-film-production-workbench|影策 UI 深度拆解：AI 影视工具需要的不是更多按钮，而是一张可推进的生产地图]]
+- [[2026-10-13/2026-10-13-yingce-ui-ai-film-production-workbench-en|Inside Yingce's UI: AI Filmmaking Needs an Advancing Production Map, Not More Buttons]]
+
 ## 🎬 Stickman Video Director 源码拆解：它不是火柴人视频生成器，而是把 Codex 变成 Gemini 分镜导演的提示词生产线
 - [[2026-10-13/2026-10-13-stickman-video-director-codex-gemini-prompt-pipeline|Stickman Video Director 源码拆解：它不是火柴人视频生成器，而是把 Codex 变成 Gemini 分镜导演的提示词生产线]]
 - [[2026-10-13/2026-10-13-stickman-video-director-codex-gemini-prompt-pipeline-en|Inside Stickman Video Director: Not a Video Generator, but a Codex-to-Gemini Prompt Production Line]]

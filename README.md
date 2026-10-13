@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [影策 UI 深度拆解：AI 影视工具需要的不是更多按钮，而是一张可推进的生产地图](2026-10-13/2026-10-13-yingce-ui-ai-film-production-workbench.md) | Yingce / open-ai-canvas / UI Design / AI Film Production / Production Workbench / Storyboard / Agent Approval / 3D Previs / Timeline / Product Analysis |
+| [Inside Yingce's UI: AI Filmmaking Needs an Advancing Production Map, Not More Buttons](2026-10-13/2026-10-13-yingce-ui-ai-film-production-workbench-en.md) | Yingce / open-ai-canvas / UI design / AI film production / production workbench / storyboard / Agent approval / 3D previs / timeline / product analysis |
 | [Stickman Video Director 源码拆解：它不是火柴人视频生成器，而是把 Codex 变成 Gemini 分镜导演的提示词生产线](2026-10-13/2026-10-13-stickman-video-director-codex-gemini-prompt-pipeline.md) | Stickman Video Director / Codex Skill / Gemini Omni Flash / Google Flow / Storyboarding / Prompt Pipeline / Character Continuity / Voice Continuity / Human Approval / Source Audit |
 | [Inside Stickman Video Director: Not a Video Generator, but a Codex-to-Gemini Prompt Production Line](2026-10-13/2026-10-13-stickman-video-director-codex-gemini-prompt-pipeline-en.md) | Stickman Video Director / Codex Skill / Gemini Omni Flash / Google Flow / storyboarding / prompt pipeline / character continuity / voice continuity / human approval / source audit |
 | [Anatomy 源码拆解：它不是插画 Prompt，而是给 Agent 配了一套可验收的等距机器制图系统](2026-10-13/2026-10-13-anatomy-agent-isometric-machine-system.md) | Anatomy / Agent Skill / Isometric Illustration / SVG / WebGL / 3D / Geometry Audit / Browser Verification / Codex / Source Audit |
