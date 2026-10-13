@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Stickman Video Director 源码拆解：它不是火柴人视频生成器，而是把 Codex 变成 Gemini 分镜导演的提示词生产线](2026-10-13/2026-10-13-stickman-video-director-codex-gemini-prompt-pipeline.md) | Stickman Video Director / Codex Skill / Gemini Omni Flash / Google Flow / Storyboarding / Prompt Pipeline / Character Continuity / Voice Continuity / Human Approval / Source Audit |
+| [Inside Stickman Video Director: Not a Video Generator, but a Codex-to-Gemini Prompt Production Line](2026-10-13/2026-10-13-stickman-video-director-codex-gemini-prompt-pipeline-en.md) | Stickman Video Director / Codex Skill / Gemini Omni Flash / Google Flow / storyboarding / prompt pipeline / character continuity / voice continuity / human approval / source audit |
 | [Anatomy 源码拆解：它不是插画 Prompt，而是给 Agent 配了一套可验收的等距机器制图系统](2026-10-13/2026-10-13-anatomy-agent-isometric-machine-system.md) | Anatomy / Agent Skill / Isometric Illustration / SVG / WebGL / 3D / Geometry Audit / Browser Verification / Codex / Source Audit |
 | [Inside Anatomy: Not an Illustration Prompt, but a Verifiable Isometric Machine-Drawing System for Agents](2026-10-13/2026-10-13-anatomy-agent-isometric-machine-system-en.md) | Anatomy / Agent Skill / isometric illustration / SVG / WebGL / 3D / geometry audit / browser verification / Codex / source audit |
 | [Compositor 源码审计：它不是“AI Photoshop”，而是把图层工程开放成文件系统协议的原生 Mac 编辑器](2026-10-13/2026-10-13-compositor-agent-native-image-editor.md) | Compositor / Native Mac Image Editor / Layered Project Format / Coding Agents / Filesystem Protocol / PSD / RAW / HDR / Metal / Source Audit |

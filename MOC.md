@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 Stickman Video Director 源码拆解：它不是火柴人视频生成器，而是把 Codex 变成 Gemini 分镜导演的提示词生产线
+- [[2026-10-13/2026-10-13-stickman-video-director-codex-gemini-prompt-pipeline|Stickman Video Director 源码拆解：它不是火柴人视频生成器，而是把 Codex 变成 Gemini 分镜导演的提示词生产线]]
+- [[2026-10-13/2026-10-13-stickman-video-director-codex-gemini-prompt-pipeline-en|Inside Stickman Video Director: Not a Video Generator, but a Codex-to-Gemini Prompt Production Line]]
+
 ## 🧭 Anatomy 源码拆解：它不是插画 Prompt，而是给 Agent 配了一套可验收的等距机器制图系统
 - [[2026-10-13/2026-10-13-anatomy-agent-isometric-machine-system|Anatomy 源码拆解：它不是插画 Prompt，而是给 Agent 配了一套可验收的等距机器制图系统]]
 - [[2026-10-13/2026-10-13-anatomy-agent-isometric-machine-system-en|Inside Anatomy: Not an Illustration Prompt, but a Verifiable Isometric Machine-Drawing System for Agents]]
