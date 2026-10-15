@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#f7f8fa"/>
+  <text x="72" y="72" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#111827">Relapse is an entry layer, not the whole ecosystem</text>
+  <text x="72" y="108" font-family="Arial, sans-serif" font-size="18" fill="#586174">One exploit chain can unlock many independent projects without creating them.</text>
+
+  <rect x="72" y="158" width="280" height="110" rx="8" fill="#101828"/>
+  <text x="96" y="198" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff">Relapse</text>
+  <text x="96" y="229" font-family="Arial, sans-serif" font-size="17" fill="#cbd5e1">Browser + kernel exploit chain</text>
+  <text x="96" y="252" font-family="Arial, sans-serif" font-size="17" fill="#cbd5e1">Firmware 7.00-13.60</text>
+
+  <path d="M352 213 H430" stroke="#697386" stroke-width="4"/>
+  <path d="M418 203 L432 213 L418 223" fill="none" stroke="#697386" stroke-width="4"/>
+
+  <rect x="432" y="158" width="290" height="110" rx="8" fill="#0f766e"/>
+  <text x="456" y="198" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff">Kernel read/write</text>
+  <text x="456" y="229" font-family="Arial, sans-serif" font-size="17" fill="#ccfbf1">ELF loading capability</text>
+  <text x="456" y="252" font-family="Arial, sans-serif" font-size="17" fill="#ccfbf1">Unstable; retries or panic possible</text>
+
+  <path d="M722 213 H800" stroke="#697386" stroke-width="4"/>
+  <path d="M788 203 L802 213 L788 223" fill="none" stroke="#697386" stroke-width="4"/>
+
+  <rect x="802" y="158" width="326" height="110" rx="8" fill="#2563eb"/>
+  <text x="826" y="198" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff">Homebrew runtime</text>
+  <text x="826" y="229" font-family="Arial, sans-serif" font-size="17" fill="#dbeafe">etaHEN, kstuff, packaging</text>
+  <text x="826" y="252" font-family="Arial, sans-serif" font-size="17" fill="#dbeafe">Separate projects and maintenance</text>
+
+  <path d="M965 268 V324" stroke="#697386" stroke-width="4"/>
+  <path d="M955 312 L965 326 L975 312" fill="none" stroke="#697386" stroke-width="4"/>
+
+  <rect x="72" y="348" width="242" height="128" rx="8" fill="#ffffff" stroke="#b7c0cf" stroke-width="2"/>
+  <text x="96" y="387" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#111827">ProsperoEden</text>
+  <text x="96" y="418" font-family="Arial, sans-serif" font-size="17" fill="#586174">Switch emulator port</text>
+  <text x="96" y="447" font-family="Arial, sans-serif" font-size="16" fill="#b45309">Early alpha</text>
+
+  <rect x="336" y="348" width="242" height="128" rx="8" fill="#ffffff" stroke="#b7c0cf" stroke-width="2"/>
+  <text x="360" y="387" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#111827">XPSemu</text>
+  <text x="360" y="418" font-family="Arial, sans-serif" font-size="17" fill="#586174">Original Xbox port</text>
+  <text x="360" y="447" font-family="Arial, sans-serif" font-size="16" fill="#b45309">Alpha; game-dependent</text>
+
+  <rect x="600" y="348" width="242" height="128" rx="8" fill="#ffffff" stroke="#b7c0cf" stroke-width="2"/>
+  <text x="624" y="387" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#111827">PS5SX2</text>
+  <text x="624" y="418" font-family="Arial, sans-serif" font-size="17" fill="#586174">PCSX2 port for PS5</text>
+  <text x="624" y="447" font-family="Arial, sans-serif" font-size="16" fill="#166534">4K output is documented</text>
+
+  <rect x="864" y="348" width="264" height="128" rx="8" fill="#ffffff" stroke="#b7c0cf" stroke-width="2"/>
+  <text x="888" y="387" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#111827">PS3 experiments</text>
+  <text x="888" y="418" font-family="Arial, sans-serif" font-size="17" fill="#586174">Multiple independent efforts</text>
+  <text x="888" y="447" font-family="Arial, sans-serif" font-size="16" fill="#b91c1c">Demo or source-only evidence</text>
+
+  <rect x="72" y="530" width="1056" height="88" rx="8" fill="#fff7ed" stroke="#fdba74" stroke-width="2"/>
+  <text x="96" y="568" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#9a3412">Separate axis: AnyPS5 runs PS5 software on PCs</text>
+  <text x="96" y="596" font-family="Arial, sans-serif" font-size="17" fill="#7c2d12">Ahead-of-time relinking + replacement system libraries + GPU translation. It does not depend on Relapse.</text>
+</svg>

@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎮 Relapse PS5 越狱浪潮审计：7.00–13.60 的内核入口是真的，但“全面失守”和 AI 加速还没有证据
+- [[2026-10-13/2026-10-13-ps5-relapse-jailbreak-homebrew-claim-audit|Relapse PS5 越狱浪潮审计：7.00–13.60 的内核入口是真的，但“全面失守”和 AI 加速还没有证据]]
+- [[2026-10-13/2026-10-13-ps5-relapse-jailbreak-homebrew-claim-audit-en|Auditing the PS5 Relapse Wave: The 7.00-13.60 Kernel Entry Is Real, but “Total Collapse” and AI Acceleration Are Not Established]]
+
 ## ⚙️ Machine Skill 源码审计：它不是 3D 生图，而是把机械仿真、剖切讲解与成片合成一个 HTML
 - [[2026-10-12/2026-10-12-machine-skill-physics-simulation-film-studio|Machine Skill 源码审计：它不是 3D 生图，而是把机械仿真、剖切讲解与成片合成一个 HTML]]
 - [[2026-10-12/2026-10-12-machine-skill-physics-simulation-film-studio-en|Machine Skill Source Audit: Not 3D Image Generation, but a Browser Studio for Simulation, Cutaways, and Film]]

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#f8fafc"/>
+  <text x="72" y="70" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#111827">What the viral post establishes, and what it does not</text>
+  <text x="72" y="105" font-family="Arial, sans-serif" font-size="18" fill="#586174">Audit snapshot: 15 October 2026</text>
+
+  <rect x="72" y="145" width="1056" height="62" fill="#111827"/>
+  <text x="94" y="184" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#ffffff">Claim</text>
+  <text x="595" y="184" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#ffffff">Evidence</text>
+  <text x="944" y="184" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#ffffff">Verdict</text>
+
+  <rect x="72" y="207" width="1056" height="70" fill="#ffffff" stroke="#d6dbe3"/>
+  <text x="94" y="249" font-family="Arial, sans-serif" font-size="18" fill="#111827">Relapse supports firmware 7.00-13.60</text>
+  <text x="595" y="249" font-family="Arial, sans-serif" font-size="17" fill="#586174">README + 33 firmware offset tables</text>
+  <rect x="944" y="226" width="150" height="32" rx="6" fill="#dcfce7"/>
+  <text x="977" y="248" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#166534">CONFIRMED</text>
+
+  <rect x="72" y="277" width="1056" height="70" fill="#f8fafc" stroke="#d6dbe3"/>
+  <text x="94" y="319" font-family="Arial, sans-serif" font-size="18" fill="#111827">Relapse itself installs FPKG and emulators</text>
+  <text x="595" y="319" font-family="Arial, sans-serif" font-size="17" fill="#586174">Those capabilities live in downstream projects</text>
+  <rect x="944" y="296" width="150" height="32" rx="6" fill="#fee2e2"/>
+  <text x="975" y="318" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#991b1b">MISLEADING</text>
+
+  <rect x="72" y="347" width="1056" height="70" fill="#ffffff" stroke="#d6dbe3"/>
+  <text x="94" y="389" font-family="Arial, sans-serif" font-size="18" fill="#111827">Switch, Xbox and PS2 ports are running on PS5</text>
+  <text x="595" y="389" font-family="Arial, sans-serif" font-size="17" fill="#586174">Public repos; alpha and per-game limitations</text>
+  <rect x="944" y="366" width="150" height="32" rx="6" fill="#fef3c7"/>
+  <text x="960" y="388" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#92400e">TRUE, QUALIFIED</text>
+
+  <rect x="72" y="417" width="1056" height="70" fill="#f8fafc" stroke="#d6dbe3"/>
+  <text x="94" y="459" font-family="Arial, sans-serif" font-size="18" fill="#111827">PS3 disc compatibility is broadly available</text>
+  <text x="595" y="459" font-family="Arial, sans-serif" font-size="17" fill="#586174">Demo-level or source-only public evidence</text>
+  <rect x="944" y="436" width="150" height="32" rx="6" fill="#fee2e2"/>
+  <text x="964" y="458" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#991b1b">NOT SHOWN</text>
+
+  <rect x="72" y="487" width="1056" height="70" fill="#ffffff" stroke="#d6dbe3"/>
+  <text x="94" y="529" font-family="Arial, sans-serif" font-size="18" fill="#111827">AnyPS5 is a result of the Relapse jailbreak</text>
+  <text x="595" y="529" font-family="Arial, sans-serif" font-size="17" fill="#586174">Different platform, architecture and dependency chain</text>
+  <rect x="944" y="506" width="150" height="32" rx="6" fill="#fee2e2"/>
+  <text x="964" y="528" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#991b1b">INCORRECT</text>
+
+  <rect x="72" y="557" width="1056" height="70" fill="#f8fafc" stroke="#d6dbe3"/>
+  <text x="94" y="599" font-family="Arial, sans-serif" font-size="18" fill="#111827">AI caused the recent acceleration</text>
+  <text x="595" y="599" font-family="Arial, sans-serif" font-size="17" fill="#586174">No disclosure or causal evidence in Relapse</text>
+  <rect x="944" y="576" width="150" height="32" rx="6" fill="#e0e7ff"/>
+  <text x="961" y="598" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#3730a3">UNPROVEN</text>
+</svg>

@@ -25,6 +25,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Relapse PS5 越狱浪潮审计：7.00–13.60 的内核入口是真的，但“全面失守”和 AI 加速还没有证据](2026-10-13/2026-10-13-ps5-relapse-jailbreak-homebrew-claim-audit.md) | PS5 / Relapse / Jailbreak / Homebrew / ProsperoEden / XPSemu / PS5SX2 / AnyPS5 / Claim Audit / AI Attribution |
+| [Auditing the PS5 Relapse Wave: The 7.00-13.60 Kernel Entry Is Real, but “Total Collapse” and AI Acceleration Are Not Established](2026-10-13/2026-10-13-ps5-relapse-jailbreak-homebrew-claim-audit-en.md) | PS5 / Relapse / jailbreak / homebrew / ProsperoEden / XPSemu / PS5SX2 / AnyPS5 / claim audit / AI attribution |
 | [影策 UI 深度拆解：AI 影视工具需要的不是更多按钮，而是一张可推进的生产地图](2026-10-13/2026-10-13-yingce-ui-ai-film-production-workbench.md) | Yingce / open-ai-canvas / UI Design / AI Film Production / Production Workbench / Storyboard / Agent Approval / 3D Previs / Timeline / Product Analysis |
 | [Inside Yingce's UI: AI Filmmaking Needs an Advancing Production Map, Not More Buttons](2026-10-13/2026-10-13-yingce-ui-ai-film-production-workbench-en.md) | Yingce / open-ai-canvas / UI design / AI film production / production workbench / storyboard / Agent approval / 3D previs / timeline / product analysis |
 | [Stickman Video Director 源码拆解：它不是火柴人视频生成器，而是把 Codex 变成 Gemini 分镜导演的提示词生产线](2026-10-13/2026-10-13-stickman-video-director-codex-gemini-prompt-pipeline.md) | Stickman Video Director / Codex Skill / Gemini Omni Flash / Google Flow / Storyboarding / Prompt Pipeline / Character Continuity / Voice Continuity / Human Approval / Source Audit |
