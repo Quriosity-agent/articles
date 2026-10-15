@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎮 《小王子》AI 3D 游戏拆解：16 天不是一键生成，而是把资产、引擎与验收串成生产线
+- [[2026-10-15/2026-10-15-little-prince-ai-3d-game-production-pipeline|《小王子》AI 3D 游戏拆解：16 天不是一键生成，而是把资产、引擎与验收串成生产线]]
+- [[2026-10-15/2026-10-15-little-prince-ai-3d-game-production-pipeline-en|Inside the AI-Built Little Prince 3D Game: Sixteen Days of Asset Contracts, Engine Control, and Multiview QA]]
+
 ## 🎮 D2R Mobile Build 审计：它把实验性打包变成了可复用交付链，但绿色 Actions 不等于真机可玩
 - [[2026-10-13/2026-10-13-d2r-mobile-build-ipa-delivery-pipeline|D2R Mobile Build 审计：它把实验性打包变成了可复用交付链，但绿色 Actions 不等于真机可玩]]
 - [[2026-10-13/2026-10-13-d2r-mobile-build-ipa-delivery-pipeline-en|D2R Mobile Build Audit: A Reusable Delivery Pipeline, but Green Actions Do Not Prove a Playable Device Build]]

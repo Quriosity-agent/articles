@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-10-15
+
+| 文章 | 主题 |
+|------|------|
+| [《小王子》AI 3D 游戏拆解：16 天不是一键生成，而是把资产、引擎与验收串成生产线](2026-10-15/2026-10-15-little-prince-ai-3d-game-production-pipeline.md) | AI Game Development / The Little Prince / Opus 5.5 / Astra / Tripo / Blender / Unity / MCP / Agent Workflow / 3D Production |
+| [Inside the AI-Built Little Prince 3D Game: Sixteen Days of Asset Contracts, Engine Control, and Multiview QA](2026-10-15/2026-10-15-little-prince-ai-3d-game-production-pipeline-en.md) | AI game development / The Little Prince / Opus 5.5 / Astra / Tripo / Blender / Unity / MCP / Agent workflow / 3D production |
+
+---
+
 ## 📅 2026-10-14
 
 | 文章 | 主题 |
