@@ -44,6 +44,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [MiniMax H3 360° Orbit LoRA 拆解：28 条 3D 轨迹，如何把“环绕运镜”压进 155 MB 权重](2026-10-12/2026-10-12-minimax-h3-360-orbit-lora-camera-control.md) | MiniMax H3 / 360 Orbit LoRA / Camera Control / FL2VA / Gaussian Splatting / Frozen Time / ComfyUI / AI Video / Motion LoRA / Source Audit |
+| [Inside the MiniMax H3 360° Orbit LoRA: Compressing a Camera Move into 155 MB with 28 3D Renders](2026-10-12/2026-10-12-minimax-h3-360-orbit-lora-camera-control-en.md) | MiniMax H3 / 360 Orbit LoRA / camera control / FL2VA / Gaussian splatting / frozen time / ComfyUI / AI video / motion LoRA / source audit |
 | [GLM-Legal 深度拆解：19.2% 全通过率背后，法律 AI 正从“答题”走向可审阅交付物](2026-10-12/2026-10-12-glm-legal-agentic-workflow.md) | Z.ai / GLM-Legal / Legal AI / GLM-5.3-Flash / Agent Harness / Harvey LAB / LegalBench / PLawBench / Contract Review / Evidence Analysis |
 | [Inside GLM-Legal: A 19.2% All-Pass Rate Pushes Legal AI from Answers Toward Reviewable Work Product](2026-10-12/2026-10-12-glm-legal-agentic-workflow-en.md) | Z.ai / GLM-Legal / legal AI / GLM-5.3-Flash / Agent harness / Harvey LAB / LegalBench / PLawBench / contract review / evidence analysis |
 | [Machine Skill 源码审计：它不是 3D 生图，而是把机械仿真、剖切讲解与成片合成一个 HTML](2026-10-12/2026-10-12-machine-skill-physics-simulation-film-studio.md) | Machine Skill / Airsup / Claude Code / Agent Skill / Three.js / Physics Simulation / Mechanical Engineering / WebGL / Deterministic Rendering / Source Audit |

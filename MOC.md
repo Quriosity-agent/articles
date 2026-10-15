@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎥 MiniMax H3 360° Orbit LoRA 拆解：28 条 3D 轨迹，如何把“环绕运镜”压进 155 MB 权重
+- [[2026-10-12/2026-10-12-minimax-h3-360-orbit-lora-camera-control|MiniMax H3 360° Orbit LoRA 拆解：28 条 3D 轨迹，如何把“环绕运镜”压进 155 MB 权重]]
+- [[2026-10-12/2026-10-12-minimax-h3-360-orbit-lora-camera-control-en|Inside the MiniMax H3 360° Orbit LoRA: Compressing a Camera Move into 155 MB with 28 3D Renders]]
+
 ## ⚖️ GLM-Legal 深度拆解：19.2% 全通过率背后，法律 AI 正从“答题”走向可审阅交付物
 - [[2026-10-12/2026-10-12-glm-legal-agentic-workflow|GLM-Legal 深度拆解：19.2% 全通过率背后，法律 AI 正从“答题”走向可审阅交付物]]
 - [[2026-10-12/2026-10-12-glm-legal-agentic-workflow-en|Inside GLM-Legal: A 19.2% All-Pass Rate Pushes Legal AI from Answers Toward Reviewable Work Product]]
