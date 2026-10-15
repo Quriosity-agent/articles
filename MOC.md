@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🔍 REA 三页逆向提示词拆解：复制给 Codex 不是直接会逆向，而是启动一套证据工作流
+- [[2026-10-14/2026-10-14-rea-three-page-prompts-evidence-workflow|REA 三页逆向提示词拆解：复制给 Codex 不是直接会逆向，而是启动一套证据工作流]]
+- [[2026-10-14/2026-10-14-rea-three-page-prompts-evidence-workflow-en|Inside REA's Three-Page Prompt Pack: Copying It into Codex Does Not Make Codex a Decompiler]]
+
 ## 🔊 Mirelo SFX 2.0 深度拆解：AI 视频不必重生成，声音终于可以在成片后单独重做
 - [[2026-10-14/2026-10-14-mirelo-sfx-2-video-sound-repair-layer|Mirelo SFX 2.0 深度拆解：AI 视频不必重生成，声音终于可以在成片后单独重做]]
 - [[2026-10-14/2026-10-14-mirelo-sfx-2-video-sound-repair-layer-en|Mirelo SFX 2.0 Deep Dive: AI Video Sound Can Finally Be Rebuilt After Picture Lock]]

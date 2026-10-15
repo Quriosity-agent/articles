@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [REA 三页逆向提示词拆解：复制给 Codex 不是直接会逆向，而是启动一套证据工作流](2026-10-14/2026-10-14-rea-three-page-prompts-evidence-workflow.md) | REA / Reverse Engineering / Codex / Claude Code / MCP / Agent Skill / Evidence Ledger / Ghidra / Hopper |
+| [Inside REA's Three-Page Prompt Pack: Copying It into Codex Does Not Make Codex a Decompiler](2026-10-14/2026-10-14-rea-three-page-prompts-evidence-workflow-en.md) | REA / reverse engineering / Codex / Claude Code / MCP / Agent Skill / Evidence ledger / Ghidra / Hopper |
 | [Mirelo SFX 2.0 深度拆解：AI 视频不必重生成，声音终于可以在成片后单独重做](2026-10-14/2026-10-14-mirelo-sfx-2-video-sound-repair-layer.md) | Mirelo / SFX 2.0 / Video-to-Audio / AI Foley / Sound Design / AI Video / Dialogue Preservation / Post-production / Video Agent |
 | [Mirelo SFX 2.0 Deep Dive: AI Video Sound Can Finally Be Rebuilt After Picture Lock](2026-10-14/2026-10-14-mirelo-sfx-2-video-sound-repair-layer-en.md) | Mirelo / SFX 2.0 / video-to-audio / AI Foley / sound design / AI video / dialogue preservation / post-production / Video Agent |
 | [Grok Voice 3.0 深度拆解：语音 Agent 的竞争，正在从“更像人”转向“更会完成任务”](2026-10-14/2026-10-14-grok-voice-3-speech-to-speech-runtime.md) | xAI / Grok Voice 3.0 / Voice Agent / Speech-to-Speech / Full Duplex / Artificial Analysis / Enterprise AI / Tool Use |
