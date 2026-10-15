@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [AssetHub V5 拆解：AI 不是替代 Blender，而是把角色生成变成可编辑的部件装配线](2026-10-14/2026-10-14-assethub-v5-modular-character-agent.md) | AssetHub / Part Composer / Modular Character / 3D AI / Blender / Codex / MCP / Game Development / Agent Workflow |
+| [AssetHub V5 Deep Dive: AI Is Not Replacing Blender; It Is Turning Character Generation into an Editable Parts Pipeline](2026-10-14/2026-10-14-assethub-v5-modular-character-agent-en.md) | AssetHub / Part Composer / modular character / 3D AI / Blender / Codex / MCP / game development / Agent workflow |
 | [REA 三页逆向提示词拆解：复制给 Codex 不是直接会逆向，而是启动一套证据工作流](2026-10-14/2026-10-14-rea-three-page-prompts-evidence-workflow.md) | REA / Reverse Engineering / Codex / Claude Code / MCP / Agent Skill / Evidence Ledger / Ghidra / Hopper |
 | [Inside REA's Three-Page Prompt Pack: Copying It into Codex Does Not Make Codex a Decompiler](2026-10-14/2026-10-14-rea-three-page-prompts-evidence-workflow-en.md) | REA / reverse engineering / Codex / Claude Code / MCP / Agent Skill / Evidence ledger / Ghidra / Hopper |
 | [Mirelo SFX 2.0 深度拆解：AI 视频不必重生成，声音终于可以在成片后单独重做](2026-10-14/2026-10-14-mirelo-sfx-2-video-sound-repair-layer.md) | Mirelo / SFX 2.0 / Video-to-Audio / AI Foley / Sound Design / AI Video / Dialogue Preservation / Post-production / Video Agent |

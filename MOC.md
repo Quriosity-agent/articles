@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🧩 AssetHub V5 拆解：AI 不是替代 Blender，而是把角色生成变成可编辑的部件装配线
+- [[2026-10-14/2026-10-14-assethub-v5-modular-character-agent|AssetHub V5 拆解：AI 不是替代 Blender，而是把角色生成变成可编辑的部件装配线]]
+- [[2026-10-14/2026-10-14-assethub-v5-modular-character-agent-en|AssetHub V5 Deep Dive: AI Is Not Replacing Blender; It Is Turning Character Generation into an Editable Parts Pipeline]]
+
 ## 🔍 REA 三页逆向提示词拆解：复制给 Codex 不是直接会逆向，而是启动一套证据工作流
 - [[2026-10-14/2026-10-14-rea-three-page-prompts-evidence-workflow|REA 三页逆向提示词拆解：复制给 Codex 不是直接会逆向，而是启动一套证据工作流]]
 - [[2026-10-14/2026-10-14-rea-three-page-prompts-evidence-workflow-en|Inside REA's Three-Page Prompt Pack: Copying It into Codex Does Not Make Codex a Decompiler]]
