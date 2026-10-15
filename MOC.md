@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## ⚙️ Machine Skill 源码审计：它不是 3D 生图，而是把机械仿真、剖切讲解与成片合成一个 HTML
+- [[2026-10-12/2026-10-12-machine-skill-physics-simulation-film-studio|Machine Skill 源码审计：它不是 3D 生图，而是把机械仿真、剖切讲解与成片合成一个 HTML]]
+- [[2026-10-12/2026-10-12-machine-skill-physics-simulation-film-studio-en|Machine Skill Source Audit: Not 3D Image Generation, but a Browser Studio for Simulation, Cutaways, and Film]]
+
 ## 🔍 “免费重建任何付费功能”是真的吗？审计 0xCodila 的 REA 完整教程
 - [[2026-10-12/2026-10-12-rea-viral-course-paid-feature-claim-audit|“免费重建任何付费功能”是真的吗？审计 0xCodila 的 REA 完整教程]]
 - [[2026-10-12/2026-10-12-rea-viral-course-paid-feature-claim-audit-en|Can REA Really Rebuild Any Paid Feature for Free? Auditing 0xCodila's Viral Course]]
