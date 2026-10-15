@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🔊 Mirelo SFX 2.0 深度拆解：AI 视频不必重生成，声音终于可以在成片后单独重做
+- [[2026-10-14/2026-10-14-mirelo-sfx-2-video-sound-repair-layer|Mirelo SFX 2.0 深度拆解：AI 视频不必重生成，声音终于可以在成片后单独重做]]
+- [[2026-10-14/2026-10-14-mirelo-sfx-2-video-sound-repair-layer-en|Mirelo SFX 2.0 Deep Dive: AI Video Sound Can Finally Be Rebuilt After Picture Lock]]
+
 ## 🎙️ Grok Voice 3.0 深度拆解：语音 Agent 的竞争，正在从“更像人”转向“更会完成任务”
 - [[2026-10-14/2026-10-14-grok-voice-3-speech-to-speech-runtime|Grok Voice 3.0 深度拆解：语音 Agent 的竞争，正在从“更像人”转向“更会完成任务”]]
 - [[2026-10-14/2026-10-14-grok-voice-3-speech-to-speech-runtime-en|Grok Voice 3.0 Deep Dive: Voice Agents Are Moving from Sounding Human to Completing Work]]
