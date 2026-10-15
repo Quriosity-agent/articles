@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🔍 “免费重建任何付费功能”是真的吗？审计 0xCodila 的 REA 完整教程
+- [[2026-10-12/2026-10-12-rea-viral-course-paid-feature-claim-audit|“免费重建任何付费功能”是真的吗？审计 0xCodila 的 REA 完整教程]]
+- [[2026-10-12/2026-10-12-rea-viral-course-paid-feature-claim-audit-en|Can REA Really Rebuild Any Paid Feature for Free? Auditing 0xCodila's Viral Course]]
+
 ## 🧩 AssetHub V5 拆解：AI 不是替代 Blender，而是把角色生成变成可编辑的部件装配线
 - [[2026-10-14/2026-10-14-assethub-v5-modular-character-agent|AssetHub V5 拆解：AI 不是替代 Blender，而是把角色生成变成可编辑的部件装配线]]
 - [[2026-10-14/2026-10-14-assethub-v5-modular-character-agent-en|AssetHub V5 Deep Dive: AI Is Not Replacing Blender; It Is Turning Character Generation into an Editable Parts Pipeline]]
