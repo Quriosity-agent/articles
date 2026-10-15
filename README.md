@@ -44,6 +44,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [GLM-Legal 深度拆解：19.2% 全通过率背后，法律 AI 正从“答题”走向可审阅交付物](2026-10-12/2026-10-12-glm-legal-agentic-workflow.md) | Z.ai / GLM-Legal / Legal AI / GLM-5.3-Flash / Agent Harness / Harvey LAB / LegalBench / PLawBench / Contract Review / Evidence Analysis |
+| [Inside GLM-Legal: A 19.2% All-Pass Rate Pushes Legal AI from Answers Toward Reviewable Work Product](2026-10-12/2026-10-12-glm-legal-agentic-workflow-en.md) | Z.ai / GLM-Legal / legal AI / GLM-5.3-Flash / Agent harness / Harvey LAB / LegalBench / PLawBench / contract review / evidence analysis |
 | [Machine Skill 源码审计：它不是 3D 生图，而是把机械仿真、剖切讲解与成片合成一个 HTML](2026-10-12/2026-10-12-machine-skill-physics-simulation-film-studio.md) | Machine Skill / Airsup / Claude Code / Agent Skill / Three.js / Physics Simulation / Mechanical Engineering / WebGL / Deterministic Rendering / Source Audit |
 | [Machine Skill Source Audit: Not 3D Image Generation, but a Browser Studio for Simulation, Cutaways, and Film](2026-10-12/2026-10-12-machine-skill-physics-simulation-film-studio-en.md) | Machine Skill / Airsup / Claude Code / Agent Skill / Three.js / physics simulation / mechanical engineering / WebGL / deterministic rendering / source audit |
 | [“免费重建任何付费功能”是真的吗？审计 0xCodila 的 REA 完整教程](2026-10-12/2026-10-12-rea-viral-course-paid-feature-claim-audit.md) | REA / Reverse Engineering / AI Agent / Clean Room / Interoperability / Evidence Audit / Ghidra / Codex |

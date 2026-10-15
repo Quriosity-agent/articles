@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## ⚖️ GLM-Legal 深度拆解：19.2% 全通过率背后，法律 AI 正从“答题”走向可审阅交付物
+- [[2026-10-12/2026-10-12-glm-legal-agentic-workflow|GLM-Legal 深度拆解：19.2% 全通过率背后，法律 AI 正从“答题”走向可审阅交付物]]
+- [[2026-10-12/2026-10-12-glm-legal-agentic-workflow-en|Inside GLM-Legal: A 19.2% All-Pass Rate Pushes Legal AI from Answers Toward Reviewable Work Product]]
+
 ## 🎮 Relapse PS5 越狱浪潮审计：7.00–13.60 的内核入口是真的，但“全面失守”和 AI 加速还没有证据
 - [[2026-10-13/2026-10-13-ps5-relapse-jailbreak-homebrew-claim-audit|Relapse PS5 越狱浪潮审计：7.00–13.60 的内核入口是真的，但“全面失守”和 AI 加速还没有证据]]
 - [[2026-10-13/2026-10-13-ps5-relapse-jailbreak-homebrew-claim-audit-en|Auditing the PS5 Relapse Wave: The 7.00-13.60 Kernel Entry Is Real, but “Total Collapse” and AI Acceleration Are Not Established]]
