@@ -25,6 +25,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [D2R Mobile Build 审计：它把实验性打包变成了可复用交付链，但绿色 Actions 不等于真机可玩](2026-10-13/2026-10-13-d2r-mobile-build-ipa-delivery-pipeline.md) | D2R Mobile Build / GitHub Actions / IPA / Prepared Input / iOS / Xcode / Supply Chain / Reproducible Builds / Device Verification |
+| [D2R Mobile Build Audit: A Reusable Delivery Pipeline, but Green Actions Do Not Prove a Playable Device Build](2026-10-13/2026-10-13-d2r-mobile-build-ipa-delivery-pipeline-en.md) | D2R Mobile Build / GitHub Actions / IPA / Prepared Input / iOS / Xcode / supply chain / reproducible builds / device verification |
 | [Relapse PS5 越狱浪潮审计：7.00–13.60 的内核入口是真的，但“全面失守”和 AI 加速还没有证据](2026-10-13/2026-10-13-ps5-relapse-jailbreak-homebrew-claim-audit.md) | PS5 / Relapse / Jailbreak / Homebrew / ProsperoEden / XPSemu / PS5SX2 / AnyPS5 / Claim Audit / AI Attribution |
 | [Auditing the PS5 Relapse Wave: The 7.00-13.60 Kernel Entry Is Real, but “Total Collapse” and AI Acceleration Are Not Established](2026-10-13/2026-10-13-ps5-relapse-jailbreak-homebrew-claim-audit-en.md) | PS5 / Relapse / jailbreak / homebrew / ProsperoEden / XPSemu / PS5SX2 / AnyPS5 / claim audit / AI attribution |
 | [影策 UI 深度拆解：AI 影视工具需要的不是更多按钮，而是一张可推进的生产地图](2026-10-13/2026-10-13-yingce-ui-ai-film-production-workbench.md) | Yingce / open-ai-canvas / UI Design / AI Film Production / Production Workbench / Storyboard / Agent Approval / 3D Previs / Timeline / Product Analysis |

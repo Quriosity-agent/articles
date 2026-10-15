@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎮 D2R Mobile Build 审计：它把实验性打包变成了可复用交付链，但绿色 Actions 不等于真机可玩
+- [[2026-10-13/2026-10-13-d2r-mobile-build-ipa-delivery-pipeline|D2R Mobile Build 审计：它把实验性打包变成了可复用交付链，但绿色 Actions 不等于真机可玩]]
+- [[2026-10-13/2026-10-13-d2r-mobile-build-ipa-delivery-pipeline-en|D2R Mobile Build Audit: A Reusable Delivery Pipeline, but Green Actions Do Not Prove a Playable Device Build]]
+
 ## 🎥 MiniMax H3 360° Orbit LoRA 拆解：28 条 3D 轨迹，如何把“环绕运镜”压进 155 MB 权重
 - [[2026-10-12/2026-10-12-minimax-h3-360-orbit-lora-camera-control|MiniMax H3 360° Orbit LoRA 拆解：28 条 3D 轨迹，如何把“环绕运镜”压进 155 MB 权重]]
 - [[2026-10-12/2026-10-12-minimax-h3-360-orbit-lora-camera-control-en|Inside the MiniMax H3 360° Orbit LoRA: Compressing a Camera Move into 155 MB with 28 3D Renders]]
