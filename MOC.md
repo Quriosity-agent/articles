@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎙️ Grok Voice 3.0 深度拆解：语音 Agent 的竞争，正在从“更像人”转向“更会完成任务”
+- [[2026-10-14/2026-10-14-grok-voice-3-speech-to-speech-runtime|Grok Voice 3.0 深度拆解：语音 Agent 的竞争，正在从“更像人”转向“更会完成任务”]]
+- [[2026-10-14/2026-10-14-grok-voice-3-speech-to-speech-runtime-en|Grok Voice 3.0 Deep Dive: Voice Agents Are Moving from Sounding Human to Completing Work]]
+
 ## 🎬 影策 UI 深度拆解：AI 影视工具需要的不是更多按钮，而是一张可推进的生产地图
 - [[2026-10-13/2026-10-13-yingce-ui-ai-film-production-workbench|影策 UI 深度拆解：AI 影视工具需要的不是更多按钮，而是一张可推进的生产地图]]
 - [[2026-10-13/2026-10-13-yingce-ui-ai-film-production-workbench-en|Inside Yingce's UI: AI Filmmaking Needs an Advancing Production Map, Not More Buttons]]

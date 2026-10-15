@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-10-14
+
+| 文章 | 主题 |
+|------|------|
+| [Grok Voice 3.0 深度拆解：语音 Agent 的竞争，正在从“更像人”转向“更会完成任务”](2026-10-14/2026-10-14-grok-voice-3-speech-to-speech-runtime.md) | xAI / Grok Voice 3.0 / Voice Agent / Speech-to-Speech / Full Duplex / Artificial Analysis / Enterprise AI / Tool Use |
+| [Grok Voice 3.0 Deep Dive: Voice Agents Are Moving from Sounding Human to Completing Work](2026-10-14/2026-10-14-grok-voice-3-speech-to-speech-runtime-en.md) | xAI / Grok Voice 3.0 / voice agent / speech-to-speech / full duplex / Artificial Analysis / enterprise AI / tool use |
+
+---
+
 ## 📅 2026-10-13
 
 | 文章 | 主题 |
