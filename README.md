@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-10-16
+
+| 文章 | 主题 |
+|------|------|
+| [earshot 源码审计：它没有让 Agent 长出耳朵，而是把声音变成可测试的证据](2026-10-16/2026-10-16-earshot-agent-audio-evidence-layer.md) | earshot / Audio QA / Coding Agent / MCP / CLAP / AudioSet / Sound Design / Procedural Audio / FFmpeg / Source Audit |
+| [earshot Source Audit: It Does Not Give Agents Ears; It Turns Sound into Testable Evidence](2026-10-16/2026-10-16-earshot-agent-audio-evidence-layer-en.md) | earshot / audio QA / coding Agent / MCP / CLAP / AudioSet / sound design / procedural audio / FFmpeg / source audit |
+
+---
+
 ## 📅 2026-10-15
 
 | 文章 | 主题 |

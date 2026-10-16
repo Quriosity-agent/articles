@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎧 earshot 源码审计：它没有让 Agent 长出耳朵，而是把声音变成可测试的证据
+- [[2026-10-16/2026-10-16-earshot-agent-audio-evidence-layer|earshot 源码审计：它没有让 Agent 长出耳朵，而是把声音变成可测试的证据]]
+- [[2026-10-16/2026-10-16-earshot-agent-audio-evidence-layer-en|earshot Source Audit: It Does Not Give Agents Ears; It Turns Sound into Testable Evidence]]
+
 ## 🎮 《小王子》AI 3D 游戏拆解：16 天不是一键生成，而是把资产、引擎与验收串成生产线
 - [[2026-10-15/2026-10-15-little-prince-ai-3d-game-production-pipeline|《小王子》AI 3D 游戏拆解：16 天不是一键生成，而是把资产、引擎与验收串成生产线]]
 - [[2026-10-15/2026-10-15-little-prince-ai-3d-game-production-pipeline-en|Inside the AI-Built Little Prince 3D Game: Sixteen Days of Asset Contracts, Engine Control, and Multiview QA]]
