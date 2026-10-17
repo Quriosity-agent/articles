@@ -45,6 +45,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Awesome Opus 5.5 Videos 拆解：703 个爆款提示词不是视频源码，而是一套 Agent 视觉能力样本库](2026-10-13/2026-10-13-awesome-opus55-video-prompt-corpus.md) | Claude Opus 5.5 / AI Video / Code-Generated Video / Prompt Corpus / Skillry / Canvas / SVG / Three.js / GSAP / Agent Workflow / Source Audit |
+| [Inside Awesome Opus 5.5 Videos: 703 Viral Prompts Form an Agent Visual Corpus, Not a Video Source Repository](2026-10-13/2026-10-13-awesome-opus55-video-prompt-corpus-en.md) | Claude Opus 5.5 / AI video / code-generated video / prompt corpus / Skillry / Canvas / SVG / Three.js / GSAP / Agent workflow / source audit |
 | [D2R Mobile Build 审计：它把实验性打包变成了可复用交付链，但绿色 Actions 不等于真机可玩](2026-10-13/2026-10-13-d2r-mobile-build-ipa-delivery-pipeline.md) | D2R Mobile Build / GitHub Actions / IPA / Prepared Input / iOS / Xcode / Supply Chain / Reproducible Builds / Device Verification |
 | [D2R Mobile Build Audit: A Reusable Delivery Pipeline, but Green Actions Do Not Prove a Playable Device Build](2026-10-13/2026-10-13-d2r-mobile-build-ipa-delivery-pipeline-en.md) | D2R Mobile Build / GitHub Actions / IPA / Prepared Input / iOS / Xcode / supply chain / reproducible builds / device verification |
 | [Relapse PS5 越狱浪潮审计：7.00–13.60 的内核入口是真的，但“全面失守”和 AI 加速还没有证据](2026-10-13/2026-10-13-ps5-relapse-jailbreak-homebrew-claim-audit.md) | PS5 / Relapse / Jailbreak / Homebrew / ProsperoEden / XPSemu / PS5SX2 / AnyPS5 / Claim Audit / AI Attribution |

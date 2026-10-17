@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎞️ Awesome Opus 5.5 Videos 拆解：703 个爆款提示词不是视频源码，而是一套 Agent 视觉能力样本库
+- [[2026-10-13/2026-10-13-awesome-opus55-video-prompt-corpus|Awesome Opus 5.5 Videos 拆解：703 个爆款提示词不是视频源码，而是一套 Agent 视觉能力样本库]]
+- [[2026-10-13/2026-10-13-awesome-opus55-video-prompt-corpus-en|Inside Awesome Opus 5.5 Videos: 703 Viral Prompts Form an Agent Visual Corpus, Not a Video Source Repository]]
+
 ## 🎬 字节 AI 短剧生产指南拆解：平台要的不是“AI 感”，而是可追更的情绪工程与连续性 QA
 - [[2026-10-16/2026-10-16-bytedance-ai-short-drama-production-guide|字节 AI 短剧生产指南拆解：平台要的不是“AI 感”，而是可追更的情绪工程与连续性 QA]]
 - [[2026-10-16/2026-10-16-bytedance-ai-short-drama-production-guide-en|Inside ByteDance's AI Short-Drama Production Guide: Retention Engineering and Continuity QA Matter More Than Model Novelty]]
