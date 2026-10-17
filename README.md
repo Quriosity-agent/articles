@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [字节 AI 短剧生产指南拆解：平台要的不是“AI 感”，而是可追更的情绪工程与连续性 QA](2026-10-16/2026-10-16-bytedance-ai-short-drama-production-guide.md) | ByteDance / AI Short Drama / Vertical Drama / Scriptwriting / IP Adaptation / Retention / Visual Continuity / Audio QA / Production Standards / AI Video |
+| [Inside ByteDance's AI Short-Drama Production Guide: Retention Engineering and Continuity QA Matter More Than Model Novelty](2026-10-16/2026-10-16-bytedance-ai-short-drama-production-guide-en.md) | ByteDance / AI short drama / vertical drama / scriptwriting / IP adaptation / retention / visual continuity / audio QA / production standards / AI video |
 | [earshot 源码审计：它没有让 Agent 长出耳朵，而是把声音变成可测试的证据](2026-10-16/2026-10-16-earshot-agent-audio-evidence-layer.md) | earshot / Audio QA / Coding Agent / MCP / CLAP / AudioSet / Sound Design / Procedural Audio / FFmpeg / Source Audit |
 | [earshot Source Audit: It Does Not Give Agents Ears; It Turns Sound into Testable Evidence](2026-10-16/2026-10-16-earshot-agent-audio-evidence-layer-en.md) | earshot / audio QA / coding Agent / MCP / CLAP / AudioSet / sound design / procedural audio / FFmpeg / source audit |
 

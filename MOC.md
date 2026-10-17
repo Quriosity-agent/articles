@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 字节 AI 短剧生产指南拆解：平台要的不是“AI 感”，而是可追更的情绪工程与连续性 QA
+- [[2026-10-16/2026-10-16-bytedance-ai-short-drama-production-guide|字节 AI 短剧生产指南拆解：平台要的不是“AI 感”，而是可追更的情绪工程与连续性 QA]]
+- [[2026-10-16/2026-10-16-bytedance-ai-short-drama-production-guide-en|Inside ByteDance's AI Short-Drama Production Guide: Retention Engineering and Continuity QA Matter More Than Model Novelty]]
+
 ## 🎧 earshot 源码审计：它没有让 Agent 长出耳朵，而是把声音变成可测试的证据
 - [[2026-10-16/2026-10-16-earshot-agent-audio-evidence-layer|earshot 源码审计：它没有让 Agent 长出耳朵，而是把声音变成可测试的证据]]
 - [[2026-10-16/2026-10-16-earshot-agent-audio-evidence-layer-en|earshot Source Audit: It Does Not Give Agents Ears; It Turns Sound into Testable Evidence]]
