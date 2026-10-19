@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-10-19
+
+| 文章 | 主题 |
+|------|------|
+| [Awesome Suno Prompts 源码审计：不是 2000 条已验证配方，而是 250 条可用的风格词汇卡](2026-10-19/2026-10-19-awesome-suno-prompts-source-audit.md) | Suno / AI Music / Music Prompting / Prompt Library / Suno v6 / Reproducible Workflow / Audio QA / Source Audit |
+| [Awesome Suno Prompts Source Audit: Not 2,000 Verified Recipes, but 250 Useful Style Cards](2026-10-19/2026-10-19-awesome-suno-prompts-source-audit-en.md) | Suno / AI music / music prompting / prompt library / Suno v6 / reproducible workflow / audio QA / source audit |
+
+---
+
 ## 📅 2026-10-16
 
 | 文章 | 主题 |

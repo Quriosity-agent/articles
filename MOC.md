@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎵 Awesome Suno Prompts 源码审计：不是 2000 条已验证配方，而是 250 条可用的风格词汇卡
+- [[2026-10-19/2026-10-19-awesome-suno-prompts-source-audit|Awesome Suno Prompts 源码审计：不是 2000 条已验证配方，而是 250 条可用的风格词汇卡]]
+- [[2026-10-19/2026-10-19-awesome-suno-prompts-source-audit-en|Awesome Suno Prompts Source Audit: Not 2,000 Verified Recipes, but 250 Useful Style Cards]]
+
 ## 🎞️ Awesome Opus 5.5 Videos 拆解：703 个爆款提示词不是视频源码，而是一套 Agent 视觉能力样本库
 - [[2026-10-13/2026-10-13-awesome-opus55-video-prompt-corpus|Awesome Opus 5.5 Videos 拆解：703 个爆款提示词不是视频源码，而是一套 Agent 视觉能力样本库]]
 - [[2026-10-13/2026-10-13-awesome-opus55-video-prompt-corpus-en|Inside Awesome Opus 5.5 Videos: 703 Viral Prompts Form an Agent Visual Corpus, Not a Video Source Repository]]
