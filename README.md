@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Viggle JST-2 深度拆解：它不是又一个视频模型，而是把场景、角色与动作装进同一套 3D Token](2026-10-19/2026-10-19-viggle-jst2-physics-native-world-model.md) | Viggle / JST-2 / World Model / Physics-Native Token / 3D Gaussian Splatting / Character Animation / Motion Capture / PINOC / MCP / Physical AI |
+| [Inside Viggle JST-2: One 3D Token System for Scenes, Characters, and Motion](2026-10-19/2026-10-19-viggle-jst2-physics-native-world-model-en.md) | Viggle / JST-2 / world model / Physics-Native Token / 3D Gaussian Splatting / character animation / motion capture / PINOC / MCP / physical AI |
 | [Awesome Suno Prompts 源码审计：不是 2000 条已验证配方，而是 250 条可用的风格词汇卡](2026-10-19/2026-10-19-awesome-suno-prompts-source-audit.md) | Suno / AI Music / Music Prompting / Prompt Library / Suno v6 / Reproducible Workflow / Audio QA / Source Audit |
 | [Awesome Suno Prompts Source Audit: Not 2,000 Verified Recipes, but 250 Useful Style Cards](2026-10-19/2026-10-19-awesome-suno-prompts-source-audit-en.md) | Suno / AI music / music prompting / prompt library / Suno v6 / reproducible workflow / audio QA / source audit |
 

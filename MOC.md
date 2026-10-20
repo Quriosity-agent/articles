@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🌐 Viggle JST-2 深度拆解：它不是又一个视频模型，而是把场景、角色与动作装进同一套 3D Token
+- [[2026-10-19/2026-10-19-viggle-jst2-physics-native-world-model|Viggle JST-2 深度拆解：它不是又一个视频模型，而是把场景、角色与动作装进同一套 3D Token]]
+- [[2026-10-19/2026-10-19-viggle-jst2-physics-native-world-model-en|Inside Viggle JST-2: One 3D Token System for Scenes, Characters, and Motion]]
+
 ## 🎵 Awesome Suno Prompts 源码审计：不是 2000 条已验证配方，而是 250 条可用的风格词汇卡
 - [[2026-10-19/2026-10-19-awesome-suno-prompts-source-audit|Awesome Suno Prompts 源码审计：不是 2000 条已验证配方，而是 250 条可用的风格词汇卡]]
 - [[2026-10-19/2026-10-19-awesome-suno-prompts-source-audit-en|Awesome Suno Prompts Source Audit: Not 2,000 Verified Recipes, but 250 Useful Style Cards]]
