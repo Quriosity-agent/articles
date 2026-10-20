@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🏗️ SKY-001 深度拆解：它不是又一个文生 3D，而是在学习怎样把工程对象造出来
+- [[2026-10-19/2026-10-19-skyfall-sky001-engineering-world-model|SKY-001 深度拆解：它不是又一个文生 3D，而是在学习怎样把工程对象造出来]]
+- [[2026-10-19/2026-10-19-skyfall-sky001-engineering-world-model-en|Inside SKY-001: Not Another Text-to-3D Model, but a System Learning How Engineered Objects Are Built]]
+
 ## 🌐 Viggle JST-2 深度拆解：它不是又一个视频模型，而是把场景、角色与动作装进同一套 3D Token
 - [[2026-10-19/2026-10-19-viggle-jst2-physics-native-world-model|Viggle JST-2 深度拆解：它不是又一个视频模型，而是把场景、角色与动作装进同一套 3D Token]]
 - [[2026-10-19/2026-10-19-viggle-jst2-physics-native-world-model-en|Inside Viggle JST-2: One 3D Token System for Scenes, Characters, and Motion]]
