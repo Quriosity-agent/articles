@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🖥️ NanoKVM Go 深度拆解：它不是随身远程桌面，而是给人类与 AI 共用的硬件控制桥
+- [[2026-10-21/2026-10-21-nanokvm-go-hardware-kvm-ai-agent-bridge|NanoKVM Go 深度拆解：它不是随身远程桌面，而是给人类与 AI 共用的硬件控制桥]]
+- [[2026-10-21/2026-10-21-nanokvm-go-hardware-kvm-ai-agent-bridge-en|Inside NanoKVM Go: A Hardware Control Bridge Shared by Humans and AI Agents]]
+
 ## 🎬 Opus 5.5 视频八库源码地图：别把 Prompt 合集、Skill 与完整工程混为一谈
 - [[2026-10-21/2026-10-21-opus55-video-eight-repo-production-map|Opus 5.5 视频八库源码地图：别把 Prompt 合集、Skill 与完整工程混为一谈]]
 - [[2026-10-21/2026-10-21-opus55-video-eight-repo-production-map-en|Mapping Eight Opus 5.5 Video Repositories: Prompt Collections, Skills, Templates, and Full Builds]]
