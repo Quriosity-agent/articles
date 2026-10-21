@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## 🎬 Opus 5.5 视频八库源码地图：别把 Prompt 合集、Skill 与完整工程混为一谈
+- [[2026-10-21/2026-10-21-opus55-video-eight-repo-production-map|Opus 5.5 视频八库源码地图：别把 Prompt 合集、Skill 与完整工程混为一谈]]
+- [[2026-10-21/2026-10-21-opus55-video-eight-repo-production-map-en|Mapping Eight Opus 5.5 Video Repositories: Prompt Collections, Skills, Templates, and Full Builds]]
+
 ## 🏗️ SKY-001 深度拆解：它不是又一个文生 3D，而是在学习怎样把工程对象造出来
 - [[2026-10-19/2026-10-19-skyfall-sky001-engineering-world-model|SKY-001 深度拆解：它不是又一个文生 3D，而是在学习怎样把工程对象造出来]]
 - [[2026-10-19/2026-10-19-skyfall-sky001-engineering-world-model-en|Inside SKY-001: Not Another Text-to-3D Model, but a System Learning How Engineered Objects Are Built]]

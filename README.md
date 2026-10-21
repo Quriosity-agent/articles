@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-10-21
+
+| 文章 | 主题 |
+|------|------|
+| [Opus 5.5 视频八库源码地图：别把 Prompt 合集、Skill 与完整工程混为一谈](2026-10-21/2026-10-21-opus55-video-eight-repo-production-map.md) | Claude Opus 5.5 / AI Video / Code-Rendered Video / Claude Code / Agent Skill / Prompt Library / Motion Graphics / Three.js / p5.js / FFmpeg / Source Audit |
+| [Mapping Eight Opus 5.5 Video Repositories: Prompt Collections, Skills, Templates, and Full Builds](2026-10-21/2026-10-21-opus55-video-eight-repo-production-map-en.md) | Claude Opus 5.5 / AI video / code-rendered video / Claude Code / Agent skill / prompt library / motion graphics / Three.js / p5.js / FFmpeg / source audit |
+
+---
+
 ## 📅 2026-10-19
 
 | 文章 | 主题 |
