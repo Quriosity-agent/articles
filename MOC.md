@@ -1,5 +1,9 @@
 # 📚 文章导航 (Map of Content)
 
+## LayerFS 1.0：多 Agent 工作区与共享历史
+- [[2026-10-21/2026-10-21-layerfs-v1-agent-workspace-history|LayerFS 1.0 拆解：把多 Agent 的工作目录变成可分叉、可回溯的共享历史]]
+- [[2026-10-21/2026-10-21-layerfs-v1-agent-workspace-history-en|Inside LayerFS 1.0: Shared Filesystem History for Branching AI Agent Work]]
+
 ## 🖥️ NanoKVM Go 深度拆解：它不是随身远程桌面，而是给人类与 AI 共用的硬件控制桥
 - [[2026-10-21/2026-10-21-nanokvm-go-hardware-kvm-ai-agent-bridge|NanoKVM Go 深度拆解：它不是随身远程桌面，而是给人类与 AI 共用的硬件控制桥]]
 - [[2026-10-21/2026-10-21-nanokvm-go-hardware-kvm-ai-agent-bridge-en|Inside NanoKVM Go: A Hardware Control Bridge Shared by Humans and AI Agents]]

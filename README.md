@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [LayerFS 1.0 拆解：把多 Agent 的工作目录变成可分叉、可回溯的共享历史](2026-10-21/2026-10-21-layerfs-v1-agent-workspace-history.md) | LayerFS / Agent Infrastructure / Multi-Agent / Filesystem / Copy-on-Write / SQLite / FUSE / DeepSeek Harness / Source Audit |
+| [Inside LayerFS 1.0: Shared Filesystem History for Branching AI Agent Work](2026-10-21/2026-10-21-layerfs-v1-agent-workspace-history-en.md) | LayerFS / agent infrastructure / multi-agent / filesystem / copy-on-write / SQLite / FUSE / DeepSeek Harness / source audit |
 | [NanoKVM Go 深度拆解：它不是随身远程桌面，而是给人类与 AI 共用的硬件控制桥](2026-10-21/2026-10-21-nanokvm-go-hardware-kvm-ai-agent-bridge.md) | NanoKVM Go / Sipeed / IP-KVM / USB-C / MCP / AI Agent / Memory Fabric / Remote Maintenance / Hardware Automation / Source Audit |
 | [Inside NanoKVM Go: A Hardware Control Bridge Shared by Humans and AI Agents](2026-10-21/2026-10-21-nanokvm-go-hardware-kvm-ai-agent-bridge-en.md) | NanoKVM Go / Sipeed / IP-KVM / USB-C / MCP / AI agent / Memory Fabric / remote maintenance / hardware automation / source audit |
 | [Opus 5.5 视频八库源码地图：别把 Prompt 合集、Skill 与完整工程混为一谈](2026-10-21/2026-10-21-opus55-video-eight-repo-production-map.md) | Claude Opus 5.5 / AI Video / Code-Rendered Video / Claude Code / Agent Skill / Prompt Library / Motion Graphics / Three.js / p5.js / FFmpeg / Source Audit |
