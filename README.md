@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-10-22
+
+| 文章 | 主题 |
+|------|------|
+| [AI 安全八库地图：自动化已经连到哪一层，为什么还不能说单人替代团队](2026-10-22/2026-10-22-ai-security-eight-repo-stack.md) | AI Security / Security Agents / ScopeSentry / REA / Strix / PentAGI / CyberStrikeAI / ARTEX / garak / promptfoo / Defensive Engineering |
+| [Mapping Eight AI Security Projects: What Is Automated, and What Still Needs a Team](2026-10-22/2026-10-22-ai-security-eight-repo-stack-en.md) | AI security / security agents / asset discovery / reverse engineering / authorized testing / orchestration / LLM evaluation / defensive engineering |
+
+---
+
 ## 📅 2026-10-21
 
 | 文章 | 主题 |

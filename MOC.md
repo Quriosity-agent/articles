@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## AI 安全八库：资产、分析、编排与模型评测的边界
+
+- [[2026-10-22/2026-10-22-ai-security-eight-repo-stack|AI 安全八库地图：自动化已经连到哪一层，为什么还不能说单人替代团队]]
+- [[2026-10-22/2026-10-22-ai-security-eight-repo-stack-en|Mapping Eight AI Security Projects: What Is Automated, and What Still Needs a Team]]
+
 ## LCU：共享 Computer Use 运行时与宿主适配
 
 - [[2026-10-05/2026-10-05-lcu-shared-computer-use-runtime|LCU 源码拆解：让 Claude Code、Pi 与 Codex CLI 共享本机 Computer Use 运行时]]
