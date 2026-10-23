@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [XXD Panel 345：照片转绘 Skill 如何分开审美、生成与交付](2026-10-22/2026-10-22-xxd-panel-345-dark-ground-silhouette-skill.md) | XXD Panel 345 / Agent Skill / Image-to-Image / Art Direction / Silhouette / Raster Workflow / Visual QA / Source Audit |
+| [Inside XXD Panel 345: Separating Art Direction, Image Generation, and Delivery](2026-10-22/2026-10-22-xxd-panel-345-dark-ground-silhouette-skill-en.md) | XXD Panel 345 / agent skill / image-to-image / art direction / silhouette / raster workflow / visual QA / source audit |
 | [AI 安全八库地图：自动化已经连到哪一层，为什么还不能说单人替代团队](2026-10-22/2026-10-22-ai-security-eight-repo-stack.md) | AI Security / Security Agents / ScopeSentry / REA / Strix / PentAGI / CyberStrikeAI / ARTEX / garak / promptfoo / Defensive Engineering |
 | [Mapping Eight AI Security Projects: What Is Automated, and What Still Needs a Team](2026-10-22/2026-10-22-ai-security-eight-repo-stack-en.md) | AI security / security agents / asset discovery / reverse engineering / authorized testing / orchestration / LLM evaluation / defensive engineering |
 

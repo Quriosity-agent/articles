@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## XXD Panel 345：暗底剪影与图像 Skill 交付分层
+
+- [[2026-10-22/2026-10-22-xxd-panel-345-dark-ground-silhouette-skill|XXD Panel 345：照片转绘 Skill 如何分开审美、生成与交付]]
+- [[2026-10-22/2026-10-22-xxd-panel-345-dark-ground-silhouette-skill-en|Inside XXD Panel 345: Separating Art Direction, Image Generation, and Delivery]]
+
 ## AI 安全八库：资产、分析、编排与模型评测的边界
 
 - [[2026-10-22/2026-10-22-ai-security-eight-repo-stack|AI 安全八库地图：自动化已经连到哪一层，为什么还不能说单人替代团队]]
