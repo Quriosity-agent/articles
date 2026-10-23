@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## LCU：共享 Computer Use 运行时与宿主适配
+
+- [[2026-10-05/2026-10-05-lcu-shared-computer-use-runtime|LCU 源码拆解：让 Claude Code、Pi 与 Codex CLI 共享本机 Computer Use 运行时]]
+- [[2026-10-05/2026-10-05-lcu-shared-computer-use-runtime-en|Inside LCU: Sharing a Local Computer Use Runtime Across Claude Code, Pi, and Codex CLI]]
+
 ## LayerFS 1.0：多 Agent 工作区与共享历史
 - [[2026-10-21/2026-10-21-layerfs-v1-agent-workspace-history|LayerFS 1.0 拆解：把多 Agent 的工作目录变成可分叉、可回溯的共享历史]]
 - [[2026-10-21/2026-10-21-layerfs-v1-agent-workspace-history-en|Inside LayerFS 1.0: Shared Filesystem History for Branching AI Agent Work]]

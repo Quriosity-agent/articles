@@ -192,6 +192,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [LCU 源码拆解：让 Claude Code、Pi 与 Codex CLI 共享本机 Computer Use 运行时](2026-10-05/2026-10-05-lcu-shared-computer-use-runtime.md) | LCU / Computer Use / Claude Code / Codex CLI / Pi / MCP / JavaScript REPL / Accessibility / Agent Harness / Source Audit |
+| [Inside LCU: Sharing a Local Computer Use Runtime Across Claude Code, Pi, and Codex CLI](2026-10-05/2026-10-05-lcu-shared-computer-use-runtime-en.md) | LCU / computer use / Claude Code / Codex CLI / Pi / MCP / JavaScript REPL / accessibility / agent harness / source audit |
 | [Prompt Motion 首发帖拆解：百万曝光背后，真正被产品化的是可追溯的灵感](2026-10-05/2026-10-05-prompt-motion-viral-launch-traceable-inspiration.md) | Prompt Motion / Claude Opus 5.5 / Motion Design / Creative Provenance / X Launch / Agent Skills / Curation |
 | [Prompt Motion's Viral Launch: The Product Is Traceable Inspiration, Not the Prompt Itself](2026-10-05/2026-10-05-prompt-motion-viral-launch-traceable-inspiration-en.md) | Prompt Motion / Claude Opus 5.5 / motion design / creative provenance / X launch / Agent Skills / curation |
 
