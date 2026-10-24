@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-10-24
+
+| 文章 | 主题 |
+|------|------|
+| [InkOS 源码拆解：用正史、上下文和可恢复文件组织 AI 故事创作](2026-10-24/2026-10-24-inkos-stateful-story-creation-harness.md) | InkOS / AI Writing / Agent Harness / Canon Management / Context Engineering / Narrative Forecast / Visual Novel / Source Audit |
+| [Inside InkOS: Managing AI Story Creation with Canon, Context, and Recoverable Artifacts](2026-10-24/2026-10-24-inkos-stateful-story-creation-harness-en.md) | InkOS / AI writing / agent harness / canon management / context engineering / narrative forecast / visual novel / source audit |
+
+---
+
 ## 📅 2026-10-22
 
 | 文章 | 主题 |

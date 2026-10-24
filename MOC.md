@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## InkOS：正史、上下文与可恢复的故事创作
+
+- [[2026-10-24/2026-10-24-inkos-stateful-story-creation-harness|InkOS 源码拆解：用正史、上下文和可恢复文件组织 AI 故事创作]]
+- [[2026-10-24/2026-10-24-inkos-stateful-story-creation-harness-en|Inside InkOS: Managing AI Story Creation with Canon, Context, and Recoverable Artifacts]]
+
 ## XXD Panel 345：暗底剪影与图像 Skill 交付分层
 
 - [[2026-10-22/2026-10-22-xxd-panel-345-dark-ground-silhouette-skill|XXD Panel 345：照片转绘 Skill 如何分开审美、生成与交付]]
