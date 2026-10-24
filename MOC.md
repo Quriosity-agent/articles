@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## 从电影参考到 AI 运镜：技法、提示词与镜头验收
+
+- [[2026-10-24/2026-10-24-cinematic-reference-to-camera-prompts|从电影参考到 AI 运镜：六个网站怎样组成一套镜头学习流程]]
+- [[2026-10-24/2026-10-24-cinematic-reference-to-camera-prompts-en|From Film References to AI Camera Prompts: A Workflow Across Six Websites]]
+
 ## InkOS：正史、上下文与可恢复的故事创作
 
 - [[2026-10-24/2026-10-24-inkos-stateful-story-creation-harness|InkOS 源码拆解：用正史、上下文和可恢复文件组织 AI 故事创作]]
