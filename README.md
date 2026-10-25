@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-10-25
+
+| 文章 | 主题 |
+|------|------|
+| [YuE 已更新到 YuE2：先写可编辑乐谱，再生成完整歌曲](2026-10-25/2026-10-25-yue2-editable-score-music-generation.md) | YuE2 / Music Generation / Symbolic Planning / ABC Notation / Agentic Editing / SheetSage2 / Open Weights |
+| [YuE Is Now YuE2: Editable Scores Before Full-Song Audio](2026-10-25/2026-10-25-yue2-editable-score-music-generation-en.md) | YuE2 / music generation / editable scores / symbolic planning / agentic editing / covers / model licensing |
+
+---
+
 ## 📅 2026-10-24
 
 | 文章 | 主题 |

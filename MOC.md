@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## YuE2：可编辑乐谱与完整歌曲生成
+
+- [[2026-10-25/2026-10-25-yue2-editable-score-music-generation|YuE 已更新到 YuE2：先写可编辑乐谱，再生成完整歌曲]]
+- [[2026-10-25/2026-10-25-yue2-editable-score-music-generation-en|YuE Is Now YuE2: Editable Scores Before Full-Song Audio]]
+
 ## 从电影参考到 AI 运镜：技法、提示词与镜头验收
 
 - [[2026-10-24/2026-10-24-cinematic-reference-to-camera-prompts|从电影参考到 AI 运镜：六个网站怎样组成一套镜头学习流程]]
