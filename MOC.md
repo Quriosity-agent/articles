@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## 书童 Pagekin：作者确认的小说写作工作流
+
+- [[2026-10-26/2026-10-26-pagekin-local-first-novel-writing-workflow|书童 Pagekin：把小说设定、写稿、审稿与定稿组织成作者确认的工作流]]
+- [[2026-10-26/2026-10-26-pagekin-local-first-novel-writing-workflow-en|Pagekin: An Author-Controlled Workflow for Planning, Drafting, Reviewing, and Finalizing Fiction]]
+
 ## video2rig：AI 视频到原角色骨骼动画
 
 - [[2026-10-23/2026-10-23-video2rig-ai-video-to-blender-action|video2rig：把自己角色的 AI 视频，拟合回可编辑的 Blender 骨骼动画]]
