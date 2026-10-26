@@ -26,6 +26,15 @@
 
 ---
 
+## 📅 2026-10-23
+
+| 文章 | 主题 |
+|------|------|
+| [video2rig：把自己角色的 AI 视频，拟合回可编辑的 Blender 骨骼动画](2026-10-23/2026-10-23-video2rig-ai-video-to-blender-action.md) | video2rig / Blender / Character Animation / Motion Reconstruction / DINOv2 / Synthetic Data / UniRig |
+| [video2rig: Fitting AI Video Back onto Your Own Blender Rig](2026-10-23/2026-10-23-video2rig-ai-video-to-blender-action-en.md) | video2rig / Blender / character animation / image-to-video / joint reader / rig fitting / source audit |
+
+---
+
 ## 📅 2026-10-22
 
 | 文章 | 主题 |

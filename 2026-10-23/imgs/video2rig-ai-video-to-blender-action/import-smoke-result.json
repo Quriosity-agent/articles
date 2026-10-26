@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "blender": "5.1.2",
+  "frames": [
+    1,
+    13,
+    25
+  ],
+  "armature_fcurves": 11,
+  "root_translation": true,
+  "prop_translation": true,
+  "quaternion_hemisphere": true,
+  "linear_interpolation": true,
+  "unfitted_preserved": true,
+  "preferences_restored": true,
+  "blend_saved": true,
+  "scope": "Synthetic importer only; no perception, fitting, skinning, export or visual QA"
+}

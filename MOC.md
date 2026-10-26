@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## video2rig：AI 视频到原角色骨骼动画
+
+- [[2026-10-23/2026-10-23-video2rig-ai-video-to-blender-action|video2rig：把自己角色的 AI 视频，拟合回可编辑的 Blender 骨骼动画]]
+- [[2026-10-23/2026-10-23-video2rig-ai-video-to-blender-action-en|video2rig: Fitting AI Video Back onto Your Own Blender Rig]]
+
 ## YuE2：可编辑乐谱与完整歌曲生成
 
 - [[2026-10-25/2026-10-25-yue2-editable-score-music-generation|YuE 已更新到 YuE2：先写可编辑乐谱，再生成完整歌曲]]
