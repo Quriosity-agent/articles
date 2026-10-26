@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## Chinese Novelist Skill：文风基准、事实账本与自动校验边界
+
+- [[2026-10-27/2026-10-27-chinese-novelist-skill-workflow-audit|Chinese Novelist Skill：用文件、文风基准与事实账本组织中文长篇创作]]
+- [[2026-10-27/2026-10-27-chinese-novelist-skill-workflow-audit-en|Chinese Novelist Skill: Organizing Long-Form Fiction with Files, Style Anchors, and a Fact Ledger]]
+
 ## 书童 Pagekin：作者确认的小说写作工作流
 
 - [[2026-10-26/2026-10-26-pagekin-local-first-novel-writing-workflow|书童 Pagekin：把小说设定、写稿、审稿与定稿组织成作者确认的工作流]]

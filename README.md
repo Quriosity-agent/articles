@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-10-27
+
+| 文章 | 主题 |
+|------|------|
+| [Chinese Novelist Skill：用文件、文风基准与事实账本组织中文长篇创作](2026-10-27/2026-10-27-chinese-novelist-skill-workflow-audit.md) | Chinese Novelist / Agent Skill / AI Writing / Fact Ledger / Style Anchors / Parallel Drafting / Source Audit |
+| [Chinese Novelist Skill: Organizing Long-Form Fiction with Files, Style Anchors, and a Fact Ledger](2026-10-27/2026-10-27-chinese-novelist-skill-workflow-audit-en.md) | AI fiction / writing workflow / file-based memory / continuity / word-count probes / host dependencies |
+
+---
+
 ## 📅 2026-10-26
 
 | 文章 | 主题 |
