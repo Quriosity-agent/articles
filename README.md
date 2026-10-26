@@ -21,6 +21,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [AI 视频声音工作流：从六个网站到可追溯的配乐、环境音与动作音效](2026-10-26/2026-10-26-ai-video-six-audio-sources.md) | AI Video / Sound Design / Pixabay / Freesound / Sound Effect Lab / Mixkit / ElevenLabs / earshot / Audio Licensing |
+| [Sound for AI Video: A Six-Source Workflow for Music, Ambience, and Timed Effects](2026-10-26/2026-10-26-ai-video-six-audio-sources-en.md) | sound design / music / ambience / foley / procedural audio / synchronization / asset provenance |
 | [书童 Pagekin：把小说设定、写稿、审稿与定稿组织成作者确认的工作流](2026-10-26/2026-10-26-pagekin-local-first-novel-writing-workflow.md) | Pagekin / AI Novel Writer / AI Writing / Context Engineering / Human Review / Local-First / Source Audit |
 | [Pagekin: An Author-Controlled Workflow for Planning, Drafting, Reviewing, and Finalizing Fiction](2026-10-26/2026-10-26-pagekin-local-first-novel-writing-workflow-en.md) | Pagekin / AI fiction / chapter planning / source-aware context / author confirmation / recoverable finalization |
 

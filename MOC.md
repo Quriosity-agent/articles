@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## AI 视频声音：六站分工、授权与声画同步
+
+- [[2026-10-26/2026-10-26-ai-video-six-audio-sources|AI 视频声音工作流：从六个网站到可追溯的配乐、环境音与动作音效]]
+- [[2026-10-26/2026-10-26-ai-video-six-audio-sources-en|Sound for AI Video: A Six-Source Workflow for Music, Ambience, and Timed Effects]]
+
 ## Sepia：结构优先的写作诊断与修订
 
 - [[2026-10-27/2026-10-27-sepia-structure-first-writing-skill|Sepia：从叙事结构到中文语域，怎样把“去 AI 味”变成可检查的编辑流程]]
