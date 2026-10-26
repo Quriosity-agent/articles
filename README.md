@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Sepia：从叙事结构到中文语域，怎样把“去 AI 味”变成可检查的编辑流程](2026-10-27/2026-10-27-sepia-structure-first-writing-skill.md) | Sepia / Agent Skill / AI Writing / Narrative Architecture / Editorial Review / StoryScope / Chinese Calibration / Evidence Audit |
+| [Sepia: A Structure-First Editing Workflow for Fiction and Professional Prose](2026-10-27/2026-10-27-sepia-structure-first-writing-skill-en.md) | Sepia / writing revision / genre routing / authorial voice / persona contracts / research versioning / source audit |
 | [Chinese Novelist Skill：用文件、文风基准与事实账本组织中文长篇创作](2026-10-27/2026-10-27-chinese-novelist-skill-workflow-audit.md) | Chinese Novelist / Agent Skill / AI Writing / Fact Ledger / Style Anchors / Parallel Drafting / Source Audit |
 | [Chinese Novelist Skill: Organizing Long-Form Fiction with Files, Style Anchors, and a Fact Ledger](2026-10-27/2026-10-27-chinese-novelist-skill-workflow-audit-en.md) | AI fiction / writing workflow / file-based memory / continuity / word-count probes / host dependencies |
 

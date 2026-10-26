@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## Sepia：结构优先的写作诊断与修订
+
+- [[2026-10-27/2026-10-27-sepia-structure-first-writing-skill|Sepia：从叙事结构到中文语域，怎样把“去 AI 味”变成可检查的编辑流程]]
+- [[2026-10-27/2026-10-27-sepia-structure-first-writing-skill-en|Sepia: A Structure-First Editing Workflow for Fiction and Professional Prose]]
+
 ## Chinese Novelist Skill：文风基准、事实账本与自动校验边界
 
 - [[2026-10-27/2026-10-27-chinese-novelist-skill-workflow-audit|Chinese Novelist Skill：用文件、文风基准与事实账本组织中文长篇创作]]
