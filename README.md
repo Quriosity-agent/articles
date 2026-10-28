@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-10-28
+
+| 文章 | 主题 |
+|------|------|
+| [AI Pose Gallery 中文版：288 组姿势参考、静态检索与授权边界](2026-10-28/2026-10-28-ai-pose-gallery-zh-reference-audit.md) | AI Pose Gallery / Pose References / Chinese Localization / Static Gallery / Multi-Angle / Asset Rights / Data Audit |
+| [AI Pose Gallery in Chinese: 288 Pose Groups, Static Search, and Asset Rights](2026-10-28/2026-10-28-ai-pose-gallery-zh-reference-audit-en.md) | pose references / static search / grouped views / localization / code licensing / image permissions / metadata audit |
+
+---
+
 ## 📅 2026-10-27
 
 | 文章 | 主题 |

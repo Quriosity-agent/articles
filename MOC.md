@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## AI Pose Gallery 中文版：姿势分组、数据核对与素材授权
+
+- [[2026-10-28/2026-10-28-ai-pose-gallery-zh-reference-audit|AI Pose Gallery 中文版：288 组姿势参考、静态检索与授权边界]]
+- [[2026-10-28/2026-10-28-ai-pose-gallery-zh-reference-audit-en|AI Pose Gallery in Chinese: 288 Pose Groups, Static Search, and Asset Rights]]
+
 ## AI 视频声音：六站分工、授权与声画同步
 
 - [[2026-10-26/2026-10-26-ai-video-six-audio-sources|AI 视频声音工作流：从六个网站到可追溯的配乐、环境音与动作音效]]

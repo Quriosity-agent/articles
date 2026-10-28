@@ -1,0 +1,49 @@
+{
+  "commit": "072a3690af6e7e0011abbe0fa1ccc08939fbb47d",
+  "records": 1439,
+  "groups": 288,
+  "uniqueIds": 1439,
+  "uniqueJapaneseNames": 288,
+  "uniqueChineseNames": 287,
+  "categories": 26,
+  "angles": 5,
+  "referencedImagePaths": 2878,
+  "angleCoverage": {
+    "4": 1,
+    "5": 287
+  },
+  "collections": [
+    {
+      "name": "全身单人・性感系",
+      "records": 399,
+      "groups": 80
+    },
+    {
+      "name": "全身单人・标准系",
+      "records": 365,
+      "groups": 73
+    },
+    {
+      "name": "上半身单人",
+      "records": 400,
+      "groups": 80
+    },
+    {
+      "name": "双人缠绵",
+      "records": 275,
+      "groups": 55
+    }
+  ],
+  "checks": {
+    "records1439": true,
+    "idsUnique": true,
+    "groups288": true,
+    "sourceOrderAndPathsPreserved": true,
+    "referencedPathsUnique": true,
+    "referencedPathsTracked": true,
+    "fiveAngleGroups287": true,
+    "fourAngleGroups1": true
+  },
+  "allChecksPass": true,
+  "scope": "Metadata and Git tree only; no image decode, visual consistency, or model generation test."
+}
