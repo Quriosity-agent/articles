@@ -7,6 +7,8 @@
 
 ## AI Pose Gallery 中文版：姿势分组、数据核对与素材授权
 
+2026-10-29 补充 Mr.pinecone 原帖、日文原站筛选实测，并区分原版已有功能与中文本地化。
+
 - [[2026-10-28/2026-10-28-ai-pose-gallery-zh-reference-audit|AI Pose Gallery 中文版：288 组姿势参考、静态检索与授权边界]]
 - [[2026-10-28/2026-10-28-ai-pose-gallery-zh-reference-audit-en|AI Pose Gallery in Chinese: 288 Pose Groups, Static Search, and Asset Rights]]
 

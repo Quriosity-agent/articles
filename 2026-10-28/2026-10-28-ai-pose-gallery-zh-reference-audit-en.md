@@ -2,15 +2,35 @@
 
 > Source: [Anhao's X post](https://x.com/anhao_ai/status/2115070903386296398), dated October 28, 2026 in Melbourne. Reviewed the same day. Chinese project: [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh), inspected at `072a369`. The original collection is maintained by ギア at [POSE-DB-01](https://ai-pose-gallery.pages.dev/).
 
+> Updated October 29, 2026: [Mr.pinecone's sharing post](https://x.com/Mrpinecone888/status/2115055965800435730) links directly to that Japanese original, not a separate image collection. This update tests the original site's UI; Chinese-source findings remain pinned to the commit above.
+
 Asking for this pose can be more direct than describing every limb. But three separate questions remain: whether a useful reference exists, whether the generation tool follows it accurately, and what the reference's license permits.
 
-The Chinese AI Pose Gallery mainly addresses the first question. It translates Japanese metadata and adds filtering, grouped browsing, angle switching, and image-download controls. It is a static reference collection, not a newly trained pose model or a 3D editor with movable joints and rig export.
+The Chinese AI Pose Gallery mainly addresses the first question. It translates Japanese metadata while retaining filtering, grouped browsing, angle switching, and image-download controls already present in the original site. It is a static reference collection, not a newly trained pose model or a 3D editor with movable joints and rig export.
 
 The source project includes adult-oriented categories. This article addresses data organization, general pose-reference use, and implementation without displaying that material. Because the original site explicitly restricts image-data redistribution, no source pose images are reproduced here; an independently generated count chart is used instead.
 
 ![Independent audit: 288 pose groups, 1439 angle records, and 2878 image paths](imgs/ai-pose-gallery-zh-reference-audit/data-coverage.png)
 
 *Original chart generated from pinned metadata and the Git tree, not a gallery screenshot or an image-decoding/generation test. Two collection labels are shortened neutrally.*
+
+## Checking the Sharing Post and Original Site
+
+Mr.pinecone describes a collection of 1,439 pose-reference images. The post ID resolves to October 27, 2026 at 23:20 in Melbourne, consistent with the displayed timestamp. The gallery credits ギア as its creator; the sharing account should not be mistaken for the asset author. A social description of free access does not replace the original site's restrictions on republication, redistribution, and resale. [Sharing post](https://x.com/Mrpinecone888/status/2115055965800435730), [original site](https://ai-pose-gallery.pages.dev/)
+
+Browser tests on October 29 produced these results:
+
+| Action | Visible result |
+|---|---|
+| Read the whole-library total | 288 groups, 1,439 images |
+| Select standard full-body single-person collection | 73 groups, 365 images |
+| Select standing poses within that collection | 14 groups, 70 images |
+| Restrict those results to side views | 14 groups, 14 images |
+| Search those results for `full_single_P015_side` | One group, one image; enlarged PNG decoded in the browser at 900×1200 |
+
+Grouped browsing and angle filtering therefore already exist in the Japanese version. Localization makes the names and search more accessible to Chinese readers; the original browsing features should not all be credited as additions by the translation project.
+
+A practical workflow separates identity, pose, and clothing: a pose reference supplies body arrangement and framing, a character reference supplies identity, and an outfit reference supplies wardrobe. The site recommends reference-based use but does not run pose transfer itself. Test one ordinary standing pose for balance, limbs, and occlusion before checking another angle. That reveals more about compatibility with a receiving model than downloading the entire library. The wardrobe side is covered in [AI Costume Gallery](../2026-10-29/2026-10-29-ai-costume-gallery-outfit-reference-en.md). This is a proposed workflow, not a generation experiment completed here.
 
 ## 1. The 1,439 Images Represent 288 Pose Groups
 
@@ -35,7 +55,7 @@ The core interface is one HTML file. It fetches `data/pose-zh.json`, builds pose
 
 Grouped browsing supports choosing an action before comparing angles; individual-image browsing supports finding a particular view. Cards switch thumbnails, while the lightbox shows a small image before asynchronously loading the original. An incrementing token prevents a slow previous request from replacing the currently selected image during fast navigation.
 
-These are concrete usability improvements beyond translated labels: fewer repeated cards, related views together, and a stable identifier for returning to a record. Search is local substring matching, not semantic understanding of an action or a vector-search service. [Page implementation](https://github.com/anhao/ai-pose-gallery-zh/blob/072a3690af6e7e0011abbe0fa1ccc08939fbb47d/index.html), [translation application](https://github.com/anhao/ai-pose-gallery-zh/blob/072a3690af6e7e0011abbe0fa1ccc08939fbb47d/scripts/apply_translation.py)
+These details explain the gallery's usability: fewer repeated cards, related views together, and an identifier for returning to a record. Grouping, angle filters, and downloads are also present in the Japanese original; the Chinese version additionally reduces the language barrier for names and search. Search in the inspected version is local substring matching, not semantic understanding of an action or a vector-search service. [Page implementation](https://github.com/anhao/ai-pose-gallery-zh/blob/072a3690af6e7e0011abbe0fa1ccc08939fbb47d/index.html), [translation application](https://github.com/anhao/ai-pose-gallery-zh/blob/072a3690af6e7e0011abbe0fa1ccc08939fbb47d/scripts/apply_translation.py)
 
 ## 3. Multiple Views Are Not a 3D Asset or Motion Sequence
 
@@ -67,6 +87,6 @@ The pinned version also loads an external analytics script. Static hosting of th
 
 This review read the post, Chinese source, original site's public notices, and both metadata JSON files. Eight independent structural checks passed, covering record and group counts, unique IDs, preserved original order and paths, unique tracked image references, and the four/five-angle distribution.
 
-That does not establish that all 1,439 images are correct. A sparse checkout avoided fetching the full image set. No bulk downloader, gallery UI session, exhaustive visual inspection, or AI generation test was run. Only an original chart and aggregate results are published, not the underlying dataset. Reproduction instructions are in [SOURCES.md](imgs/ai-pose-gallery-zh-reference-audit/SOURCES.md).
+That does not establish that all 1,439 images are correct. The October 28 source audit used a sparse checkout without fetching the full image set, running a bulk downloader, or opening the gallery UI. The October 29 update exercised the Japanese original's standard standing-pose filters, side views, ID search, and one enlarged image. Neither review performed exhaustive visual inspection or model-generation tests, and the live Chinese UI was not acceptance-tested. Only an original chart and aggregate results are published, not the underlying dataset. Reproduction instructions are in [SOURCES.md](imgs/ai-pose-gallery-zh-reference-audit/SOURCES.md).
 
 The collection lowers the effort of finding and revisiting pose references. Chinese search, stable IDs, and grouped views are useful ideas. Geometric consistency, model adherence, and asset permissions remain separate questions to verify.

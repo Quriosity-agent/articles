@@ -19,8 +19,8 @@
 
 | 文章 | 主题 |
 |------|------|
-| [AI Pose Gallery 中文版：288 组姿势参考、静态检索与授权边界](2026-10-28/2026-10-28-ai-pose-gallery-zh-reference-audit.md) | AI Pose Gallery / Pose References / Chinese Localization / Static Gallery / Multi-Angle / Asset Rights / Data Audit |
-| [AI Pose Gallery in Chinese: 288 Pose Groups, Static Search, and Asset Rights](2026-10-28/2026-10-28-ai-pose-gallery-zh-reference-audit-en.md) | pose references / static search / grouped views / localization / code licensing / image permissions / metadata audit |
+| [AI Pose Gallery 中文版：288 组姿势参考、静态检索与授权边界](2026-10-28/2026-10-28-ai-pose-gallery-zh-reference-audit.md) | AI Pose Gallery / Pose References / Chinese Localization / Multi-Angle / Asset Rights / 10月29日补充 Mr.pinecone 原帖与原站 UI 验证 |
+| [AI Pose Gallery in Chinese: 288 Pose Groups, Static Search, and Asset Rights](2026-10-28/2026-10-28-ai-pose-gallery-zh-reference-audit-en.md) | pose references / grouped views / localization / image permissions / updated October 29 with sharing post and original-site UI checks |
 
 ---
 

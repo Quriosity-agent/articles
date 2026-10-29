@@ -2,6 +2,18 @@
 
 Review date: October 28, 2026, Australia/Melbourne.
 
+Supplemental original-site review: October 29, 2026, Australia/Melbourne. The original pinned audit and chart below remain unchanged.
+
+## October 29 Sharing-Post and UI Supplement
+
+- Requested source: https://x.com/Mrpinecone888/status/2115055965800435730 . Read in the in-app browser after the web tool returned 403. The post links to https://ai-pose-gallery.pages.dev/ and introduces 1,439 pose-reference images. It is the same original gallery covered here, so the existing bilingual article was updated rather than duplicated.
+- Visible post time: 23:20, October 27, 2026. The DOM exposed no `time[datetime]` element. Applying the standard status-ID timestamp formula gives `2026-10-27T12:20:12.743Z`, or October 27 at 23:20 in Melbourne. This is a sharing-post timestamp, not a verified original-gallery launch date.
+- Re-read the original site's public HTML, usage tips, and notices. The web tool also successfully retrieved those original-site notices. Creator credit remains ギア; a sharing post does not establish asset authorship or broaden the original permission terms.
+- Original-site UI reports 288 groups / 1,439 images overall, 73 / 365 for standard full-body single-person, 14 / 70 after the standing-category filter, and 14 / 14 after selecting side views.
+- Within those conditions, entering `full_single_P015_side` in the search field and allowing the input debounce to settle gives one group / one image. Its enlarged view loads `img/full_single_P015_side.png`; the browser reported natural dimensions 900 x 1200. No manual original-file download or all-library dimensional validation was performed.
+- The original already supports grouping, angle filtering, and download controls. Corrected both articles so they do not attribute those existing features to the Chinese localization.
+- This supplement concerns standard single-person standing references only. No adult pose artwork, source screenshots, or raw dataset are reproduced. No generation model, Chinese live-UI acceptance test, or new source-repository audit was run. The earlier figure is retained and was visually rechecked for readability.
+
 ## Sources and Scope
 
 - Post: https://x.com/anhao_ai/status/2115070903386296398 . Read in the in-app browser after the search browser returned 403. Visible time was 00:19 October 28. The status-ID-derived UTC time is `2026-10-27T13:19:34.141Z`, also October 28 in Melbourne.
