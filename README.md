@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-10-29
+
+| 文章 | 主题 |
+|------|------|
+| [AI Costume Gallery：把 1,407 套无人物衣装，变成角色创作的服装参考](2026-10-29/2026-10-29-ai-costume-gallery-outfit-reference.md) | AI Costume Gallery / Character Design / Outfit References / Static Search / Reference Separation / Asset Rights |
+| [AI Costume Gallery: 1,407 Person-Free Outfit References for Character Creation](2026-10-29/2026-10-29-ai-costume-gallery-outfit-reference-en.md) | costume references / character identity / wardrobe continuity / keyword search / image permissions |
+
+---
+
 ## 📅 2026-10-28
 
 | 文章 | 主题 |

@@ -1,0 +1,24 @@
+{
+  "sourceUrl": "https://ai-costume-gallery.pages.dev/",
+  "retrievedAtUtc": "2026-10-29T06:18:51.449Z",
+  "reviewDateMelbourne": "2026-10-29",
+  "sourceHtmlSha256": "6280405c6cf5ec0efa5385afaa69d31471572ca9df900a0f8b71c746fc37a742",
+  "records": 1407,
+  "uniqueIds": 1407,
+  "categoryCounts": {
+    "春": 215,
+    "夏": 254,
+    "秋": 244,
+    "冬": 253,
+    "ランジェリー": 199,
+    "パーティ": 48,
+    "水着": 54,
+    "セクシー": 140
+  },
+  "declaredCountsMatch": true,
+  "probes": {
+    "denimAll": 151,
+    "denimSpring": 47
+  },
+  "limits": "Metadata counts only. No bulk image download, full image QA, model generation test, or rights clearance."
+}

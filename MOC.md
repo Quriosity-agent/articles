@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## AI Costume Gallery：无人物衣装、角色参考与素材使用边界
+
+- [[2026-10-29/2026-10-29-ai-costume-gallery-outfit-reference|AI Costume Gallery：把 1,407 套无人物衣装，变成角色创作的服装参考]]
+- [[2026-10-29/2026-10-29-ai-costume-gallery-outfit-reference-en|AI Costume Gallery: 1,407 Person-Free Outfit References for Character Creation]]
+
 ## AI Pose Gallery 中文版：姿势分组、数据核对与素材授权
 
 - [[2026-10-28/2026-10-28-ai-pose-gallery-zh-reference-audit|AI Pose Gallery 中文版：288 组姿势参考、静态检索与授权边界]]
