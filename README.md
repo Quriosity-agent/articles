@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [TraceMemo：把微信聊天变成可搜索、可追溯的本地知识工作台](2026-11-03/2026-11-03-tracememo-local-wechat-evidence-workbench.md) | TraceMemo / WechatExplorer / WeChat History / Local-First / Evidence / SQLite FTS5 / Reader Skill / API Security |
+| [TraceMemo: A Local WeChat Knowledge Workbench with Traceable Answers](2026-11-03/2026-11-03-tracememo-local-wechat-evidence-workbench-en.md) | WeChat archives / local knowledge / citations / provider boundaries / agent access / exports / macOS permissions |
 | [Writing Weights Index：会写游戏策略，为什么还写不好神经网络权重](2026-11-03/2026-11-03-writing-weights-index-policy-translation.md) | Weight-Space Programming / Writing Weights Index / Neural Policies / MinAtar / Benchmark Methodology / Parser Audit |
 | [Writing Weights Index: Why Writing a Policy Is Easier Than Writing Its Neural Weights](2026-11-03/2026-11-03-writing-weights-index-policy-translation-en.md) | weight generation / Python policies / neural implementation / normalized scores / public research logs / reproducibility |
 

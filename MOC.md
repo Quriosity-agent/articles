@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## TraceMemo：本地微信知识、可追溯证据与 Agent 权限
+
+- [[2026-11-03/2026-11-03-tracememo-local-wechat-evidence-workbench|TraceMemo：把微信聊天变成可搜索、可追溯的本地知识工作台]]
+- [[2026-11-03/2026-11-03-tracememo-local-wechat-evidence-workbench-en|TraceMemo: A Local WeChat Knowledge Workbench with Traceable Answers]]
+
 ## Writing Weights Index：策略生成与神经权重实现的差距
 
 - [[2026-11-03/2026-11-03-writing-weights-index-policy-translation|Writing Weights Index：会写游戏策略，为什么还写不好神经网络权重]]
