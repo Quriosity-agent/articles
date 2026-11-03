@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## Writing Weights Index：策略生成与神经权重实现的差距
+
+- [[2026-11-03/2026-11-03-writing-weights-index-policy-translation|Writing Weights Index：会写游戏策略，为什么还写不好神经网络权重]]
+- [[2026-11-03/2026-11-03-writing-weights-index-policy-translation-en|Writing Weights Index: Why Writing a Policy Is Easier Than Writing Its Neural Weights]]
+
 ## Pando：Agent 并行开发下的 Git 服务端扩容
 
 - [[2026-11-02/2026-11-02-openai-pando-agent-scale-git|Pando：当大量 Agent 一起写代码，Git 服务端要怎样扩容]]

@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-11-03
+
+| 文章 | 主题 |
+|------|------|
+| [Writing Weights Index：会写游戏策略，为什么还写不好神经网络权重](2026-11-03/2026-11-03-writing-weights-index-policy-translation.md) | Weight-Space Programming / Writing Weights Index / Neural Policies / MinAtar / Benchmark Methodology / Parser Audit |
+| [Writing Weights Index: Why Writing a Policy Is Easier Than Writing Its Neural Weights](2026-11-03/2026-11-03-writing-weights-index-policy-translation-en.md) | weight generation / Python policies / neural implementation / normalized scores / public research logs / reproducibility |
+
+---
+
 ## 📅 2026-11-02
 
 | 文章 | 主题 |

@@ -1,0 +1,106 @@
+{
+  "reviewDateMelbourne": "2026-11-03",
+  "retrievedAtUtc": "2026-11-03T12:17:50.387Z",
+  "originalResearchCommit": "4d09ba6d6a7e891dd8063974dfe81b3d78e3494f",
+  "originalExperiment": {
+    "breakout": {
+      "generatedMean": 517.411,
+      "episodes": 1000,
+      "bestPpo100M": 15.779,
+      "bestPpo500M": 25.344
+    },
+    "seaquest": {
+      "generatedMean": 53.11,
+      "episodes": 1000,
+      "bestPpo100M": 5.617,
+      "bestPpo500M": 88.884
+    },
+    "asterix": {
+      "generatedMean": 53.178,
+      "episodes": 1000,
+      "bestPpo100M": 25.82,
+      "bestPpo500M": 55.204
+    }
+  },
+  "sampledBreakoutRun": {
+    "parameters": 20486,
+    "appliedStatements": 92,
+    "parserErrors": 0,
+    "nonzeroWeights": 815,
+    "authorToolAudit": true
+  },
+  "indexFormulaChecks": {
+    "q0": 0,
+    "q1": 50,
+    "q3": 75
+  },
+  "chartRows": [
+    {
+      "model": "GPT-6 Astra",
+      "weightsIndex": 60.7,
+      "policyIndex": 85,
+      "authorGroup": "proprietary"
+    },
+    {
+      "model": "Gemini 4 Carbon",
+      "weightsIndex": 57.7,
+      "policyIndex": 68.6,
+      "authorGroup": "proprietary"
+    },
+    {
+      "model": "Claude Opus 5.5",
+      "weightsIndex": 51.2,
+      "policyIndex": 61.6,
+      "authorGroup": "proprietary"
+    },
+    {
+      "model": "Gemini 4 Argon",
+      "weightsIndex": 36,
+      "policyIndex": 70.4,
+      "authorGroup": "proprietary"
+    },
+    {
+      "model": "Kimi K3.1 Pro",
+      "weightsIndex": 29.8,
+      "policyIndex": 49.8,
+      "authorGroup": "proprietary"
+    },
+    {
+      "model": "Qwen3.8 2.4T A95B",
+      "weightsIndex": 12.5,
+      "policyIndex": 36.8,
+      "authorGroup": "open-weight"
+    },
+    {
+      "model": "DeepSeek V4.1 Flash",
+      "weightsIndex": 10,
+      "policyIndex": 31.6,
+      "authorGroup": "open-weight"
+    },
+    {
+      "model": "GLM 5.3",
+      "weightsIndex": 6.2,
+      "policyIndex": 45.2,
+      "authorGroup": "open-weight"
+    },
+    {
+      "model": "Mistral Large 4",
+      "weightsIndex": 2.6,
+      "policyIndex": 37.1,
+      "authorGroup": "open-weight"
+    },
+    {
+      "model": "MiniMax M3.1 Flash",
+      "weightsIndex": 0.2,
+      "policyIndex": 26.7,
+      "authorGroup": "open-weight"
+    },
+    {
+      "model": "Step 5 Preview",
+      "weightsIndex": 0.1,
+      "policyIndex": 34.8,
+      "authorGroup": "open-weight"
+    }
+  ],
+  "limits": "Read-only JSON checks and chart transcription. No model invocation, game episodes, training, parser execution, or independent performance reproduction. Original experiment logs are not the cross-model index harness."
+}
