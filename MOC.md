@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## Pando：Agent 并行开发下的 Git 服务端扩容
+
+- [[2026-11-02/2026-11-02-openai-pando-agent-scale-git|Pando：当大量 Agent 一起写代码，Git 服务端要怎样扩容]]
+- [[2026-11-02/2026-11-02-openai-pando-agent-scale-git-en|Pando: Scaling the Git Backend for Large Numbers of Coding Agents]]
+
 ## AI Costume Gallery：无人物衣装、角色参考与素材使用边界
 
 - [[2026-10-29/2026-10-29-ai-costume-gallery-outfit-reference|AI Costume Gallery：把 1,407 套无人物衣装，变成角色创作的服装参考]]

@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-11-02
+
+| 文章 | 主题 |
+|------|------|
+| [Pando：当大量 Agent 一起写代码，Git 服务端要怎样扩容](2026-11-02/2026-11-02-openai-pando-agent-scale-git.md) | OpenAI / Pando / Git / Coding Agents / Monorepo / Causal Consistency / Packfile URIs / Cache Reuse |
+| [Pando: Scaling the Git Backend for Large Numbers of Coding Agents](2026-11-02/2026-11-02-openai-pando-agent-scale-git-en.md) | Git infrastructure / agent concurrency / branch coordination / reusable packs / client compatibility / measurement boundaries |
+
+---
+
 ## 📅 2026-10-29
 
 | 文章 | 主题 |
