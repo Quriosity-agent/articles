@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Openjutsu：把视频表演变成可换角、改物与重打光的本地工作流](2026-11-03/2026-11-03-openjutsu-local-video-character-swap.md) | Openjutsu / ComfyUI / Character Swap / SAM / MiniMax H3 / FLUX / Relighting / Workflow Tests |
+| [Openjutsu: A Local Workflow for Recasting, Editing, and Relighting Video](2026-11-03/2026-11-03-openjutsu-local-video-character-swap-en.md) | video recasting / masks / motion references / first-frame approval / face refinement / local GPU / licensing |
 | [TraceMemo：把微信聊天变成可搜索、可追溯的本地知识工作台](2026-11-03/2026-11-03-tracememo-local-wechat-evidence-workbench.md) | TraceMemo / WechatExplorer / WeChat History / Local-First / Evidence / SQLite FTS5 / Reader Skill / API Security |
 | [TraceMemo: A Local WeChat Knowledge Workbench with Traceable Answers](2026-11-03/2026-11-03-tracememo-local-wechat-evidence-workbench-en.md) | WeChat archives / local knowledge / citations / provider boundaries / agent access / exports / macOS permissions |
 | [Writing Weights Index：会写游戏策略，为什么还写不好神经网络权重](2026-11-03/2026-11-03-writing-weights-index-policy-translation.md) | Weight-Space Programming / Writing Weights Index / Neural Policies / MinAtar / Benchmark Methodology / Parser Audit |

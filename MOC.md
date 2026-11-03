@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## Openjutsu：视频换角、参考条件与首帧确认
+
+- [[2026-11-03/2026-11-03-openjutsu-local-video-character-swap|Openjutsu：把视频表演变成可换角、改物与重打光的本地工作流]]
+- [[2026-11-03/2026-11-03-openjutsu-local-video-character-swap-en|Openjutsu: A Local Workflow for Recasting, Editing, and Relighting Video]]
+
 ## TraceMemo：本地微信知识、可追溯证据与 Agent 权限
 
 - [[2026-11-03/2026-11-03-tracememo-local-wechat-evidence-workbench|TraceMemo：把微信聊天变成可搜索、可追溯的本地知识工作台]]
