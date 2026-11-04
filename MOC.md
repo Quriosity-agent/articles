@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## Tendedero：Mac 截图暂存、拖放与文件保留规则
+
+- [[2026-11-01/2026-11-01-tendedero-macos-screenshot-clothesline|Tendedero：把截图挂在屏幕顶端，缩短从截取到使用的距离]]
+- [[2026-11-01/2026-11-01-tendedero-macos-screenshot-clothesline-en|Tendedero: Keeping Screenshots Within Reach Until You Use Them]]
+
 ## Openjutsu：视频换角、参考条件与首帧确认
 
 - [[2026-11-03/2026-11-03-openjutsu-local-video-character-swap|Openjutsu：把视频表演变成可换角、改物与重打光的本地工作流]]

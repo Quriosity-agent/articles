@@ -28,6 +28,15 @@
 
 ---
 
+## 📅 2026-11-01
+
+| 文章 | 主题 |
+|------|------|
+| [Tendedero：把截图挂在屏幕顶端，缩短从截取到使用的距离](2026-11-01/2026-11-01-tendedero-macos-screenshot-clothesline.md) | Tendedero / macOS / Screenshots / Native UI / Drag and Drop / Retention / Clipboard Privacy |
+| [Tendedero: Keeping Screenshots Within Reach Until You Use Them](2026-11-01/2026-11-01-tendedero-macos-screenshot-clothesline-en.md) | screenshot staging / native Mac utility / file lifecycle / inbox / pin and hold / Swift source review |
+
+---
+
 ## 📅 2026-10-29
 
 | 文章 | 主题 |
