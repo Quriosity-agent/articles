@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## AI 设计八站补充：Studio、字体证据与 Godly 跳转
+
+- [[2026-11-05/2026-11-05-ai-design-eight-sites-studio-fonts|AI 设计八站再核查：Studio 不是提示词库，Godly 已转向 Recent]]
+- [[2026-11-05/2026-11-05-ai-design-eight-sites-studio-fonts-en|Eight AI Design Links Revisited: Studio, Font References, and Godly's Redirect]]
+
 ## AI 设计参考五站：页面、交互与可执行 Brief
 
 - [[2026-11-05/2026-11-05-ai-design-five-reference-sites|五个 AI 设计参考网站：从找灵感到写出可执行的设计要求]]

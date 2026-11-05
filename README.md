@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [AI 设计八站再核查：Studio 不是提示词库，Godly 已转向 Recent](2026-11-05/2026-11-05-ai-design-eight-sites-studio-fonts.md) | MotionSites Studio / MotionSites / Font In Logo / Godly / Recent / AI Website / Pricing Scope / Typography |
+| [Eight AI Design Links Revisited: Studio, Font References, and Godly's Redirect](2026-11-05/2026-11-05-ai-design-eight-sites-studio-fonts-en.md) | website customization / code export / hosting boundary / font evidence / resource redirects / design workflow |
 | [五个 AI 设计参考网站：从找灵感到写出可执行的设计要求](2026-11-05/2026-11-05-ai-design-five-reference-sites.md) | SceneAI / Landbook / 60fps / Recent / Landdding / Design References / Motion / Agent Brief |
 | [Five Design Reference Sites for Turning AI Inspiration into a Buildable Brief](2026-11-05/2026-11-05-ai-design-five-reference-sites-en.md) | prompt libraries / website galleries / interaction references / motion MCP / design briefs / access boundaries |
 
