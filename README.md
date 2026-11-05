@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-11-05
+
+| 文章 | 主题 |
+|------|------|
+| [五个 AI 设计参考网站：从找灵感到写出可执行的设计要求](2026-11-05/2026-11-05-ai-design-five-reference-sites.md) | SceneAI / Landbook / 60fps / Recent / Landdding / Design References / Motion / Agent Brief |
+| [Five Design Reference Sites for Turning AI Inspiration into a Buildable Brief](2026-11-05/2026-11-05-ai-design-five-reference-sites-en.md) | prompt libraries / website galleries / interaction references / motion MCP / design briefs / access boundaries |
+
+---
+
 ## 📅 2026-11-04
 
 | 文章 | 主题 |

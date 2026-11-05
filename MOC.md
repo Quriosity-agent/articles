@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## AI 设计参考五站：页面、交互与可执行 Brief
+
+- [[2026-11-05/2026-11-05-ai-design-five-reference-sites|五个 AI 设计参考网站：从找灵感到写出可执行的设计要求]]
+- [[2026-11-05/2026-11-05-ai-design-five-reference-sites-en|Five Design Reference Sites for Turning AI Inspiration into a Buildable Brief]]
+
 ## Claude 视频十库：动效原则、素材与制作流程选型
 
 - [[2026-11-04/2026-11-04-claude-motion-ten-repo-selection|Claude 视频十库选型：动效原则、风格库与可渲染工程的区别]]
