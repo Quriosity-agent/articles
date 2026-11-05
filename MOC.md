@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## Claude 视频十库：动效原则、素材与制作流程选型
+
+- [[2026-11-04/2026-11-04-claude-motion-ten-repo-selection|Claude 视频十库选型：动效原则、风格库与可渲染工程的区别]]
+- [[2026-11-04/2026-11-04-claude-motion-ten-repo-selection-en|Choosing Among Ten Claude Video and Motion Repositories]]
+
 ## Tendedero：Mac 截图暂存、拖放与文件保留规则
 
 - [[2026-11-01/2026-11-01-tendedero-macos-screenshot-clothesline|Tendedero：把截图挂在屏幕顶端，缩短从截取到使用的距离]]

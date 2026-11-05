@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-11-04
+
+| 文章 | 主题 |
+|------|------|
+| [Claude 视频十库选型：动效原则、风格库与可渲染工程的区别](2026-11-04/2026-11-04-claude-motion-ten-repo-selection.md) | Claude / Agent Skills / Motion Design / Animate / pixelfx / onetake / Motion Prompt / Video Production |
+| [Choosing Among Ten Claude Video and Motion Repositories](2026-11-04/2026-11-04-claude-motion-ten-repo-selection-en.md) | motion vocabulary / style systems / story approvals / effects / code rendering / reproduction / licensing |
+
+---
+
 ## 📅 2026-11-03
 
 | 文章 | 主题 |
