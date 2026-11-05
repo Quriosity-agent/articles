@@ -21,6 +21,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [AI 设计七站清单：Jiro 的代码配方、Minimal Gallery 的结构参考与 3dicons 素材](2026-11-04/2026-11-04-ai-design-seven-sites-jiro-assets.md) | Jiro / Minimal Gallery / 3dicons / Design Prompts / MCP / CC0 / Asset Formats / Access Boundaries |
+| [Seven AI Design Links: Jiro's Implementation Recipes, Minimal Gallery, and 3dicons](2026-11-04/2026-11-04-ai-design-seven-sites-jiro-assets-en.md) | design references / implementation recipes / OAuth / typography / icon licensing / rendered images / model files |
 | [Claude 视频十库选型：动效原则、风格库与可渲染工程的区别](2026-11-04/2026-11-04-claude-motion-ten-repo-selection.md) | Claude / Agent Skills / Motion Design / Animate / pixelfx / onetake / Motion Prompt / Video Production |
 | [Choosing Among Ten Claude Video and Motion Repositories](2026-11-04/2026-11-04-claude-motion-ten-repo-selection-en.md) | motion vocabulary / style systems / story approvals / effects / code rendering / reproduction / licensing |
 

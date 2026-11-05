@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## AI 设计七站：代码配方、结构参考与图标素材
+
+- [[2026-11-04/2026-11-04-ai-design-seven-sites-jiro-assets|AI 设计七站清单：Jiro 的代码配方、Minimal Gallery 的结构参考与 3dicons 素材]]
+- [[2026-11-04/2026-11-04-ai-design-seven-sites-jiro-assets-en|Seven AI Design Links: Jiro's Implementation Recipes, Minimal Gallery, and 3dicons]]
+
 ## AI 设计八站补充：Studio、字体证据与 Godly 跳转
 
 - [[2026-11-05/2026-11-05-ai-design-eight-sites-studio-fonts|AI 设计八站再核查：Studio 不是提示词库，Godly 已转向 Recent]]
