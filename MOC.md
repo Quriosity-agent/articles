@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## AI 翻唱：人声分离、上传证据与素材权限
+
+- [[2026-05-24/2026-05-24-suno-cover-stem-separation-evidence|从 MP3 切割到 AI 翻唱：人声分离能解决什么，Suno 的上传结果又能证明什么？]]
+- [[2026-05-24/2026-05-24-suno-cover-stem-separation-evidence-en|From an MP3 Splitter to AI Covers: What Stem Separation and Upload Results Can Tell Us]]
+
 ## Go Music DL：多源音乐、下载队列与 Agent 播放控制
 
 - [[2026-11-05/2026-11-05-go-music-dl-multisource-player|Go Music DL：多平台找歌、整理本地音乐，还能让 Agent 控制播放器]]

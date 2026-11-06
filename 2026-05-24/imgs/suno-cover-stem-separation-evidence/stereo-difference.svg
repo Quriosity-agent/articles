@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 354" width="840" height="354" role="img" aria-labelledby="title desc">
+  <title id="title">Stereo subtraction removes shared signal</title>
+  <desc id="desc">Both channels contain 80 Hz and 440 Hz. The left also contains 660 Hz. The difference preserves only the left-only tone. Values are measured amplitudes from a synthetic numerical example.</desc>
+  <rect width="840" height="354" fill="#f7f8f6"/>
+  <g font-family="system-ui, sans-serif" fill="#182321">
+    <text x="36" y="46" font-size="25" font-weight="700">Stereo subtraction removes shared signal</text>
+    <text x="36" y="75" font-size="15" fill="#435650">Synthetic tones, 48 kHz, one second. Values are peak amplitudes.</text>
+    <g font-size="15" font-weight="700">
+      <text x="36" y="118">COMPONENT</text>
+      <text x="236" y="118">LEFT</text>
+      <text x="430" y="118">RIGHT</text>
+      <text x="624" y="118">L - R</text>
+    </g>
+    <path d="M36 130H804 M36 185H804 M36 240H804 M36 295H804" fill="none" stroke="#c5d0ca"/>
+    <g font-size="16">
+      <text x="36" y="163">80 Hz, shared</text>
+      <text x="36" y="218">440 Hz, shared</text>
+      <text x="36" y="273">660 Hz, left only</text>
+    </g>
+    <g fill="#236b5d">
+      <rect x="236" y="149" width="72" height="16"/>
+      <rect x="430" y="149" width="72" height="16"/>
+      <rect x="236" y="204" width="108" height="16"/>
+      <rect x="430" y="204" width="108" height="16"/>
+    </g>
+    <g fill="#9d471f">
+      <rect x="236" y="259" width="36" height="16"/>
+      <rect x="624" y="259" width="36" height="16"/>
+    </g>
+    <g font-size="15" font-family="monospace">
+      <text x="319" y="163">0.20</text>
+      <text x="513" y="163">0.20</text>
+      <text x="624" y="163">0.00</text>
+      <text x="355" y="218">0.30</text>
+      <text x="549" y="218">0.30</text>
+      <text x="624" y="218">0.00</text>
+      <text x="283" y="273">0.10</text>
+      <text x="430" y="273">0.00</text>
+      <text x="671" y="273">0.10</text>
+    </g>
+    <text x="36" y="325" font-size="15" fill="#435650">An identical bass component cancels just like any other identical component.</text>
+  </g>
+</svg>
