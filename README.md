@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Go Music DL：多平台找歌、整理本地音乐，还能让 Agent 控制播放器](2026-11-05/2026-11-05-go-music-dl-multisource-player.md) | Go Music DL / 多源搜索 / 换源 / 本地音乐 / HTTP / SSE / Agent 播放控制 |
+| [Go Music DL: Multi-Source Search, Local Music, and an Agent-Controlled Player](2026-11-05/2026-11-05-go-music-dl-multisource-player-en.md) | music search / source switching / download queue / local library / player state / access boundaries |
 | [AI 设计八站再核查：Studio 不是提示词库，Godly 已转向 Recent](2026-11-05/2026-11-05-ai-design-eight-sites-studio-fonts.md) | MotionSites Studio / MotionSites / Font In Logo / Godly / Recent / AI Website / Pricing Scope / Typography |
 | [Eight AI Design Links Revisited: Studio, Font References, and Godly's Redirect](2026-11-05/2026-11-05-ai-design-eight-sites-studio-fonts-en.md) | website customization / code export / hosting boundary / font evidence / resource redirects / design workflow |
 | [五个 AI 设计参考网站：从找灵感到写出可执行的设计要求](2026-11-05/2026-11-05-ai-design-five-reference-sites.md) | SceneAI / Landbook / 60fps / Recent / Landdding / Design References / Motion / Agent Brief |

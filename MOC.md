@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## Go Music DL：多源音乐、下载队列与 Agent 播放控制
+
+- [[2026-11-05/2026-11-05-go-music-dl-multisource-player|Go Music DL：多平台找歌、整理本地音乐，还能让 Agent 控制播放器]]
+- [[2026-11-05/2026-11-05-go-music-dl-multisource-player-en|Go Music DL: Multi-Source Search, Local Music, and an Agent-Controlled Player]]
+
 ## AI 设计七站：代码配方、结构参考与图标素材
 
 - [[2026-11-04/2026-11-04-ai-design-seven-sites-jiro-assets|AI 设计七站清单：Jiro 的代码配方、Minimal Gallery 的结构参考与 3dicons 素材]]
