@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-11-07
+
+| 文章 | 主题 |
+|------|------|
+| [Vork：让 Agent 写场景和着色器，再用 GPU 渲染 3D 镜头](2026-11-07/2026-11-07-vork-agent-3d-vfx.md) | Vork / Agent / 3D 渲染 / Slang / Metal / VFX / Mac 实测 |
+| [Vork: Let Agents Write the Scene and Render the Shot on a GPU](2026-11-07/2026-11-07-vork-agent-3d-vfx-en.md) | headless rendering / programmable shaders / live-action compositing / control passes / benchmark boundaries |
+
+---
+
 ## 📅 2026-11-05
 
 | 文章 | 主题 |

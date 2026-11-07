@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## Vork：Agent 编写场景、GPU 渲染与实拍合成
+
+- [[2026-11-07/2026-11-07-vork-agent-3d-vfx|Vork：让 Agent 写场景和着色器，再用 GPU 渲染 3D 镜头]]
+- [[2026-11-07/2026-11-07-vork-agent-3d-vfx-en|Vork: Let Agents Write the Scene and Render the Shot on a GPU]]
+
 ## AI 翻唱：人声分离、上传证据与素材权限
 
 - [[2026-05-24/2026-05-24-suno-cover-stem-separation-evidence|从 MP3 切割到 AI 翻唱：人声分离能解决什么，Suno 的上传结果又能证明什么？]]
