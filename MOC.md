@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## music-skill：可编辑乐谱、本地演奏与配乐返工
+
+- [[2026-11-12/2026-11-12-music-skill-editable-score|music-skill：让 Agent 写出可以逐音修改的配乐，而不只交一条音频]]
+- [[2026-11-12/2026-11-12-music-skill-editable-score-en|music-skill: An Agent Workflow for Music You Can Edit Note by Note]]
+
 ## Vork：Agent 编写场景、GPU 渲染与实拍合成
 
 - [[2026-11-07/2026-11-07-vork-agent-3d-vfx|Vork：让 Agent 写场景和着色器，再用 GPU 渲染 3D 镜头]]
