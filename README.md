@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-11-14
+
+| 文章 | 主题 |
+|------|------|
+| [GrokFilm 实测：300 条电影技法，怎样变成可验收的镜头提示？](2026-11-14/2026-11-14-grokfilm-technique-index.md) | GrokFilm / 镜头技法 / 运镜 / 移焦 / 示例核查 / Grok Imagine |
+| [GrokFilm: Turning a Cinema Technique Index into Testable Shot Prompts](2026-11-14/2026-11-14-grokfilm-technique-index-en.md) | cinematography / prompt rewriting / example reels / dolly / rack focus / Studio status |
+
+---
+
 ## 📅 2026-11-12
 
 | 文章 | 主题 |

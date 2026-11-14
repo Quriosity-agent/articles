@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## GrokFilm：技法目录、镜头改写与示例核查
+
+- [[2026-11-14/2026-11-14-grokfilm-technique-index|GrokFilm 实测：300 条电影技法，怎样变成可验收的镜头提示？]]
+- [[2026-11-14/2026-11-14-grokfilm-technique-index-en|GrokFilm: Turning a Cinema Technique Index into Testable Shot Prompts]]
+
 ## music-skill：可编辑乐谱、本地演奏与配乐返工
 
 - [[2026-11-12/2026-11-12-music-skill-editable-score|music-skill：让 Agent 写出可以逐音修改的配乐，而不只交一条音频]]
