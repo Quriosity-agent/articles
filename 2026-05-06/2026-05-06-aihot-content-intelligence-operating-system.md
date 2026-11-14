@@ -1,7 +1,7 @@
 # AIHOT 的真正价值：不是 AI 热点网站，而是一套内容创作者的信息操作系统
 
 > 来源：数字生命卡兹克在 X 上公开介绍 AIHOT。原文链接：https://x.com/Khazix0918/status/2052234427233939808?s=20  
-> 产品地址：https://aihot.virxact.com/
+> 产品地址：https://aihot.news/
 
 
 ## 原文配图
