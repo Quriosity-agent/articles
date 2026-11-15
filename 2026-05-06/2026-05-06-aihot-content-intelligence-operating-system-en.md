@@ -1,7 +1,7 @@
 # AIHOT’s Real Value: Not an AI News Site, but an Information Operating System for Creators
 
 > Source: Khazix0918’s public X article introducing AIHOT. Original link: https://x.com/Khazix0918/status/2052234427233939808?s=20  
-> Product: https://aihot.virxact.com/
+> Product: https://aihot.news/
 
 
 ## Original Images
