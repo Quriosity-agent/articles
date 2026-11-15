@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-11-16
+
+| 文章 | 主题 |
+|------|------|
+| [WaveSpeed AI Pose Gallery：从找姿势，到摆好机位再生图](2026-11-16/2026-11-16-wavespeed-ai-pose-gallery.md) | WaveSpeed / 人物姿势 / 三视角 / 3D 摆姿 / 参考图 / 生图交接 |
+| [WaveSpeed AI Pose Gallery: Pick a Pose, Reframe It, Then Generate](2026-11-16/2026-11-16-wavespeed-ai-pose-gallery-en.md) | pose references / mannequin / line art / camera / image handoff |
+
+---
+
 ## 📅 2026-11-14
 
 | 文章 | 主题 |

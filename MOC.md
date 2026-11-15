@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## WaveSpeed AI Pose Gallery：姿势参考、3D 构图与生图交接
+
+- [[2026-11-16/2026-11-16-wavespeed-ai-pose-gallery|WaveSpeed AI Pose Gallery：从找姿势，到摆好机位再生图]]
+- [[2026-11-16/2026-11-16-wavespeed-ai-pose-gallery-en|WaveSpeed AI Pose Gallery: Pick a Pose, Reframe It, Then Generate]]
+
 ## 千峰之龙：程序化 3D 短片、镜头时间轴与离线抽帧
 
 - [[2026-11-14/2026-11-14-thousand-peaks-procedural-film|千峰之龙：一部不用预录视频、由浏览器现场渲染的 3D 短片]]
