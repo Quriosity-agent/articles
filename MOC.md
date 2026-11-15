@@ -15,6 +15,11 @@
 - [[2026-11-07/2026-11-07-vork-agent-3d-vfx|Vork：让 Agent 写场景和着色器，再用 GPU 渲染 3D 镜头]]
 - [[2026-11-07/2026-11-07-vork-agent-3d-vfx-en|Vork: Let Agents Write the Scene and Render the Shot on a GPU]]
 
+## Blender Skills：Agent 制作指南、MCP 与资产验收
+
+- [[2026-11-06/2026-11-06-blender-skills-production-workflows|Blender Skills：94 份 Agent 工作指南，怎样和 Blender MCP 分工？]]
+- [[2026-11-06/2026-11-06-blender-skills-production-workflows-en|Blender Skills: What 94 Agent Playbooks Add to Blender MCP]]
+
 ## AI 翻唱：人声分离、上传证据与素材权限
 
 - [[2026-05-24/2026-05-24-suno-cover-stem-separation-evidence|从 MP3 切割到 AI 翻唱：人声分离能解决什么，Suno 的上传结果又能证明什么？]]

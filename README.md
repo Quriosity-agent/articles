@@ -33,6 +33,15 @@
 
 ---
 
+## 📅 2026-11-06
+
+| 文章 | 主题 |
+|------|------|
+| [Blender Skills：94 份 Agent 工作指南，怎样和 Blender MCP 分工？](2026-11-06/2026-11-06-blender-skills-production-workflows.md) | Blender / Agent Skill / MCP / 参考图 / GLB / Mac 导出回读 |
+| [Blender Skills: What 94 Agent Playbooks Add to Blender MCP](2026-11-06/2026-11-06-blender-skills-production-workflows-en.md) | agent workflows / 3D assets / reference matching / export / QA |
+
+---
+
 ## 📅 2026-11-05
 
 | 文章 | 主题 |
