@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [千峰之龙：一部不用预录视频、由浏览器现场渲染的 3D 短片](2026-11-14/2026-11-14-thousand-peaks-procedural-film.md) | Three.js / 程序化 3D / 镜头时间轴 / 合成配乐 / Mac 实测 |
+| [Dragon of a Thousand Peaks: A 3D Short Film Rendered Live in the Browser](2026-11-14/2026-11-14-thousand-peaks-procedural-film-en.md) | procedural film / single-file HTML / WebGL2 / offline rendering / agent production |
 | [GrokFilm 实测：300 条电影技法，怎样变成可验收的镜头提示？](2026-11-14/2026-11-14-grokfilm-technique-index.md) | GrokFilm / 镜头技法 / 运镜 / 移焦 / 示例核查 / Grok Imagine |
 | [GrokFilm: Turning a Cinema Technique Index into Testable Shot Prompts](2026-11-14/2026-11-14-grokfilm-technique-index-en.md) | cinematography / prompt rewriting / example reels / dolly / rack focus / Studio status |
 

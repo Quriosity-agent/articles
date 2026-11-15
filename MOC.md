@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## 千峰之龙：程序化 3D 短片、镜头时间轴与离线抽帧
+
+- [[2026-11-14/2026-11-14-thousand-peaks-procedural-film|千峰之龙：一部不用预录视频、由浏览器现场渲染的 3D 短片]]
+- [[2026-11-14/2026-11-14-thousand-peaks-procedural-film-en|Dragon of a Thousand Peaks: A 3D Short Film Rendered Live in the Browser]]
+
 ## GrokFilm：技法目录、镜头改写与示例核查
 
 - [[2026-11-14/2026-11-14-grokfilm-technique-index|GrokFilm 实测：300 条电影技法，怎样变成可验收的镜头提示？]]
