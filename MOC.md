@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## Awesome Fable 5.2：试玩、源码复现与提示词来源
+
+- [[2026-11-16/2026-11-16-awesome-fable-52-works-audit|Awesome Fable 5.2：298 条案例，哪些能试玩，哪些能复跑？]]
+- [[2026-11-16/2026-11-16-awesome-fable-52-works-audit-en|Awesome Fable 5.2: Which of 298 Examples Can You Play or Rebuild?]]
+
 ## WaveSpeed AI Pose Gallery：姿势参考、3D 构图与生图交接
 
 - [[2026-11-16/2026-11-16-wavespeed-ai-pose-gallery|WaveSpeed AI Pose Gallery：从找姿势，到摆好机位再生图]]
