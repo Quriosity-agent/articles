@@ -10,6 +10,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Fable Butterfly：六个 Three.js 世界，怎样让观众自由飞又不丢镜头？](2026-11-16/2026-11-16-fable-butterfly-hidden-layers.md) | Hidden Layers / 实时 3D / 程序化渲染 / 滚动叙事 / Agent 导演 / 交互实测 |
+| [Fable Butterfly: Six Three.js Worlds That Let You Steer Without Losing the Shot](2026-11-16/2026-11-16-fable-butterfly-hidden-layers-en.md) | interactive fiction / camera control / procedural worlds / browser verification / prompt provenance |
 | [Awesome Fable 5.2：298 条案例，哪些能试玩，哪些能复跑？](2026-11-16/2026-11-16-awesome-fable-52-works-audit.md) | Claude Fable 5.2 / 案例目录 / 网页游戏 / 赤龍 / 源码复现 / 提示词来源 |
 | [Awesome Fable 5.2: Which of 298 Examples Can You Play or Rebuild?](2026-11-16/2026-11-16-awesome-fable-52-works-audit-en.md) | community catalog / live demos / source audit / procedural film / prompt provenance |
 | [WaveSpeed AI Pose Gallery：从找姿势，到摆好机位再生图](2026-11-16/2026-11-16-wavespeed-ai-pose-gallery.md) | WaveSpeed / 人物姿势 / 三视角 / 3D 摆姿 / 参考图 / 生图交接 |

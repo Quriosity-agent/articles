@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## Fable Butterfly：实时 3D、滚动交互与镜头验收
+
+- [[2026-11-16/2026-11-16-fable-butterfly-hidden-layers|Fable Butterfly：六个 Three.js 世界，怎样让观众自由飞又不丢镜头？]]
+- [[2026-11-16/2026-11-16-fable-butterfly-hidden-layers-en|Fable Butterfly: Six Three.js Worlds That Let You Steer Without Losing the Shot]]
+
 ## Awesome Fable 5.2：试玩、源码复现与提示词来源
 
 - [[2026-11-16/2026-11-16-awesome-fable-52-works-audit|Awesome Fable 5.2：298 条案例，哪些能试玩，哪些能复跑？]]
