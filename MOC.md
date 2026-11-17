@@ -122,6 +122,11 @@
 - [[2026-10-26/2026-10-26-pagekin-local-first-novel-writing-workflow|书童 Pagekin：把小说设定、写稿、审稿与定稿组织成作者确认的工作流]]
 - [[2026-10-26/2026-10-26-pagekin-local-first-novel-writing-workflow-en|Pagekin: An Author-Controlled Workflow for Planning, Drafting, Reviewing, and Finalizing Fiction]]
 
+## Motion2MixamoRig：单人动作恢复、Mixamo 重定向和穿模诊断
+
+- [[2026-10-24/2026-10-24-motion2mixamorig-video-retargeting|Motion2MixamoRig：把单人视频变成 Mixamo 角色能用的动作]]
+- [[2026-10-24/2026-10-24-motion2mixamorig-video-retargeting-en|Motion2MixamoRig: Turning a Single-Person Video into Mixamo Animation]]
+
 ## video2rig：AI 视频到原角色骨骼动画
 
 - [[2026-10-23/2026-10-23-video2rig-ai-video-to-blender-action|video2rig：把自己角色的 AI 视频，拟合回可编辑的 Blender 骨骼动画]]

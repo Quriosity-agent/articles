@@ -163,6 +163,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Motion2MixamoRig：把单人视频变成 Mixamo 角色能用的动作](2026-10-24/2026-10-24-motion2mixamorig-video-retargeting.md) | 单目动捕 / GVHMR / Mixamo / 动作重定向 / GLB / Blender / 穿模诊断 |
+| [Motion2MixamoRig: Turning a Single-Person Video into Mixamo Animation](2026-10-24/2026-10-24-motion2mixamorig-video-retargeting-en.md) | monocular mocap / motion cache / skinning / retargeting / self-intersection / Blender readback |
 | [从电影参考到 AI 运镜：六个网站怎样组成一套镜头学习流程](2026-10-24/2026-10-24-cinematic-reference-to-camera-prompts.md) | AI Video / Cinematography / Shot.Cafe / FilmGrab / Eyecandy / Melies / Camera Prompts / GrokFilm |
 | [From Film References to AI Camera Prompts: A Workflow Across Six Websites](2026-10-24/2026-10-24-cinematic-reference-to-camera-prompts-en.md) | AI video / cinematography / film references / camera prompts / visual techniques / GrokFilm |
 | [InkOS 源码拆解：用正史、上下文和可恢复文件组织 AI 故事创作](2026-10-24/2026-10-24-inkos-stateful-story-creation-harness.md) | InkOS / AI Writing / Agent Harness / Canon Management / Context Engineering / Narrative Forecast / Visual Novel / Source Audit |
