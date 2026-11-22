@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-11-23
+
+| 文章 | 主题 |
+|------|------|
+| [Generalised Superintelligence：科学发现系统，能独立核到哪一步？](2026-11-23/2026-11-23-generalised-superintelligence-verified-discovery.md) | GSI / 科学发现 / 问题结构 / 专用求解器 / 检查器 / 有限计算复现 |
+| [Generalised Superintelligence: What Can We Verify About Its Discovery System?](2026-11-23/2026-11-23-generalised-superintelligence-verified-discovery-en.md) | scientific discovery / solver selection / certificates / reproducibility / benchmark scope |
+
+---
+
 ## 📅 2026-11-16
 
 | 文章 | 主题 |

@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## Generalised Superintelligence：问题结构、科学发现与可复核证据
+
+- [[2026-11-23/2026-11-23-generalised-superintelligence-verified-discovery|Generalised Superintelligence：科学发现系统，能独立核到哪一步？]]
+- [[2026-11-23/2026-11-23-generalised-superintelligence-verified-discovery-en|Generalised Superintelligence: What Can We Verify About Its Discovery System?]]
+
 ## Fable Butterfly：实时 3D、滚动交互与镜头验收
 
 - [[2026-11-16/2026-11-16-fable-butterfly-hidden-layers|Fable Butterfly：六个 Three.js 世界，怎样让观众自由飞又不丢镜头？]]
