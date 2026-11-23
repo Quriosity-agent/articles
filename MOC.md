@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## DirectorDesk：三维预演、结构化编辑与参考视频交付
+
+- [[2026-11-12/2026-11-12-director-desk-previs-agent|DirectorDesk：让 Agent 先排好人物和摄影机，再交给视频模型]]
+- [[2026-11-12/2026-11-12-director-desk-previs-agent-en|DirectorDesk: Let Agents Block the Scene Before the Video Model Renders It]]
+
 ## Generalised Superintelligence：问题结构、科学发现与可复核证据
 
 - [[2026-11-23/2026-11-23-generalised-superintelligence-verified-discovery|Generalised Superintelligence：科学发现系统，能独立核到哪一步？]]

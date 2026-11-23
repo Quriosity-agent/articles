@@ -43,6 +43,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [DirectorDesk：让 Agent 先排好人物和摄影机，再交给视频模型](2026-11-12/2026-11-12-director-desk-previs-agent.md) | 三维预演 / 人物走位 / 摄影机 / MCP / 深度视频 / Mac 实测 |
+| [DirectorDesk: Let Agents Block the Scene Before the Video Model Renders It](2026-11-12/2026-11-12-director-desk-previs-agent-en.md) | 3D previs / structured editing / agent tools / reference footage / depth export / verification |
 | [music-skill：让 Agent 写出可以逐音修改的配乐，而不只交一条音频](2026-11-12/2026-11-12-music-skill-editable-score.md) | Agent Skill / 器乐作曲 / MIDI / 音色库 / 分轨 / 游戏循环 |
 | [music-skill: An Agent Workflow for Music You Can Edit Note by Note](2026-11-12/2026-11-12-music-skill-editable-score-en.md) | editable scores / local rendering / MIDI / incremental revision / game audio / verification |
 
