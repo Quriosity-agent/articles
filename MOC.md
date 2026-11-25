@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## Noroi / Iwai：代码绘画、歌唱合成与帧级音画同步
+
+- [[2026-11-25/2026-11-25-noroi-iwai-code-anime|Noroi / Iwai：不用生图模型，怎样用代码画出一部 114 秒同人动画？]]
+- [[2026-11-25/2026-11-25-noroi-iwai-code-anime-en|Noroi / Iwai: Drawing, Animating and Singing a 114-Second Fan Film in Code]]
+
 ## DirectorDesk：三维预演、结构化编辑与参考视频交付
 
 - [[2026-11-12/2026-11-12-director-desk-previs-agent|DirectorDesk：让 Agent 先排好人物和摄影机，再交给视频模型]]

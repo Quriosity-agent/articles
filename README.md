@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-11-25
+
+| 文章 | 主题 |
+|------|------|
+| [Noroi / Iwai：不用生图模型，怎样用代码画出一部 114 秒同人动画？](2026-11-25/2026-11-25-noroi-iwai-code-anime.md) | 编程动画 / Python 绘画 / 三维骨架 / 冲击帧 / JavaScript 歌唱 / 音画同步 / 局部复现 |
+| [Noroi / Iwai: Drawing, Animating and Singing a 114-Second Fan Film in Code](2026-11-25/2026-11-25-noroi-iwai-code-anime-en.md) | procedural animation / cel rendering / vocal synthesis / frame events / reproducibility / source permissions |
+
+---
+
 ## 📅 2026-11-23
 
 | 文章 | 主题 |
