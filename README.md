@@ -15,6 +15,15 @@
 
 ---
 
+## 📅 2026-11-24
+
+| 文章 | 主题 |
+|------|------|
+| [Telos-Live-1：对话不停，后台怎样把事情做完？](2026-11-24/2026-11-24-telos-live-1-duplex-collaboration.md) | 全双工 / 微轮次 / 异步工具 / 多人会议 / 评测口径 / 任务撤回 |
+| [Telos-Live-1: What Happens When the Agent Works While You Keep Talking?](2026-11-24/2026-11-24-telos-live-1-duplex-collaboration-en.md) | full duplex / micro-turns / background delegation / benchmark scope / stale results |
+
+---
+
 ## 📅 2026-11-23
 
 | 文章 | 主题 |
