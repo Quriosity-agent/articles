@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-11-26
+
+| 文章 | 主题 |
+|------|------|
+| [Cocoon：Blender 先算光，浏览器再给八万根丝线打光](2026-11-26/2026-11-26-cocoon-neural-prt-webgpu.md) | Codevember / Blender Cycles / 神经预计算辐射传输 / WebGPU / 丝线几何 / 浏览器实测 |
+| [Cocoon: Blender Traces the Light, WebGPU Shades 87,260 Fibres](2026-11-26/2026-11-26-cocoon-neural-prt-webgpu-en.md) | neural PRT / Cycles / raw WebGPU / fibre shading / live relighting / frame budgets |
+
+---
+
 ## 📅 2026-11-25
 
 | 文章 | 主题 |

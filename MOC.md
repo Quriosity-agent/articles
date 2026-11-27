@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## Cocoon：神经光传输、丝线几何与 WebGPU 实时渲染
+
+- [[2026-11-26/2026-11-26-cocoon-neural-prt-webgpu|Cocoon：Blender 先算光，浏览器再给八万根丝线打光]]
+- [[2026-11-26/2026-11-26-cocoon-neural-prt-webgpu-en|Cocoon: Blender Traces the Light, WebGPU Shades 87,260 Fibres]]
+
 ## Noroi / Iwai：代码绘画、歌唱合成与帧级音画同步
 
 - [[2026-11-25/2026-11-25-noroi-iwai-code-anime|Noroi / Iwai：不用生图模型，怎样用代码画出一部 114 秒同人动画？]]
