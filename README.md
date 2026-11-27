@@ -6,6 +6,15 @@
 
 ---
 
+## 📅 2026-11-27
+
+| 文章 | 主题 |
+|------|------|
+| [Sprite Turntable：拖动角色转一圈，为什么侧面是第 19 帧？](2026-11-27/2026-11-27-sprite-turntable.md) | 角色转台 / 多视角生成 / SAM 2.1 / 透明素材 / 离线实测 |
+| [Sprite Turntable: Why the Side View Is Frame 19](2026-11-27/2026-11-27-sprite-turntable-en.md) | multi-view sprites / orbit generation / alpha matting / Canvas / offline test |
+
+---
+
 ## 📅 2026-11-26
 
 | 文章 | 主题 |

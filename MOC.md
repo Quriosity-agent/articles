@@ -1,5 +1,10 @@
 # 📚 文章导航 (Map of Content)
 
+## Sprite Turntable：角色环绕与透明帧校准
+
+- [[2026-11-27/2026-11-27-sprite-turntable|Sprite Turntable：拖动角色转一圈，为什么侧面是第 19 帧？]]
+- [[2026-11-27/2026-11-27-sprite-turntable-en|Sprite Turntable: Why the Side View Is Frame 19]]
+
 ## Cocoon：神经光传输、丝线几何与 WebGPU 实时渲染
 
 - [[2026-11-26/2026-11-26-cocoon-neural-prt-webgpu|Cocoon：Blender 先算光，浏览器再给八万根丝线打光]]
