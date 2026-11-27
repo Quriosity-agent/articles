@@ -10,6 +10,11 @@
 - [[2026-11-25/2026-11-25-noroi-iwai-code-anime|Noroi / Iwai：不用生图模型，怎样用代码画出一部 114 秒同人动画？]]
 - [[2026-11-25/2026-11-25-noroi-iwai-code-anime-en|Noroi / Iwai: Drawing, Animating and Singing a 114-Second Fan Film in Code]]
 
+## Humanity’s First Exam：基础能力与题族可靠性
+
+- [[2026-11-24/2026-11-24-humanitys-first-exam|Humanity’s First Exam：为什么一道简单题，六次答对五次也只得三分之一？]]
+- [[2026-11-24/2026-11-24-humanitys-first-exam-en|Humanity’s First Exam: Why Five Correct Answers out of Six Can Score One Third]]
+
 ## Telos-Live-1：全双工交互、后台委派与任务撤回
 
 - [[2026-11-24/2026-11-24-telos-live-1-duplex-collaboration|Telos-Live-1：对话不停，后台怎样把事情做完？]]

@@ -28,6 +28,8 @@
 
 | 文章 | 主题 |
 |------|------|
+| [Humanity’s First Exam：为什么一道简单题，六次答对五次也只得三分之一？](2026-11-24/2026-11-24-humanitys-first-exam.md) | HFE / 题族可靠性 / 视觉识别 / Kaggle 榜单 |
+| [Humanity’s First Exam: Why Five Correct Answers out of Six Can Score One Third](2026-11-24/2026-11-24-humanitys-first-exam-en.md) | HFE / family reliability / visual perception / Kaggle leaderboard |
 | [Telos-Live-1：对话不停，后台怎样把事情做完？](2026-11-24/2026-11-24-telos-live-1-duplex-collaboration.md) | 全双工 / 微轮次 / 异步工具 / 多人会议 / 评测口径 / 任务撤回 |
 | [Telos-Live-1: What Happens When the Agent Works While You Keep Talking?](2026-11-24/2026-11-24-telos-live-1-duplex-collaboration-en.md) | full duplex / micro-turns / background delegation / benchmark scope / stale results |
 
